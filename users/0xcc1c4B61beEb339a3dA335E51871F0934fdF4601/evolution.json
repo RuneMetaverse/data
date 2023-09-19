@@ -1,0 +1,919 @@
+{
+  "servers": {
+    "asia1": {
+      "winStreak": 0,
+      "kills": 0,
+      "deaths": 0,
+      "powerups": 0,
+      "evolves": 0,
+      "points": 0,
+      "rewards": 0,
+      "orbs": 0,
+      "revenges": 0,
+      "wins": 0,
+      "rounds": 0,
+      "winRatio": 0,
+      "killDeathRatio": 0,
+      "roundPointRatio": 0,
+      "averageLatency": 0,
+      "timeSpent": 0,
+      "hashHistory": {},
+      "hashHistory2": {
+        "BSeoeBCR0": 2,
+        "N2JapQ8i4": 3,
+        "eP+rMlo+g": 3,
+        "frPaVN8+0": 3,
+        "hP8lT8M6k": 3,
+        "kdeVPfSeo": 3,
+        "mklpaqvw8": 2,
+        "pmvmGtVmY": 3,
+        "C/kGVBj8Q": 2,
+        "SSH7JvmJY": 3,
+        "+/2T32GyY": 1,
+        "eHu9A07nM": 3,
+        "RLqQG6tZE": 3,
+        "/zjyh/80E": 3,
+        "TyDl9NeHc": 1,
+        "63BSV915g": 1,
+        "sSrb6pZZ4": 1,
+        "H4E72XccE": 1,
+        "l+6wk/Nk4": 0,
+        "bvrcdgU6k": 2,
+        "UjsF5Iftk": 1,
+        "pBxoHI3Uk": 1,
+        "fvAINc7hs": 2,
+        "oVjnohMJs": 1,
+        "wzY3dNS3c": 1,
+        "whbm3g8FU": 1,
+        "mpNWbawDo": 1
+      },
+      "ranking": {
+        "kills": {
+          "position": 0,
+          "total": 67
+        },
+        "deaths": {
+          "position": 0,
+          "total": 69
+        },
+        "powerups": {
+          "position": 0,
+          "total": 69
+        },
+        "evolves": {
+          "position": 0,
+          "total": 69
+        },
+        "points": {
+          "position": 0,
+          "total": 69
+        },
+        "rewards": {
+          "position": 0,
+          "total": 67
+        },
+        "orbs": {
+          "position": 0,
+          "total": 61
+        },
+        "revenges": {
+          "position": 0,
+          "total": 58
+        },
+        "rounds": {
+          "position": 0,
+          "total": 69
+        },
+        "wins": {
+          "position": 0,
+          "total": 29
+        },
+        "timeSpent": {
+          "position": 0,
+          "total": 69
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 27
+        },
+        "killDeathRatio": {
+          "position": 0,
+          "total": 67
+        },
+        "roundPointRatio": {
+          "position": 0,
+          "total": 63
+        },
+        "averageLatency": {
+          "position": 0,
+          "total": 63
+        }
+      }
+    },
+    "asia2": {
+      "winStreak": 0,
+      "kills": 0,
+      "deaths": 0,
+      "powerups": 0,
+      "evolves": 0,
+      "points": 0,
+      "rewards": 0,
+      "orbs": 0,
+      "revenges": 0,
+      "wins": 0,
+      "rounds": 0,
+      "winRatio": 0,
+      "killDeathRatio": 0,
+      "roundPointRatio": 0,
+      "averageLatency": 0,
+      "timeSpent": 0,
+      "hashHistory": {},
+      "hashHistory2": {
+        "D2T4sv+Ic": 4,
+        "BSeoeBCR0": 2,
+        "yODUvgeGw": 3,
+        "g7OxAyPMc": 2,
+        "vj5xel/Uw": 2,
+        "72BSeY0YE": 2,
+        "HhwCVp2hM": 2,
+        "sh8MIXbbM": 2,
+        "+ckJedTH8": 4,
+        "K/xb5IbP8": 9,
+        "N65SMT5tg": 2,
+        "1IZ2vpdaA": 2,
+        "S4of+LqiU": 2,
+        "1dTfJFIOI": 6,
+        "IIR92jBfU": 2,
+        "Pcu02w1C4": 2,
+        "ECr10HEhI": 2,
+        "2FS+e07nY": 2,
+        "8j+jjGwUQ": 2,
+        "G3dPbwv8M": 2,
+        "p3m4xZP2g": 2,
+        "bXEzWkhYQ": 1,
+        "sVuHmlO6g": 0,
+        "qO4kgox+0": 1,
+        "AQm+CTyKo": 1,
+        "q3euIkErs": 1,
+        "EGaWjODP4": 1,
+        "C8UECDmLM": 1,
+        "WnDOywdPU": 1,
+        "cG9lXJo1I": 1,
+        "SZC2HHRZA": 1,
+        "WOCRUCEvI": 1,
+        "2FdXWFv5Q": 1,
+        "ahzAC0kUU": 1,
+        "+mlDX4zos": 1,
+        "XVsco6RIk": 1,
+        "xJ7GjY7QU": 1,
+        "DbQGHB94s": 1,
+        "2BryEIJHo": 1,
+        "C8U0Z9w6o": 1,
+        "VRSiX8jXo": 1,
+        "1wru12Q7M": 1,
+        "r1Eu7aj+U": 1,
+        "9N647ZT1M": 1,
+        "UTJO5y7TA": 1,
+        "cngx+nops": 1,
+        "9dEhGghrI": 1,
+        "NWO5FilK4": 0
+      },
+      "ranking": {
+        "kills": {
+          "position": 0,
+          "total": 1567
+        },
+        "deaths": {
+          "position": 0,
+          "total": 1675
+        },
+        "powerups": {
+          "position": 0,
+          "total": 1687
+        },
+        "evolves": {
+          "position": 0,
+          "total": 1682
+        },
+        "points": {
+          "position": 0,
+          "total": 1686
+        },
+        "rewards": {
+          "position": 0,
+          "total": 1424
+        },
+        "orbs": {
+          "position": 0,
+          "total": 1011
+        },
+        "revenges": {
+          "position": 0,
+          "total": 971
+        },
+        "rounds": {
+          "position": 0,
+          "total": 1687
+        },
+        "wins": {
+          "position": 0,
+          "total": 311
+        },
+        "timeSpent": {
+          "position": 0,
+          "total": 1687
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 309
+        },
+        "killDeathRatio": {
+          "position": 0,
+          "total": 1567
+        },
+        "roundPointRatio": {
+          "position": 0,
+          "total": 1171
+        },
+        "averageLatency": {
+          "position": 0,
+          "total": 1170
+        }
+      }
+    },
+    "europe2": {
+      "winStreak": 0,
+      "kills": 0,
+      "deaths": 0,
+      "powerups": 0,
+      "evolves": 0,
+      "points": 0,
+      "rewards": 0,
+      "orbs": 0,
+      "revenges": 0,
+      "wins": 0,
+      "rounds": 0,
+      "winRatio": 0,
+      "killDeathRatio": 0,
+      "roundPointRatio": 0,
+      "averageLatency": 0,
+      "timeSpent": 0,
+      "hashHistory": {},
+      "hashHistory2": {
+        "rr3+O/q+8": 1,
+        "Jl2j4ZykI": 1,
+        "85bImXw9g": 1,
+        "lBEFnBYPQ": 1,
+        "OBT4t4BxA": 1,
+        "l88Ji5Bt4": 1,
+        "2wjc5U82M": 1,
+        "AfsEM9Des": 1,
+        "NWO5FilK4": 0,
+        "vYocLMXbg": 1
+      },
+      "ranking": {
+        "kills": {
+          "position": 0,
+          "total": 2418
+        },
+        "deaths": {
+          "position": 0,
+          "total": 2608
+        },
+        "powerups": {
+          "position": 0,
+          "total": 2643
+        },
+        "evolves": {
+          "position": 0,
+          "total": 2639
+        },
+        "points": {
+          "position": 0,
+          "total": 2638
+        },
+        "rewards": {
+          "position": 0,
+          "total": 2251
+        },
+        "orbs": {
+          "position": 0,
+          "total": 1389
+        },
+        "revenges": {
+          "position": 0,
+          "total": 1277
+        },
+        "rounds": {
+          "position": 0,
+          "total": 2643
+        },
+        "wins": {
+          "position": 0,
+          "total": 509
+        },
+        "timeSpent": {
+          "position": 0,
+          "total": 2643
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 499
+        },
+        "killDeathRatio": {
+          "position": 0,
+          "total": 2418
+        },
+        "roundPointRatio": {
+          "position": 0,
+          "total": 1536
+        },
+        "averageLatency": {
+          "position": 0,
+          "total": 1441
+        }
+      }
+    },
+    "na1": {
+      "winStreak": 0,
+      "kills": 0,
+      "deaths": 0,
+      "powerups": 0,
+      "evolves": 0,
+      "points": 0,
+      "rewards": 0,
+      "orbs": 0,
+      "revenges": 0,
+      "wins": 0,
+      "rounds": 0,
+      "winRatio": 0,
+      "killDeathRatio": 0,
+      "roundPointRatio": 0,
+      "averageLatency": 0,
+      "timeSpent": 0,
+      "hashHistory": {},
+      "hashHistory2": {
+        "+jg8vQ3Y4": 2,
+        "9vN/9RhkY": 2,
+        "DdKaAAn/E": 2,
+        "gl3U6UUXA": 2,
+        "NMs8j/M+I": 3,
+        "cDkVnymyM": 2,
+        "9vbYENC6I": 1,
+        "+wBqpjuug": 1,
+        "l+6wk/Nk4": 0,
+        "EA6hG/qz8": 2,
+        "zukynC/ko": 1,
+        "J0qHwtUGM": 1,
+        "gdgIexnyA": 1,
+        "KjpnyWbW0": 2,
+        "/i3L9oetk": 3,
+        "yi9Y5ZSCA": 3,
+        "vuVtDJHHM": 3,
+        "CbjIEsJ2o": 2,
+        "Nn+Hj4h18": 3,
+        "qOKeQi0is": 2,
+        "4G0qUlbpI": 2,
+        "HDYxuzK7o": 4,
+        "BsBwqTGMw": 2,
+        "SMPsQlHWc": 3,
+        "FFByX5iI4": 5,
+        "UIII910kE": 2,
+        "sOIunC6M8": 1,
+        "5jU33snNY": 1,
+        "caKuZXKX0": 1,
+        "IeU67dnX8": 0,
+        "1+VEZzGOY": 2,
+        "qwcA55woc": 2,
+        "NoaP+L5UA": 1,
+        "h5brhSxIQ": 1,
+        "GgE6jnWY0": 2,
+        "vHffNo15g": 1,
+        "VJ84wr95U": 1,
+        "P2GH6cO14": 1,
+        "AMjPtHkp0": 1,
+        "TdOgR3vjI": 1,
+        "4nO33ooFA": 1,
+        "M3nnPAuos": 1,
+        "x/byNvhVU": 1,
+        "sV0uQ073Q": 1,
+        "FZny9wzzY": 1,
+        "uOSActTL4": 1,
+        "EVff5wPfo": 1,
+        "qVZUhzOxM": 1,
+        "1XVvF8q7g": 1,
+        "LFOq1Pk/Y": 1,
+        "yCdG/n2uU": 1,
+        "NWO5FilK4": 0,
+        "PfoswMBpM": 1,
+        "fgVTklA4Y": 2,
+        "3Bov9gvGs": 1,
+        "dk5iVAy58": 1,
+        "+2ujlXoZ0": 1,
+        "5Dg+H2nx0": 1,
+        "DYi7IrqE0": 1,
+        "ObG1CrWtQ": 1,
+        "32yn7M1WA": 1,
+        "Dm3PQ4Sjc": 1,
+        "US1pueUlY": 1,
+        "YhMG6lFNA": 1,
+        "t0vT9qO7g": 1,
+        "WKMaewIBw": 1,
+        "upiATMORM": 1,
+        "PR0Z5HBYE": 1,
+        "/ev8gKjXc": 1,
+        "PpueMJ13U": 1,
+        "wHyE3g1z0": 1,
+        "hyBHs2SXY": 1,
+        "RzOOP57UU": 1,
+        "rr3+O/q+8": 1,
+        "QUrZH6+bI": 1,
+        "qjVTtIgto": 1,
+        "oU3HBLv6s": 1,
+        "k7DU7NAzA": 1,
+        "zAGDLlHuk": 1,
+        "/WD3WrUek": 1,
+        "nkmKuli3A": 1,
+        "BAKJ2DirA": 1,
+        "VerC81H4s": 1
+      },
+      "ranking": {
+        "kills": {
+          "position": 0,
+          "total": 2771
+        },
+        "deaths": {
+          "position": 0,
+          "total": 2951
+        },
+        "powerups": {
+          "position": 0,
+          "total": 2999
+        },
+        "evolves": {
+          "position": 0,
+          "total": 2995
+        },
+        "points": {
+          "position": 0,
+          "total": 2996
+        },
+        "rewards": {
+          "position": 0,
+          "total": 2502
+        },
+        "orbs": {
+          "position": 0,
+          "total": 1706
+        },
+        "revenges": {
+          "position": 0,
+          "total": 1616
+        },
+        "rounds": {
+          "position": 0,
+          "total": 2999
+        },
+        "wins": {
+          "position": 0,
+          "total": 548
+        },
+        "timeSpent": {
+          "position": 0,
+          "total": 2999
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 533
+        },
+        "killDeathRatio": {
+          "position": 0,
+          "total": 2771
+        },
+        "roundPointRatio": {
+          "position": 0,
+          "total": 1853
+        },
+        "averageLatency": {
+          "position": 0,
+          "total": 1853
+        }
+      }
+    },
+    "sa1": {
+      "winStreak": 0,
+      "kills": 1,
+      "deaths": 8,
+      "powerups": 111,
+      "evolves": 17,
+      "points": 33,
+      "rewards": 4,
+      "orbs": 0,
+      "revenges": 0,
+      "wins": 0,
+      "rounds": 1,
+      "winRatio": 0,
+      "killDeathRatio": 1,
+      "roundPointRatio": 0,
+      "averageLatency": 0,
+      "timeSpent": 0.1,
+      "hashHistory": {
+        "orKrSK2nU": 1,
+        "JclglZZmE": 1
+      },
+      "hashHistory2": {
+        "wHyE3g1z0": 5,
+        "LLNaoSxm8": 5,
+        "HjuKspWnU": 3,
+        "orKrSK2nU": 3,
+        "sVuHmlO6g": 0,
+        "DJYHhzdI4": 1,
+        "JclglZZmE": 2,
+        "3G3i0lp5A": 1,
+        "fCMLeS8ak": 1,
+        "2maKb+lDI": 1,
+        "CFam2w5no": 1,
+        "xg26egzp0": 1,
+        "Kr/cpdmNI": 1,
+        "4P4ffB1zk": 1,
+        "ndaaU7vX4": 1,
+        "9hGHAXUGs": 1,
+        "NWO5FilK4": 0,
+        "gOk23NY1c": 1,
+        "4+VHEZ03E": 1,
+        "liFVWLw3c": 1
+      },
+      "ranking": {
+        "kills": {
+          "position": 2405,
+          "total": 2546
+        },
+        "deaths": {
+          "position": 2316,
+          "total": 2702
+        },
+        "powerups": {
+          "position": 2686,
+          "total": 2733
+        },
+        "evolves": {
+          "position": 2484,
+          "total": 2726
+        },
+        "points": {
+          "position": 2700,
+          "total": 2729
+        },
+        "rewards": {
+          "position": 1502,
+          "total": 2204
+        },
+        "orbs": {
+          "position": 0,
+          "total": 1457
+        },
+        "revenges": {
+          "position": 0,
+          "total": 1369
+        },
+        "rounds": {
+          "position": 2358,
+          "total": 2733
+        },
+        "wins": {
+          "position": 0,
+          "total": 412
+        },
+        "timeSpent": {
+          "position": 2358,
+          "total": 2733
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 406
+        },
+        "killDeathRatio": {
+          "position": 1170,
+          "total": 2546
+        },
+        "roundPointRatio": {
+          "position": 0,
+          "total": 1697
+        },
+        "averageLatency": {
+          "position": 0,
+          "total": 1696
+        }
+      }
+    },
+    "asia3": {
+      "winStreak": 0,
+      "kills": 0,
+      "deaths": 0,
+      "powerups": 0,
+      "evolves": 0,
+      "points": 0,
+      "rewards": 0,
+      "orbs": 0,
+      "revenges": 0,
+      "wins": 0,
+      "rounds": 0,
+      "winRatio": 0,
+      "killDeathRatio": 0,
+      "roundPointRatio": 0,
+      "averageLatency": 0,
+      "timeSpent": 0,
+      "hashHistory": {},
+      "hashHistory2": {
+        "AXSqsaP+E": 2,
+        "+YGXcNpUI": 2,
+        "40WzFj+WI": 2,
+        "lZwl7LUG8": 2,
+        "tupmSJUVc": 2,
+        "uVYOAitJ4": 2,
+        "7LyTIijIA": 1,
+        "n3On/67eE": 2,
+        "IFulIareI": 2,
+        "/1bUf/kpQ": 2,
+        "6zpRBdRTY": 2,
+        "bSJt46/9E": 1,
+        "w0QwSKnBc": 2,
+        "e+eHZTX98": 2,
+        "tHwL0E+gQ": 2,
+        "Fxh2VinPw": 2,
+        "74FrBRNQY": 2,
+        "XuIDEeNkw": 2,
+        "SpkuywyIk": 2,
+        "lovKwBo0E": 2,
+        "IpMxJPcvw": 1,
+        "IhtQc1Pa8": 1,
+        "/g+fMKvyI": 1,
+        "U5PKjpC6I": 0,
+        "L+EbgY8kk": 1,
+        "h/OUYu6hQ": 1,
+        "Qz5VECmRE": 1,
+        "jY3X3uYNY": 1,
+        "avEoV8e7I": 1,
+        "WKP4w61wk": 1
+      },
+      "ranking": {
+        "kills": {
+          "position": 0,
+          "total": 902
+        },
+        "deaths": {
+          "position": 0,
+          "total": 993
+        },
+        "powerups": {
+          "position": 0,
+          "total": 1006
+        },
+        "evolves": {
+          "position": 0,
+          "total": 1003
+        },
+        "points": {
+          "position": 0,
+          "total": 1006
+        },
+        "rewards": {
+          "position": 0,
+          "total": 839
+        },
+        "orbs": {
+          "position": 0,
+          "total": 507
+        },
+        "revenges": {
+          "position": 0,
+          "total": 510
+        },
+        "rounds": {
+          "position": 0,
+          "total": 1006
+        },
+        "wins": {
+          "position": 0,
+          "total": 203
+        },
+        "timeSpent": {
+          "position": 0,
+          "total": 1006
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 201
+        },
+        "killDeathRatio": {
+          "position": 0,
+          "total": 902
+        },
+        "roundPointRatio": {
+          "position": 0,
+          "total": 582
+        },
+        "averageLatency": {
+          "position": 0,
+          "total": 582
+        }
+      }
+    },
+    "asia4": {
+      "winStreak": 0,
+      "kills": 0,
+      "deaths": 0,
+      "powerups": 0,
+      "evolves": 0,
+      "points": 0,
+      "rewards": 0,
+      "orbs": 0,
+      "revenges": 0,
+      "wins": 0,
+      "rounds": 0,
+      "winRatio": 0,
+      "killDeathRatio": 0,
+      "roundPointRatio": 0,
+      "averageLatency": 0,
+      "timeSpent": 0,
+      "hashHistory": {},
+      "hashHistory2": {
+        "RJXG73kf0": 1,
+        "XObRi/NS4": 1,
+        "+YGXcNpUI": 1,
+        "6AHblwBgI": 1,
+        "cWM5YZWRw": 1,
+        "SS8nI0aMM": 1,
+        "hERp1dTns": 1,
+        "Ug1K/ntsw": 1,
+        "yLbbgumCA": 1,
+        "k2WBj9ZjY": 1,
+        "78jc+WTH4": 1,
+        "2chxh51ns": 1,
+        "GEBx7yOcI": 1,
+        "5CeV5vyq8": 1,
+        "eP1zegDRs": 1,
+        "Z7QPfBwQw": 1,
+        "MHVh722MQ": 1,
+        "7PmXQWwV4": 1,
+        "3Z9iDwEfU": 1,
+        "8++sKtbIc": 1,
+        "k6Ypsg9sg": 1,
+        "pRMv0ARsU": 1,
+        "qzre5SZZs": 1,
+        "U5PKjpC6I": 0,
+        "6O+lkKRlY": 1
+      },
+      "ranking": {
+        "kills": {
+          "position": 0,
+          "total": 1064
+        },
+        "deaths": {
+          "position": 0,
+          "total": 1183
+        },
+        "powerups": {
+          "position": 0,
+          "total": 1197
+        },
+        "evolves": {
+          "position": 0,
+          "total": 1192
+        },
+        "points": {
+          "position": 0,
+          "total": 1196
+        },
+        "rewards": {
+          "position": 0,
+          "total": 1009
+        },
+        "orbs": {
+          "position": 0,
+          "total": 622
+        },
+        "revenges": {
+          "position": 0,
+          "total": 601
+        },
+        "rounds": {
+          "position": 0,
+          "total": 1197
+        },
+        "wins": {
+          "position": 0,
+          "total": 226
+        },
+        "timeSpent": {
+          "position": 0,
+          "total": 1197
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 220
+        },
+        "killDeathRatio": {
+          "position": 0,
+          "total": 1064
+        },
+        "roundPointRatio": {
+          "position": 0,
+          "total": 690
+        },
+        "averageLatency": {
+          "position": 0,
+          "total": 690
+        }
+      }
+    }
+  },
+  "overall": {
+    "winStreak": 0,
+    "kills": 1,
+    "deaths": 8,
+    "powerups": 111,
+    "evolves": 17,
+    "points": 33,
+    "rewards": 4,
+    "orbs": 0,
+    "revenges": 0,
+    "rounds": 1,
+    "wins": 0,
+    "timeSpent": 0.1,
+    "winRatio": 0,
+    "killDeathRatio": 1,
+    "roundPointRatio": 0,
+    "averageLatency": 0,
+    "ranking": {
+      "kills": {
+        "position": 10584,
+        "total": 10828
+      },
+      "deaths": {
+        "position": 10375,
+        "total": 11144
+      },
+      "powerups": {
+        "position": 11168,
+        "total": 11254
+      },
+      "evolves": {
+        "position": 10805,
+        "total": 11233
+      },
+      "points": {
+        "position": 11195,
+        "total": 11245
+      },
+      "rewards": {
+        "position": 9014,
+        "total": 10417
+      },
+      "orbs": {
+        "position": 0,
+        "total": 8159
+      },
+      "revenges": {
+        "position": 0,
+        "total": 7904
+      },
+      "rounds": {
+        "position": 10680,
+        "total": 11254
+      },
+      "wins": {
+        "position": 0,
+        "total": 3178
+      },
+      "timeSpent": {
+        "position": 10680,
+        "total": 11254
+      },
+      "winRatio": {
+        "position": 0,
+        "total": 3147
+      },
+      "killDeathRatio": {
+        "position": 3874,
+        "total": 10828
+      },
+      "roundPointRatio": {
+        "position": 0,
+        "total": 9308
+      },
+      "averageLatency": {
+        "position": 0,
+        "total": 8893
+      }
+    }
+  },
+  "lastUpdated": 1632777576011,
+  "hashes": [
+    "NWO5FilK4",
+    "l+6wk/Nk4",
+    "IeU67dnX8",
+    "sVuHmlO6g",
+    "U5PKjpC6I"
+  ]
+}

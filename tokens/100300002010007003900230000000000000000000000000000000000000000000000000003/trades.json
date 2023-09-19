@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1221,
+    "seller": "0xEc407481A642FAC0c1e6774Cc50cFb24d9C35E45",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100300002010007003900230000000000000000000000000000000000000000000000000003",
+    "price": 88888,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1660372548513,
+    "updatedAt": 1660372548513,
+    "blockNumber": 20398210,
+    "item": {
+      "id": 2,
+      "name": "Fury"
+    }
+  },
+  {
+    "id": 1221,
+    "seller": "0xEc407481A642FAC0c1e6774Cc50cFb24d9C35E45",
+    "buyer": "0xFF234b43d68a9aC4D608C1D21EBC6fa6dea8a2e4",
+    "tokenId": "100300002010007003900230000000000000000000000000000000000000000000000000003",
+    "price": 88888,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1660372548513,
+    "updatedAt": 1662399736650,
+    "blockNumber": 21072766,
+    "item": {
+      "id": 2,
+      "name": "Fury"
+    }
+  }
+]

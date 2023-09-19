@@ -1,0 +1,311 @@
+{
+  "description": [
+    "Captured during the last breath of a dragon, this brilliant stone is imbued with energy that protects the owner, and is said to bring great furtune."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000291320400062001002200802020130142007010000000000000000000000607",
+  "catalog_url": "https://rune.game/catalog/29",
+  "image": "https://rune.game/images/items/00029.png",
+  "language": "en-US",
+  "tokenId": "1003000291320400062001002200802020130142007010000000000000000000000607",
+  "details": {
+    "Type": "Amulet",
+    "Subtype": "Royal Archon Amulet",
+    "Distribution": "Airdrop",
+    "Date": "September 12, 2021",
+    "Max Supply": "1000"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 40,
+          "min": 3,
+          "max": 6,
+          "description": "Rarity: {value}",
+          "map": {
+            "1": "Legendary",
+            "2": "Unique",
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical",
+            "7": "Normal",
+            "8": "Set",
+            "9": "Quest",
+            "10": "Trash"
+          },
+          "variant": 2,
+          "attributeId": 40,
+          "value": 6
+        },
+        {
+          "id": 1,
+          "min": 2,
+          "max": 5,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 2
+        },
+        {
+          "id": 8,
+          "min": 20,
+          "max": 50,
+          "description": "{value}% Reduced Harvest Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 20
+        },
+        {
+          "id": 13,
+          "min": 14,
+          "max": 20,
+          "description": "{value}% Magic Find",
+          "variant": 2,
+          "attributeId": 13,
+          "value": 14
+        },
+        {
+          "id": 7,
+          "min": 10,
+          "max": 10,
+          "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+          "value": 10,
+          "variant": 2,
+          "attributeId": 7
+        }
+      ],
+      "perfection": [
+        null,
+        5,
+        50,
+        20,
+        null
+      ],
+      "presents": {
+        "2": [
+          null,
+          5,
+          50,
+          20
+        ],
+        "3": [
+          null,
+          5,
+          50,
+          20
+        ],
+        "4": [
+          null,
+          4,
+          48,
+          19
+        ],
+        "5": [
+          null,
+          4,
+          41,
+          18
+        ],
+        "6": [
+          null,
+          2,
+          26,
+          15
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "2-20-14",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 40,
+      "value": 6
+    },
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 20
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 14
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 10
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 607
+    }
+  ],
+  "attributes": [
+    {
+      "id": 40,
+      "min": 3,
+      "max": 6,
+      "description": "Rarity: {value}",
+      "map": {
+        "1": "Legendary",
+        "2": "Unique",
+        "3": "Mythic",
+        "4": "Epic",
+        "5": "Rare",
+        "6": "Magical",
+        "7": "Normal",
+        "8": "Set",
+        "9": "Quest",
+        "10": "Trash"
+      },
+      "variant": 2,
+      "attributeId": 40,
+      "value": "Magical",
+      "trait_type": "Rarity"
+    },
+    {
+      "id": 1,
+      "min": 2,
+      "max": 5,
+      "description": "{value}% Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 2,
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 8,
+      "min": 20,
+      "max": 50,
+      "description": "{value}% Reduced Harvest Fees",
+      "variant": 2,
+      "attributeId": 8,
+      "value": 20,
+      "trait_type": "Reduced Harvest Fees"
+    },
+    {
+      "id": 13,
+      "min": 14,
+      "max": 20,
+      "description": "{value}% Magic Find",
+      "variant": 2,
+      "attributeId": 13,
+      "value": 14,
+      "trait_type": "Magic Find"
+    },
+    {
+      "id": 7,
+      "min": 10,
+      "max": 10,
+      "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+      "value": 10,
+      "variant": 2,
+      "attributeId": 7,
+      "trait_type": "Chance To Find Worldstone Shard (Per Raid)"
+    }
+  ],
+  "perfection": 1,
+  "slots": [
+    "Neck"
+  ],
+  "meta": {
+    "harvestYield": 2,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "feeReduction": 20,
+    "worldstoneShardChance": 10,
+    "odds": 868
+  },
+  "id": 29,
+  "name": "Dragonlight",
+  "icon": "https://rune.game/images/items/00029.png",
+  "type": "Amulet",
+  "isNew": true,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "version": 3,
+  "shortTokenId": "10030002913204000620010...607",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

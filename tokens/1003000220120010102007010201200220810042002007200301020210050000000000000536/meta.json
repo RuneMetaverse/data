@@ -1,0 +1,452 @@
+{
+  "description": [
+    "A keen blade crafted in Templar forges, this weapon is imbued with magics which benefit the allies of the wielder."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000220120010102007010201200220810042002007200301020210050000000000000536",
+  "catalog_url": "https://rune.game/catalog/22",
+  "image": "https://rune.game/images/items/00022.png",
+  "language": "en-US",
+  "tokenId": "1003000220120010102007010201200220810042002007200301020210050000000000000536",
+  "details": {
+    "Type": "Sword",
+    "Subtype": "Templar Broadsword",
+    "Distribution": "Crafted",
+    "Date": "August 27, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "min": 3,
+          "max": 12,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 10
+        },
+        {
+          "id": 7,
+          "min": 10,
+          "max": 10,
+          "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+          "value": 10,
+          "variant": 2,
+          "attributeId": 7
+        },
+        {
+          "id": 12,
+          "min": 1,
+          "max": 4,
+          "description": "{value}% Guild Token (Not Implemented)",
+          "variant": 2,
+          "attributeId": 12,
+          "value": 2
+        },
+        {
+          "id": 81,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% yield bonus, sent to guild treasury (Not Implemented)",
+          "variant": 2,
+          "attributeId": 81,
+          "value": 4
+        },
+        {
+          "id": 2,
+          "min": 0,
+          "max": 10,
+          "description": "{value}% Harvest Fee",
+          "variant": 2,
+          "attributeId": 2,
+          "value": 7
+        },
+        {
+          "id": 3,
+          "min": 9,
+          "max": 11,
+          "description": "Harvest Fee Token: {value}",
+          "map": {
+            "0": "EL",
+            "1": "ELD",
+            "2": "TIR",
+            "3": "NEF",
+            "4": "ETH",
+            "5": "ITH",
+            "6": "TAL",
+            "7": "RAL",
+            "8": "ORT",
+            "9": "THUL",
+            "10": "AMN",
+            "11": "SOL",
+            "12": "SHAEL",
+            "13": "DOL",
+            "14": "HEL",
+            "15": "IO",
+            "16": "LUM",
+            "17": "KO",
+            "18": "FAL",
+            "19": "LEM",
+            "20": "PUL",
+            "21": "UM",
+            "22": "MAL",
+            "23": "IST",
+            "24": "GUL",
+            "25": "VEX",
+            "26": "OHM",
+            "27": "LO",
+            "28": "SUR",
+            "29": "BER",
+            "30": "JAH",
+            "31": "CHAM",
+            "32": "ZOD"
+          },
+          "variant": 2,
+          "attributeId": 3,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "min": 5,
+          "max": 5,
+          "description": "{value} Required",
+          "map": {
+            "0": "None",
+            "1": "Barbarian",
+            "2": "Mage",
+            "3": "Amazon",
+            "4": "Necromancer",
+            "5": "Paladin",
+            "6": "Assassin",
+            "7": "Druid",
+            "8": "Bard"
+          },
+          "value": 5,
+          "variant": 2,
+          "attributeId": 21
+        }
+      ],
+      "perfection": [
+        12,
+        null,
+        4,
+        5,
+        0,
+        null,
+        null
+      ],
+      "presents": {
+        "2": [
+          12,
+          null,
+          4,
+          5,
+          0
+        ],
+        "3": [
+          12,
+          null,
+          4,
+          5,
+          0
+        ],
+        "4": [
+          11,
+          null,
+          3,
+          4,
+          0
+        ],
+        "5": [
+          9,
+          null,
+          3,
+          3,
+          3
+        ],
+        "6": [
+          4,
+          null,
+          1,
+          1,
+          8
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "10-2-4-7",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 10
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 10
+    },
+    {
+      "variant": 2,
+      "attributeId": 12,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 81,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 2,
+      "value": 7
+    },
+    {
+      "variant": 2,
+      "attributeId": 3,
+      "value": 10
+    },
+    {
+      "variant": 2,
+      "attributeId": 21,
+      "value": 5
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 536
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 3,
+      "max": 12,
+      "description": "{value}% Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 10,
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 7,
+      "min": 10,
+      "max": 10,
+      "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+      "value": 10,
+      "variant": 2,
+      "attributeId": 7,
+      "trait_type": "Chance To Find Worldstone Shard (Per Raid)"
+    },
+    {
+      "id": 12,
+      "min": 1,
+      "max": 4,
+      "description": "{value}% Guild Token (Not Implemented)",
+      "variant": 2,
+      "attributeId": 12,
+      "value": 2,
+      "trait_type": "Guild Token (Not Implemented)"
+    },
+    {
+      "id": 81,
+      "min": 1,
+      "max": 5,
+      "description": "{value}% yield bonus, sent to guild treasury (Not Implemented)",
+      "variant": 2,
+      "attributeId": 81,
+      "value": 4,
+      "trait_type": "yield bonus, sent to guild treasury (Not Implemented)"
+    },
+    {
+      "id": 2,
+      "min": 0,
+      "max": 10,
+      "description": "{value}% Harvest Fee",
+      "variant": 2,
+      "attributeId": 2,
+      "value": 7,
+      "trait_type": "Harvest Fee"
+    },
+    {
+      "id": 3,
+      "min": 9,
+      "max": 11,
+      "description": "Harvest Fee Token: {value}",
+      "map": {
+        "0": "EL",
+        "1": "ELD",
+        "2": "TIR",
+        "3": "NEF",
+        "4": "ETH",
+        "5": "ITH",
+        "6": "TAL",
+        "7": "RAL",
+        "8": "ORT",
+        "9": "THUL",
+        "10": "AMN",
+        "11": "SOL",
+        "12": "SHAEL",
+        "13": "DOL",
+        "14": "HEL",
+        "15": "IO",
+        "16": "LUM",
+        "17": "KO",
+        "18": "FAL",
+        "19": "LEM",
+        "20": "PUL",
+        "21": "UM",
+        "22": "MAL",
+        "23": "IST",
+        "24": "GUL",
+        "25": "VEX",
+        "26": "OHM",
+        "27": "LO",
+        "28": "SUR",
+        "29": "BER",
+        "30": "JAH",
+        "31": "CHAM",
+        "32": "ZOD"
+      },
+      "variant": 2,
+      "attributeId": 3,
+      "value": "AMN",
+      "trait_type": "Harvest Fee Token"
+    },
+    {
+      "id": 21,
+      "min": 5,
+      "max": 5,
+      "description": "{value} Required",
+      "map": {
+        "0": "None",
+        "1": "Barbarian",
+        "2": "Mage",
+        "3": "Amazon",
+        "4": "Necromancer",
+        "5": "Paladin",
+        "6": "Assassin",
+        "7": "Druid",
+        "8": "Bard"
+      },
+      "value": "Paladin",
+      "variant": 2,
+      "attributeId": 21,
+      "trait_type": "Class Required"
+    }
+  ],
+  "perfection": 0.54,
+  "slots": [
+    "Left Hand"
+  ],
+  "meta": {
+    "harvestYield": 10,
+    "harvestFeeToken": "AMN",
+    "harvestFeePercent": 7,
+    "harvestFees": {
+      "AMN": 7
+    },
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "worldstoneShardChance": 10,
+    "classRequired": 5,
+    "odds": 2200
+  },
+  "id": 22,
+  "name": "Lionheart",
+  "icon": "https://rune.game/images/items/00022.png",
+  "type": "One Handed Weapon",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": true,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "DOL",
+        "quantity": 1
+      },
+      {
+        "id": "IO",
+        "quantity": 1
+      },
+      {
+        "id": "LUM",
+        "quantity": 1
+      },
+      {
+        "id": "SHAEL",
+        "quantity": 1
+      },
+      {
+        "id": "KO",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030002201200101020070...536",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

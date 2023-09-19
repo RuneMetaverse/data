@@ -1,0 +1,77 @@
+{
+  "address": "0xD1af0d50c17cb042D2f9056297ca63bF89498508",
+  "lastGamePlayed": 1658015374.547,
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 1,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "K56DKVScX",
+      "rune": "thul",
+      "value": 0.004,
+      "timestamp": 1644781162921
+    },
+    {
+      "id": "9SME_LJwq",
+      "rune": "dol",
+      "value": 1.08,
+      "timestamp": 1646067179566
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "thul": 0.013999999999999999,
+      "shael": 0.0095,
+      "tir": 0.009,
+      "ort": 0.017,
+      "amn": 0.0045000000000000005,
+      "tal": 0.005,
+      "zod": 0.022000000000000002,
+      "hel": 0.017499999999999998,
+      "ith": 0.015,
+      "sol": 0.027500000000000004,
+      "dol": 0.021,
+      "ral": 0.005,
+      "nef": 0.0075
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "shael": 0.0095,
+      "thul": 0.013999999999999999,
+      "tir": 0.009,
+      "ort": 0.017,
+      "amn": 0.0045000000000000005,
+      "tal": 0.005,
+      "zod": 0.022000000000000002,
+      "hel": 0.017499999999999998,
+      "ith": 0.015,
+      "sol": 0.027500000000000004,
+      "dol": 0.021,
+      "ral": 0.005,
+      "nef": 0.0075
+    },
+    "items": {}
+  },
+  "claimRequests": [
+    {
+      "id": "K56DKVScX",
+      "timestamp": 1644781162921,
+      "status": "processing"
+    },
+    {
+      "id": "9SME_LJwq",
+      "requestId": "0xed95cc192847b6246be942141d5b853caa7b3062caa337bb17a69e6e338dcd60",
+      "status": "completed"
+    }
+  ],
+  "craftedItemCount": 1,
+  "transferredInCount": 0
+}

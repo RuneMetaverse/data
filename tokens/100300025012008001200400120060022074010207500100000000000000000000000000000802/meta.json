@@ -1,0 +1,383 @@
+{
+  "description": [
+    "Soft yet resilient Wyrmhide skillfully shaped into a belt after Sage fashion."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300025012008001200400120060022074010207500100000000000000000000000000000802",
+  "catalog_url": "https://rune.game/catalog/25",
+  "image": "https://rune.game/images/items/00025.png",
+  "language": "en-US",
+  "tokenId": "100300025012008001200400120060022074010207500100000000000000000000000000000802",
+  "details": {
+    "Type": "Belt",
+    "Subtype": "Wyrmhide Belt",
+    "Distribution": "Crafted",
+    "Date": "August 27, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "min": 1,
+          "max": 3,
+          "description": "{value}% Reduced Harvest Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 1
+        },
+        {
+          "id": 4,
+          "min": 0,
+          "max": 5,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 1
+        },
+        {
+          "id": 6,
+          "min": 0,
+          "max": 2,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 2
+        },
+        {
+          "id": 74,
+          "min": 10,
+          "max": 20,
+          "description": "{value}% Chance That Random Rune Exchange Gives a Specific Rune (Not Implemented)",
+          "variant": 2,
+          "attributeId": 74,
+          "value": 10
+        },
+        {
+          "id": 75,
+          "min": 0,
+          "max": 12,
+          "description": "Random exchange target: {value} (Not Implemented)",
+          "map": {
+            "0": "EL",
+            "1": "ELD",
+            "2": "TIR",
+            "3": "NEF",
+            "4": "ETH",
+            "5": "ITH",
+            "6": "TAL",
+            "7": "RAL",
+            "8": "ORT",
+            "9": "THUL",
+            "10": "AMN",
+            "11": "SOL",
+            "12": "SHAEL",
+            "13": "DOL",
+            "14": "HEL",
+            "15": "IO",
+            "16": "LUM",
+            "17": "KO",
+            "18": "FAL",
+            "19": "LEM",
+            "20": "PUL",
+            "21": "UM",
+            "22": "MAL",
+            "23": "IST",
+            "24": "GUL",
+            "25": "VEX",
+            "26": "OHM",
+            "27": "LO",
+            "28": "SUR",
+            "29": "BER",
+            "30": "JAH",
+            "31": "CHAM",
+            "32": "ZOD"
+          },
+          "variant": 2,
+          "attributeId": 75,
+          "value": 1
+        }
+      ],
+      "perfection": [
+        3,
+        5,
+        0,
+        20
+      ],
+      "presents": {
+        "2": [
+          3,
+          5,
+          0,
+          20
+        ],
+        "3": [
+          3,
+          5,
+          0,
+          20
+        ],
+        "4": [
+          2,
+          4,
+          0,
+          19
+        ],
+        "5": [
+          2,
+          3,
+          0,
+          17
+        ],
+        "6": [
+          1,
+          1,
+          1,
+          12
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "1-1-2-10",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 4,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 74,
+      "value": 10
+    },
+    {
+      "variant": 2,
+      "attributeId": 75,
+      "value": 1
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 802
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "min": 1,
+      "max": 3,
+      "description": "{value}% Reduced Harvest Fees",
+      "variant": 2,
+      "attributeId": 8,
+      "value": 1,
+      "trait_type": "Reduced Harvest Fees"
+    },
+    {
+      "id": 4,
+      "min": 0,
+      "max": 5,
+      "description": "{value}% Chance To Send Harvest To Hidden Pool",
+      "variant": 2,
+      "attributeId": 4,
+      "value": 1,
+      "trait_type": "Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 6,
+      "min": 0,
+      "max": 2,
+      "description": "{value}% Harvest Burn",
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2,
+      "trait_type": "Harvest Burn"
+    },
+    {
+      "id": 74,
+      "min": 10,
+      "max": 20,
+      "description": "{value}% Chance That Random Rune Exchange Gives a Specific Rune (Not Implemented)",
+      "variant": 2,
+      "attributeId": 74,
+      "value": 10,
+      "trait_type": "Chance That Random Rune Exchange Gives a Specific Rune (Not Implemented)"
+    },
+    {
+      "id": 75,
+      "min": 0,
+      "max": 12,
+      "description": "Random exchange target: {value} (Not Implemented)",
+      "map": {
+        "0": "EL",
+        "1": "ELD",
+        "2": "TIR",
+        "3": "NEF",
+        "4": "ETH",
+        "5": "ITH",
+        "6": "TAL",
+        "7": "RAL",
+        "8": "ORT",
+        "9": "THUL",
+        "10": "AMN",
+        "11": "SOL",
+        "12": "SHAEL",
+        "13": "DOL",
+        "14": "HEL",
+        "15": "IO",
+        "16": "LUM",
+        "17": "KO",
+        "18": "FAL",
+        "19": "LEM",
+        "20": "PUL",
+        "21": "UM",
+        "22": "MAL",
+        "23": "IST",
+        "24": "GUL",
+        "25": "VEX",
+        "26": "OHM",
+        "27": "LO",
+        "28": "SUR",
+        "29": "BER",
+        "30": "JAH",
+        "31": "CHAM",
+        "32": "ZOD"
+      },
+      "variant": 2,
+      "attributeId": 75,
+      "value": "ELD",
+      "trait_type": "Random exchange target (Not Implemented)"
+    }
+  ],
+  "perfection": 0.05,
+  "slots": [
+    "Waist"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 1,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 2,
+    "feeReduction": 1,
+    "odds": 594
+  },
+  "id": 25,
+  "name": "Balance",
+  "icon": "https://rune.game/images/items/00025.png",
+  "type": "One Handed Weapon",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": true,
+  "isDisabled": true,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "EL",
+        "quantity": 1
+      },
+      {
+        "id": "IO",
+        "quantity": 1
+      },
+      {
+        "id": "HEL",
+        "quantity": 1
+      },
+      {
+        "id": "RAL",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030002501200800120040...802",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

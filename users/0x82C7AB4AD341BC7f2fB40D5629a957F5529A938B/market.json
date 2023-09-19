@@ -1,0 +1,34 @@
+{
+  "trades": [
+    {
+      "id": 3892,
+      "seller": "0x82C7AB4AD341BC7f2fB40D5629a957F5529A938B",
+      "buyer": "0x8b4Dde8A951B0e77ee2f01575B61FB0AAD7B6184",
+      "tokenId": "100300019052007015200600120110032008004000000000000000000000000000000000916",
+      "price": 0.2,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1628391240140,
+      "updatedAt": 1630204694105,
+      "blockNumber": 10438721,
+      "item": {
+        "id": 19
+      }
+    },
+    {
+      "id": 3893,
+      "seller": "0x82C7AB4AD341BC7f2fB40D5629a957F5529A938B",
+      "buyer": "0x21e7451056032eF22729D5C5AA47Eb8b4D73184C",
+      "tokenId": "1003000060720010022008013201100100000000000000000000000000000000000000000472",
+      "price": 0.04,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1628391244991,
+      "updatedAt": 1630044353026,
+      "blockNumber": 10386756,
+      "item": {
+        "id": 6
+      }
+    }
+  ]
+}

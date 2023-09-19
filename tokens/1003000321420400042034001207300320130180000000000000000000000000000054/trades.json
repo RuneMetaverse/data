@@ -1,0 +1,34 @@
+[
+  {
+    "id": 882,
+    "seller": "0x6717d460928a89a88bd90af25cF8E6245ca5e74e",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000321420400042034001207300320130180000000000000000000000000000054",
+    "price": 15000,
+    "status": "delisted",
+    "hotness": 0,
+    "createdAt": 1651366167505,
+    "updatedAt": 1652482880351,
+    "blockNumber": 17779196,
+    "item": {
+      "id": 32,
+      "name": "Luminous Flywings"
+    }
+  },
+  {
+    "id": 908,
+    "seller": "0x6717d460928a89a88bd90af25cF8E6245ca5e74e",
+    "buyer": "0xe563983d6f46266Ad939c16bD59E5535Ab6E774D",
+    "tokenId": "1003000321420400042034001207300320130180000000000000000000000000000054",
+    "price": 9000,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1652484515751,
+    "updatedAt": 1652484516040,
+    "blockNumber": 17779738,
+    "item": {
+      "id": 32,
+      "name": "Luminous Flywings"
+    }
+  }
+]

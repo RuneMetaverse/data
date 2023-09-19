@@ -1,0 +1,47 @@
+[
+  {
+    "owner": "0x868F6E955d61d5f9f70F14103F6EDF6d38583093",
+    "from": "0x0000000000000000000000000000000000000000",
+    "status": "created",
+    "tokenId": "10010000310021001100033118",
+    "createdAt": 1649778995267,
+    "id": 3,
+    "perfection": 0.75
+  },
+  {
+    "owner": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "from": "0x868F6E955d61d5f9f70F14103F6EDF6d38583093",
+    "status": "transferred_in",
+    "tokenId": "10010000310021001100033118",
+    "createdAt": 1649783327824,
+    "id": 3,
+    "perfection": 0.75
+  },
+  {
+    "owner": "0x1D5D209F5581CF6eE4C93803ea4F8C477C6A1f96",
+    "from": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "status": "transferred_in",
+    "tokenId": "10010000310021001100033118",
+    "createdAt": 1649828534038,
+    "id": 3,
+    "perfection": 0.75
+  },
+  {
+    "owner": "0xdA4921156F717cf51f849091cb77eB6Bf56F7DE9",
+    "from": "0x1D5D209F5581CF6eE4C93803ea4F8C477C6A1f96",
+    "status": "transferred_in",
+    "tokenId": "10010000310021001100033118",
+    "createdAt": 1649828538001,
+    "id": 3,
+    "perfection": 0.75
+  },
+  {
+    "owner": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+    "from": "0xdA4921156F717cf51f849091cb77eB6Bf56F7DE9",
+    "status": "transferred_in",
+    "tokenId": "10010000310021001100033118",
+    "createdAt": 1649848274607,
+    "id": 3,
+    "perfection": 0.75
+  }
+]

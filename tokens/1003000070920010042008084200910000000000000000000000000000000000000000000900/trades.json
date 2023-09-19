@@ -1,0 +1,49 @@
+[
+  {
+    "id": 5442,
+    "seller": "0x8DE3c3891268502F77DB7E876d727257DEc0F852",
+    "buyer": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+    "tokenId": "1003000070920010042008084200910000000000000000000000000000000000000000000900",
+    "price": 0.49,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1630190487577,
+    "updatedAt": 1630195354809,
+    "blockNumber": 10435606,
+    "item": {
+      "id": 7
+    }
+  },
+  {
+    "id": 556,
+    "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000070920010042008084200910000000000000000000000000000000000000000000900",
+    "price": 18000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1650248838180,
+    "updatedAt": 1650248838180,
+    "blockNumber": 17040802,
+    "item": {
+      "id": 7,
+      "name": "Smoke"
+    }
+  },
+  {
+    "id": 556,
+    "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+    "buyer": "0x6B16c7BD6da2Aa1b8fA05C2A35613c5B240772f9",
+    "tokenId": "1003000070920010042008084200910000000000000000000000000000000000000000000900",
+    "price": 18000,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1650248838180,
+    "updatedAt": 1658304874351,
+    "blockNumber": 19710861,
+    "item": {
+      "id": 7,
+      "name": "Smoke"
+    }
+  }
+]

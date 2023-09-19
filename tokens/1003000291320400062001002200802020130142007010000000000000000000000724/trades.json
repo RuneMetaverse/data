@@ -1,0 +1,48 @@
+[
+  {
+    "id": 23515,
+    "seller": "0x3A2B576Ef1884f10c4b18C06D55E7C07fdE4eC12",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000291320400062001002200802020130142007010000000000000000000000724",
+    "price": 0.01,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1649981679468,
+    "updatedAt": 1649981679468,
+    "blockNumber": 14760685,
+    "item": {
+      "id": 29
+    }
+  },
+  {
+    "id": 21252,
+    "seller": "0x3A2B576Ef1884f10c4b18C06D55E7C07fdE4eC12",
+    "buyer": "0x8bb6DaF19b7B8723C48c2D7aC7dCddF4CC08244F",
+    "tokenId": "1003000291320400062001002200802020130142007010000000000000000000000724",
+    "price": 0.01,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1649868431804,
+    "updatedAt": 1649939085363,
+    "blockNumber": 14760913,
+    "item": {
+      "id": 29
+    }
+  },
+  {
+    "id": 1091,
+    "seller": "0x8bb6DaF19b7B8723C48c2D7aC7dCddF4CC08244F",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000291320400062001002200802020130142007010000000000000000000000724",
+    "price": 15000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1659217728759,
+    "updatedAt": 1659217728759,
+    "blockNumber": 20012088,
+    "item": {
+      "id": 29,
+      "name": "Dragonlight"
+    }
+  }
+]

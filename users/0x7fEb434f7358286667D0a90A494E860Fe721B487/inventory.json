@@ -1,0 +1,216 @@
+{
+  "items": [
+    {
+      "status": "created",
+      "tokenId": "1001000031003100310007693",
+      "updatedAt": 1627276715941,
+      "details": {
+        "Type": "Helm",
+        "Subtype": "Full Helm",
+        "Rune Word": "Nef Tir",
+        "Distribution": "Crafted",
+        "Date": "April 25 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            "A once unbreakable helm, it's seen its best days."
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 1,
+              "max": 3,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 6,
+              "min": 1,
+              "max": 3,
+              "description": "{value}% Harvest Burn"
+            },
+            {
+              "id": 7,
+              "min": 100,
+              "max": 100,
+              "description": "{value}% Chance To Find Worldstone Shard (Per Raid)"
+            }
+          ],
+          "perfection": [
+            3,
+            1
+          ]
+        },
+        "2": {
+          "description": "A once unbreakable helm, it's seen its best days.",
+          "attributes": [
+            {
+              "id": 1,
+              "value": 5,
+              "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+            },
+            {
+              "id": 2,
+              "value": 100,
+              "description": "{value}% Increased Block Speed"
+            },
+            {
+              "id": 2,
+              "value": 230,
+              "description": "{value}% Enhanced Defense"
+            },
+            {
+              "id": 2,
+              "min": 41,
+              "max": 50,
+              "description": "Physical Damage Reduced by {value}"
+            },
+            {
+              "id": 2,
+              "description": "Half Freeze Duration"
+            }
+          ]
+        }
+      },
+      "shorthand": "3-3",
+      "mods": [
+        {
+          "variant": 1,
+          "value": 3,
+          "attributeId": 1
+        },
+        {
+          "variant": 1,
+          "value": 3,
+          "attributeId": 6
+        },
+        {
+          "variant": 1,
+          "value": 0
+        },
+        {
+          "variant": 7,
+          "value": 693
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 3,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 1,
+          "value": 3,
+          "attributeId": 1
+        },
+        {
+          "id": 6,
+          "min": 1,
+          "max": 3,
+          "description": "{value}% Harvest Burn",
+          "variant": 1,
+          "value": 3,
+          "attributeId": 6
+        }
+      ],
+      "perfection": 0.5,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 3,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 0,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 3
+      },
+      "id": 3,
+      "name": "Lorekeeper",
+      "icon": "undefinedimages/items/00003.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 4,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 1,
+      "type": 0,
+      "shortTokenId": "10010000310031003100076...693",
+      "slotId": 3,
+      "owner": "0x7fEb434f7358286667D0a90A494E860Fe721B487",
+      "from": "0x0000000000000000000000000000000000000000",
+      "createdAt": 1649763264784
+    },
+    {
+      "owner": "0x7fEb434f7358286667D0a90A494E860Fe721B487",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1001000011010100510008550",
+      "createdAt": 1649763264176,
+      "id": 1,
+      "perfection": 0.25
+    },
+    {
+      "owner": "0x7fEb434f7358286667D0a90A494E860Fe721B487",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1001000021004102810298822",
+      "createdAt": 1649763264618,
+      "id": 2,
+      "perfection": 0.4
+    },
+    {
+      "owner": "0x7fEb434f7358286667D0a90A494E860Fe721B487",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10010000110081005100026850",
+      "createdAt": 1649763265038,
+      "id": 1,
+      "perfection": 0.15
+    },
+    {
+      "owner": "0x7fEb434f7358286667D0a90A494E860Fe721B487",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300014012001006201900120130092011001200200320030122039008202100600000687",
+      "createdAt": 1649780747306,
+      "id": 14,
+      "perfection": 0.56
+    },
+    {
+      "owner": "0x7fEb434f7358286667D0a90A494E860Fe721B487",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "equipped",
+      "tokenId": "10030002712200100320080022004002201200420620052006000000000000000000000000649",
+      "createdAt": 1649847873792,
+      "id": 27,
+      "perfection": 0.86,
+      "updatedAt": 1650909690357
+    },
+    {
+      "owner": "0x7fEb434f7358286667D0a90A494E860Fe721B487",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001003200800220130022007001200600500000000000000000000000000000480",
+      "createdAt": 1649847876964,
+      "id": 28,
+      "perfection": 0.4
+    }
+  ]
+}

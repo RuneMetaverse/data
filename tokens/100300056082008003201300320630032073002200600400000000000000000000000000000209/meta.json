@@ -1,0 +1,701 @@
+{
+  "description": "A vibrant red skirt and leggings worn by advanced wielders of Kona in the league of Sol, matching their religious depictions of Relia and her closest followers. Compliments the use of fire-based magics.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300056082008003201300320630032073002200600400000000000000000000000000000209",
+  "image_url": "/images/items/00056.png",
+  "language": "en-US",
+  "tokenId": "100300056082008003201300320630032073002200600400000000000000000000000000000209",
+  "details": {
+    "Type": "Leg Armor",
+    "Subtype": "Sol Battlemage Leggings",
+    "Rune Word": "Tal Ith Zod Gul Ort"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "0-10",
+            "min": 0,
+            "max": 10,
+            "value": 3
+          },
+          "value": 3,
+          "min": 0,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 3
+          },
+          "value": 3,
+          "min": 0,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 13
+        },
+        {
+          "id": 63,
+          "name": "HarvestOverTime",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestovertime",
+          "paramType1": "percent",
+          "paramValue1": "0-10",
+          "nature": "Buff",
+          "description": "Add {parameter1} To Harvest, Vested Over Time (Not Implemented)",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 3
+          },
+          "value": 3,
+          "min": 0,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 63
+        },
+        {
+          "id": 73,
+          "name": "HarvestTheftDefense",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvesttheftdefense",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Mechanic",
+          "description": "{parameter1} Theft Counter Chance",
+          "param1": {
+            "spec": "2",
+            "min": 2,
+            "max": 2,
+            "value": 2
+          },
+          "value": 2,
+          "min": 2,
+          "max": 2,
+          "variant": 2,
+          "attributeId": 73
+        },
+        {
+          "id": 6,
+          "name": "HarvestBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Burn",
+          "param1": {
+            "spec": "0-4",
+            "min": 0,
+            "max": 4,
+            "value": 4
+          },
+          "value": 4,
+          "min": 0,
+          "max": 4,
+          "variant": 2,
+          "attributeId": 6
+        }
+      ],
+      "perfection": [
+        10,
+        5,
+        5,
+        null,
+        0
+      ],
+      "presets": {
+        "2": [
+          10,
+          5,
+          5,
+          null,
+          0
+        ],
+        "3": [
+          10,
+          5,
+          5,
+          null,
+          0
+        ],
+        "4": [
+          9,
+          4,
+          4,
+          null,
+          0
+        ],
+        "5": [
+          7,
+          3,
+          3,
+          null,
+          1
+        ],
+        "6": [
+          2,
+          1,
+          1,
+          null,
+          3
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "1-10",
+            "min": 1,
+            "max": 10
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2302,
+          "name": "IncreaseEnergy",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseenergy",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} Maximum Energy",
+          "param1": {
+            "spec": "6-10",
+            "min": 6,
+            "max": 10
+          },
+          "value": null
+        },
+        {
+          "id": 2014,
+          "name": "IncreaseAilmentChance",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseailmentchance",
+          "paramType1": "percent",
+          "paramType2": "ailment",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} chance to apply {parameter2}",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          },
+          "param2": {
+            "spec": "Fire Resistence",
+            "min": 0,
+            "max": 10
+          },
+          "value": null
+        },
+        {
+          "id": 3806,
+          "name": "IncreaseMaxSkillCharges",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasemaxskillcharges",
+          "paramType1": "value",
+          "paramType2": "skill",
+          "paramValue1": "0-10",
+          "nature": "Buff",
+          "influences": "Skill",
+          "description": "{parameter1} Additional Charges For {parameter2} Skill(s)",
+          "param1": {
+            "spec": "1-1",
+            "min": 1,
+            "max": 1,
+            "value": 1
+          },
+          "param2": {
+            "spec": "Fire",
+            "map": {}
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "3-6",
+            "min": 3,
+            "max": 6
+          },
+          "param2": {
+            "spec": "EnergyRegen",
+            "min": 1,
+            "max": 1,
+            "value": 1,
+            "map": {
+              "1": "Energy Regeneration"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2304,
+          "name": "IncreaseResist",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Resistance",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5
+          },
+          "param2": {
+            "spec": "Fire",
+            "min": 1,
+            "max": 1,
+            "value": 1,
+            "map": {
+              "1": "Fire"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Fire Wall",
+            "min": 448,
+            "max": 448,
+            "value": 448,
+            "map": {
+              "448": "Fire Wall"
+            }
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        10,
+        10,
+        null,
+        null,
+        null,
+        6,
+        5
+      ],
+      "presets": {
+        "2": [
+          10,
+          10,
+          null,
+          null,
+          null,
+          6,
+          5
+        ],
+        "3": [
+          10,
+          10,
+          null,
+          null,
+          null,
+          6,
+          5
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "3-3-3-4",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 63,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 73,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 4
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 209
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "0-10",
+        "min": 0,
+        "max": 10,
+        "value": 3
+      },
+      "value": 3,
+      "min": 0,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 13,
+      "name": "MagicFind",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "paramType1": "percent",
+      "paramValue1": "0-999",
+      "nature": "Buff",
+      "description": "{parameter1} Magic Find",
+      "param1": {
+        "spec": "0-5",
+        "min": 0,
+        "max": 5,
+        "value": 3
+      },
+      "value": 3,
+      "min": 0,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "{parameter1} Magic Find"
+    },
+    {
+      "id": 63,
+      "name": "HarvestOverTime",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestovertime",
+      "paramType1": "percent",
+      "paramValue1": "0-10",
+      "nature": "Buff",
+      "description": "Add {parameter1} To Harvest, Vested Over Time (Not Implemented)",
+      "param1": {
+        "spec": "0-5",
+        "min": 0,
+        "max": 5,
+        "value": 3
+      },
+      "value": 3,
+      "min": 0,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 63,
+      "trait_type": "Add {parameter1} To Harvest, Vested Over Time (Not Implemented)"
+    },
+    {
+      "id": 73,
+      "name": "HarvestTheftDefense",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvesttheftdefense",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Mechanic",
+      "description": "{parameter1} Theft Counter Chance",
+      "param1": {
+        "spec": "2",
+        "min": 2,
+        "max": 2,
+        "value": 2
+      },
+      "value": 2,
+      "min": 2,
+      "max": 2,
+      "variant": 2,
+      "attributeId": 73,
+      "trait_type": "{parameter1} Theft Counter Chance"
+    },
+    {
+      "id": 6,
+      "name": "HarvestBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Burn",
+      "param1": {
+        "spec": "0-4",
+        "min": 0,
+        "max": 4,
+        "value": 4
+      },
+      "value": 4,
+      "min": 0,
+      "max": 4,
+      "variant": 2,
+      "attributeId": 6,
+      "trait_type": "{parameter1} Harvest Burn"
+    }
+  ],
+  "perfection": 0.37,
+  "slots": [
+    "Legs"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 4,
+    "feeReduction": 3,
+    "odds": 1980,
+    "version": 0,
+    "created": 1660336745386,
+    "revision": 0
+  },
+  "id": 56,
+  "name": "Flare",
+  "slug": "flare",
+  "icon": "/images/items/00056.png",
+  "image": "https://dl.airtable.com/.attachments/264b7064c7c2a7d51c55a5eb098f855c/10aa6323/image.png?ts=1657605447&userId=usrf0GZYc5zCl9Cv7&cs=68bb1e9dd36a31b1",
+  "type": "Leggings",
+  "subType": 16,
+  "specificType": 181,
+  "isPolled": false,
+  "isNew": true,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": false,
+  "isDisabled": false,
+  "isCraftable": true,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 1980,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 6,
+        "quantity": 1,
+        "symbol": "TAL"
+      },
+      {
+        "id": 5,
+        "quantity": 1,
+        "symbol": "ITH"
+      },
+      {
+        "id": 32,
+        "quantity": 1,
+        "symbol": "ZOD"
+      },
+      {
+        "id": 24,
+        "quantity": 1,
+        "symbol": "GUL"
+      },
+      {
+        "id": 8,
+        "quantity": 1,
+        "symbol": "ORT"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "",
+  "skills": [],
+  "materials": [],
+  "version": 3,
+  "shortTokenId": "10030005608200800320130...209",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 338
+}

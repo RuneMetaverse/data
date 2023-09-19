@@ -1,0 +1,237 @@
+{
+  "description": "Redeemed for a randomly generated runeword.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100301212252042000204200000000000000000000000000000000000000000000000000644",
+  "image_url": "https://rune.game/images/items/01212.png",
+  "language": "en-US",
+  "tokenId": "100301212252042000204200000000000000000000000000000000000000000000000000644",
+  "details": {
+    "Type": "Scroll",
+    "Subtype": "Scroll",
+    "Distribution": "Quiz Reward",
+    "Date": "March 13, 2022 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "Redeemed for a randomly generated runeword."
+      ],
+      "attributes": [
+        {
+          "id": 42,
+          "min": 0,
+          "max": 999,
+          "description": "",
+          "variant": 2,
+          "attributeId": 42,
+          "value": 0,
+          "param1": {
+            "min": 0,
+            "max": 999,
+            "value": 0
+          }
+        },
+        {
+          "id": 42,
+          "min": 0,
+          "max": 999,
+          "description": "",
+          "variant": 2,
+          "attributeId": 42,
+          "value": 0,
+          "param1": {
+            "min": 0,
+            "max": 999,
+            "value": 0
+          }
+        }
+      ],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": [],
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 42,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 42,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 6
+    },
+    {
+      "variant": 4,
+      "value": 4
+    }
+  ],
+  "attributes": [
+    {
+      "id": 42,
+      "min": 0,
+      "max": 999,
+      "description": "",
+      "variant": 2,
+      "attributeId": 42,
+      "value": 0,
+      "param1": {
+        "min": 0,
+        "max": 999,
+        "value": 0
+      },
+      "trait_type": ""
+    },
+    {
+      "id": 42,
+      "min": 0,
+      "max": 999,
+      "description": "",
+      "variant": 2,
+      "attributeId": 42,
+      "value": 0,
+      "param1": {
+        "min": 0,
+        "max": 999,
+        "value": 0
+      },
+      "trait_type": ""
+    }
+  ],
+  "perfection": 1,
+  "slots": [],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "attributes": {
+      "42": 0
+    },
+    "version": 0,
+    "created": 1666251734383,
+    "revision": 0
+  },
+  "id": 1212,
+  "name": "Zavox's Fortune",
+  "icon": "https://rune.game/images/items/01212.png",
+  "isPublishable": true,
+  "isSecret": false,
+  "rarity": {
+    "id": 7,
+    "name": "Normal"
+  },
+  "type": "Misc",
+  "isNew": true,
+  "isEquipable": false,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": false,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "isTransmutable": true,
+  "version": 3,
+  "shortTokenId": "10030121225204200020420...644",
+  "slug": "zavox's-fortune",
+  "$loki": 947
+}

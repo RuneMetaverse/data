@@ -1,0 +1,33 @@
+[
+  {
+    "id": 18888,
+    "seller": "0xdCafAEDa990ef0209FCa182F939a544b8fB35481",
+    "buyer": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "tokenId": "1003012052220400020000000000000000000000000000000000000000000000000099",
+    "price": 0.6811,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1649207533181,
+    "updatedAt": 1649207832261,
+    "blockNumber": 16695641,
+    "item": {
+      "id": 1205
+    }
+  },
+  {
+    "id": 4874,
+    "seller": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003012052220400020000000000000000000000000000000000000000000000000099",
+    "price": 120000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1662958126185,
+    "updatedAt": 1662958126185,
+    "blockNumber": 21258638,
+    "item": {
+      "id": 1205,
+      "name": "Founder's Cube"
+    }
+  }
+]

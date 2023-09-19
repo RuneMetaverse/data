@@ -1,0 +1,1010 @@
+{
+  "description": "A shield designed for Vira royalty, it has been blessed with a protective aura.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000150320080022012003201300820110022047002203900320210050000000000000994",
+  "image_url": "/images/items/00015.png",
+  "language": "en-US",
+  "tokenId": "1003000150320080022012003201300820110022047002203900320210050000000000000994",
+  "details": {
+    "Type": "Shield",
+    "Subtype": "Blessed Vira Shield",
+    "Distribution": "Crafted",
+    "Date": "June 11, 2021 - Now"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "2-10",
+            "min": 2,
+            "max": 10,
+            "value": 2
+          },
+          "value": 2,
+          "min": 2,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 12,
+          "name": "FindGuildToken",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/findguildtoken",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Guild Token",
+          "param1": {
+            "spec": "1-4",
+            "min": 1,
+            "max": 4,
+            "value": 3
+          },
+          "value": 3,
+          "min": 1,
+          "max": 4,
+          "variant": 2,
+          "attributeId": 12
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "5-10",
+            "min": 5,
+            "max": 10,
+            "value": 8
+          },
+          "value": 8,
+          "min": 5,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 13
+        },
+        {
+          "id": 11,
+          "name": "RandomRuneExchange",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Mechanic",
+          "description": "{parameter1} Random Rune Exchange",
+          "param1": {
+            "spec": "1-4",
+            "min": 1,
+            "max": 4,
+            "value": 2
+          },
+          "value": 2,
+          "min": 1,
+          "max": 4,
+          "variant": 2,
+          "attributeId": 11
+        },
+        {
+          "id": 47,
+          "name": "ReduceBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/reduceburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Burn (Not Implemented)",
+          "param1": {
+            "spec": "2-10",
+            "min": 2,
+            "max": 10,
+            "value": 2
+          },
+          "value": 2,
+          "min": 2,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 47
+        },
+        {
+          "id": 39,
+          "name": "AddSkill",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+          "paramType1": "skill",
+          "paramValue1": "0-999",
+          "nature": "Requirement",
+          "description": "Unlocked: {parameter1} (Not Implemented)",
+          "param1": {
+            "spec": "Sanctuary Aura",
+            "min": 3,
+            "max": 3,
+            "value": 3,
+            "map": {
+              "3": "Sanctuary Aura"
+            }
+          },
+          "value": 3,
+          "min": 3,
+          "max": 3,
+          "variant": 2,
+          "attributeId": 39,
+          "map": {
+            "3": "Sanctuary Aura"
+          }
+        },
+        {
+          "id": 21,
+          "name": "SpecificClass",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/specificclass",
+          "paramType1": "classId",
+          "paramValue1": "0-999",
+          "nature": "Requirement",
+          "description": "{parameter1} Required",
+          "param1": {
+            "spec": "Paladin",
+            "min": 5,
+            "max": 5,
+            "value": 5,
+            "map": {
+              "5": "Paladin"
+            }
+          },
+          "value": 5,
+          "min": 5,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 21,
+          "map": {
+            "5": "Paladin"
+          }
+        }
+      ],
+      "perfection": [
+        10,
+        4,
+        10,
+        null,
+        10,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          10,
+          4,
+          10,
+          null,
+          10
+        ],
+        "3": [
+          10,
+          4,
+          10,
+          null,
+          10
+        ],
+        "4": [
+          9,
+          3,
+          9,
+          null,
+          9
+        ],
+        "5": [
+          7,
+          3,
+          8,
+          null,
+          7
+        ],
+        "6": [
+          3,
+          1,
+          6,
+          null,
+          3
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1060,
+          "name": "DamageResist",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} damage resist",
+          "param1": {
+            "spec": [
+              "0-8"
+            ],
+            "min": 0,
+            "max": 0,
+            "value": 0
+          }
+        },
+        {
+          "id": 1030,
+          "name": "MovementSpeedIncrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/movementspeedincrease",
+          "paramType1": "percent",
+          "paramValue1": "0-10",
+          "nature": "Buff",
+          "influences": "Movement",
+          "description": "{parameter1} faster movement.",
+          "param1": {
+            "spec": "2-5",
+            "min": 2,
+            "max": 5,
+            "value": 4
+          },
+          "value": null
+        },
+        {
+          "id": 1101,
+          "name": "DeathPenaltyDecrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltydecrease",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Buff",
+          "influences": "Game",
+          "description": "{parameter1} reduction to points lost on death.",
+          "param1": {
+            "spec": "5-10",
+            "min": 5,
+            "max": 10,
+            "value": 8
+          },
+          "value": null
+        },
+        {
+          "id": 1327,
+          "name": "SkillMod",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/skillmod",
+          "paramType1": "value",
+          "paramValue1": "0-5",
+          "nature": "Buff",
+          "influences": "Skill",
+          "param1": {
+            "spec": "1-4",
+            "min": 1,
+            "max": 4,
+            "value": 2
+          },
+          "value": null
+        },
+        {
+          "id": 1059,
+          "name": "AilmentResist",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/ailmentresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} ailment resist",
+          "param1": {
+            "spec": "2-10",
+            "min": 2,
+            "max": 10,
+            "value": 2
+          },
+          "value": null
+        },
+        {
+          "id": 1325,
+          "name": "SkillUnlock",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/skillunlock",
+          "paramType1": "skill",
+          "nature": "Mechanic",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Sanctuary Aura",
+            "min": 467,
+            "max": 467,
+            "value": 467,
+            "map": {
+              "467": "Sanctuary Aura"
+            }
+          }
+        },
+        {
+          "id": 1326,
+          "name": "ClassRequirement",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/classrequirement",
+          "paramType1": "class",
+          "nature": "Requirement",
+          "description": "{parameter1} Required",
+          "param1": {
+            "spec": "Paladin",
+            "min": 5,
+            "max": 5,
+            "value": 5,
+            "map": {
+              "5": "Paladin"
+            }
+          }
+        },
+        {
+          "id": 1160,
+          "name": "WinRewardsDecrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/winrewardsdecrease",
+          "paramType1": "percent",
+          "nature": "Debuff",
+          "influences": "Reward",
+          "description": "{parameter1} win reward reduction",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        5,
+        10,
+        4,
+        10,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          null,
+          5,
+          10,
+          4,
+          10
+        ],
+        "3": [
+          null,
+          5,
+          10,
+          4,
+          10
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "11-19",
+            "min": 11,
+            "max": 19,
+            "value": 11
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2300,
+          "name": "IncreaseHealth",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasehealth",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} Maximum Health",
+          "param1": {
+            "spec": "5-8",
+            "min": 5,
+            "max": 8,
+            "value": 7
+          },
+          "value": null
+        },
+        {
+          "id": 3205,
+          "name": "ChanceOnGetHit",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/chanceongethit",
+          "paramType1": "percent",
+          "paramType2": "skill",
+          "paramValue1": "0-100",
+          "paramValue2": "400-1000",
+          "nature": "Buff",
+          "description": "{parameter1} {parameter2} chance when hit",
+          "param1": {
+            "spec": "5-10",
+            "min": 5,
+            "max": 10,
+            "value": 8
+          },
+          "param2": {
+            "spec": "Defend",
+            "min": 496,
+            "max": 496,
+            "value": 496,
+            "map": {
+              "496": "Defend"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3213,
+          "name": "SelfEffectOnCondition",
+          "isEnabled": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/selfeffectoncondition",
+          "paramType1": "conditions",
+          "paramType2": "conditionparams",
+          "paramType3": "effect",
+          "param1": {
+            "spec": "AttackDefended",
+            "min": 24,
+            "max": 24,
+            "value": 24,
+            "map": {
+              "24": "AttackDefended"
+            }
+          }
+        },
+        {
+          "id": 2304,
+          "name": "IncreaseResist",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Resistance",
+          "param1": {
+            "spec": "2-10",
+            "min": 2,
+            "max": 10,
+            "value": 2
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Charge",
+            "min": 471,
+            "max": 471,
+            "value": 471,
+            "map": {
+              "471": "Charge"
+            }
+          }
+        },
+        {
+          "id": 1326,
+          "name": "ClassRequirement",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/classrequirement",
+          "paramType1": "class",
+          "nature": "Requirement",
+          "description": "{parameter1} Required",
+          "param1": {
+            "spec": "Paladin",
+            "min": 5,
+            "max": 5,
+            "value": 5,
+            "map": {
+              "5": "Paladin"
+            }
+          }
+        }
+      ],
+      "perfection": [
+        19,
+        8,
+        10,
+        null,
+        10,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          19,
+          8,
+          10,
+          null,
+          10
+        ],
+        "3": [
+          19,
+          8,
+          10,
+          null,
+          10
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "2-3-8-2",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 12,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 8
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 47,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 39,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 21,
+      "value": 5
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 994
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "2-10",
+        "min": 2,
+        "max": 10,
+        "value": 2
+      },
+      "value": 2,
+      "min": 2,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 12,
+      "name": "FindGuildToken",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/findguildtoken",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Guild Token",
+      "param1": {
+        "spec": "1-4",
+        "min": 1,
+        "max": 4,
+        "value": 3
+      },
+      "value": 3,
+      "min": 1,
+      "max": 4,
+      "variant": 2,
+      "attributeId": 12,
+      "trait_type": "{parameter1} Guild Token"
+    },
+    {
+      "id": 13,
+      "name": "MagicFind",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "paramType1": "percent",
+      "paramValue1": "0-999",
+      "nature": "Buff",
+      "description": "{parameter1} Magic Find",
+      "param1": {
+        "spec": "5-10",
+        "min": 5,
+        "max": 10,
+        "value": 8
+      },
+      "value": 8,
+      "min": 5,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "{parameter1} Magic Find"
+    },
+    {
+      "id": 11,
+      "name": "RandomRuneExchange",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Mechanic",
+      "description": "{parameter1} Random Rune Exchange",
+      "param1": {
+        "spec": "1-4",
+        "min": 1,
+        "max": 4,
+        "value": 2
+      },
+      "value": 2,
+      "min": 1,
+      "max": 4,
+      "variant": 2,
+      "attributeId": 11,
+      "trait_type": "{parameter1} Random Rune Exchange"
+    },
+    {
+      "id": 47,
+      "name": "ReduceBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/reduceburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Burn (Not Implemented)",
+      "param1": {
+        "spec": "2-10",
+        "min": 2,
+        "max": 10,
+        "value": 2
+      },
+      "value": 2,
+      "min": 2,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 47,
+      "trait_type": "{parameter1} Reduced Burn (Not Implemented)"
+    },
+    {
+      "id": 39,
+      "name": "AddSkill",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+      "paramType1": "skill",
+      "paramValue1": "0-999",
+      "nature": "Requirement",
+      "description": "Unlocked: {parameter1} (Not Implemented)",
+      "param1": {
+        "spec": "Sanctuary Aura",
+        "min": 3,
+        "max": 3,
+        "value": 3,
+        "map": {
+          "3": "Sanctuary Aura"
+        }
+      },
+      "value": 3,
+      "min": 3,
+      "max": 3,
+      "variant": 2,
+      "attributeId": 39,
+      "map": {
+        "3": "Sanctuary Aura"
+      },
+      "trait_type": "Unlocked: {parameter1} (Not Implemented)"
+    },
+    {
+      "id": 21,
+      "name": "SpecificClass",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/specificclass",
+      "paramType1": "classId",
+      "paramValue1": "0-999",
+      "nature": "Requirement",
+      "description": "{parameter1} Required",
+      "param1": {
+        "spec": "Paladin",
+        "min": 5,
+        "max": 5,
+        "value": 5,
+        "map": {
+          "5": "Paladin"
+        }
+      },
+      "value": 5,
+      "min": 5,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 21,
+      "map": {
+        "5": "Paladin"
+      },
+      "trait_type": "{parameter1} Required"
+    }
+  ],
+  "perfection": 0.31,
+  "slots": [
+    "Right Hand"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "attributes": {
+      "8": 2,
+      "11": 2,
+      "12": 3,
+      "13": 8,
+      "21": 5,
+      "39": 3,
+      "47": 2,
+      "1030": 4,
+      "1059": 2,
+      "1060": 0,
+      "1101": 8,
+      "1325": 467,
+      "1326": 5,
+      "1327": 2,
+      "2300": 7,
+      "2304": 2,
+      "2316": 11,
+      "3205": 8,
+      "3213": 24,
+      "3801": 471
+    },
+    "feeReduction": null,
+    "randomRuneExchange": null,
+    "classRequired": 5,
+    "odds": 7776,
+    "version": 0,
+    "created": 1662532539693,
+    "revision": 0
+  },
+  "id": 15,
+  "name": "Fortress",
+  "slug": "fortress",
+  "icon": "/images/items/00015.png",
+  "image": "https://dl.airtable.com/.attachments/5ebbe53d6a9614c94a6dc2628d7f8883/589dc158/00015.png?ts=1657605369&userId=usrf0GZYc5zCl9Cv7&cs=adfb40ba11f2e0a0",
+  "type": "Shield",
+  "subType": 9,
+  "specificType": 13,
+  "isPolled": true,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": true,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 1944,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 12,
+        "quantity": 1,
+        "symbol": "SHAEL"
+      },
+      {
+        "id": 2,
+        "quantity": 1,
+        "symbol": "TIR"
+      },
+      {
+        "id": 13,
+        "quantity": 1,
+        "symbol": "DOL"
+      },
+      {
+        "id": 9,
+        "quantity": 1,
+        "symbol": "THUL"
+      },
+      {
+        "id": 3,
+        "quantity": 1,
+        "symbol": "NEF"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "This unique, winged shield is gilded with gold and green accents, although the material appears to be some form of nearly impenetrable dragon bone.",
+  "skills": [
+    471,
+    414
+  ],
+  "materials": [
+    3
+  ],
+  "version": 3,
+  "shortTokenId": "10030001503200800220120...994",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 3268
+}

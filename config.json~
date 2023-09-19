@@ -1,0 +1,49 @@
+{
+  "trades": {
+    "lastBlock": {
+      "List(address,address,uint256,uint256)": 15017366,
+      "Update(address,address,uint256,uint256)": 15017366,
+      "Delist(address,uint256)": 15017366,
+      "Buy(address,address,uint256,uint256)": 15017366
+    },
+    "updating": true,
+    "updatedDate": "Sun Feb 06 2022 11:21:46 GMT+0000 (Coordinated Universal Time)",
+    "updatedTimestamp": 1644146506909
+  },
+  "blacksmith": { "lastBlock": 7310278, "updating": false },
+  "characters": {
+    "lastBlock": { "Transfer": 15069918 },
+    "updating": false,
+    "updatedDate": "Tue Feb 08 2022 07:11:43 GMT+0000 (Coordinated Universal Time)",
+    "updatedTimestamp": 1644304303998
+  },
+  "sender": {
+    "lastBlock": { "RewardsSent(address,uint256,string)": 15069910 },
+    "updating": false,
+    "updatedDate": "Tue Feb 08 2022 07:11:19 GMT+0000 (Coordinated Universal Time)",
+    "updatedTimestamp": 1644304279802
+  },
+  "items": {
+    "lastBlock": { "Transfer": 15069918 },
+    "updating": false,
+    "updatedDate": "Tue Feb 08 2022 07:11:43 GMT+0000 (Coordinated Universal Time)",
+    "updatedTimestamp": 1644304303944
+  },
+  "test": { "lastBlock": 8378366, "updating": false },
+  "barracks": {
+    "lastBlock": {
+      "Equip(address,uint256,uint16)": 15069878,
+      "Unequip(address,uint256,uint16)": 15069878,
+      "ActionBurn(address,uint256)": 15069878,
+      "ActionBonus(address,uint256)": 15069878,
+      "ActionHiddenPool(address,uint256)": 15069878,
+      "ActionFee(address,address,uint256)": 15069878,
+      "ActionSwap(address,address,uint256)": 15069878
+    },
+    "updating": false,
+    "updatedDate": "Tue Feb 08 2022 07:09:44 GMT+0000 (Coordinated Universal Time)",
+    "updatedTimestamp": 1644304184197
+  },
+  "updatedDate": "Tue Feb 08 2022 07:13:50 GMT+0000 (Coordinated Universal Time)",
+  "updatedTimestamp": 1644304430734
+}

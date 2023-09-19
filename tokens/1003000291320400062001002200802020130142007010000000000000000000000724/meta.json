@@ -1,0 +1,598 @@
+{
+  "description": "Infused with the breath of an ice dragon, this ancient amulet radiates a pale blue light and is searing cold to the touch.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000291320400062001002200802020130142007010000000000000000000000724",
+  "image_url": "/images/items/00029.png",
+  "language": "en-US",
+  "tokenId": "1003000291320400062001002200802020130142007010000000000000000000000724",
+  "details": {
+    "Type": "Amulet",
+    "Subtype": "Royal Archon Amulet",
+    "Distribution": "Airdrop"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 40,
+          "name": "Rarity",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "paramType1": "value",
+          "paramValue1": "0-999",
+          "nature": "Neutral",
+          "description": "{parameter1}",
+          "param1": {
+            "spec": "3-6",
+            "min": 3,
+            "max": 6,
+            "map": {
+              "3": "Mythic",
+              "4": "Epic",
+              "5": "Rare",
+              "6": "Magical"
+            },
+            "value": 6
+          },
+          "value": 6,
+          "min": 3,
+          "max": 6,
+          "variant": 2,
+          "attributeId": 40,
+          "map": {
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical"
+          }
+        },
+        {
+          "id": 1,
+          "name": "HarvestYield",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Increased Harvest Yield",
+          "param1": {
+            "spec": "2-5",
+            "min": 2,
+            "max": 5,
+            "value": 2
+          },
+          "value": 2,
+          "min": 2,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 1
+        },
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "20-50",
+            "min": 20,
+            "max": 50,
+            "value": 20
+          },
+          "value": 20,
+          "min": 20,
+          "max": 50,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "14-20",
+            "min": 14,
+            "max": 20,
+            "value": 14
+          },
+          "value": 14,
+          "min": 14,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 13
+        },
+        {
+          "id": 7,
+          "name": "FindShard",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+          "param1": {
+            "spec": "10",
+            "min": 10,
+            "max": 10,
+            "value": 10
+          },
+          "value": 10,
+          "min": 10,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 7
+        }
+      ],
+      "perfection": [
+        null,
+        5,
+        50,
+        20,
+        null
+      ],
+      "presets": {
+        "2": [
+          null,
+          5,
+          50,
+          20
+        ],
+        "3": [
+          null,
+          5,
+          50,
+          20
+        ],
+        "4": [
+          null,
+          4,
+          48,
+          19
+        ],
+        "5": [
+          null,
+          4,
+          41,
+          18
+        ],
+        "6": [
+          null,
+          2,
+          26,
+          15
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 40,
+          "name": "Rarity",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "paramType1": "value",
+          "paramValue1": "0-999",
+          "nature": "Neutral",
+          "description": "{parameter1}",
+          "param1": {
+            "spec": [
+              "3-6"
+            ],
+            "min": 3,
+            "max": 3,
+            "value": 3,
+            "map": {
+              "3": "Mythic"
+            }
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        null
+      ],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 40,
+          "name": "Rarity",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "paramType1": "value",
+          "paramValue1": "0-999",
+          "nature": "Neutral",
+          "description": "{parameter1}",
+          "param1": {
+            "spec": "3-6",
+            "min": 3,
+            "max": 6,
+            "map": {
+              "3": "Mythic",
+              "4": "Epic",
+              "5": "Rare",
+              "6": "Magical"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2901,
+          "name": "ItemRewardsIncrease",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/itemrewardsincrease",
+          "paramType1": "percent",
+          "paramType2": "rewardtype",
+          "paramValue1": "0-20",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} {parameter2} Rewards on Pickup",
+          "param1": {
+            "spec": "4-10",
+            "min": 4,
+            "max": 10
+          },
+          "value": null
+        },
+        {
+          "id": 2902,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "4-10",
+            "min": 4,
+            "max": 10
+          },
+          "value": null
+        },
+        {
+          "id": 2303,
+          "name": "EnergyRegen",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/energyregen",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "paramValue2": "0-60",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} Energy Regeneration",
+          "param1": {
+            "spec": "2-5",
+            "min": 2,
+            "max": 5
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        null,
+        10,
+        10,
+        5
+      ],
+      "presets": {
+        "2": [
+          null,
+          10,
+          10,
+          5
+        ],
+        "3": [
+          null,
+          10,
+          10,
+          5
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "2-20-14",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 40,
+      "value": 6
+    },
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 20
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 14
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 10
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 724
+    }
+  ],
+  "attributes": [
+    {
+      "id": 40,
+      "name": "Rarity",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+      "paramType1": "value",
+      "paramValue1": "0-999",
+      "nature": "Neutral",
+      "description": "{parameter1}",
+      "param1": {
+        "spec": "3-6",
+        "min": 3,
+        "max": 6,
+        "map": {
+          "3": "Mythic",
+          "4": "Epic",
+          "5": "Rare",
+          "6": "Magical"
+        },
+        "value": 6
+      },
+      "value": 6,
+      "min": 3,
+      "max": 6,
+      "variant": 2,
+      "attributeId": 40,
+      "map": {
+        "3": "Mythic",
+        "4": "Epic",
+        "5": "Rare",
+        "6": "Magical"
+      },
+      "trait_type": "{parameter1}"
+    },
+    {
+      "id": 1,
+      "name": "HarvestYield",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Increased Harvest Yield",
+      "param1": {
+        "spec": "2-5",
+        "min": 2,
+        "max": 5,
+        "value": 2
+      },
+      "value": 2,
+      "min": 2,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 1,
+      "trait_type": "{parameter1} Increased Harvest Yield"
+    },
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "20-50",
+        "min": 20,
+        "max": 50,
+        "value": 20
+      },
+      "value": 20,
+      "min": 20,
+      "max": 50,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 13,
+      "name": "MagicFind",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "paramType1": "percent",
+      "paramValue1": "0-999",
+      "nature": "Buff",
+      "description": "{parameter1} Magic Find",
+      "param1": {
+        "spec": "14-20",
+        "min": 14,
+        "max": 20,
+        "value": 14
+      },
+      "value": 14,
+      "min": 14,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "{parameter1} Magic Find"
+    },
+    {
+      "id": 7,
+      "name": "FindShard",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+      "param1": {
+        "spec": "10",
+        "min": 10,
+        "max": 10,
+        "value": 10
+      },
+      "value": 10,
+      "min": 10,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 7,
+      "trait_type": "{parameter1} Chance To Find Worldstone Shard (Per Raid)"
+    }
+  ],
+  "perfection": 0,
+  "slots": [
+    "Neck"
+  ],
+  "meta": {
+    "harvestYield": 2,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "feeReduction": 20,
+    "worldstoneShardChance": 10,
+    "odds": 868,
+    "version": 0,
+    "created": 1659217299645,
+    "revision": 0
+  },
+  "id": 29,
+  "name": "Dragonlight",
+  "slug": "Dragonlight",
+  "icon": "/images/items/00029.png",
+  "image": "https://dl.airtable.com/.attachments/d235f466e1e662558a3801db5be596c5/29e18b3b/00029.png?ts=1657605403&userId=usrf0GZYc5zCl9Cv7&cs=7d7233f4acc14184",
+  "type": "Amulet",
+  "subType": 17,
+  "specificType": 173,
+  "isPolled": false,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": false,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": false,
+  "isUnequipable": false,
+  "isTradeable": false,
+  "isTransferable": false,
+  "isUpgradable": false,
+  "isPublishable": true,
+  "isRuneword": false,
+  "numPerfectionRolls": 868,
+  "recipe": {
+    "requirement": []
+  },
+  "shortDescription": "",
+  "visualDescription": "With a platinum chain affixed to a glittering platinum dragon wrapped about a massive aquamarine, this feat of jewelry emanates a frosty aura.",
+  "skills": [],
+  "materials": [],
+  "version": 3,
+  "shortTokenId": "10030002913204000620010...724",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 5921
+}

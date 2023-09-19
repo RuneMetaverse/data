@@ -1,0 +1,81 @@
+{
+  "address": "0x6F7D0fa976fF8A90371783c53441A38af089A472",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "UQQhOfM-Z",
+      "rune": "sol",
+      "value": 0.01,
+      "timestamp": 1645845336115
+    },
+    {
+      "id": "UQQhOfM-Z",
+      "rune": "amn",
+      "value": 0.02,
+      "timestamp": 1645845336115
+    },
+    {
+      "id": "UQQhOfM-Z",
+      "rune": "zod",
+      "value": 0.004,
+      "timestamp": 1645845336115
+    },
+    {
+      "id": "UQQhOfM-Z",
+      "rune": "hel",
+      "value": 0.03,
+      "timestamp": 1645845336115
+    },
+    {
+      "id": "UQQhOfM-Z",
+      "rune": "thul",
+      "value": 0.01,
+      "timestamp": 1645845336115
+    },
+    {
+      "id": "UQQhOfM-Z",
+      "rune": "shael",
+      "value": 0.01,
+      "timestamp": 1645845336115
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "sol": 0,
+      "amn": 0,
+      "zod": 0,
+      "hel": 0,
+      "thul": 0,
+      "shael": 0
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "sol": 0.01,
+      "amn": 0.02,
+      "zod": 0.004,
+      "hel": 0.03,
+      "thul": 0.01,
+      "shael": 0.01
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "UQQhOfM-Z",
+      "timestamp": 1645845336115,
+      "status": "processing"
+    }
+  ]
+}

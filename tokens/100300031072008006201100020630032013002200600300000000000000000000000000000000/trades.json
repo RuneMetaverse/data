@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1184,
+    "seller": "0x191727d22f2693100acef8e48F8FeaEaa06d30b1",
+    "buyer": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "tokenId": "100300031072008006201100020630032013002200600300000000000000000000000000000000",
+    "price": 1659774559.026,
+    "status": "delisted",
+    "hotness": 0,
+    "createdAt": 1659772770333,
+    "updatedAt": 1659774705330,
+    "blockNumber": 20199109,
+    "item": {
+      "id": 31,
+      "name": "Hellfire"
+    }
+  },
+  {
+    "id": 1234,
+    "seller": "0x191727d22f2693100acef8e48F8FeaEaa06d30b1",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100300031072008006201100020630032013002200600300000000000000000000000000000000",
+    "price": 100000,
+    "status": "delisted",
+    "hotness": 0,
+    "createdAt": 1660510381980,
+    "updatedAt": 1660606740372,
+    "blockNumber": 20472761,
+    "releaseAt": 0.0001,
+    "item": {
+      "id": 31,
+      "name": "Hellfire"
+    }
+  }
+]

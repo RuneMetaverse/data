@@ -1,0 +1,910 @@
+{
+  "description": "Fashioned from lightweight materials, these plated chausses allow the wearer to flow with the tide of battle.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10030002008200800120070012013004201100420340002006002000000000000000000000988",
+  "image_url": "/images/items/00020.png",
+  "language": "en-US",
+  "tokenId": "10030002008200800120070012013004201100420340002006002000000000000000000000988",
+  "details": {
+    "Type": "Leg Armor",
+    "Subtype": "Templar Chausses",
+    "Rune Word": "Dol Io Hel Lum",
+    "Distribution": "Crafted",
+    "Date": "June 26, 2021 - Now"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "1-10",
+            "min": 1,
+            "max": 10,
+            "value": 1
+          },
+          "value": 1,
+          "min": 1,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 7,
+          "name": "FindShard",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+          "param1": {
+            "spec": "1-10",
+            "min": 1,
+            "max": 10,
+            "value": 1
+          },
+          "value": 1,
+          "min": 1,
+          "max": 10,
+          "explanation": "Chance applies once per raid.",
+          "variant": 2,
+          "attributeId": 7
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "4",
+            "min": 4,
+            "max": 4,
+            "value": 4
+          },
+          "value": 4,
+          "min": 4,
+          "max": 4,
+          "variant": 2,
+          "attributeId": 13
+        },
+        {
+          "id": 11,
+          "name": "RandomRuneExchange",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Mechanic",
+          "description": "{parameter1} Random Rune Exchange",
+          "param1": {
+            "spec": "1-4",
+            "min": 1,
+            "max": 4,
+            "value": 4
+          },
+          "value": 4,
+          "min": 1,
+          "max": 4,
+          "variant": 2,
+          "attributeId": 11
+        },
+        {
+          "id": 34,
+          "name": "AvoidBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/avoidburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Avoid All Burns (Not Implemented)",
+          "param1": {
+            "spec": "0-1",
+            "min": 0,
+            "max": 1,
+            "value": 0
+          },
+          "value": 0,
+          "min": 0,
+          "max": 1,
+          "variant": 2,
+          "attributeId": 34
+        },
+        {
+          "id": 6,
+          "name": "HarvestBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Burn",
+          "param1": {
+            "spec": "0-3",
+            "min": 0,
+            "max": 3,
+            "value": 2
+          },
+          "value": 2,
+          "min": 0,
+          "max": 3,
+          "variant": 2,
+          "attributeId": 6
+        }
+      ],
+      "perfection": [
+        10,
+        10,
+        null,
+        null,
+        1,
+        0
+      ],
+      "presets": {
+        "2": [
+          10,
+          10,
+          null,
+          null,
+          1,
+          0
+        ],
+        "3": [
+          10,
+          10,
+          null,
+          null,
+          1,
+          0
+        ],
+        "4": [
+          9,
+          9,
+          null,
+          null,
+          0,
+          0
+        ],
+        "5": [
+          7,
+          7,
+          null,
+          null,
+          0,
+          0
+        ],
+        "6": [
+          2,
+          2,
+          null,
+          null,
+          0,
+          2
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1060,
+          "name": "DamageResist",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} damage resist",
+          "param1": {
+            "spec": [
+              "1-10"
+            ],
+            "min": 1,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 1030,
+          "name": "MovementSpeedIncrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/movementspeedincrease",
+          "paramType1": "percent",
+          "paramValue1": "0-10",
+          "nature": "Buff",
+          "influences": "Movement",
+          "description": "{parameter1} faster movement.",
+          "param1": {
+            "spec": "1-10",
+            "min": 1,
+            "max": 10,
+            "value": 1
+          },
+          "value": null
+        },
+        {
+          "id": 1101,
+          "name": "DeathPenaltyDecrease",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltydecrease",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Buff",
+          "influences": "Game",
+          "description": "{parameter1} reduction to points lost on death.",
+          "param1": {
+            "spec": "4-4",
+            "min": 4,
+            "max": 4,
+            "value": 4
+          }
+        },
+        {
+          "id": 1303,
+          "name": "RandomizedItemAttribute",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomizeditemattribute",
+          "paramType1": "randomattributeid",
+          "nature": "Mechanic",
+          "influences": "All",
+          "description": "{RandomAttributeID}.id.description",
+          "param1": {
+            "spec": "1-4",
+            "min": 1,
+            "max": 4,
+            "value": 1
+          }
+        },
+        {
+          "id": 1102,
+          "name": "DeathPenaltyAvoid",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltyavoid",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Buff",
+          "influences": "Game",
+          "description": "{parameter1} to avoid losing points on death.",
+          "param1": {
+            "spec": "1-2",
+            "min": 1,
+            "max": 2,
+            "value": 1
+          },
+          "value": null
+        },
+        {
+          "id": 1100,
+          "name": "KilledPlayerPenaltyIncrease",
+          "isEnabled": true,
+          "nexusLink": "https://nexus.rune.game/item-attribute/killedplayerpenaltyincrease",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Buff",
+          "influences": "Game",
+          "description": "{parameter1} greater point penalty for defeated opponents.",
+          "param1": {
+            "spec": "0-3",
+            "min": 0,
+            "max": 3,
+            "value": null
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        null,
+        10,
+        null,
+        null,
+        2,
+        3
+      ],
+      "presets": {
+        "2": [
+          null,
+          10,
+          null,
+          null,
+          2,
+          3
+        ],
+        "3": [
+          null,
+          10,
+          null,
+          null,
+          2,
+          3
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "1-10",
+            "min": 1,
+            "max": 10,
+            "value": 1
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "4-6",
+            "min": 4,
+            "max": 6,
+            "value": 4
+          },
+          "param2": {
+            "spec": "MovementSpeed",
+            "min": 3,
+            "max": 3,
+            "value": 3,
+            "map": {
+              "3": "MovementSpeed"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Burst of Speed",
+            "map": {}
+          }
+        },
+        {
+          "id": 2949,
+          "name": "IncreaseOnHit",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseonhit",
+          "paramType1": "percent",
+          "paramType2": "percent",
+          "paramType3": "stat",
+          "paramValue1": "0-100",
+          "paramValue2": "0-200",
+          "description": "{parameter1} chance for {parameter2} {parameter3} on hit",
+          "param1": {
+            "spec": "10-10",
+            "min": 10,
+            "max": 10,
+            "value": 10
+          },
+          "param2": {
+            "spec": "2-2",
+            "min": 2,
+            "max": 2,
+            "value": 2
+          }
+        },
+        {
+          "id": 3806,
+          "name": "IncreaseMaxSkillCharges",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasemaxskillcharges",
+          "paramType1": "value",
+          "paramType2": "skill",
+          "paramValue1": "0-10",
+          "nature": "Buff",
+          "influences": "Skill",
+          "description": "{parameter1} Additional Charges For {parameter2} Skill(s)",
+          "param1": {
+            "spec": "0-1",
+            "min": 0,
+            "max": 1,
+            "value": 0
+          },
+          "param2": {
+            "spec": "Movement",
+            "map": {}
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "3-6",
+            "min": 3,
+            "max": 6,
+            "value": null
+          },
+          "param2": {
+            "spec": "CriticalHitMultiplier",
+            "min": 5,
+            "max": 5,
+            "value": 5,
+            "map": {
+              "5": "CriticalHitMultiplier"
+            }
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        10,
+        6,
+        null,
+        null,
+        1,
+        6
+      ],
+      "presets": {
+        "2": [
+          10,
+          6,
+          null,
+          null,
+          1,
+          6
+        ],
+        "3": [
+          10,
+          6,
+          null,
+          null,
+          1,
+          6
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "1-1-0-2",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 34,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 988
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "1-10",
+        "min": 1,
+        "max": 10,
+        "value": 1
+      },
+      "value": 1,
+      "min": 1,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 7,
+      "name": "FindShard",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+      "param1": {
+        "spec": "1-10",
+        "min": 1,
+        "max": 10,
+        "value": 1
+      },
+      "value": 1,
+      "min": 1,
+      "max": 10,
+      "explanation": "Chance applies once per raid.",
+      "variant": 2,
+      "attributeId": 7,
+      "trait_type": "{parameter1} Chance To Find Worldstone Shard (Per Raid)"
+    },
+    {
+      "id": 13,
+      "name": "MagicFind",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "paramType1": "percent",
+      "paramValue1": "0-999",
+      "nature": "Buff",
+      "description": "{parameter1} Magic Find",
+      "param1": {
+        "spec": "4",
+        "min": 4,
+        "max": 4,
+        "value": 4
+      },
+      "value": 4,
+      "min": 4,
+      "max": 4,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "{parameter1} Magic Find"
+    },
+    {
+      "id": 11,
+      "name": "RandomRuneExchange",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Mechanic",
+      "description": "{parameter1} Random Rune Exchange",
+      "param1": {
+        "spec": "1-4",
+        "min": 1,
+        "max": 4,
+        "value": 4
+      },
+      "value": 4,
+      "min": 1,
+      "max": 4,
+      "variant": 2,
+      "attributeId": 11,
+      "trait_type": "{parameter1} Random Rune Exchange"
+    },
+    {
+      "id": 34,
+      "name": "AvoidBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/avoidburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Avoid All Burns (Not Implemented)",
+      "param1": {
+        "spec": "0-1",
+        "min": 0,
+        "max": 1,
+        "value": 0
+      },
+      "value": 0,
+      "min": 0,
+      "max": 1,
+      "variant": 2,
+      "attributeId": 34,
+      "trait_type": "{parameter1} Avoid All Burns (Not Implemented)"
+    },
+    {
+      "id": 6,
+      "name": "HarvestBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Burn",
+      "param1": {
+        "spec": "0-3",
+        "min": 0,
+        "max": 3,
+        "value": 2
+      },
+      "value": 2,
+      "min": 0,
+      "max": 3,
+      "variant": 2,
+      "attributeId": 6,
+      "trait_type": "{parameter1} Harvest Burn"
+    }
+  ],
+  "perfection": 0.08,
+  "slots": [
+    "Legs"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 2,
+    "attributes": {
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "11": 4,
+      "13": 4,
+      "34": 0,
+      "1030": 1,
+      "1060": 1,
+      "1100": null,
+      "1101": 4,
+      "1102": 1,
+      "1303": 1,
+      "2316": 1,
+      "2600": null,
+      "2949": 10,
+      "3806": 0
+    },
+    "feeReduction": null,
+    "worldstoneShardChance": null,
+    "randomRuneExchange": null,
+    "probability": {
+      "mythic": null,
+      "epic": null,
+      "rare": null,
+      "magical": null,
+      "roll": null
+    },
+    "version": 0,
+    "created": 1662703581234,
+    "revision": 0
+  },
+  "id": 20,
+  "name": "Flow",
+  "slug": "flow",
+  "icon": "/images/items/00020.png",
+  "image": "https://dl.airtable.com/.attachments/5bc174cde3bb4cc184cef3d4e02a9355/1171703f/Untitled-31.png?ts=1657605377&userId=usrf0GZYc5zCl9Cv7&cs=5b1bbbcc39c30593",
+  "type": "Leggings",
+  "subType": 16,
+  "specificType": 16,
+  "isPolled": true,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": true,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 800,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 13,
+        "quantity": 1,
+        "symbol": "DOL"
+      },
+      {
+        "id": 15,
+        "quantity": 1,
+        "symbol": "IO"
+      },
+      {
+        "id": 14,
+        "quantity": 1,
+        "symbol": "HEL"
+      },
+      {
+        "id": 16,
+        "quantity": 1,
+        "symbol": "LUM"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "Made from purple-hued steel, these finely crafted chausses are kept in good condition despite their extensive use.",
+  "skills": [],
+  "materials": [],
+  "version": 3,
+  "shortTokenId": "10030002008200800120070...988",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 4996
+}

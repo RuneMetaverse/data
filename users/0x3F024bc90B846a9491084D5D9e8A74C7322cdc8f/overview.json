@@ -1,0 +1,110 @@
+{
+  "address": "0x3F024bc90B846a9491084D5D9e8A74C7322cdc8f",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "O94PjUc1s",
+      "rune": "hel",
+      "value": 2.503,
+      "timestamp": 1644525286816
+    },
+    {
+      "id": "O94PjUc1s",
+      "rune": "amn",
+      "value": 2.7070000000000003,
+      "timestamp": 1644525286816
+    },
+    {
+      "id": "O94PjUc1s",
+      "rune": "zod",
+      "value": 3.8409999999999997,
+      "timestamp": 1644525286816
+    },
+    {
+      "id": "O94PjUc1s",
+      "rune": "nef",
+      "value": 2.487,
+      "timestamp": 1644525286816
+    },
+    {
+      "id": "O94PjUc1s",
+      "rune": "tal",
+      "value": 2.8529999999999998,
+      "timestamp": 1644525286816
+    },
+    {
+      "id": "O94PjUc1s",
+      "rune": "ral",
+      "value": 2.837,
+      "timestamp": 1644525286816
+    },
+    {
+      "id": "O94PjUc1s",
+      "rune": "ort",
+      "value": 2.738,
+      "timestamp": 1644525286816
+    },
+    {
+      "id": "O94PjUc1s",
+      "rune": "ith",
+      "value": 2.7150000000000003,
+      "timestamp": 1644525286816
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "hel": 0.008,
+      "amn": 0.007,
+      "zod": 0.042,
+      "nef": 0.018000000000000002,
+      "tal": 0.007,
+      "ral": 0.012,
+      "ort": 0.004,
+      "ith": 0.004,
+      "thul": 0.004,
+      "shael": 0.013000000000000001,
+      "sol": 0.016,
+      "tir": 0.008
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "hel": 2.511,
+      "amn": 2.7140000000000004,
+      "zod": 3.8829999999999996,
+      "tal": 2.86,
+      "ort": 2.742,
+      "ith": 2.7190000000000003,
+      "ral": 2.849,
+      "nef": 2.5050000000000003,
+      "thul": 0.004,
+      "shael": 0.013000000000000001,
+      "sol": 0.016,
+      "tir": 0.008
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "O94PjUc1s",
+      "timestamp": 1644525286816,
+      "status": "processing"
+    },
+    {
+      "id": "O94PjUc1s",
+      "requestId": "0xf9bf2575ced40e1133d2c074b88e4b1c7538c3d3a4eb7be4b789d0a052c5ae06",
+      "status": "completed"
+    }
+  ]
+}

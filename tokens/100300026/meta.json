@@ -1,0 +1,282 @@
+{
+  "description": "The method and materials used to create this object of transcendant beauty and power have long been lost to the world.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300026",
+  "catalog_url": "https://rune.game/catalog/26",
+  "image": "https://rune.game/images/items/00026.png",
+  "language": "en-US",
+  "tokenId": "100300026",
+  "details": {
+    "Type": "Ring",
+    "Subtype": "Inscribed Archon Band",
+    "Distribution": "Crafted",
+    "Date": "August 27, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "The method and materials used to create this object of transcendant beauty and power have long been lost to the world."
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 2,
+          "max": 4,
+          "description": "{value}% Increased Harvest Yield"
+        },
+        {
+          "id": 4,
+          "min": 0,
+          "max": 3,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool"
+        },
+        {
+          "id": 13,
+          "min": 5,
+          "max": 5,
+          "description": "{value}% Magic Find"
+        },
+        {
+          "id": 19,
+          "min": 0,
+          "max": 1,
+          "description": "{value}% Chance To Create Random Runeword (Not Implemented)"
+        },
+        {
+          "id": 61,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% increased chance to critically harvest yield (Not Implemented)"
+        },
+        {
+          "id": 35,
+          "min": 20,
+          "max": 20,
+          "description": "Early Rune Access: {value} Minutes (Not Implemented)"
+        },
+        {
+          "id": 2,
+          "min": 0,
+          "max": 10,
+          "description": "{value}% Harvest Fee"
+        },
+        {
+          "id": 3,
+          "min": 9,
+          "max": 11,
+          "description": "Harvest Fee Token: {value}",
+          "map": {
+            "0": "EL",
+            "1": "ELD",
+            "2": "TIR",
+            "3": "NEF",
+            "4": "ETH",
+            "5": "ITH",
+            "6": "TAL",
+            "7": "RAL",
+            "8": "ORT",
+            "9": "THUL",
+            "10": "AMN",
+            "11": "SOL",
+            "12": "SHAEL",
+            "13": "DOL",
+            "14": "HEL",
+            "15": "IO",
+            "16": "LUM",
+            "17": "KO",
+            "18": "FAL",
+            "19": "LEM",
+            "20": "PUL",
+            "21": "UM",
+            "22": "MAL",
+            "23": "IST",
+            "24": "GUL",
+            "25": "VEX",
+            "26": "OHM",
+            "27": "LO",
+            "28": "SUR",
+            "29": "BER",
+            "30": "JAH",
+            "31": "CHAM",
+            "32": "ZOD"
+          }
+        }
+      ],
+      "perfection": [
+        4,
+        3,
+        null,
+        1,
+        5,
+        null,
+        0,
+        null
+      ]
+    },
+    "2": {
+      "description": [
+        "To be announced."
+      ],
+      "attributes": []
+    },
+    "3": {
+      "description": [
+        "To be announced."
+      ],
+      "attributes": []
+    },
+    "4": {
+      "description": [
+        "To be announced."
+      ],
+      "attributes": []
+    }
+  },
+  "shorthand": "----",
+  "mods": [],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 2,
+      "max": 4,
+      "description": "{value}% Increased Harvest Yield",
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 4,
+      "min": 0,
+      "max": 3,
+      "description": "{value}% Chance To Send Harvest To Hidden Pool",
+      "trait_type": "Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 13,
+      "min": 5,
+      "max": 5,
+      "description": "{value}% Magic Find",
+      "trait_type": "Magic Find"
+    },
+    {
+      "id": 19,
+      "min": 0,
+      "max": 1,
+      "description": "{value}% Chance To Create Random Runeword (Not Implemented)",
+      "trait_type": "Chance To Create Random Runeword (Not Implemented)"
+    },
+    {
+      "id": 61,
+      "min": 1,
+      "max": 5,
+      "description": "{value}% increased chance to critically harvest yield (Not Implemented)",
+      "trait_type": "increased chance to critically harvest yield (Not Implemented)"
+    },
+    {
+      "id": 35,
+      "min": 20,
+      "max": 20,
+      "description": "Early Rune Access: {value} Minutes (Not Implemented)",
+      "trait_type": "Early Rune Access Minutes (Not Implemented)"
+    },
+    {
+      "id": 2,
+      "min": 0,
+      "max": 10,
+      "description": "{value}% Harvest Fee",
+      "trait_type": "Harvest Fee"
+    },
+    {
+      "id": 3,
+      "min": 9,
+      "max": 11,
+      "description": "Harvest Fee Token: {value}",
+      "map": {
+        "0": "EL",
+        "1": "ELD",
+        "2": "TIR",
+        "3": "NEF",
+        "4": "ETH",
+        "5": "ITH",
+        "6": "TAL",
+        "7": "RAL",
+        "8": "ORT",
+        "9": "THUL",
+        "10": "AMN",
+        "11": "SOL",
+        "12": "SHAEL",
+        "13": "DOL",
+        "14": "HEL",
+        "15": "IO",
+        "16": "LUM",
+        "17": "KO",
+        "18": "FAL",
+        "19": "LEM",
+        "20": "PUL",
+        "21": "UM",
+        "22": "MAL",
+        "23": "IST",
+        "24": "GUL",
+        "25": "VEX",
+        "26": "OHM",
+        "27": "LO",
+        "28": "SUR",
+        "29": "BER",
+        "30": "JAH",
+        "31": "CHAM",
+        "32": "ZOD"
+      },
+      "trait_type": "Harvest Fee Token"
+    }
+  ],
+  "perfection": null,
+  "slots": [
+    "Finger 1",
+    "Finger 2"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0
+  },
+  "id": 26,
+  "name": "Eternity",
+  "icon": "https://rune.game/images/items/00026.png",
+  "isNew": true,
+  "isEquipable": false,
+  "isUnequipable": false,
+  "isTradeable": false,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": true,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "100300026...026",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "description": "Used for entry to a Rune Royale tournament.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10030121125204100420426640000000000000000000000000000000000000000000000000719",
+  "catalog_url": "https://rune.game/catalog/1211",
+  "image": "https://rune.game/images/items/01211.png",
+  "language": "en-US",
+  "tokenId": "10030121125204100420426640000000000000000000000000000000000000000000000000719",
+  "details": {
+    "Type": "Scroll",
+    "Subtype": "Ticket",
+    "Recipe": "ZOD",
+    "Distribution": "Crafted",
+    "Date": "Feb 21, 2022 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "Used for entry to a Rune Royale tournament."
+      ],
+      "attributes": [
+        {
+          "id": 41,
+          "min": 3,
+          "max": 3,
+          "description": "Access to Rune Royale #{Value}",
+          "value": 4,
+          "variant": 2,
+          "attributeId": 41
+        },
+        {
+          "id": 42,
+          "min": 0,
+          "max": 999,
+          "description": "",
+          "variant": 2,
+          "attributeId": 42,
+          "value": 664
+        }
+      ],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": [],
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 41,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 42,
+      "value": 664
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 719
+    }
+  ],
+  "attributes": [
+    {
+      "id": 41,
+      "min": 3,
+      "max": 3,
+      "description": "Access to Rune Royale #{Value}",
+      "value": 4,
+      "variant": 2,
+      "attributeId": 41,
+      "trait_type": "Access to Rune Royale #{Value}"
+    },
+    {
+      "id": 42,
+      "min": 0,
+      "max": 999,
+      "description": "",
+      "variant": 2,
+      "attributeId": 42,
+      "value": 664,
+      "trait_type": ""
+    }
+  ],
+  "perfection": 1,
+  "slots": [],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0
+  },
+  "id": 1211,
+  "name": "Rune Royale Ticket",
+  "icon": "https://rune.game/images/items/01211.png",
+  "rarity": {
+    "id": 7,
+    "name": "Normal"
+  },
+  "type": "Misc",
+  "isNew": true,
+  "isEquipable": false,
+  "isUnequipable": false,
+  "isTradeable": false,
+  "isTransferable": true,
+  "isUpgradable": false,
+  "isCraftable": true,
+  "isDisabled": false,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "ZOD",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030121125204100420426...719"
+}

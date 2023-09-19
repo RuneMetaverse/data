@@ -1,0 +1,68 @@
+{
+  "address": "0x5B8DFD3569C475D39Ab41400A78394AdFa04F597",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "gm_LEty92",
+      "rune": "ort",
+      "value": 0.008,
+      "timestamp": 1645180074886
+    },
+    {
+      "id": "gm_LEty92",
+      "rune": "ort",
+      "value": 0.008,
+      "timestamp": 1645180074958
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "ort": 0.003,
+      "dol": 0.006,
+      "ral": 0.006,
+      "zod": 0.009000000000000001,
+      "ith": 0.008,
+      "nef": 0.003,
+      "sol": 0.003,
+      "thul": 0.003,
+      "tal": 0.005
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "dol": 0.006,
+      "ral": 0.006,
+      "zod": 0.009000000000000001,
+      "ith": 0.008,
+      "nef": 0.003,
+      "ort": 0.003,
+      "sol": 0.003,
+      "thul": 0.003,
+      "tal": 0.005
+    },
+    "items": {}
+  },
+  "claimRequests": [
+    {
+      "id": "gm_LEty92",
+      "timestamp": 1645180074886,
+      "status": "processing"
+    },
+    {
+      "id": "gm_LEty92",
+      "requestId": "0xc546e9ef1a0e84a50ff6dcec863b050cc3d1dec3e5117b38e138cc43ae1bf6ba",
+      "status": "completed"
+    }
+  ],
+  "craftedItemCount": 0,
+  "transferredInCount": 0
+}

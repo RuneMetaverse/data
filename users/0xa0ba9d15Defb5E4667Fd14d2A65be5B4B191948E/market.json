@@ -1,0 +1,408 @@
+{
+  "trades": [
+    {
+      "id": 449,
+      "seller": "0xc00f217Dc088953e98D140DdEDf24E3c933e8FE4",
+      "buyer": "0xa0ba9d15Defb5E4667Fd14d2A65be5B4B191948E",
+      "tokenId": "10010000410001000187319335",
+      "price": 0.2666,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1622322923575,
+      "updatedAt": 1622535295235,
+      "blockNumber": 7911890,
+      "item": {
+        "tokenId": "10010000410001000187319335",
+        "details": {
+          "Type": "Relic",
+          "Distribution": "Claimable",
+          "Date": "May 3 - Now",
+          "Max Supply": "Infinite"
+        },
+        "branches": {
+          "1": {
+            "description": [
+              "A relic of a broken past."
+            ],
+            "attributes": [
+              {
+                "id": 32,
+                "min": 100,
+                "max": 100,
+                "desc": "{value}% Chance To Transmute Item (SOON)"
+              }
+            ]
+          },
+          "2": {
+            "description": "A relic of a broken past.",
+            "attributes": [
+              {
+                "id": 1,
+                "value": 0,
+                "description": "Used to transmute items."
+              }
+            ]
+          }
+        },
+        "shorthand": "",
+        "mods": [
+          {
+            "variant": 1,
+            "value": 0,
+            "attributeId": 7
+          },
+          {
+            "variant": 1,
+            "value": 0
+          },
+          {
+            "variant": 1,
+            "value": 873
+          },
+          {
+            "variant": 1,
+            "value": 933
+          }
+        ],
+        "attributes": [
+          {
+            "id": 32,
+            "min": 100,
+            "max": 100,
+            "desc": "{value}% Chance To Transmute Item (SOON)",
+            "variant": 1,
+            "value": 0,
+            "attributeId": 7
+          }
+        ],
+        "perfection": null,
+        "category": "accessory",
+        "meta": {
+          "harvestYield": 0,
+          "harvestFees": {},
+          "chanceToSendHarvestToHiddenPool": 0,
+          "chanceToLoseHarvest": 0,
+          "harvestBurn": 0
+        },
+        "id": 4,
+        "name": "Worldstone Shard",
+        "icon": "undefinedimages/items/00004.png",
+        "value": "0",
+        "isNew": true,
+        "isEquipable": false,
+        "isTradeable": false,
+        "isTransferable": false,
+        "isCraftable": false,
+        "isDisabled": false,
+        "createdDate": 12111,
+        "hotnessScore": 1,
+        "version": 1,
+        "type": 0,
+        "shortTokenId": "10010000410001000187319...335"
+      }
+    },
+    {
+      "id": 599,
+      "seller": "0xa0ba9d15Defb5E4667Fd14d2A65be5B4B191948E",
+      "buyer": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "tokenId": "100300001010008000300020000000000000000000000000000000000000000000000000505",
+      "price": 0.05,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1622535429455,
+      "updatedAt": 1627727902227,
+      "blockNumber": 9628404,
+      "item": {
+        "id": 1
+      }
+    },
+    {
+      "id": 601,
+      "seller": "0xa0ba9d15Defb5E4667Fd14d2A65be5B4B191948E",
+      "buyer": "0x37470038C615Def104e1bee33c710bD16a09FdEf",
+      "tokenId": "100300003050002000300250000000000000000000000000000000000000000000000000334",
+      "price": 0.04,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1622535473744,
+      "updatedAt": 1622669970109,
+      "blockNumber": 7956665,
+      "item": {
+        "tokenId": "100300003050002000300250000000000000000000000000000000000000000000000000334",
+        "details": {
+          "Type": "Helm",
+          "Subtype": "Full Helm",
+          "Rune Word": "Nef Tir",
+          "Distribution": "Crafted",
+          "Date": "April 25 - Now",
+          "Max Supply": "Unknown"
+        },
+        "branches": {
+          "1": {
+            "description": [
+              "A once unbreakable helm, it's seen its best days."
+            ],
+            "attributes": [
+              {
+                "id": 1,
+                "min": 1,
+                "max": 3,
+                "description": "{value}% Increased Harvest Yield"
+              },
+              {
+                "id": 6,
+                "min": 1,
+                "max": 3,
+                "description": "{value}% Harvest Burn"
+              },
+              {
+                "id": 7,
+                "min": 100,
+                "max": 100,
+                "description": "{value}% Chance To Find Worldstone Shard (Per Raid)"
+              }
+            ],
+            "perfection": [
+              3,
+              1
+            ]
+          },
+          "2": {
+            "description": "A once unbreakable helm, it's seen its best days.",
+            "attributes": [
+              {
+                "id": 1,
+                "value": 5,
+                "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+              },
+              {
+                "id": 2,
+                "value": 100,
+                "description": "{value}% Increased Block Speed"
+              },
+              {
+                "id": 2,
+                "value": 230,
+                "description": "{value}% Enhanced Defense"
+              },
+              {
+                "id": 2,
+                "min": 41,
+                "max": 50,
+                "description": "Physical Damage Reduced by {value}"
+              },
+              {
+                "id": 2,
+                "description": "Half Freeze Duration"
+              }
+            ]
+          }
+        },
+        "shorthand": "2-3",
+        "mods": [
+          {
+            "variant": 0,
+            "value": 2,
+            "attributeId": 1
+          },
+          {
+            "variant": 0,
+            "value": 3,
+            "attributeId": 6
+          },
+          {
+            "variant": 0,
+            "value": 25
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 334
+          }
+        ],
+        "attributes": [
+          {
+            "id": 1,
+            "min": 1,
+            "max": 3,
+            "description": "{value}% Increased Harvest Yield",
+            "variant": 0,
+            "value": 2,
+            "attributeId": 1
+          },
+          {
+            "id": 6,
+            "min": 1,
+            "max": 3,
+            "description": "{value}% Harvest Burn",
+            "variant": 0,
+            "value": 3,
+            "attributeId": 6
+          }
+        ],
+        "perfection": 0.25,
+        "category": "armor",
+        "meta": {
+          "harvestYield": 2,
+          "harvestFees": {},
+          "chanceToSendHarvestToHiddenPool": 0,
+          "chanceToLoseHarvest": 0,
+          "harvestBurn": 3
+        },
+        "id": 3,
+        "name": "Lorekeeper",
+        "icon": "undefinedimages/items/00003.png",
+        "value": "0",
+        "isNew": false,
+        "isEquipable": true,
+        "isUnequipable": false,
+        "isTradeable": true,
+        "isTransferable": true,
+        "isCraftable": true,
+        "isDisabled": false,
+        "isRuneword": true,
+        "createdDate": 12111,
+        "hotnessScore": 1,
+        "recipe": {
+          "requirement": [
+            {
+              "id": 4,
+              "quantity": 1
+            },
+            {
+              "id": 3,
+              "quantity": 1
+            }
+          ]
+        },
+        "version": 3,
+        "type": 5,
+        "shortTokenId": "10030000305000200030025...334",
+        "slotId": 3
+      }
+    },
+    {
+      "id": 603,
+      "seller": "0xa0ba9d15Defb5E4667Fd14d2A65be5B4B191948E",
+      "buyer": "0x96E46E6f05ED30BaF0e2823bf5c26C4c0bDDE983",
+      "tokenId": "1003000051120010092006005200401800000000000000000000000000000000000000000376",
+      "price": 0.05,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1622535533745,
+      "updatedAt": 1630195355065,
+      "blockNumber": 10435613,
+      "item": {
+        "id": 5
+      }
+    },
+    {
+      "id": 605,
+      "seller": "0xa0ba9d15Defb5E4667Fd14d2A65be5B4B191948E",
+      "buyer": "0xE38dFcD638687B13c2dF245104cd1CC6cBc3Cb11",
+      "tokenId": "1003000060720010032008017201100200000000000000000000000000000000000000000833",
+      "price": 0.0851,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1622535608968,
+      "updatedAt": 1627195219735,
+      "blockNumber": 9458645,
+      "item": {
+        "id": 6
+      }
+    },
+    {
+      "id": 607,
+      "seller": "0xa0ba9d15Defb5E4667Fd14d2A65be5B4B191948E",
+      "buyer": "0x43A3985637C055b03cB62d913839CC4ff7d4656f",
+      "tokenId": "1003000060720010032008013201100200000000000000000000000000000000000000000762",
+      "price": 0.06,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1622535684151,
+      "updatedAt": 1630924247705,
+      "blockNumber": 10672754,
+      "item": {
+        "id": 6
+      }
+    },
+    {
+      "id": 609,
+      "seller": "0xa0ba9d15Defb5E4667Fd14d2A65be5B4B191948E",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300013022001025200401520070152006014200200920030092039005202100200000557",
+      "price": 0.26,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1622536960913,
+      "updatedAt": 1622536960913,
+      "blockNumber": 7912128,
+      "item": {
+        "tokenId": "100300013022001025200401520070152006014200200920030092039005202100200000557",
+        "details": {},
+        "branches": {},
+        "shorthand": "",
+        "mods": [],
+        "attributes": [],
+        "perfection": null,
+        "category": "weapon",
+        "meta": {
+          "harvestYield": 0,
+          "harvestFeeToken": "",
+          "harvestFeePercent": 0,
+          "harvestFees": {},
+          "chanceToSendHarvestToHiddenPool": 0,
+          "chanceToLoseHarvest": 0,
+          "harvestBurn": 0
+        }
+      }
+    }
+  ]
+}

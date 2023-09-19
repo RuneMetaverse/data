@@ -1,0 +1,431 @@
+{
+  "trades": [
+    {
+      "id": 13541,
+      "seller": "0xB6636526C005a7C493b360bA141694f9e493182E",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300021022001005201303220120002007026200500020060952002020200301000000013",
+      "price": 0.05,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1638692993381,
+      "updatedAt": 1645435106436,
+      "blockNumber": 15445932,
+      "item": {
+        "id": 21
+      }
+    },
+    {
+      "id": 16521,
+      "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000060720010022008011201100100000000000000000000000000000000000000000383",
+      "price": 0.01,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1639899665454,
+      "updatedAt": 1646203013117,
+      "blockNumber": 15700879,
+      "item": {
+        "id": 6
+      }
+    },
+    {
+      "id": 18890,
+      "seller": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "10030011212200100320110022069000200600420020202003005000000000000000000000809",
+      "price": 0.03,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1649244038982,
+      "updatedAt": 1649244038982,
+      "blockNumber": 16707565,
+      "item": {
+        "id": 112
+      }
+    },
+    {
+      "id": 18891,
+      "seller": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300031072008005201100020630002013000200600000000000000000000000000000000182",
+      "price": 0.03,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1649244261980,
+      "updatedAt": 1649244261980,
+      "blockNumber": 16707633,
+      "item": {
+        "id": 31
+      }
+    },
+    {
+      "id": 18892,
+      "seller": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300037022001002200404021190022006020200202020030012039019202100400000656",
+      "price": 0.025,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1649244516967,
+      "updatedAt": 1649244516967,
+      "blockNumber": 16707722,
+      "item": {
+        "id": 37
+      }
+    },
+    {
+      "id": 156,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000051120010042006005200401100000000000000000000000000000000000000000599",
+      "price": 500,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650161465936,
+      "updatedAt": 1650176257284,
+      "blockNumber": 17017347,
+      "item": {
+        "id": 5,
+        "name": "Flash"
+      }
+    },
+    {
+      "id": 116,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300002010003002400400000000000000000000000000000000000000000000000000468",
+      "price": 900,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650140006946,
+      "updatedAt": 1650177127321,
+      "blockNumber": 17017639,
+      "item": {
+        "id": 2,
+        "name": "Fury"
+      }
+    },
+    {
+      "id": 149,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000060720010022008011201100100000000000000000000000000000000000000000886",
+      "price": 500,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650160895935,
+      "updatedAt": 1650178717852,
+      "blockNumber": 17018169,
+      "item": {
+        "id": 6,
+        "name": "Titan"
+      }
+    },
+    {
+      "id": 52,
+      "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "10030002712200100220080012004001201200320620042006000000000000000000000000687",
+      "price": 1000,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650113258290,
+      "updatedAt": 1650179017470,
+      "blockNumber": 17018268,
+      "item": {
+        "id": 27,
+        "name": "Instinct"
+      }
+    },
+    {
+      "id": 263,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300002010004002300400000000000000000000000000000000000000000000000000498",
+      "price": 888,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650189518000,
+      "updatedAt": 1650190328143,
+      "blockNumber": 17022027,
+      "item": {
+        "id": 2,
+        "name": "Fury"
+      }
+    },
+    {
+      "id": 115,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300011022001014200402520070102006015200201520030102039007202100300000504",
+      "price": 500,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650139977025,
+      "updatedAt": 1650194753688,
+      "blockNumber": 17023506,
+      "item": {
+        "id": 11,
+        "name": "Grace"
+      }
+    },
+    {
+      "id": 219,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000150320080042012001201300520110042047002203900320210050000000000000767",
+      "price": 600,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650182692390,
+      "updatedAt": 1650200063763,
+      "blockNumber": 17025275,
+      "item": {
+        "id": 15,
+        "name": "Fortress"
+      }
+    },
+    {
+      "id": 194,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000051120010022006004200401100000000000000000000000000000000000000000545",
+      "price": 600,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650181387141,
+      "updatedAt": 1650205839285,
+      "blockNumber": 17027190,
+      "item": {
+        "id": 5,
+        "name": "Flash"
+      }
+    },
+    {
+      "id": 629,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000150320080052012001201300520110032047003203900320210050000000000000119",
+      "price": 455,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650328909333,
+      "updatedAt": 1650330831517,
+      "blockNumber": 17067917,
+      "item": {
+        "id": 15,
+        "name": "Fortress"
+      }
+    },
+    {
+      "id": 628,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000060720010032008011201100100000000000000000000000000000000000000000600",
+      "price": 455,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650328864386,
+      "updatedAt": 1650331026098,
+      "blockNumber": 17067981,
+      "item": {
+        "id": 6,
+        "name": "Titan"
+      }
+    },
+    {
+      "id": 625,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000051120010022006005200401100000000000000000000000000000000000000000843",
+      "price": 444,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650328804461,
+      "updatedAt": 1650331116153,
+      "blockNumber": 17068012,
+      "item": {
+        "id": 5,
+        "name": "Flash"
+      }
+    },
+    {
+      "id": 634,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300002010003002000360000000000000000000000000000000000000000000000000719",
+      "price": 488,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650329029264,
+      "updatedAt": 1650331161290,
+      "blockNumber": 17068027,
+      "item": {
+        "id": 2,
+        "name": "Fury"
+      }
+    },
+    {
+      "id": 362,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300001010006000400020000000000000000000000000000000000000000000000000167",
+      "price": 666,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650231897768,
+      "updatedAt": 1650331701192,
+      "blockNumber": 17068205,
+      "item": {
+        "id": 1,
+        "name": "Steel"
+      }
+    },
+    {
+      "id": 316,
+      "seller": "0x50D1B6D61b57581AaB00D248F81a1E8170a7f3aE",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000150320080042012004201300720110042047003203900320210050000000000000544",
+      "price": 1100,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650204009932,
+      "updatedAt": 1651158994702,
+      "blockNumber": 17342505,
+      "item": {
+        "id": 15,
+        "name": "Fortress"
+      }
+    },
+    {
+      "id": 670,
+      "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000060720010022008011201100100000000000000000000000000000000000000000061",
+      "price": 333,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650347122148,
+      "updatedAt": 1651159377343,
+      "blockNumber": 17342644,
+      "item": {
+        "id": 6,
+        "name": "Titan"
+      }
+    },
+    {
+      "id": 662,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300002010004002200380000000000000000000000000000000000000000000000000615",
+      "price": 444,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650346692721,
+      "updatedAt": 1651159976092,
+      "blockNumber": 17342847,
+      "item": {
+        "id": 2,
+        "name": "Fury"
+      }
+    },
+    {
+      "id": 650,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000051120010022006005200401300000000000000000000000000000000000000000598",
+      "price": 477,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650343552119,
+      "updatedAt": 1651189766433,
+      "blockNumber": 17352675,
+      "item": {
+        "id": 5,
+        "name": "Flash"
+      }
+    },
+    {
+      "id": 848,
+      "seller": "0xA4b94538CDe3b56b4263d30C1b37D0D3aB227b62",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300010022001021200401520070152006012200201220030082039001202100100000676",
+      "price": 555,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650813156430,
+      "updatedAt": 1651643952449,
+      "blockNumber": 17502942,
+      "item": {
+        "id": 10,
+        "name": "Glory"
+      }
+    },
+    {
+      "id": 910,
+      "seller": "0x9B1E916f628cF50e25938308a532fedb0d458884",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000321420400042034001207300320130180000000000000000000000000000090",
+      "price": 9500,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1652699894645,
+      "updatedAt": 1652704558860,
+      "blockNumber": 17851933,
+      "item": {
+        "id": 32,
+        "name": "Luminous Flywings"
+      }
+    },
+    {
+      "id": 900,
+      "seller": "0x653c20F9Eb46E71F9cF0076e318407849C1BedD7",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300019052007009200600220110042008004000000000000000000000000000000000882",
+      "price": 3800,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1651703667768,
+      "updatedAt": 1652710563285,
+      "blockNumber": 17853886,
+      "item": {
+        "id": 19,
+        "name": "Pledge"
+      }
+    },
+    {
+      "id": 766,
+      "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "100300024242008007201100120130012071001207200100000000000000000000000000000442",
+      "price": 555,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650365127044,
+      "updatedAt": 1652782877321,
+      "blockNumber": 17877493,
+      "item": {
+        "id": 24,
+        "name": "Zeal"
+      }
+    },
+    {
+      "id": 912,
+      "seller": "0x6717d460928a89a88bd90af25cF8E6245ca5e74e",
+      "buyer": "0xd140362fe4BaC68119Fec7fc226143e0E3D0712c",
+      "tokenId": "1003000120120010052004022201100120020092003011203900620210040000000000000758",
+      "price": 380,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1652837922973,
+      "updatedAt": 1652850714219,
+      "blockNumber": 17899858,
+      "item": {
+        "id": 12,
+        "name": "Genesis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "address": "0x602BD145BE9294E2041a0Ce0B5Fc68c4a251A2D5",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "HFctHPSqq",
+      "rune": "zod",
+      "value": 0.023,
+      "timestamp": 1647728869206
+    },
+    {
+      "id": "HFctHPSqq",
+      "rune": "amn",
+      "value": 0.02,
+      "timestamp": 1647728869206
+    },
+    {
+      "id": "HFctHPSqq",
+      "rune": "ort",
+      "value": 0.038,
+      "timestamp": 1647728869206
+    },
+    {
+      "id": "HFctHPSqq",
+      "rune": "nef",
+      "value": 0.048,
+      "timestamp": 1647728869206
+    },
+    {
+      "id": "HFctHPSqq",
+      "rune": "ral",
+      "value": 0.035,
+      "timestamp": 1647728869206
+    },
+    {
+      "id": "HFctHPSqq",
+      "rune": "ith",
+      "value": 0.03,
+      "timestamp": 1647728869206
+    },
+    {
+      "id": "HFctHPSqq",
+      "rune": "hel",
+      "value": 0.042,
+      "timestamp": 1647728869206
+    },
+    {
+      "id": "HFctHPSqq",
+      "rune": "tal",
+      "value": 0.033,
+      "timestamp": 1647728869206
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "zod": 0,
+      "amn": 0,
+      "ort": 0,
+      "nef": 0,
+      "ral": 0,
+      "ith": 0,
+      "hel": 0,
+      "tal": 0.01,
+      "sol": 0.005,
+      "dol": 0.005
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "zod": 0.023,
+      "amn": 0.02,
+      "ort": 0.038,
+      "nef": 0.048,
+      "ral": 0.035,
+      "ith": 0.03,
+      "hel": 0.042,
+      "tal": 0.043,
+      "sol": 0.005,
+      "dol": 0.005
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "HFctHPSqq",
+      "timestamp": 1647728869206,
+      "status": "processing"
+    }
+  ]
+}

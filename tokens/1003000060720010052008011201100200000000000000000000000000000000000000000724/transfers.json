@@ -1,0 +1,279 @@
+[
+  {
+    "owner": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "from": "0x0000000000000000000000000000000000000000",
+    "status": "created",
+    "tokenId": "1003000060720010052008011201100200000000000000000000000000000000000000000724",
+    "createdAt": 1649767961821,
+    "details": {
+      "Type": "Armor",
+      "Subtype": "Templar Forge",
+      "Rune Word": "Tal Ort Thul Eld Nef",
+      "Distribution": "Crafted",
+      "Date": "May 24, 2021 - Now",
+      "Max Supply": "Unknown"
+    },
+    "branches": {
+      "1": {
+        "description": [
+          "Made from light-weight Templar material, it provides quality protection."
+        ],
+        "attributes": [
+          {
+            "id": 1,
+            "min": 2,
+            "max": 5,
+            "description": "{value}% Increased Harvest Yield"
+          },
+          {
+            "id": 8,
+            "min": 10,
+            "max": 20,
+            "description": "{value}% Reduced Harvest Fees"
+          },
+          {
+            "id": 11,
+            "min": 1,
+            "max": 2,
+            "description": "{value}% Random Rune Exchange"
+          },
+          {
+            "id": 55,
+            "min": 5,
+            "max": 5,
+            "description": "{value} Sockets",
+            "value": 5
+          }
+        ],
+        "perfection": [
+          5,
+          20,
+          2
+        ]
+      },
+      "2": {
+        "description": "Made from light-weight Templar material, it provides quality protection.",
+        "attributes": []
+      }
+    },
+    "shorthand": "5-11-2",
+    "mods": [
+      {
+        "variant": 2,
+        "attributeId": 1,
+        "value": 5
+      },
+      {
+        "variant": 2,
+        "attributeId": 8,
+        "value": 11
+      },
+      {
+        "variant": 2,
+        "attributeId": 11,
+        "value": 2
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 724
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "min": 2,
+        "max": 5,
+        "description": "{value}% Increased Harvest Yield",
+        "variant": 2,
+        "attributeId": 1,
+        "value": 5
+      },
+      {
+        "id": 8,
+        "min": 10,
+        "max": 20,
+        "description": "{value}% Reduced Harvest Fees",
+        "variant": 2,
+        "attributeId": 8,
+        "value": 11
+      },
+      {
+        "id": 11,
+        "min": 1,
+        "max": 2,
+        "description": "{value}% Random Rune Exchange",
+        "variant": 2,
+        "attributeId": 11,
+        "value": 2
+      },
+      {
+        "id": 55,
+        "min": 5,
+        "max": 5,
+        "description": "{value} Sockets",
+        "value": 5
+      }
+    ],
+    "perfection": 0.7,
+    "meta": {
+      "harvestYield": 5,
+      "harvestFees": {},
+      "chanceToSendHarvestToHiddenPool": 0,
+      "chanceToLoseHarvest": 0,
+      "harvestBurn": 0,
+      "feeReduction": 11,
+      "randomRuneExchange": 2
+    },
+    "id": 6,
+    "name": "Titan",
+    "category": "armor",
+    "icon": "undefinedimages/items/00006.png",
+    "value": "0",
+    "isNew": false,
+    "isEquipable": true,
+    "isUnequipable": false,
+    "isTradeable": true,
+    "isTransferable": true,
+    "isCraftable": true,
+    "isDisabled": false,
+    "isRuneword": true,
+    "createdDate": 12111,
+    "hotnessScore": 1,
+    "recipe": {
+      "requirement": [
+        {
+          "id": 7,
+          "quantity": 1
+        },
+        {
+          "id": 9,
+          "quantity": 1
+        },
+        {
+          "id": 10,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "quantity": 1
+        }
+      ]
+    },
+    "version": 3,
+    "type": 7,
+    "shortTokenId": "10030000607200100520080...724",
+    "slotId": 18,
+    "rarity": "Rare",
+    "slots": [
+      18
+    ],
+    "hotness": 6
+  },
+  {
+    "owner": "0x16c38AA0405d92F3f2c0cADf7B5dde47d9BfDdC8",
+    "from": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "status": "transferred_in",
+    "tokenId": "1003000060720010052008011201100200000000000000000000000000000000000000000724",
+    "createdAt": 1649794019406,
+    "id": 6,
+    "perfection": 0.7
+  },
+  {
+    "owner": "0xa29E467224b94611E8C6d4D9Fce7f0eE284370d9",
+    "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+    "status": "transferred_in",
+    "tokenId": "1003000060720010052008011201100200000000000000000000000000000000000000000724",
+    "createdAt": 1649833809055,
+    "id": 6,
+    "perfection": 0.7
+  },
+  {
+    "owner": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+    "from": "0x56ab0F92387f5e1F63331169AfFeFf4d500A2c47",
+    "status": "transferred_in",
+    "tokenId": "1003000060720010052008011201100200000000000000000000000000000000000000000724",
+    "createdAt": 1649854408099,
+    "id": 6,
+    "perfection": 0.7
+  },
+  {
+    "owner": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+    "from": "0x6133A19736725BaC5cFF325bAc210682B43327b2",
+    "status": "transferred_in",
+    "tokenId": "1003000060720010052008011201100200000000000000000000000000000000000000000724",
+    "createdAt": 1639006708732,
+    "id": 6,
+    "perfection": 0.7
+  },
+  {
+    "owner": "0x14a3B6214c19F1A1b7feA2A765A214A41e234a81",
+    "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+    "status": "transferred_in",
+    "tokenId": "1003000060720010052008011201100200000000000000000000000000000000000000000724",
+    "createdAt": 1649833809755,
+    "id": 6,
+    "perfection": 0.7
+  },
+  {
+    "owner": "0x56ab0F92387f5e1F63331169AfFeFf4d500A2c47",
+    "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+    "status": "transferred_in",
+    "tokenId": "1003000060720010052008011201100200000000000000000000000000000000000000000724",
+    "createdAt": 1649835224369,
+    "id": 6,
+    "perfection": 0.7
+  },
+  {
+    "owner": "0x6133A19736725BaC5cFF325bAc210682B43327b2",
+    "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+    "status": "transferred_in",
+    "tokenId": "1003000060720010052008011201100200000000000000000000000000000000000000000724",
+    "createdAt": 1649854434554,
+    "id": 6,
+    "perfection": 0.7
+  }
+]

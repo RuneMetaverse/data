@@ -1,0 +1,344 @@
+{
+  "description": [
+    "Lightweight Templar materials fashioned into plated chausses. These provide excellent leg protection."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10030002008200800520070052013004201100420340012006002000000000000000000000571",
+  "catalog_url": "https://rune.game/catalog/20",
+  "image": "https://rune.game/images/items/00020.png",
+  "language": "en-US",
+  "tokenId": "10030002008200800520070052013004201100420340012006002000000000000000000000571",
+  "details": {
+    "Type": "Leggings",
+    "Subtype": "Templar Chausses",
+    "Rune Word": "Dol Io Hel Lum",
+    "Distribution": "Crafted",
+    "Date": "June 26, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "min": 1,
+          "max": 10,
+          "description": "{value}% Reduced Harvest Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 5
+        },
+        {
+          "id": 7,
+          "min": 1,
+          "max": 10,
+          "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+          "variant": 2,
+          "attributeId": 7,
+          "value": 5
+        },
+        {
+          "id": 13,
+          "min": 4,
+          "max": 4,
+          "description": "{value}% Magic Find",
+          "value": 4,
+          "variant": 2,
+          "attributeId": 13
+        },
+        {
+          "id": 11,
+          "min": 1,
+          "max": 4,
+          "description": "{value}% Random Rune Exchange",
+          "variant": 2,
+          "attributeId": 11,
+          "value": 4
+        },
+        {
+          "id": 34,
+          "min": 0,
+          "max": 1,
+          "description": "{value}% Avoid All Burns (Not Implemented)",
+          "variant": 2,
+          "attributeId": 34,
+          "value": 1
+        },
+        {
+          "id": 6,
+          "min": 0,
+          "max": 3,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 2
+        }
+      ],
+      "perfection": [
+        10,
+        10,
+        null,
+        null,
+        1,
+        0
+      ],
+      "presents": {
+        "2": [
+          10,
+          10,
+          null,
+          null,
+          1,
+          0
+        ],
+        "3": [
+          10,
+          10,
+          null,
+          null,
+          1,
+          0
+        ],
+        "4": [
+          9,
+          9,
+          null,
+          null,
+          0,
+          0
+        ],
+        "5": [
+          7,
+          7,
+          null,
+          null,
+          0,
+          0
+        ],
+        "6": [
+          2,
+          2,
+          null,
+          null,
+          0,
+          2
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "5-5-1-2",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 34,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 571
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "min": 1,
+      "max": 10,
+      "description": "{value}% Reduced Harvest Fees",
+      "variant": 2,
+      "attributeId": 8,
+      "value": 5,
+      "trait_type": "Reduced Harvest Fees"
+    },
+    {
+      "id": 7,
+      "min": 1,
+      "max": 10,
+      "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+      "variant": 2,
+      "attributeId": 7,
+      "value": 5,
+      "trait_type": "Chance To Find Worldstone Shard (Per Raid)"
+    },
+    {
+      "id": 13,
+      "min": 4,
+      "max": 4,
+      "description": "{value}% Magic Find",
+      "value": 4,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "Magic Find"
+    },
+    {
+      "id": 11,
+      "min": 1,
+      "max": 4,
+      "description": "{value}% Random Rune Exchange",
+      "variant": 2,
+      "attributeId": 11,
+      "value": 4,
+      "trait_type": "Random Rune Exchange"
+    },
+    {
+      "id": 34,
+      "min": 0,
+      "max": 1,
+      "description": "{value}% Avoid All Burns (Not Implemented)",
+      "variant": 2,
+      "attributeId": 34,
+      "value": 1,
+      "trait_type": "Avoid All Burns (Not Implemented)"
+    },
+    {
+      "id": 6,
+      "min": 0,
+      "max": 3,
+      "description": "{value}% Harvest Burn",
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2,
+      "trait_type": "Harvest Burn"
+    }
+  ],
+  "perfection": 0.55,
+  "slots": [
+    "Legs"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 2,
+    "feeReduction": 5,
+    "randomRuneExchange": 4,
+    "worldstoneShardChance": 5,
+    "odds": 3200
+  },
+  "id": 20,
+  "name": "Flow",
+  "icon": "https://rune.game/images/items/00020.png",
+  "type": "Leggings",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": true,
+  "isDisabled": false,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "DOL",
+        "quantity": 1
+      },
+      {
+        "id": "IO",
+        "quantity": 1
+      },
+      {
+        "id": "HEL",
+        "quantity": 1
+      },
+      {
+        "id": "LUM",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030002008200800520070...571",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

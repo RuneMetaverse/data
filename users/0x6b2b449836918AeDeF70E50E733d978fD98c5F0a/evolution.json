@@ -1,0 +1,488 @@
+{
+  "servers": {
+    "sa1": {
+      "winStreak": 0,
+      "kills": 93,
+      "deaths": 124,
+      "powerups": 9092,
+      "evolves": 970,
+      "points": 7959,
+      "rewards": 42,
+      "orbs": 0,
+      "revenges": 4,
+      "wins": 0,
+      "rounds": 18,
+      "winRatio": 0,
+      "killDeathRatio": 0.75,
+      "roundPointRatio": 442.1666666666667,
+      "averageLatency": 25.633333333333333,
+      "timeSpent": 1.5,
+      "hashHistory": {
+        "k6dFGg9Hs": 3,
+        "sV0uQ073Q": 1,
+        "WCU9ixsgs": 9,
+        "hKpVC1Bh8": 10,
+        "wHyE3g1z0": 3,
+        "O20VFyUWY": 4,
+        "bAujMNIqk": 2,
+        "hy77FTetQ": 3,
+        "k3LZOD86w": 3,
+        "Adeu3gvm0": 2,
+        "fJEZBRqRA": 2,
+        "CFam2w5no": 1,
+        "0EOCSSwT4": 3,
+        "b3/e9rN0Y": 1,
+        "fJRB2vDuQ": 1,
+        "roTbauX2k": 2,
+        "pXootoxzE": 2,
+        "bVebSez9A": 4,
+        "4tTokup/I": 1,
+        "v5iIMok5Q": 4,
+        "g2xqLXDsQ": 1,
+        "Gt/6k9AXw": 1,
+        "mgvFEFacQ": 1,
+        "LYVF+ET5I": 3,
+        "oHAPvNC94": 1,
+        "oD/twA1Zs": 1,
+        "DDqmzi5os": 1,
+        "XekZ42XNs": 1,
+        "STnDsSEjg": 3,
+        "IiGswvHsI": 1,
+        "QFqxRI8+Y": 1,
+        "qos2O35aA": 1,
+        "cusZyCY+o": 2,
+        "s7i2fQsfM": 1,
+        "lJQ099KcY": 1,
+        "pK78Sfilk": 2,
+        "dmrDXDEOE": 2,
+        "PynUPoucw": 1,
+        "95OrmMocM": 1,
+        "YYWm1p2rc": 2,
+        "IjHdSuYH4": 1,
+        "e6ZqkHmdo": 2,
+        "BWNSz2wCw": 1
+      },
+      "hashHistory2": {
+        "O20VFyUWY": 7,
+        "sV0uQ073Q": 5,
+        "kMEt8X6gk": 3,
+        "wHyE3g1z0": 5,
+        "CFam2w5no": 7,
+        "hy77FTetQ": 8,
+        "bAujMNIqk": 5,
+        "hKpVC1Bh8": 6,
+        "WCU9ixsgs": 5,
+        "fJEZBRqRA": 5,
+        "k6dFGg9Hs": 2,
+        "sj5kJhADw": 1,
+        "gcJShIRKo": 0,
+        "Adeu3gvm0": 3,
+        "mPtO0RAZY": 7,
+        "k3LZOD86w": 3,
+        "0EOCSSwT4": 1,
+        "cmb2bWkfE": 2,
+        "b3/e9rN0Y": 0,
+        "OJcnqHDLU": 1,
+        "/cozJZOhs": 2,
+        "bVebSez9A": 1,
+        "BACUtirq0": 5,
+        "fJRB2vDuQ": 0,
+        "roTbauX2k": 2,
+        "pXootoxzE": 1,
+        "Gt/6k9AXw": 3,
+        "4tTokup/I": 3,
+        "mgvFEFacQ": 3,
+        "v5iIMok5Q": 2,
+        "8jHhfsOsE": 4,
+        "g2xqLXDsQ": 1,
+        "sp5KoLU90": 1,
+        "AveQkYDj4": 2,
+        "SOI9UEfek": 1,
+        "IiGswvHsI": 3,
+        "LYVF+ET5I": 1,
+        "DDqmzi5os": 3,
+        "oHAPvNC94": 2,
+        "NbnVsFqqk": 4,
+        "BWNSz2wCw": 5,
+        "4iMzmnY9A": 0,
+        "+DdPi3Cc0": 2,
+        "XekZ42XNs": 3,
+        "7ytKqJ0uk": 4,
+        "OSMP5xqts": 4,
+        "tZ10aw9uw": 3,
+        "EOCPXn6Vo": 1,
+        "DrrVD+Zq0": 1,
+        "vnXNONLJ8": 2,
+        "oD/twA1Zs": 0,
+        "STnDsSEjg": 2,
+        "h2KVUvQ2s": 2,
+        "QFqxRI8+Y": 1,
+        "DJYHhzdI4": 1,
+        "1skfpIxWc": 1,
+        "xZ6kH8iGw": 3,
+        "3U4LyKTWU": 1,
+        "GkBFK/OY8": 1,
+        "BUOVaoUAU": 1,
+        "khjUfRtHM": 4,
+        "ZmOiGpT1s": 2,
+        "kIScclDSs": 3,
+        "JA7RTBPe8": 4,
+        "NhEyXj8A0": 4,
+        "95OrmMocM": 3,
+        "cgeKl2BAw": 4,
+        "G0LX/ZeBU": 1,
+        "DacwOON/A": 2,
+        "DO0iQVjPA": 1,
+        "Ma6trHWzw": 2,
+        "x0hAww8Ck": 3,
+        "XfKHcloD4": 3,
+        "ZEgu8CKJc": 4,
+        "M3EybxR5A": 1,
+        "IG7OGVqD8": 3,
+        "s7i2fQsfM": 2,
+        "C55dgniFA": 1,
+        "QWGUNprBY": 4,
+        "21zJ+QJrE": 3,
+        "DGShuP/C0": 1,
+        "pK78Sfilk": 2,
+        "tHFHcf9hQ": 1,
+        "pSxE2MCRo": 4,
+        "WabBDdt1g": 4,
+        "gHY5O4bGg": 2,
+        "lJQ099KcY": 3,
+        "TIBWMVN14": 4,
+        "Gdhaw8cDQ": 2,
+        "cTE/PYz7U": 2,
+        "BLp2JURTk": 2,
+        "sxAA5o1no": 2,
+        "qos2O35aA": 3,
+        "cusZyCY+o": 3,
+        "e6ZqkHmdo": 3,
+        "YYWm1p2rc": 3,
+        "PynUPoucw": 2,
+        "4obMPipuk": 2,
+        "kL1O0BJF4": 3,
+        "IjHdSuYH4": 2,
+        "GAawx3ltM": 1,
+        "JGxoJILpc": 3,
+        "dmrDXDEOE": 2,
+        "rNldJI6Jk": 1,
+        "nmRZHFIlc": 2,
+        "/mRpckH5g": 2,
+        "btlEHLc2I": 2,
+        "7SbNO8+iI": 2,
+        "9003dAI8k": 2,
+        "1DjLry37Q": 1,
+        "kRVW4lm2c": 1,
+        "rym7iDjmo": 1,
+        "xmosZsNOk": 1,
+        "LMWEThZNE": 1,
+        "flWZsSs6E": 1,
+        "/hIsrEN08": 1
+      },
+      "ranking": {
+        "kills": {
+          "position": 816,
+          "total": 2546
+        },
+        "deaths": {
+          "position": 926,
+          "total": 2702
+        },
+        "powerups": {
+          "position": 831,
+          "total": 2733
+        },
+        "evolves": {
+          "position": 815,
+          "total": 2726
+        },
+        "points": {
+          "position": 1010,
+          "total": 2729
+        },
+        "rewards": {
+          "position": 681,
+          "total": 2204
+        },
+        "orbs": {
+          "position": 0,
+          "total": 1457
+        },
+        "revenges": {
+          "position": 624,
+          "total": 1369
+        },
+        "rounds": {
+          "position": 923,
+          "total": 2733
+        },
+        "wins": {
+          "position": 0,
+          "total": 412
+        },
+        "timeSpent": {
+          "position": 923,
+          "total": 2733
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 406
+        },
+        "killDeathRatio": {
+          "position": 1500,
+          "total": 2546
+        },
+        "roundPointRatio": {
+          "position": 1061,
+          "total": 1697
+        },
+        "averageLatency": {
+          "position": 8,
+          "total": 1696
+        }
+      }
+    },
+    "sa2": {
+      "winStreak": 0,
+      "kills": 17,
+      "deaths": 22,
+      "powerups": 2465,
+      "evolves": 215,
+      "points": 2294,
+      "rewards": 5,
+      "orbs": 0,
+      "revenges": 0,
+      "wins": 0,
+      "rounds": 4,
+      "winRatio": 0,
+      "killDeathRatio": 17,
+      "roundPointRatio": 0,
+      "averageLatency": 0,
+      "timeSpent": 0.3,
+      "hashHistory": {
+        "qos2O35aA": 1,
+        "cusZyCY+o": 2,
+        "s7i2fQsfM": 1,
+        "lJQ099KcY": 1,
+        "pK78Sfilk": 2,
+        "dmrDXDEOE": 2,
+        "PynUPoucw": 1,
+        "95OrmMocM": 1,
+        "YYWm1p2rc": 2,
+        "IjHdSuYH4": 1,
+        "e6ZqkHmdo": 2,
+        "BWNSz2wCw": 1
+      },
+      "hashHistory2": {
+        "khjUfRtHM": 4,
+        "ZmOiGpT1s": 2,
+        "CFam2w5no": 4,
+        "kIScclDSs": 3,
+        "JA7RTBPe8": 4,
+        "NhEyXj8A0": 4,
+        "95OrmMocM": 3,
+        "cgeKl2BAw": 4,
+        "G0LX/ZeBU": 1,
+        "DacwOON/A": 2,
+        "DO0iQVjPA": 1,
+        "Ma6trHWzw": 2,
+        "x0hAww8Ck": 3,
+        "XfKHcloD4": 3,
+        "ZEgu8CKJc": 4,
+        "M3EybxR5A": 1,
+        "IG7OGVqD8": 3,
+        "s7i2fQsfM": 2,
+        "C55dgniFA": 1,
+        "QWGUNprBY": 4,
+        "4iMzmnY9A": 0,
+        "21zJ+QJrE": 3,
+        "DGShuP/C0": 1,
+        "pK78Sfilk": 2,
+        "tHFHcf9hQ": 1,
+        "pSxE2MCRo": 4,
+        "WabBDdt1g": 4,
+        "gHY5O4bGg": 2,
+        "lJQ099KcY": 3,
+        "TIBWMVN14": 4,
+        "Gdhaw8cDQ": 2,
+        "cTE/PYz7U": 2,
+        "BLp2JURTk": 2,
+        "sxAA5o1no": 2,
+        "qos2O35aA": 3,
+        "cusZyCY+o": 3,
+        "e6ZqkHmdo": 3,
+        "YYWm1p2rc": 3,
+        "PynUPoucw": 2,
+        "4obMPipuk": 2,
+        "kL1O0BJF4": 3,
+        "IjHdSuYH4": 2,
+        "GAawx3ltM": 1,
+        "JGxoJILpc": 3,
+        "dmrDXDEOE": 2,
+        "rNldJI6Jk": 1,
+        "xZ6kH8iGw": 2,
+        "nmRZHFIlc": 2,
+        "/mRpckH5g": 2,
+        "btlEHLc2I": 2,
+        "BWNSz2wCw": 1,
+        "7SbNO8+iI": 2,
+        "9003dAI8k": 2,
+        "1DjLry37Q": 1,
+        "kRVW4lm2c": 1,
+        "rym7iDjmo": 1,
+        "xmosZsNOk": 1,
+        "LMWEThZNE": 1,
+        "flWZsSs6E": 1,
+        "/hIsrEN08": 1
+      },
+      "ranking": {
+        "kills": {
+          "position": 517,
+          "total": 804
+        },
+        "deaths": {
+          "position": 616,
+          "total": 857
+        },
+        "powerups": {
+          "position": 495,
+          "total": 864
+        },
+        "evolves": {
+          "position": 518,
+          "total": 864
+        },
+        "points": {
+          "position": 547,
+          "total": 862
+        },
+        "rewards": {
+          "position": 497,
+          "total": 712
+        },
+        "orbs": {
+          "position": 0,
+          "total": 529
+        },
+        "revenges": {
+          "position": 0,
+          "total": 445
+        },
+        "rounds": {
+          "position": 610,
+          "total": 864
+        },
+        "wins": {
+          "position": 0,
+          "total": 114
+        },
+        "timeSpent": {
+          "position": 658,
+          "total": 864
+        },
+        "winRatio": {
+          "position": 0,
+          "total": 111
+        },
+        "killDeathRatio": {
+          "position": 17,
+          "total": 804
+        },
+        "roundPointRatio": {
+          "position": 0,
+          "total": 578
+        },
+        "averageLatency": {
+          "position": 0,
+          "total": 578
+        }
+      }
+    }
+  },
+  "overall": {
+    "winStreak": 0,
+    "kills": 110,
+    "deaths": 146,
+    "powerups": 11557,
+    "evolves": 1185,
+    "points": 10253,
+    "rewards": 47,
+    "orbs": 0,
+    "revenges": 4,
+    "rounds": 22,
+    "wins": 0,
+    "timeSpent": 1.8,
+    "winRatio": 0,
+    "killDeathRatio": 0.7534246575342466,
+    "roundPointRatio": 466.04545454545456,
+    "averageLatency": 25.633333333333333,
+    "ranking": {
+      "kills": {
+        "position": 5237,
+        "total": 10828
+      },
+      "deaths": {
+        "position": 5948,
+        "total": 11144
+      },
+      "powerups": {
+        "position": 5512,
+        "total": 11254
+      },
+      "evolves": {
+        "position": 5543,
+        "total": 11233
+      },
+      "points": {
+        "position": 6306,
+        "total": 11245
+      },
+      "rewards": {
+        "position": 5211,
+        "total": 10417
+      },
+      "orbs": {
+        "position": 0,
+        "total": 8159
+      },
+      "revenges": {
+        "position": 4799,
+        "total": 7904
+      },
+      "rounds": {
+        "position": 6216,
+        "total": 11254
+      },
+      "wins": {
+        "position": 0,
+        "total": 3178
+      },
+      "timeSpent": {
+        "position": 6284,
+        "total": 11254
+      },
+      "winRatio": {
+        "position": 0,
+        "total": 3147
+      },
+      "killDeathRatio": {
+        "position": 5299,
+        "total": 10828
+      },
+      "roundPointRatio": {
+        "position": 5765,
+        "total": 9308
+      },
+      "averageLatency": {
+        "position": 12,
+        "total": 8893
+      }
+    }
+  },
+  "lastUpdated": 1630795748152,
+  "hashes": [
+    "gcJShIRKo",
+    "4iMzmnY9A"
+  ]
+}

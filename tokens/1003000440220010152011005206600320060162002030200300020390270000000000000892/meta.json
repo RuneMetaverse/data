@@ -1,0 +1,827 @@
+{
+  "description": "Passed down for generations among the barbaric Icefall Behemoths, Hellreaver embodies their vicious fighting style and terrifying war cry.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000440220010152011005206600320060162002030200300020390270000000000000892",
+  "image_url": "/images/items/00044.png",
+  "language": "en-US",
+  "tokenId": "1003000440220010152011005206600320060162002030200300020390270000000000000892",
+  "details": {
+    "Type": "Two-Handed Weapon",
+    "Subtype": "Ancestral Axe",
+    "Rune Word": "Ral Ist Zod Mal Um"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "name": "HarvestYield",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Increased Harvest Yield",
+          "param1": {
+            "spec": "0-35",
+            "min": 0,
+            "max": 35,
+            "value": 15
+          },
+          "value": 15,
+          "min": 0,
+          "max": 35,
+          "variant": 2,
+          "attributeId": 1
+        },
+        {
+          "id": 11,
+          "name": "RandomRuneExchange",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Mechanic",
+          "description": "{parameter1} Random Rune Exchange",
+          "param1": {
+            "spec": "5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          },
+          "value": 5,
+          "min": 5,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 11
+        },
+        {
+          "id": 66,
+          "name": "HarvestTheft",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvesttheft",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Enhanced Sacrifice & Steal",
+          "explanation": "Enhances your Harvest Sacrifice abilities by up to {parameter1} of your harvest in order to steal double that amount from a random player's harvest in same raid",
+          "isImplemented": false,
+          "param1": {
+            "spec": "0-20",
+            "min": 0,
+            "max": 20,
+            "value": 3
+          },
+          "value": 3,
+          "min": 0,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 66
+        },
+        {
+          "id": 6,
+          "name": "HarvestBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Burn",
+          "param1": {
+            "spec": "10-20",
+            "min": 10,
+            "max": 20,
+            "value": 16
+          },
+          "value": 16,
+          "min": 10,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 6
+        },
+        {
+          "id": 2,
+          "name": "HarvestFee",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Fee",
+          "param1": {
+            "spec": "30",
+            "min": 30,
+            "max": 30,
+            "value": 30
+          },
+          "value": 30,
+          "min": 30,
+          "max": 30,
+          "variant": 2,
+          "attributeId": 2
+        },
+        {
+          "id": 3,
+          "name": "HarvestFeeToken",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+          "paramType1": "tokenId",
+          "paramValue1": "0-999",
+          "nature": "Mechanic",
+          "description": "Harvest Fee Token: {parameter1}",
+          "param1": {
+            "spec": "EL-TIR",
+            "min": 0,
+            "max": 2,
+            "map": {
+              "0": "EL",
+              "1": "ELD",
+              "2": "TIR"
+            },
+            "value": 0
+          },
+          "value": 0,
+          "min": 0,
+          "max": 2,
+          "variant": 2,
+          "attributeId": 3,
+          "map": {
+            "0": "EL",
+            "1": "ELD",
+            "2": "TIR"
+          }
+        },
+        {
+          "id": 39,
+          "name": "AddSkill",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+          "paramType1": "skill",
+          "paramValue1": "0-999",
+          "nature": "Requirement",
+          "description": "Unlocked: {parameter1} (Not Implemented)",
+          "param1": {
+            "spec": "Hidden Skill 2",
+            "min": 27,
+            "max": 27,
+            "value": 27,
+            "map": {
+              "27": "Hidden Skill 2"
+            }
+          },
+          "value": 27,
+          "min": 27,
+          "max": 27,
+          "variant": 2,
+          "attributeId": 39,
+          "map": {
+            "27": "Hidden Skill 2"
+          }
+        }
+      ],
+      "perfection": [
+        35,
+        null,
+        20,
+        10,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          35,
+          null,
+          20,
+          10
+        ],
+        "3": [
+          35,
+          null,
+          20,
+          10
+        ],
+        "4": [
+          33,
+          null,
+          19,
+          10
+        ],
+        "5": [
+          24,
+          null,
+          14,
+          13
+        ],
+        "6": [
+          7,
+          null,
+          4,
+          18
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2000,
+          "name": "IncreaseDamage",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamage",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-200",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} Increased {parameter2} Damage",
+          "param1": {
+            "spec": "20-35",
+            "min": 20,
+            "max": 35
+          },
+          "value": null
+        },
+        {
+          "id": 3213,
+          "name": "SelfEffectOnCondition",
+          "isEnabled": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/selfeffectoncondition",
+          "paramType1": "conditions",
+          "paramType2": "conditionparams",
+          "paramType3": "effect",
+          "param1": {
+            "spec": "SkillTypeUsed",
+            "min": 23,
+            "max": 23,
+            "value": 23,
+            "map": {
+              "23": "SkillTypeUsed"
+            }
+          },
+          "param2": {
+            "spec": "Warcry",
+            "min": null,
+            "max": null,
+            "map": {}
+          },
+          "value": null
+        },
+        {
+          "id": 2002,
+          "name": "IncreaseDamageOverTime",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamageovertime",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-200",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} Increase To {parameter2} Damage Over Time",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5
+          },
+          "param2": {
+            "spec": "Physical",
+            "min": 9,
+            "max": 9,
+            "value": 9,
+            "map": {
+              "9": "Physical"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "10-15",
+            "min": 10,
+            "max": 15
+          },
+          "param2": {
+            "spec": "EnergyRegen",
+            "min": 1,
+            "max": 1,
+            "value": 1,
+            "map": {
+              "1": "EnergyRegen"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "10-10",
+            "min": 10,
+            "max": 10,
+            "value": 10
+          },
+          "param2": {
+            "spec": "Knockback",
+            "map": {}
+          },
+          "value": null
+        },
+        {
+          "id": 4150,
+          "name": "RuneOnWinChance",
+          "isEnabled": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/runeonwinchance",
+          "paramType1": "percent",
+          "paramType2": "rune",
+          "paramValue1": "0-100",
+          "paramValue2": "EL-ZOD",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} Chance of Receiving {parameter2} Upon Winning a Match",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          },
+          "param2": {
+            "spec": "LUM-UM",
+            "min": 16,
+            "max": 21,
+            "map": {
+              "16": "LUM",
+              "17": "KO",
+              "18": "FAL",
+              "19": "LEM",
+              "20": "PUL",
+              "21": "UM"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2902,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "10-10",
+            "min": 10,
+            "max": 10,
+            "value": 10
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Grappling Hook, Ice Wall",
+            "map": {}
+          }
+        }
+      ],
+      "perfection": [
+        35,
+        null,
+        5,
+        15,
+        null,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          35,
+          null,
+          5,
+          15
+        ],
+        "3": [
+          35,
+          null,
+          5,
+          15
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "15-3-16",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 15
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 66,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 16
+    },
+    {
+      "variant": 2,
+      "attributeId": 2,
+      "value": 30
+    },
+    {
+      "variant": 2,
+      "attributeId": 3,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 39,
+      "value": 27
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 892
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "HarvestYield",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Increased Harvest Yield",
+      "param1": {
+        "spec": "0-35",
+        "min": 0,
+        "max": 35,
+        "value": 15
+      },
+      "value": 15,
+      "min": 0,
+      "max": 35,
+      "variant": 2,
+      "attributeId": 1,
+      "trait_type": "{parameter1} Increased Harvest Yield"
+    },
+    {
+      "id": 11,
+      "name": "RandomRuneExchange",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Mechanic",
+      "description": "{parameter1} Random Rune Exchange",
+      "param1": {
+        "spec": "5",
+        "min": 5,
+        "max": 5,
+        "value": 5
+      },
+      "value": 5,
+      "min": 5,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 11,
+      "trait_type": "{parameter1} Random Rune Exchange"
+    },
+    {
+      "id": 66,
+      "name": "HarvestTheft",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvesttheft",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Enhanced Sacrifice & Steal",
+      "explanation": "Enhances your Harvest Sacrifice abilities by up to {parameter1} of your harvest in order to steal double that amount from a random player's harvest in same raid",
+      "isImplemented": false,
+      "param1": {
+        "spec": "0-20",
+        "min": 0,
+        "max": 20,
+        "value": 3
+      },
+      "value": 3,
+      "min": 0,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 66,
+      "trait_type": "{parameter1} Enhanced Sacrifice & Steal"
+    },
+    {
+      "id": 6,
+      "name": "HarvestBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Burn",
+      "param1": {
+        "spec": "10-20",
+        "min": 10,
+        "max": 20,
+        "value": 16
+      },
+      "value": 16,
+      "min": 10,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 6,
+      "trait_type": "{parameter1} Harvest Burn"
+    },
+    {
+      "id": 2,
+      "name": "HarvestFee",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Fee",
+      "param1": {
+        "spec": "30",
+        "min": 30,
+        "max": 30,
+        "value": 30
+      },
+      "value": 30,
+      "min": 30,
+      "max": 30,
+      "variant": 2,
+      "attributeId": 2,
+      "trait_type": "{parameter1} Harvest Fee"
+    },
+    {
+      "id": 3,
+      "name": "HarvestFeeToken",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+      "paramType1": "tokenId",
+      "paramValue1": "0-999",
+      "nature": "Mechanic",
+      "description": "Harvest Fee Token: {parameter1}",
+      "param1": {
+        "spec": "EL-TIR",
+        "min": 0,
+        "max": 2,
+        "map": {
+          "0": "EL",
+          "1": "ELD",
+          "2": "TIR"
+        },
+        "value": 0
+      },
+      "value": 0,
+      "min": 0,
+      "max": 2,
+      "variant": 2,
+      "attributeId": 3,
+      "map": {
+        "0": "EL",
+        "1": "ELD",
+        "2": "TIR"
+      },
+      "trait_type": "Harvest Fee Token: {parameter1}"
+    },
+    {
+      "id": 39,
+      "name": "AddSkill",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+      "paramType1": "skill",
+      "paramValue1": "0-999",
+      "nature": "Requirement",
+      "description": "Unlocked: {parameter1} (Not Implemented)",
+      "param1": {
+        "spec": "Hidden Skill 2",
+        "min": 27,
+        "max": 27,
+        "value": 27,
+        "map": {
+          "27": "Hidden Skill 2"
+        }
+      },
+      "value": 27,
+      "min": 27,
+      "max": 27,
+      "variant": 2,
+      "attributeId": 39,
+      "map": {
+        "27": "Hidden Skill 2"
+      },
+      "trait_type": "Unlocked: {parameter1} (Not Implemented)"
+    }
+  ],
+  "perfection": 0.32,
+  "slots": [
+    "Left Hand"
+  ],
+  "meta": {
+    "harvestYield": 15,
+    "harvestFeeToken": "EL",
+    "harvestFeePercent": 30,
+    "harvestFees": {
+      "EL": 30
+    },
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 16,
+    "randomRuneExchange": 5,
+    "odds": 8316,
+    "version": 0,
+    "created": 1660137317288,
+    "revision": 0
+  },
+  "id": 44,
+  "name": "Hellreaver",
+  "slug": "hellreaver",
+  "icon": "/images/items/00044.png",
+  "image": "https://dl.airtable.com/.attachments/05dc45bb336d198abed84cee6df55c6a/f745dddf/00044.png?ts=1657605432&userId=usrf0GZYc5zCl9Cv7&cs=32e9941101ab17e6",
+  "type": "Two Handed Weapon",
+  "subType": 39,
+  "specificType": 159,
+  "isPolled": false,
+  "isNew": true,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": false,
+  "isDisabled": false,
+  "isCraftable": true,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 8316,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 7,
+        "quantity": 1,
+        "symbol": "RAL"
+      },
+      {
+        "id": 23,
+        "quantity": 1,
+        "symbol": "IST"
+      },
+      {
+        "id": 32,
+        "quantity": 1,
+        "symbol": "ZOD"
+      },
+      {
+        "id": 22,
+        "quantity": 1,
+        "symbol": "MAL"
+      },
+      {
+        "id": 21,
+        "quantity": 1,
+        "symbol": "UM"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "Runic symbols etched across the blade describe its long, bloody history. Despite its extensive use, the metal gleams as if anxious to open the next violent chapter.",
+  "skills": [],
+  "materials": [],
+  "version": 3,
+  "shortTokenId": "10030004402200101520110...892",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 6
+}

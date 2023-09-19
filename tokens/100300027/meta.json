@@ -1,0 +1,185 @@
+{
+  "description": "Wearers of this masterfully-crafted ring display a preternatural ability to find fortune and avoid harm.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300027",
+  "catalog_url": "https://rune.game/catalog/27",
+  "image": "https://rune.game/images/items/00027.png",
+  "language": "en-US",
+  "tokenId": "100300027",
+  "details": {
+    "Type": "Ring",
+    "Subtype": "Glimmering Band",
+    "Rune Word": "Lum Dol Io Dol Lum",
+    "Distribution": "Crafted",
+    "Date": "August 27, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "Wearers of this masterfully-crafted ring display a preternatural ability to find fortune and avoid harm."
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 3,
+          "description": "{value}% Increased Harvest Yield"
+        },
+        {
+          "id": 8,
+          "min": 1,
+          "max": 3,
+          "description": "{value}% Reduced Harvest Fees"
+        },
+        {
+          "id": 4,
+          "min": 0,
+          "max": 3,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool"
+        },
+        {
+          "id": 12,
+          "min": 1,
+          "max": 4,
+          "description": "{value}% Guild Token (Not Implemented)"
+        },
+        {
+          "id": 62,
+          "min": 3,
+          "max": 5,
+          "description": "{value}% Critical Harvest Bonus (Not Implemented)"
+        },
+        {
+          "id": 6,
+          "min": 0,
+          "max": 3,
+          "description": "{value}% Harvest Burn"
+        }
+      ],
+      "perfection": [
+        3,
+        3,
+        3,
+        4,
+        5,
+        0
+      ]
+    },
+    "2": {
+      "description": [
+        "To be announced."
+      ],
+      "attributes": []
+    },
+    "3": {
+      "description": [
+        "To be announced."
+      ],
+      "attributes": []
+    },
+    "4": {
+      "description": [
+        "To be announced."
+      ],
+      "attributes": []
+    }
+  },
+  "shorthand": "-----",
+  "mods": [],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 1,
+      "max": 3,
+      "description": "{value}% Increased Harvest Yield",
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 8,
+      "min": 1,
+      "max": 3,
+      "description": "{value}% Reduced Harvest Fees",
+      "trait_type": "Reduced Harvest Fees"
+    },
+    {
+      "id": 4,
+      "min": 0,
+      "max": 3,
+      "description": "{value}% Chance To Send Harvest To Hidden Pool",
+      "trait_type": "Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 12,
+      "min": 1,
+      "max": 4,
+      "description": "{value}% Guild Token (Not Implemented)",
+      "trait_type": "Guild Token (Not Implemented)"
+    },
+    {
+      "id": 62,
+      "min": 3,
+      "max": 5,
+      "description": "{value}% Critical Harvest Bonus (Not Implemented)",
+      "trait_type": "Critical Harvest Bonus (Not Implemented)"
+    },
+    {
+      "id": 6,
+      "min": 0,
+      "max": 3,
+      "description": "{value}% Harvest Burn",
+      "trait_type": "Harvest Burn"
+    }
+  ],
+  "perfection": null,
+  "slots": [
+    "Finger 1",
+    "Finger 2"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0
+  },
+  "id": 27,
+  "name": "Instinct",
+  "icon": "https://rune.game/images/items/00027.png",
+  "isNew": true,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": true,
+  "isDisabled": false,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "100300027...027",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

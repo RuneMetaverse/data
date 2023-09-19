@@ -1,0 +1,270 @@
+{
+  "trades": [
+    {
+      "id": 314,
+      "seller": "0xEFABE4224497636EDF82A5f1538C1Bf64dB498E3",
+      "buyer": "0xA40E6fe014FE37A07D2ed9bB215fE9B0542fD0DC",
+      "tokenId": "1003000070920010022008039200910000000000000000000000000000000000000000000775",
+      "price": 0.01,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1622096748697,
+      "updatedAt": 1622734915374,
+      "blockNumber": 7978236,
+      "item": {
+        "tokenId": "1003000070920010022008039200910000000000000000000000000000000000000000000775",
+        "details": {
+          "Type": "Gloves",
+          "Subtype": "Shadow Wraps",
+          "Rune Word": "Thul Ith Ort Ral",
+          "Distribution": "Crafted",
+          "Date": "May 25 - June 25",
+          "Max Supply": "Limited"
+        },
+        "branches": {
+          "1": {
+            "description": [
+              "These handwraps have an unknown origin and emit a dark aura."
+            ],
+            "attributes": [
+              {
+                "id": 1,
+                "min": 1,
+                "max": 5,
+                "description": "{value}% Increased Harvest Yield"
+              },
+              {
+                "id": 8,
+                "min": 25,
+                "max": 100,
+                "description": "Remove {value}% Fees"
+              },
+              {
+                "id": 9,
+                "min": 100,
+                "max": 100,
+                "description": "Unstake Locked Until Completion"
+              }
+            ],
+            "perfection": [
+              5,
+              100
+            ]
+          },
+          "2": {
+            "description": "",
+            "attributes": [
+              {
+                "id": 1,
+                "value": 5,
+                "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+              },
+              {
+                "id": 2,
+                "value": 100,
+                "description": "{value}% Increased Block Speed"
+              },
+              {
+                "id": 2,
+                "value": 230,
+                "description": "{value}% Enhanced Defense"
+              },
+              {
+                "id": 2,
+                "min": 41,
+                "max": 50,
+                "description": "Physical Damage Reduced by {value}"
+              },
+              {
+                "id": 2,
+                "description": "Half Freeze Duration"
+              }
+            ]
+          }
+        },
+        "shorthand": "2-39",
+        "mods": [
+          {
+            "variant": 2,
+            "attributeId": 1,
+            "value": 2
+          },
+          {
+            "variant": 2,
+            "attributeId": 8,
+            "value": 39
+          },
+          {
+            "variant": 2,
+            "attributeId": 9,
+            "value": 100
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 0,
+            "value": 775
+          }
+        ],
+        "attributes": [
+          {
+            "id": 1,
+            "min": 1,
+            "max": 5,
+            "description": "{value}% Increased Harvest Yield",
+            "variant": 2,
+            "attributeId": 1,
+            "value": 2
+          },
+          {
+            "id": 8,
+            "min": 25,
+            "max": 100,
+            "description": "Remove {value}% Fees",
+            "variant": 2,
+            "attributeId": 8,
+            "value": 39
+          },
+          {
+            "id": 9,
+            "min": 100,
+            "max": 100,
+            "description": "Unstake Locked Until Completion",
+            "variant": 2,
+            "attributeId": 9,
+            "value": 100
+          }
+        ],
+        "perfection": 0.21833333333333332,
+        "category": "armor",
+        "meta": {
+          "harvestYield": 2,
+          "harvestFees": {},
+          "chanceToSendHarvestToHiddenPool": 0,
+          "chanceToLoseHarvest": 0,
+          "harvestBurn": 0
+        },
+        "id": 7,
+        "name": "Smoke",
+        "icon": "undefinedimages/items/00007.png",
+        "value": "0",
+        "isNew": false,
+        "isEquipable": true,
+        "isUnequipable": false,
+        "isTradeable": true,
+        "isTransferable": true,
+        "isCraftable": true,
+        "isDisabled": false,
+        "isRuneword": true,
+        "isLimited": true,
+        "createdDate": 12111,
+        "hotnessScore": 1,
+        "recipe": {
+          "requirement": [
+            {
+              "id": 10,
+              "quantity": 1
+            },
+            {
+              "id": 6,
+              "quantity": 1
+            },
+            {
+              "id": 9,
+              "quantity": 1
+            },
+            {
+              "id": 8,
+              "quantity": 1
+            }
+          ]
+        },
+        "version": 3,
+        "type": 9,
+        "shortTokenId": "10030000709200100220080...775",
+        "slotId": 9
+      }
+    },
+    {
+      "id": 6327,
+      "seller": "0xE6Bd60deaB7DA9342c436f814357B31d9F38bA28",
+      "buyer": "0xA40E6fe014FE37A07D2ed9bB215fE9B0542fD0DC",
+      "tokenId": "10030002008200800320070052013004201100220340002006003000000000000000000000031",
+      "price": 0.01,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1630490215168,
+      "updatedAt": 1630546842886,
+      "blockNumber": 10551322,
+      "item": {
+        "id": 20
+      }
+    },
+    {
+      "id": 6505,
+      "seller": "0xbEc235AC0F6a2F535E22ba1B76Ea360D5e3A6056",
+      "buyer": "0xA40E6fe014FE37A07D2ed9bB215fE9B0542fD0DC",
+      "tokenId": "100300028132001002200800220130022007001200600400000000000000000000000000000700",
+      "price": 0.015,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1630591118595,
+      "updatedAt": 1630595865393,
+      "blockNumber": 10567493,
+      "item": {}
+    },
+    {
+      "id": 13497,
+      "seller": "0xA40E6fe014FE37A07D2ed9bB215fE9B0542fD0DC",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "1001000021006103510271523",
+      "price": 0.25,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1638473607691,
+      "updatedAt": 1638473607691,
+      "blockNumber": 13138892,
+      "item": {
+        "id": 2
+      }
+    }
+  ]
+}

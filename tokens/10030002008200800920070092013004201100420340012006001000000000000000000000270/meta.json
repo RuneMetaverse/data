@@ -1,0 +1,418 @@
+{
+  "description": [
+    "Lightweight Templar materials fashioned into plated chausses. These provide excellent leg protection."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10030002008200800920070092013004201100420340012006001000000000000000000000270",
+  "image_url": "https://rune.game/images/items/00020.png",
+  "language": "en-US",
+  "tokenId": "10030002008200800920070092013004201100420340012006001000000000000000000000270",
+  "details": {
+    "Type": "Leggings",
+    "Subtype": "Templar Chausses",
+    "Rune Word": "Dol Io Hel Lum",
+    "Distribution": "Crafted",
+    "Date": "June 26, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "min": 1,
+          "max": 10,
+          "paramType1": "percent",
+          "description": "{param1} Reduced Harvest Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 9,
+          "param1": {
+            "min": 1,
+            "max": 10,
+            "value": 9
+          }
+        },
+        {
+          "id": 7,
+          "min": 1,
+          "max": 10,
+          "paramType1": "percent",
+          "description": "{param1} Chance To Find Worldstone Shard (Per Raid)",
+          "variant": 2,
+          "attributeId": 7,
+          "value": 9,
+          "param1": {
+            "min": 1,
+            "max": 10,
+            "value": 9
+          }
+        },
+        {
+          "id": 13,
+          "min": 4,
+          "max": 4,
+          "paramType1": "percent",
+          "description": "{param1} Magic Find",
+          "value": 4,
+          "variant": 2,
+          "attributeId": 13,
+          "param1": {
+            "min": 4,
+            "max": 4,
+            "value": 4
+          }
+        },
+        {
+          "id": 11,
+          "min": 1,
+          "max": 4,
+          "paramType1": "percent",
+          "description": "{param1} Random Rune Exchange",
+          "variant": 2,
+          "attributeId": 11,
+          "value": 4,
+          "param1": {
+            "min": 1,
+            "max": 4,
+            "value": 4
+          }
+        },
+        {
+          "id": 34,
+          "min": 0,
+          "max": 1,
+          "paramType1": "percent",
+          "description": "{param1} Avoid All Burns (Not Implemented)",
+          "variant": 2,
+          "attributeId": 34,
+          "value": 1,
+          "param1": {
+            "min": 0,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 6,
+          "min": 0,
+          "max": 3,
+          "paramType1": "percent",
+          "description": "{param1} Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 1,
+          "param1": {
+            "min": 0,
+            "max": 3,
+            "value": 1
+          }
+        }
+      ],
+      "perfection": [
+        10,
+        10,
+        null,
+        null,
+        1,
+        0
+      ],
+      "presets": {
+        "2": [
+          10,
+          10,
+          null,
+          null,
+          1,
+          0
+        ],
+        "3": [
+          10,
+          10,
+          null,
+          null,
+          1,
+          0
+        ],
+        "4": [
+          9,
+          9,
+          null,
+          null,
+          0,
+          0
+        ],
+        "5": [
+          7,
+          7,
+          null,
+          null,
+          0,
+          0
+        ],
+        "6": [
+          2,
+          2,
+          null,
+          null,
+          0,
+          2
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "9-9-1-1",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 9
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 9
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 34,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 1
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 270
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "min": 1,
+      "max": 10,
+      "paramType1": "percent",
+      "description": "{param1} Reduced Harvest Fees",
+      "variant": 2,
+      "attributeId": 8,
+      "value": 9,
+      "param1": {
+        "min": 1,
+        "max": 10,
+        "value": 9
+      },
+      "trait_type": "{param1} Reduced Harvest Fees"
+    },
+    {
+      "id": 7,
+      "min": 1,
+      "max": 10,
+      "paramType1": "percent",
+      "description": "{param1} Chance To Find Worldstone Shard (Per Raid)",
+      "variant": 2,
+      "attributeId": 7,
+      "value": 9,
+      "param1": {
+        "min": 1,
+        "max": 10,
+        "value": 9
+      },
+      "trait_type": "{param1} Chance To Find Worldstone Shard (Per Raid)"
+    },
+    {
+      "id": 13,
+      "min": 4,
+      "max": 4,
+      "paramType1": "percent",
+      "description": "{param1} Magic Find",
+      "value": 4,
+      "variant": 2,
+      "attributeId": 13,
+      "param1": {
+        "min": 4,
+        "max": 4,
+        "value": 4
+      },
+      "trait_type": "{param1} Magic Find"
+    },
+    {
+      "id": 11,
+      "min": 1,
+      "max": 4,
+      "paramType1": "percent",
+      "description": "{param1} Random Rune Exchange",
+      "variant": 2,
+      "attributeId": 11,
+      "value": 4,
+      "param1": {
+        "min": 1,
+        "max": 4,
+        "value": 4
+      },
+      "trait_type": "{param1} Random Rune Exchange"
+    },
+    {
+      "id": 34,
+      "min": 0,
+      "max": 1,
+      "paramType1": "percent",
+      "description": "{param1} Avoid All Burns (Not Implemented)",
+      "variant": 2,
+      "attributeId": 34,
+      "value": 1,
+      "param1": {
+        "min": 0,
+        "max": 1,
+        "value": 1
+      },
+      "trait_type": "{param1} Avoid All Burns (Not Implemented)"
+    },
+    {
+      "id": 6,
+      "min": 0,
+      "max": 3,
+      "paramType1": "percent",
+      "description": "{param1} Harvest Burn",
+      "variant": 2,
+      "attributeId": 6,
+      "value": 1,
+      "param1": {
+        "min": 0,
+        "max": 3,
+        "value": 1
+      },
+      "trait_type": "{param1} Harvest Burn"
+    }
+  ],
+  "perfection": 0.86,
+  "slots": [
+    "Legs"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 1,
+    "feeReduction": 9,
+    "randomRuneExchange": 4,
+    "worldstoneShardChance": 9,
+    "odds": 3200,
+    "version": 0,
+    "created": 1657874868054,
+    "revision": 0
+  },
+  "id": 20,
+  "name": "Flow",
+  "icon": "https://rune.game/images/items/00020.png",
+  "isPublishable": true,
+  "isSecret": false,
+  "type": "Leggings",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": true,
+  "isRetired": true,
+  "recipe": {
+    "requirement": [
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030002008200800920070...270",
+  "rarity": {
+    "id": 5,
+    "name": "Rare"
+  },
+  "$loki": 3814
+}

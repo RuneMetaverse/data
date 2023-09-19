@@ -1,0 +1,297 @@
+{
+  "description": "A once unbreakable helm, its best days have passed.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300019052007012200600220110022008003000000000000000000000000000000000215",
+  "catalog_url": "https://rune.game/catalog/19",
+  "image": "https://rune.game/images/items/00019.png",
+  "language": "en-US",
+  "tokenId": "100300019052007012200600220110022008003000000000000000000000000000000000215",
+  "details": {
+    "Type": "Helm",
+    "Subtype": "Warder Helm",
+    "Rune Word": "Nef Tir Sol Ort",
+    "Distribution": "Crafted",
+    "Date": "June 3, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "A once unbreakable helm, its best days have passed."
+      ],
+      "attributes": [
+        {
+          "id": 7,
+          "min": 1,
+          "max": 15,
+          "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+          "variant": 2,
+          "attributeId": 7,
+          "value": 12
+        },
+        {
+          "id": 6,
+          "min": 1,
+          "max": 3,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 2
+        },
+        {
+          "id": 11,
+          "min": 1,
+          "max": 4,
+          "description": "{value}% Random Rune Exchange",
+          "variant": 2,
+          "attributeId": 11,
+          "value": 2
+        },
+        {
+          "id": 8,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Reduced Harvest Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 3
+        }
+      ],
+      "perfection": [
+        15,
+        1,
+        4,
+        5
+      ],
+      "presents": {
+        "2": [
+          15,
+          1,
+          4,
+          5
+        ],
+        "3": [
+          15,
+          1,
+          4,
+          5
+        ],
+        "4": [
+          14,
+          1,
+          3,
+          4
+        ],
+        "5": [
+          10,
+          1,
+          3,
+          3
+        ],
+        "6": [
+          3,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "12-2-2-3",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 12
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 3
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 215
+    }
+  ],
+  "attributes": [
+    {
+      "id": 7,
+      "min": 1,
+      "max": 15,
+      "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+      "variant": 2,
+      "attributeId": 7,
+      "value": 12,
+      "trait_type": "Chance To Find Worldstone Shard (Per Raid)"
+    },
+    {
+      "id": 6,
+      "min": 1,
+      "max": 3,
+      "description": "{value}% Harvest Burn",
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2,
+      "trait_type": "Harvest Burn"
+    },
+    {
+      "id": 11,
+      "min": 1,
+      "max": 4,
+      "description": "{value}% Random Rune Exchange",
+      "variant": 2,
+      "attributeId": 11,
+      "value": 2,
+      "trait_type": "Random Rune Exchange"
+    },
+    {
+      "id": 8,
+      "min": 1,
+      "max": 5,
+      "description": "{value}% Reduced Harvest Fees",
+      "variant": 2,
+      "attributeId": 8,
+      "value": 3,
+      "trait_type": "Reduced Harvest Fees"
+    }
+  ],
+  "perfection": 0.52,
+  "slots": [
+    "Head"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 2,
+    "feeReduction": 3,
+    "randomRuneExchange": 2,
+    "worldstoneShardChance": 12,
+    "odds": 900
+  },
+  "id": 19,
+  "name": "Pledge",
+  "icon": "https://rune.game/images/items/00019.png",
+  "type": "Helm",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": true,
+  "isDisabled": false,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "NEF",
+        "quantity": 1
+      },
+      {
+        "id": "TIR",
+        "quantity": 1
+      },
+      {
+        "id": "SOL",
+        "quantity": 1
+      },
+      {
+        "id": "ORT",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030001905200701220060...215",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

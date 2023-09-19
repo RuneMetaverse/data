@@ -1,0 +1,321 @@
+{
+  "description": [
+    "Made en masse by another world's crafters, these gauntlets are relatively exceptional compared to the work of humans."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300023092008005200400420070052013009201900000000000000000000000000000000952",
+  "catalog_url": "https://rune.game/catalog/23",
+  "image": "https://rune.game/images/items/00023.png",
+  "language": "en-US",
+  "tokenId": "100300023092008005200400420070052013009201900000000000000000000000000000000952",
+  "details": {
+    "Type": "Glove",
+    "Subtype": "Astral Gauntlets",
+    "Rune Word": "Ith Dol Ral Ko",
+    "Distribution": "Crafted",
+    "Date": "August 27, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Reduced Harvest Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 5
+        },
+        {
+          "id": 4,
+          "min": 0,
+          "max": 5,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 4
+        },
+        {
+          "id": 7,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+          "variant": 2,
+          "attributeId": 7,
+          "value": 5
+        },
+        {
+          "id": 13,
+          "min": 0,
+          "max": 10,
+          "description": "{value}% Magic Find",
+          "variant": 2,
+          "attributeId": 13,
+          "value": 9
+        },
+        {
+          "id": 19,
+          "min": 0,
+          "max": 1,
+          "description": "{value}% Chance To Create Random Runeword (Not Implemented)",
+          "variant": 2,
+          "attributeId": 19,
+          "value": 0
+        }
+      ],
+      "perfection": [
+        5,
+        5,
+        5,
+        10,
+        1
+      ],
+      "presents": {
+        "2": [
+          5,
+          5,
+          5,
+          10,
+          1
+        ],
+        "3": [
+          5,
+          5,
+          5,
+          10,
+          1
+        ],
+        "4": [
+          4,
+          4,
+          4,
+          9,
+          0
+        ],
+        "5": [
+          3,
+          3,
+          3,
+          7,
+          0
+        ],
+        "6": [
+          1,
+          1,
+          1,
+          2,
+          0
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "5-4-5-9-0",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 4,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 9
+    },
+    {
+      "variant": 2,
+      "attributeId": 19,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 952
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "min": 1,
+      "max": 5,
+      "description": "{value}% Reduced Harvest Fees",
+      "variant": 2,
+      "attributeId": 8,
+      "value": 5,
+      "trait_type": "Reduced Harvest Fees"
+    },
+    {
+      "id": 4,
+      "min": 0,
+      "max": 5,
+      "description": "{value}% Chance To Send Harvest To Hidden Pool",
+      "variant": 2,
+      "attributeId": 4,
+      "value": 4,
+      "trait_type": "Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 7,
+      "min": 1,
+      "max": 5,
+      "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+      "variant": 2,
+      "attributeId": 7,
+      "value": 5,
+      "trait_type": "Chance To Find Worldstone Shard (Per Raid)"
+    },
+    {
+      "id": 13,
+      "min": 0,
+      "max": 10,
+      "description": "{value}% Magic Find",
+      "variant": 2,
+      "attributeId": 13,
+      "value": 9,
+      "trait_type": "Magic Find"
+    },
+    {
+      "id": 19,
+      "min": 0,
+      "max": 1,
+      "description": "{value}% Chance To Create Random Runeword (Not Implemented)",
+      "variant": 2,
+      "attributeId": 19,
+      "value": 0,
+      "trait_type": "Chance To Create Random Runeword (Not Implemented)"
+    }
+  ],
+  "perfection": 0.74,
+  "slots": [
+    "Hands"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 4,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "feeReduction": 5,
+    "worldstoneShardChance": 5,
+    "odds": 3300
+  },
+  "id": 23,
+  "name": "Pressure",
+  "icon": "https://rune.game/images/items/00023.png",
+  "type": "Glove",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": true,
+  "isDisabled": false,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "ITH",
+        "quantity": 1
+      },
+      {
+        "id": "DOL",
+        "quantity": 1
+      },
+      {
+        "id": "RAL",
+        "quantity": 1
+      },
+      {
+        "id": "KO",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030002309200800520040...952",
+  "rarity": {
+    "id": 5,
+    "name": "Rare"
+  }
+}

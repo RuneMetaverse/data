@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4856,
+    "seller": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100300021022001090201307720120012007001200500020060042002082200301100000880",
+    "price": 120000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1662957361036,
+    "updatedAt": 1662957361036,
+    "blockNumber": 21258384,
+    "item": {
+      "id": 21,
+      "name": "Guiding Light"
+    }
+  },
+  {
+    "id": 4856,
+    "seller": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "buyer": "0x0bF1D568e96F36f20815774c4F81350d38A14B20",
+    "tokenId": "100300021022001090201307720120012007001200500020060042002082200301100000880",
+    "price": 120000,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1662957361036,
+    "updatedAt": 1663102765584,
+    "blockNumber": 21306848,
+    "item": {
+      "id": 21,
+      "name": "Guiding Light"
+    }
+  },
+  {
+    "id": 4965,
+    "seller": "0x0bF1D568e96F36f20815774c4F81350d38A14B20",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100300021022001090201307720120012007001200500020060042002082200301100000880",
+    "price": 280000,
+    "status": "delisted",
+    "hotness": 0,
+    "createdAt": 1666557228447,
+    "updatedAt": 1669000044559,
+    "blockNumber": 23235792,
+    "item": {
+      "id": 21,
+      "name": "Guiding Light"
+    }
+  }
+]

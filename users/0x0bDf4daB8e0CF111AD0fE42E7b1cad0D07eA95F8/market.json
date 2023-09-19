@@ -1,0 +1,79 @@
+{
+  "trades": [
+    {
+      "id": 6968,
+      "seller": "0x0bDf4daB8e0CF111AD0fE42E7b1cad0D07eA95F8",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "10010000110101005100147944",
+      "price": 0.1,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1630714328339,
+      "updatedAt": 1630714328339,
+      "blockNumber": 10606466,
+      "item": {
+        "id": 1
+      }
+    },
+    {
+      "id": 18323,
+      "seller": "0x0bDf4daB8e0CF111AD0fE42E7b1cad0D07eA95F8",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300013022001032200401520070152006013200200920030092039005202100200000520",
+      "price": 0.015,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1640928165730,
+      "updatedAt": 1640928165730,
+      "blockNumber": 13947337,
+      "item": {
+        "id": 13
+      }
+    },
+    {
+      "id": 18324,
+      "seller": "0x0bDf4daB8e0CF111AD0fE42E7b1cad0D07eA95F8",
+      "buyer": "0xE0cfE86F3f5eD07c18CE132ec7FF6FD98Df4EeBA",
+      "tokenId": "10010000310021002100012617",
+      "price": 0.099,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1640928254677,
+      "updatedAt": 1642916437236,
+      "blockNumber": 14608007,
+      "item": {
+        "id": 3
+      }
+    },
+    {
+      "id": 18325,
+      "seller": "0x0bDf4daB8e0CF111AD0fE42E7b1cad0D07eA95F8",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "1003000060720010022008015201100100000000000000000000000000000000000000000267",
+      "price": 0.09,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1640928396285,
+      "updatedAt": 1640928396285,
+      "blockNumber": 13947420,
+      "item": {
+        "id": 6
+      }
+    },
+    {
+      "id": 18326,
+      "seller": "0x0bDf4daB8e0CF111AD0fE42E7b1cad0D07eA95F8",
+      "buyer": "0xB71E23B639f7Ec3ad0D396Ad0CAf05fA948E7FF1",
+      "tokenId": "100300028132001001200800320130022007002200600100000000000000000000000000000879",
+      "price": 0.013,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1640928584878,
+      "updatedAt": 1642081220397,
+      "blockNumber": 14330968,
+      "item": {
+        "id": 28
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "description": "Given as a token of excellence in crafting.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100301202242059001000000000000000000000000000000000000000000000000000000000",
+  "catalog_url": "https://rune.game/catalog/1202",
+  "image": "https://rune.game/images/items/01202.png",
+  "language": "en-US",
+  "tokenId": "100301202242059001000000000000000000000000000000000000000000000000000000000",
+  "details": {
+    "Type": "Scroll",
+    "Subtype": "Memorabilia",
+    "Distribution": "Reward",
+    "Date": "June 12, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "Given as a token of excellence in crafting."
+      ],
+      "attributes": [
+        {
+          "id": 59,
+          "min": 1,
+          "max": 2,
+          "description": "{value}",
+          "map": {
+            "1": "Crafting Competition #1 Winner PT",
+            "2": "Crafting Competition #2 Winner Spontaneous",
+            "3": "Crafting Competition #3 Winner X"
+          },
+          "variant": 2,
+          "attributeId": 59,
+          "value": 1
+        }
+      ],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": [],
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 59,
+      "value": 1
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    }
+  ],
+  "attributes": [
+    {
+      "id": 59,
+      "min": 1,
+      "max": 2,
+      "description": "{value}",
+      "map": {
+        "1": "Crafting Competition #1 Winner PT",
+        "2": "Crafting Competition #2 Winner Spontaneous",
+        "3": "Crafting Competition #3 Winner X"
+      },
+      "variant": 2,
+      "attributeId": 59,
+      "value": "Crafting Competition #1 Winner PT",
+      "trait_type": "{value}"
+    }
+  ],
+  "perfection": 1,
+  "slots": [],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0
+  },
+  "id": 1202,
+  "name": "Crafting Competition Certificate",
+  "icon": "https://rune.game/images/items/01202.png",
+  "rarity": {
+    "id": 7,
+    "name": "Normal"
+  },
+  "type": "Wrist Armor",
+  "isNew": true,
+  "isEquipable": false,
+  "isUnequipable": false,
+  "isTradeable": false,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "version": 3,
+  "shortTokenId": "10030120224205900100000...000"
+}

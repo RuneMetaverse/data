@@ -1,0 +1,34 @@
+[
+  {
+    "id": 777,
+    "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000060720010032008015201100100000000000000000000000000000000000000000223",
+    "price": 888,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1650365498399,
+    "updatedAt": 1650365498399,
+    "blockNumber": 17079418,
+    "item": {
+      "id": 6,
+      "name": "Titan"
+    }
+  },
+  {
+    "id": 777,
+    "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+    "buyer": "0x5331F7035FCd45dadD1c6B5C2acFEA0BC27705b0",
+    "tokenId": "1003000060720010032008015201100100000000000000000000000000000000000000000223",
+    "price": 888,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1650365498399,
+    "updatedAt": 1662467930868,
+    "blockNumber": 21095437,
+    "item": {
+      "id": 6,
+      "name": "Titan"
+    }
+  }
+]

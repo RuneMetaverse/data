@@ -1,0 +1,310 @@
+{
+  "description": "Not much is known about this sword, other than the creator had gone mad.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300002010004002200250000000000000000000000000000000000000000000000000463",
+  "catalog_url": "https://rune.game/catalog/2",
+  "image": "https://rune.game/images/items/00002.png",
+  "language": "en-US",
+  "tokenId": "100300002010004002200250000000000000000000000000000000000000000000000000463",
+  "details": {
+    "Type": "One-Handed Sword",
+    "Subtype": "War Sword",
+    "Rune Word": "Nef Eld Tir El",
+    "Distribution": "Crafted",
+    "Date": "April 25, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "Not much is known about this sword, other than the creator had gone mad."
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 3,
+          "max": 7,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 0,
+          "value": 4,
+          "attributeId": 1
+        },
+        {
+          "id": 4,
+          "min": 20,
+          "max": 40,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 0,
+          "value": 22,
+          "attributeId": 4
+        },
+        {
+          "id": 5,
+          "min": 20,
+          "max": 40,
+          "description": "{value}% Chance To Lose Entire Harvest",
+          "variant": 0,
+          "value": 25,
+          "attributeId": 5
+        }
+      ],
+      "perfection": [
+        7,
+        40,
+        20
+      ],
+      "presents": {
+        "2": [
+          7,
+          40,
+          20
+        ],
+        "3": [
+          7,
+          40,
+          20
+        ],
+        "4": [
+          6,
+          39,
+          21
+        ],
+        "5": [
+          5,
+          34,
+          26
+        ],
+        "6": [
+          3,
+          24,
+          36
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "description": "Not much is known about this sword, other than the creator had gone mad.",
+      "attributes": [
+        {
+          "id": 1,
+          "min": 16,
+          "max": 20,
+          "description": "{value}% Increased Lightning Spell Damage",
+          "value": 17
+        },
+        {
+          "id": 3,
+          "min": 6,
+          "max": 8,
+          "description": "{value}% Decreased Enemy Lightning Resistance",
+          "value": 6
+        },
+        {
+          "id": 4,
+          "min": 81,
+          "max": 100,
+          "description": "{value} Mana on Attack",
+          "value": 95
+        },
+        {
+          "id": 5,
+          "min": 3,
+          "max": 5,
+          "description": "{value} To Forked Lightning"
+        },
+        {
+          "id": 6,
+          "description": "Half Freeze Duration"
+        }
+      ],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      },
+      "perfection": [
+        0.25,
+        0.1,
+        0.75
+      ]
+    }
+  },
+  "shorthand": "4-22-25",
+  "mods": [
+    {
+      "variant": 0,
+      "value": 4,
+      "attributeId": 1
+    },
+    {
+      "variant": 0,
+      "value": 22,
+      "attributeId": 4
+    },
+    {
+      "variant": 0,
+      "value": 25,
+      "attributeId": 5
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 463
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 3,
+      "max": 7,
+      "description": "{value}% Increased Harvest Yield",
+      "variant": 0,
+      "value": 4,
+      "attributeId": 1,
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 4,
+      "min": 20,
+      "max": 40,
+      "description": "{value}% Chance To Send Harvest To Hidden Pool",
+      "variant": 0,
+      "value": 22,
+      "attributeId": 4,
+      "trait_type": "Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 5,
+      "min": 20,
+      "max": 40,
+      "description": "{value}% Chance To Lose Entire Harvest",
+      "variant": 0,
+      "value": 25,
+      "attributeId": 5,
+      "trait_type": "Chance To Lose Entire Harvest"
+    }
+  ],
+  "perfection": 0.36,
+  "slots": [
+    "Right Hand",
+    "Left Hand"
+  ],
+  "meta": {
+    "harvestYield": 4,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 22,
+    "chanceToLoseHarvest": 25,
+    "harvestBurn": 0,
+    "odds": 2205
+  },
+  "id": 2,
+  "name": "Fury",
+  "icon": "https://rune.game/images/items/00002.png",
+  "type": "One Handed Weapon",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": true,
+  "isRetired": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "NEF",
+        "quantity": 1
+      },
+      {
+        "id": "ELD",
+        "quantity": 1
+      },
+      {
+        "id": "TIR",
+        "quantity": 1
+      },
+      {
+        "id": "EL",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030000201000400220025...463",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

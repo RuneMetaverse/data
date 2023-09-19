@@ -1,0 +1,818 @@
+{
+  "description": "Masterfully crafted from an otherworldly blue metal and infused with astra energy, these gauntlets brim with untapped power.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300023092008003200400320070042013008201900100000000000000000000000000000517",
+  "image_url": "/images/items/00023.png",
+  "language": "en-US",
+  "tokenId": "100300023092008003200400320070042013008201900100000000000000000000000000000517",
+  "details": {
+    "Type": "Glove",
+    "Subtype": "Astral Gauntlets",
+    "Rune Word": "Ith Dol Ral Ko",
+    "Distribution": "Crafted",
+    "Date": "August 27, 2021 - Now"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "1-5",
+            "min": 1,
+            "max": 5,
+            "value": 3
+          },
+          "value": 3,
+          "min": 1,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 4,
+          "name": "SendHarvestHiddenPool",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Send Harvest To Hidden Pool",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 3
+          },
+          "value": 3,
+          "min": 0,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 4
+        },
+        {
+          "id": 7,
+          "name": "FindShard",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+          "param1": {
+            "spec": "1-5",
+            "min": 1,
+            "max": 5,
+            "value": 4
+          },
+          "value": 4,
+          "min": 1,
+          "max": 5,
+          "explanation": "Chance applies once per raid.",
+          "variant": 2,
+          "attributeId": 7
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "0-10",
+            "min": 0,
+            "max": 10,
+            "value": 8
+          },
+          "value": 8,
+          "min": 0,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 13
+        },
+        {
+          "id": 19,
+          "name": "CreateRandomRuneword",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/createrandomruneword",
+          "paramType1": "chance",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Create Random Runeword",
+          "param1": {
+            "spec": "0-1",
+            "min": 0,
+            "max": 1,
+            "value": 1
+          },
+          "value": 1,
+          "min": 0,
+          "max": 1,
+          "variant": 2,
+          "attributeId": 19
+        }
+      ],
+      "perfection": [
+        5,
+        5,
+        5,
+        10,
+        1
+      ],
+      "presets": {
+        "2": [
+          5,
+          5,
+          5,
+          10,
+          1
+        ],
+        "3": [
+          5,
+          5,
+          5,
+          10,
+          1
+        ],
+        "4": [
+          4,
+          4,
+          4,
+          9,
+          0
+        ],
+        "5": [
+          3,
+          3,
+          3,
+          7,
+          0
+        ],
+        "6": [
+          1,
+          1,
+          1,
+          2,
+          0
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1060,
+          "name": "DamageResist",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} damage resist",
+          "param1": {
+            "spec": [
+              "1-5"
+            ],
+            "min": 1,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 1012,
+          "name": "CriticalHitMultiplier",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/criticalhitmultiplier",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} critical hit multiplier",
+          "param1": {
+            "spec": "5-10",
+            "min": 5,
+            "max": 10,
+            "value": 8
+          },
+          "value": null
+        },
+        {
+          "id": 1101,
+          "name": "DeathPenaltyDecrease",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltydecrease",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Buff",
+          "influences": "Game",
+          "description": "{parameter1} reduction to points lost on death.",
+          "param1": {
+            "spec": "0-10",
+            "min": 0,
+            "max": 10,
+            "value": 8
+          },
+          "value": null
+        },
+        {
+          "id": 1200,
+          "name": "LeaderMovementSpeedDecrease",
+          "isEnabled": true,
+          "nexusLink": "https://nexus.rune.game/item-attribute/leadermovementspeeddecrease",
+          "paramType1": "percent",
+          "nature": "Debuff",
+          "influences": "Movement",
+          "description": "{parameter1} slower movement when leading",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        },
+        {
+          "id": 1169,
+          "name": "ShardFindWin",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/shardfindwin",
+          "paramType1": "percent",
+          "nature": "Mechanic",
+          "influences": "Reward",
+          "description": "{parameter1} chance to find a worldstone shard on win",
+          "param1": {
+            "spec": "0-1",
+            "min": 0,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "3-3",
+            "min": 3,
+            "max": 3,
+            "value": 3
+          }
+        },
+        {
+          "id": 1325,
+          "name": "SkillUnlock",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/skillunlock",
+          "paramType1": "skill",
+          "nature": "Mechanic",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Air Blast",
+            "min": 215,
+            "max": 215,
+            "value": 215,
+            "map": {
+              "215": "Air Blast"
+            }
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        10,
+        10,
+        null,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          null,
+          10,
+          10
+        ],
+        "3": [
+          null,
+          10,
+          10
+        ],
+        "4": [
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "1-5",
+            "min": 1,
+            "max": 5,
+            "value": 3
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "10-15",
+            "min": 10,
+            "max": 15,
+            "value": 13
+          },
+          "param2": {
+            "spec": "CriticalHitMultiplier",
+            "min": 5,
+            "max": 5,
+            "value": 5,
+            "map": {
+              "5": "CriticalHitMultiplier"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "0-10",
+            "min": 0,
+            "max": 10,
+            "value": 8
+          },
+          "param2": {
+            "spec": "AttackSpeed",
+            "min": 4,
+            "max": 4,
+            "value": 4,
+            "map": {
+              "4": "AttackSpeed"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "10-10",
+            "min": 10,
+            "max": 10,
+            "value": 10
+          }
+        },
+        {
+          "id": 1325,
+          "name": "SkillUnlock",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/skillunlock",
+          "paramType1": "skill",
+          "nature": "Mechanic",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Blade Barrier",
+            "min": 495,
+            "max": 495,
+            "value": 495,
+            "map": {
+              "495": "Blade Barrier"
+            }
+          }
+        }
+      ],
+      "perfection": [
+        5,
+        15,
+        10,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          5,
+          15,
+          10
+        ],
+        "3": [
+          5,
+          15,
+          10
+        ],
+        "4": [
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "3-3-4-8-1",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 4,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 8
+    },
+    {
+      "variant": 2,
+      "attributeId": 19,
+      "value": 1
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 517
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "1-5",
+        "min": 1,
+        "max": 5,
+        "value": 3
+      },
+      "value": 3,
+      "min": 1,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 4,
+      "name": "SendHarvestHiddenPool",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Send Harvest To Hidden Pool",
+      "param1": {
+        "spec": "0-5",
+        "min": 0,
+        "max": 5,
+        "value": 3
+      },
+      "value": 3,
+      "min": 0,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 4,
+      "trait_type": "{parameter1} Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 7,
+      "name": "FindShard",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+      "param1": {
+        "spec": "1-5",
+        "min": 1,
+        "max": 5,
+        "value": 4
+      },
+      "value": 4,
+      "min": 1,
+      "max": 5,
+      "explanation": "Chance applies once per raid.",
+      "variant": 2,
+      "attributeId": 7,
+      "trait_type": "{parameter1} Chance To Find Worldstone Shard (Per Raid)"
+    },
+    {
+      "id": 13,
+      "name": "MagicFind",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "paramType1": "percent",
+      "paramValue1": "0-999",
+      "nature": "Buff",
+      "description": "{parameter1} Magic Find",
+      "param1": {
+        "spec": "0-10",
+        "min": 0,
+        "max": 10,
+        "value": 8
+      },
+      "value": 8,
+      "min": 0,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "{parameter1} Magic Find"
+    },
+    {
+      "id": 19,
+      "name": "CreateRandomRuneword",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/createrandomruneword",
+      "paramType1": "chance",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Create Random Runeword",
+      "param1": {
+        "spec": "0-1",
+        "min": 0,
+        "max": 1,
+        "value": 1
+      },
+      "value": 1,
+      "min": 0,
+      "max": 1,
+      "variant": 2,
+      "attributeId": 19,
+      "trait_type": "{parameter1} Chance To Create Random Runeword"
+    }
+  ],
+  "perfection": 0.73,
+  "slots": [
+    "Hands"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 3,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "attributes": {
+      "4": 3,
+      "7": 4,
+      "8": 3,
+      "13": 10,
+      "19": 1,
+      "1012": 8,
+      "1060": 1,
+      "1101": 8,
+      "1169": 1,
+      "1200": 5,
+      "1325": 495,
+      "2316": 3,
+      "2600": 8
+    },
+    "feeReduction": null,
+    "worldstoneShardChance": null,
+    "probability": {
+      "mythic": null,
+      "epic": null,
+      "rare": null,
+      "magical": null,
+      "roll": null
+    },
+    "version": 0,
+    "created": 1662721506898,
+    "revision": 0
+  },
+  "id": 23,
+  "name": "Pressure",
+  "slug": "pressure",
+  "icon": "/images/items/00023.png",
+  "image": "https://dl.airtable.com/.attachments/976171c280816e1f7c892827b1669a51/8cdc9af5/00023.png?ts=1657605387&userId=usrf0GZYc5zCl9Cv7&cs=b209fdb921323d68",
+  "type": "Glove",
+  "subType": 15,
+  "specificType": 19,
+  "isPolled": true,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": true,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 3300,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 5,
+        "quantity": 1,
+        "symbol": "ITH"
+      },
+      {
+        "id": 13,
+        "quantity": 1,
+        "symbol": "DOL"
+      },
+      {
+        "id": 7,
+        "quantity": 1,
+        "symbol": "RAL"
+      },
+      {
+        "id": 17,
+        "quantity": 1,
+        "symbol": "KO"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "Forged from a mysterious blue metal, these ornate gauntlets are outfitted with gold gilding and enchanted with potent astra energy.",
+  "skills": [
+    495
+  ],
+  "materials": [
+    7
+  ],
+  "version": 3,
+  "shortTokenId": "10030002309200800320040...517",
+  "rarity": {
+    "id": 5,
+    "name": "Rare"
+  },
+  "$loki": 5820
+}

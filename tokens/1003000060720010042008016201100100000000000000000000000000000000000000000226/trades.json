@@ -1,0 +1,77 @@
+[
+  {
+    "id": 3998,
+    "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000060720010042008016201100100000000000000000000000000000000000000000226",
+    "price": 0.06,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1628573007710,
+    "updatedAt": 1628573007710,
+    "blockNumber": 9900773,
+    "item": {
+      "id": 6
+    }
+  },
+  {
+    "id": 3998,
+    "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+    "buyer": "0x96E46E6f05ED30BaF0e2823bf5c26C4c0bDDE983",
+    "tokenId": "1003000060720010042008016201100100000000000000000000000000000000000000000226",
+    "price": 0.06,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1628573007710,
+    "updatedAt": 1630195493088,
+    "blockNumber": 10435657,
+    "item": {
+      "id": 6
+    }
+  },
+  {
+    "id": 6524,
+    "seller": "0x96E46E6f05ED30BaF0e2823bf5c26C4c0bDDE983",
+    "buyer": "0x6C64105cfF216F1f051fcEA6cB553CC88E3d58cf",
+    "tokenId": "1003000060720010042008016201100100000000000000000000000000000000000000000226",
+    "price": 0.048,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1630606171128,
+    "updatedAt": 1630631442497,
+    "blockNumber": 10579241,
+    "item": {
+      "id": 6
+    }
+  },
+  {
+    "id": 8388,
+    "seller": "0x6C64105cfF216F1f051fcEA6cB553CC88E3d58cf",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000060720010042008016201100100000000000000000000000000000000000000000226",
+    "price": 0.048,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1631451914661,
+    "updatedAt": 1631451914661,
+    "blockNumber": 10850091,
+    "item": {
+      "id": 6
+    }
+  },
+  {
+    "id": 8388,
+    "seller": "0x6C64105cfF216F1f051fcEA6cB553CC88E3d58cf",
+    "buyer": "0x9FAF2023BF5a34aA3ee9aAaB4ddD42fA6d07964D",
+    "tokenId": "1003000060720010042008016201100100000000000000000000000000000000000000000226",
+    "price": 0.048,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1631451914661,
+    "updatedAt": 1631522493482,
+    "blockNumber": 10873594,
+    "item": {
+      "id": 6
+    }
+  }
+]

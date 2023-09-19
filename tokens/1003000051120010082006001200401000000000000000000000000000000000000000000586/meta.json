@@ -1,0 +1,273 @@
+{
+  "description": "Although common in another world, these Sourcer boots are considered high quality.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000051120010082006001200401000000000000000000000000000000000000000000586",
+  "catalog_url": "https://rune.game/catalog/5",
+  "image": "https://rune.game/images/items/00005.png",
+  "language": "en-US",
+  "tokenId": "1003000051120010082006001200401000000000000000000000000000000000000000000586",
+  "details": {
+    "Type": "Greaves",
+    "Subtype": "Astral Greaves",
+    "Rune Word": "Ith Eld Ral Tal",
+    "Distribution": "Crafted",
+    "Date": "May 17, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "Although common in another world, these Sourcer boots are considered high quality."
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 10,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 8
+        },
+        {
+          "id": 6,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 1
+        },
+        {
+          "id": 4,
+          "min": 10,
+          "max": 20,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 10
+        }
+      ],
+      "perfection": [
+        10,
+        1,
+        20
+      ],
+      "presents": {
+        "2": [
+          10,
+          1,
+          20
+        ],
+        "3": [
+          10,
+          1,
+          20
+        ],
+        "4": [
+          9,
+          1,
+          19
+        ],
+        "5": [
+          7,
+          2,
+          17
+        ],
+        "6": [
+          2,
+          4,
+          12
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "8-1-10",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 8
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 4,
+      "value": 10
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 586
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 1,
+      "max": 10,
+      "description": "{value}% Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 8,
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 6,
+      "min": 1,
+      "max": 5,
+      "description": "{value}% Harvest Burn",
+      "variant": 2,
+      "attributeId": 6,
+      "value": 1,
+      "trait_type": "Harvest Burn"
+    },
+    {
+      "id": 4,
+      "min": 10,
+      "max": 20,
+      "description": "{value}% Chance To Send Harvest To Hidden Pool",
+      "variant": 2,
+      "attributeId": 4,
+      "value": 10,
+      "trait_type": "Chance To Send Harvest To Hidden Pool"
+    }
+  ],
+  "perfection": 0.59,
+  "slots": [
+    "Feet"
+  ],
+  "meta": {
+    "harvestYield": 8,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 10,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 1,
+    "odds": 550
+  },
+  "id": 5,
+  "name": "Flash",
+  "icon": "https://rune.game/images/items/00005.png",
+  "type": "Boot",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": true,
+  "isRetired": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "ITH",
+        "quantity": 1
+      },
+      {
+        "id": "ELD",
+        "quantity": 1
+      },
+      {
+        "id": "RAL",
+        "quantity": 1
+      },
+      {
+        "id": "TAL",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030000511200100820060...586",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

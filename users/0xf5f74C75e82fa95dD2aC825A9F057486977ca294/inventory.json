@@ -1,0 +1,3464 @@
+{
+  "items": [
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "100300003050003000100930000000000000000000000000000000000000000000000000469",
+      "createdAt": 1649768528343,
+      "details": {
+        "Type": "Helm",
+        "Subtype": "Archon Helm",
+        "Rune Word": "Nef Tir",
+        "Distribution": "Crafted",
+        "Date": "April 25, 2021 - June 3, 2021",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            "An ancient helm forged by the Archons to seek out powerful shards in the battle between Heaven and Hell."
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 1,
+              "max": 3,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 6,
+              "min": 1,
+              "max": 3,
+              "description": "{value}% Harvest Burn"
+            },
+            {
+              "id": 7,
+              "min": 100,
+              "max": 100,
+              "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+              "value": 100
+            },
+            {
+              "id": 55,
+              "min": 2,
+              "max": 2,
+              "description": "{value} Sockets",
+              "value": 2
+            }
+          ],
+          "perfection": [
+            3,
+            1
+          ]
+        },
+        "2": {
+          "description": "An ancient helm forged by the Archons to seek out powerful shards in the battle between Heaven and Hell.",
+          "attributes": [
+            {
+              "id": 1,
+              "value": 5,
+              "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+            },
+            {
+              "id": 2,
+              "value": 100,
+              "description": "{value}% Increased Block Speed"
+            },
+            {
+              "id": 2,
+              "value": 230,
+              "description": "{value}% Enhanced Defense"
+            },
+            {
+              "id": 2,
+              "min": 41,
+              "max": 50,
+              "description": "Physical Damage Reduced by {value}"
+            },
+            {
+              "id": 2,
+              "description": "Half Freeze Duration"
+            }
+          ]
+        }
+      },
+      "shorthand": "3-1",
+      "mods": [
+        {
+          "variant": 0,
+          "value": 3,
+          "attributeId": 1
+        },
+        {
+          "variant": 0,
+          "value": 1,
+          "attributeId": 6
+        },
+        {
+          "variant": 0,
+          "value": 100,
+          "attributeId": 7
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 469
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 3,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 0,
+          "value": 3,
+          "attributeId": 1
+        },
+        {
+          "id": 6,
+          "min": 1,
+          "max": 3,
+          "description": "{value}% Harvest Burn",
+          "variant": 0,
+          "value": 1,
+          "attributeId": 6
+        },
+        {
+          "id": 7,
+          "min": 100,
+          "max": 100,
+          "description": "{value}% Chance To Find Worldstone Shard (Per Raid)",
+          "value": 100,
+          "variant": 0,
+          "attributeId": 7
+        },
+        {
+          "id": 55,
+          "min": 2,
+          "max": 2,
+          "description": "{value} Sockets",
+          "value": 2
+        }
+      ],
+      "perfection": 1,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 3,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 0,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 1,
+        "worldstoneShardChance": 100
+      },
+      "id": 3,
+      "name": "Lorekeeper",
+      "icon": "undefinedimages/items/00003.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": false,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 4,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 5,
+      "shortTokenId": "10030000305000300010093...469",
+      "slotId": 3,
+      "updatedAt": 1625015770745,
+      "rarity": "Mythic",
+      "slots": [
+        3
+      ],
+      "isRetired": true,
+      "hotness": 7
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010032006003200401100000000000000000000000000000000000000000330",
+      "createdAt": 1649768535543,
+      "details": {
+        "Type": "Greaves",
+        "Subtype": "Astral Greaves",
+        "Rune Word": "Ith Eld Ral Tal",
+        "Distribution": "Crafted",
+        "Date": "May 17, 2021 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            "Although common in another world, these Sourcer boots are considered high quality."
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 1,
+              "max": 10,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 6,
+              "min": 1,
+              "max": 5,
+              "description": "{value}% Harvest Burn"
+            },
+            {
+              "id": 4,
+              "min": 10,
+              "max": 20,
+              "description": "{value}% Chance To Send Harvest To Hidden Pool"
+            },
+            {
+              "id": 55,
+              "min": 4,
+              "max": 4,
+              "description": "{value} Sockets",
+              "value": 4
+            }
+          ],
+          "perfection": [
+            10,
+            1,
+            20
+          ]
+        },
+        "2": {
+          "description": "Although common in another world, these Sourcer boots are considered high quality.",
+          "attributes": [
+            {
+              "id": 1,
+              "value": 5,
+              "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+            },
+            {
+              "id": 2,
+              "value": 100,
+              "description": "{value}% Increased Block Speed"
+            },
+            {
+              "id": 2,
+              "value": 230,
+              "description": "{value}% Enhanced Defense"
+            },
+            {
+              "id": 2,
+              "min": 41,
+              "max": 50,
+              "description": "Physical Damage Reduced by {value}"
+            },
+            {
+              "id": 2,
+              "description": "Half Freeze Duration"
+            }
+          ]
+        }
+      },
+      "shorthand": "3-3-11",
+      "mods": [
+        {
+          "variant": 2,
+          "attributeId": 1,
+          "value": 3
+        },
+        {
+          "variant": 2,
+          "attributeId": 6,
+          "value": 3
+        },
+        {
+          "variant": 2,
+          "attributeId": 4,
+          "value": 11
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 330
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 10,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 3
+        },
+        {
+          "id": 6,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 3
+        },
+        {
+          "id": 4,
+          "min": 10,
+          "max": 20,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 11
+        },
+        {
+          "id": 55,
+          "min": 4,
+          "max": 4,
+          "description": "{value} Sockets",
+          "value": 4
+        }
+      ],
+      "perfection": 0.27,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 3,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 11,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 3
+      },
+      "id": 5,
+      "name": "Flash",
+      "icon": "undefinedimages/items/00005.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 6,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 11,
+      "shortTokenId": "10030000511200100320060...330",
+      "slotId": 12,
+      "rarity": "Magical",
+      "slots": [
+        12
+      ],
+      "hotness": 6
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010062006005200401100000000000000000000000000000000000000000558",
+      "createdAt": 1649768536544,
+      "details": {
+        "Type": "Greaves",
+        "Subtype": "Astral Greaves",
+        "Rune Word": "Ith Eld Ral Tal",
+        "Distribution": "Crafted",
+        "Date": "May 17, 2021 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            "Although common in another world, these Sourcer boots are considered high quality."
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 1,
+              "max": 10,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 6,
+              "min": 1,
+              "max": 5,
+              "description": "{value}% Harvest Burn"
+            },
+            {
+              "id": 4,
+              "min": 10,
+              "max": 20,
+              "description": "{value}% Chance To Send Harvest To Hidden Pool"
+            },
+            {
+              "id": 55,
+              "min": 4,
+              "max": 4,
+              "description": "{value} Sockets",
+              "value": 4
+            }
+          ],
+          "perfection": [
+            10,
+            1,
+            20
+          ]
+        },
+        "2": {
+          "description": "Although common in another world, these Sourcer boots are considered high quality.",
+          "attributes": [
+            {
+              "id": 1,
+              "value": 5,
+              "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+            },
+            {
+              "id": 2,
+              "value": 100,
+              "description": "{value}% Increased Block Speed"
+            },
+            {
+              "id": 2,
+              "value": 230,
+              "description": "{value}% Enhanced Defense"
+            },
+            {
+              "id": 2,
+              "min": 41,
+              "max": 50,
+              "description": "Physical Damage Reduced by {value}"
+            },
+            {
+              "id": 2,
+              "description": "Half Freeze Duration"
+            }
+          ]
+        }
+      },
+      "shorthand": "6-5-11",
+      "mods": [
+        {
+          "variant": 2,
+          "attributeId": 1,
+          "value": 6
+        },
+        {
+          "variant": 2,
+          "attributeId": 6,
+          "value": 5
+        },
+        {
+          "variant": 2,
+          "attributeId": 4,
+          "value": 11
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 558
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 10,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 6
+        },
+        {
+          "id": 6,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 5
+        },
+        {
+          "id": 4,
+          "min": 10,
+          "max": 20,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 11
+        },
+        {
+          "id": 55,
+          "min": 4,
+          "max": 4,
+          "description": "{value} Sockets",
+          "value": 4
+        }
+      ],
+      "perfection": 0.21,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 6,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 11,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 5
+      },
+      "id": 5,
+      "name": "Flash",
+      "icon": "undefinedimages/items/00005.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 6,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 11,
+      "shortTokenId": "10030000511200100620060...558",
+      "slotId": 12,
+      "rarity": "Magical",
+      "slots": [
+        12
+      ],
+      "hotness": 6
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010012006003200401300000000000000000000000000000000000000000475",
+      "createdAt": 1649768538028,
+      "details": {
+        "Type": "Greaves",
+        "Subtype": "Astral Greaves",
+        "Rune Word": "Ith Eld Ral Tal",
+        "Distribution": "Crafted",
+        "Date": "May 17, 2021 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            "Although common in another world, these Sourcer boots are considered high quality."
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 1,
+              "max": 10,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 6,
+              "min": 1,
+              "max": 5,
+              "description": "{value}% Harvest Burn"
+            },
+            {
+              "id": 4,
+              "min": 10,
+              "max": 20,
+              "description": "{value}% Chance To Send Harvest To Hidden Pool"
+            },
+            {
+              "id": 55,
+              "min": 4,
+              "max": 4,
+              "description": "{value} Sockets",
+              "value": 4
+            }
+          ],
+          "perfection": [
+            10,
+            1,
+            20
+          ]
+        },
+        "2": {
+          "description": "Although common in another world, these Sourcer boots are considered high quality.",
+          "attributes": [
+            {
+              "id": 1,
+              "value": 5,
+              "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+            },
+            {
+              "id": 2,
+              "value": 100,
+              "description": "{value}% Increased Block Speed"
+            },
+            {
+              "id": 2,
+              "value": 230,
+              "description": "{value}% Enhanced Defense"
+            },
+            {
+              "id": 2,
+              "min": 41,
+              "max": 50,
+              "description": "Physical Damage Reduced by {value}"
+            },
+            {
+              "id": 2,
+              "description": "Half Freeze Duration"
+            }
+          ]
+        }
+      },
+      "shorthand": "1-3-13",
+      "mods": [
+        {
+          "variant": 2,
+          "attributeId": 1,
+          "value": 1
+        },
+        {
+          "variant": 2,
+          "attributeId": 6,
+          "value": 3
+        },
+        {
+          "variant": 2,
+          "attributeId": 4,
+          "value": 13
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 475
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 10,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 1
+        },
+        {
+          "id": 6,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 3
+        },
+        {
+          "id": 4,
+          "min": 10,
+          "max": 20,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 13
+        },
+        {
+          "id": 55,
+          "min": 4,
+          "max": 4,
+          "description": "{value} Sockets",
+          "value": 4
+        }
+      ],
+      "perfection": 0.26,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 1,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 13,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 3
+      },
+      "id": 5,
+      "name": "Flash",
+      "icon": "undefinedimages/items/00005.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 6,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 11,
+      "shortTokenId": "10030000511200100120060...475",
+      "slotId": 12,
+      "rarity": "Magical",
+      "slots": [
+        12
+      ],
+      "hotness": 6
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+      "status": "transferred_out",
+      "tokenId": "1003000051120010072006001200401100000000000000000000000000000000000000000132",
+      "createdAt": 1649824283476,
+      "details": {
+        "Type": "Greaves",
+        "Subtype": "Astral Greaves",
+        "Rune Word": "Ith Eld Ral Tal",
+        "Distribution": "Crafted",
+        "Date": "May 17, 2021 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            "Although common in another world, these Sourcer boots are considered high quality."
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 1,
+              "max": 10,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 6,
+              "min": 1,
+              "max": 5,
+              "description": "{value}% Harvest Burn"
+            },
+            {
+              "id": 4,
+              "min": 10,
+              "max": 20,
+              "description": "{value}% Chance To Send Harvest To Hidden Pool"
+            },
+            {
+              "id": 55,
+              "min": 4,
+              "max": 4,
+              "description": "{value} Sockets",
+              "value": 4
+            }
+          ],
+          "perfection": [
+            10,
+            1,
+            20
+          ]
+        },
+        "2": {
+          "description": "Although common in another world, these Sourcer boots are considered high quality.",
+          "attributes": [
+            {
+              "id": 1,
+              "value": 5,
+              "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+            },
+            {
+              "id": 2,
+              "value": 100,
+              "description": "{value}% Increased Block Speed"
+            },
+            {
+              "id": 2,
+              "value": 230,
+              "description": "{value}% Enhanced Defense"
+            },
+            {
+              "id": 2,
+              "min": 41,
+              "max": 50,
+              "description": "Physical Damage Reduced by {value}"
+            },
+            {
+              "id": 2,
+              "description": "Half Freeze Duration"
+            }
+          ]
+        }
+      },
+      "shorthand": "7-1-11",
+      "mods": [
+        {
+          "variant": 2,
+          "attributeId": 1,
+          "value": 7
+        },
+        {
+          "variant": 2,
+          "attributeId": 6,
+          "value": 1
+        },
+        {
+          "variant": 2,
+          "attributeId": 4,
+          "value": 11
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 132
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 10,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 7
+        },
+        {
+          "id": 6,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 1
+        },
+        {
+          "id": 4,
+          "min": 10,
+          "max": 20,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 11
+        },
+        {
+          "id": 55,
+          "min": 4,
+          "max": 4,
+          "description": "{value} Sockets",
+          "value": 4
+        }
+      ],
+      "perfection": 0.58,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 7,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 11,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 1
+      },
+      "id": 5,
+      "name": "Flash",
+      "icon": "undefinedimages/items/00005.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 6,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 11,
+      "shortTokenId": "10030000511200100720060...132",
+      "slotId": 12,
+      "updatedAt": 1630436409262,
+      "rarity": "Magical",
+      "slots": [
+        12
+      ],
+      "hotness": 6,
+      "itemId": 5
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000060720010042008020201100200000000000000000000000000000000000000000043",
+      "createdAt": 1649773240096,
+      "details": {
+        "Type": "Armor",
+        "Subtype": "Templar Forge",
+        "Rune Word": "Tal Ort Thul Eld Nef",
+        "Distribution": "Crafted",
+        "Date": "May 24 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            ""
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 2,
+              "max": 5,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 8,
+              "min": 10,
+              "max": 20,
+              "description": "Remove {value}% Fees"
+            },
+            {
+              "id": 11,
+              "min": 1,
+              "max": 2,
+              "description": "{value}% Random Rune Exchange"
+            }
+          ],
+          "perfection": [
+            5,
+            20,
+            2
+          ]
+        },
+        "2": {
+          "description": "",
+          "attributes": []
+        }
+      },
+      "shorthand": "4-20-2",
+      "mods": [
+        {
+          "variant": 2,
+          "attributeId": 1,
+          "value": 4
+        },
+        {
+          "variant": 2,
+          "attributeId": 8,
+          "value": 20
+        },
+        {
+          "variant": 2,
+          "attributeId": 11,
+          "value": 2
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 43
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 2,
+          "max": 5,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 4
+        },
+        {
+          "id": 8,
+          "min": 10,
+          "max": 20,
+          "description": "Remove {value}% Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 20
+        },
+        {
+          "id": 11,
+          "min": 1,
+          "max": 2,
+          "description": "{value}% Random Rune Exchange",
+          "variant": 2,
+          "attributeId": 11,
+          "value": 2
+        }
+      ],
+      "perfection": 0.88,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 4,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 0,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 0
+      },
+      "id": 6,
+      "name": "Titan",
+      "icon": "undefinedimages/items/00006.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 7,
+            "quantity": 1
+          },
+          {
+            "id": 9,
+            "quantity": 1
+          },
+          {
+            "id": 10,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 7,
+      "shortTokenId": "10030000607200100420080...043",
+      "slotId": 7,
+      "updatedAt": 1627276715948
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000060720010032008014201100200000000000000000000000000000000000000000021",
+      "createdAt": 1649773240303,
+      "details": {
+        "Type": "Armor",
+        "Subtype": "Templar Forge",
+        "Rune Word": "Tal Ort Thul Eld Nef",
+        "Distribution": "Crafted",
+        "Date": "May 24 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            ""
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 2,
+              "max": 5,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 8,
+              "min": 10,
+              "max": 20,
+              "description": "Remove {value}% Fees"
+            },
+            {
+              "id": 11,
+              "min": 1,
+              "max": 2,
+              "description": "{value}% Random Rune Exchange"
+            }
+          ],
+          "perfection": [
+            5,
+            20,
+            2
+          ]
+        },
+        "2": {
+          "description": "",
+          "attributes": []
+        }
+      },
+      "shorthand": "3-14-2",
+      "mods": [
+        {
+          "variant": 2,
+          "attributeId": 1,
+          "value": 3
+        },
+        {
+          "variant": 2,
+          "attributeId": 8,
+          "value": 14
+        },
+        {
+          "variant": 2,
+          "attributeId": 11,
+          "value": 2
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 21
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 2,
+          "max": 5,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 3
+        },
+        {
+          "id": 8,
+          "min": 10,
+          "max": 20,
+          "description": "Remove {value}% Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 14
+        },
+        {
+          "id": 11,
+          "min": 1,
+          "max": 2,
+          "description": "{value}% Random Rune Exchange",
+          "variant": 2,
+          "attributeId": 11,
+          "value": 2
+        }
+      ],
+      "perfection": 0.57,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 3,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 0,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 0
+      },
+      "id": 6,
+      "name": "Titan",
+      "icon": "undefinedimages/items/00006.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 7,
+            "quantity": 1
+          },
+          {
+            "id": 9,
+            "quantity": 1
+          },
+          {
+            "id": 10,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 7,
+      "shortTokenId": "10030000607200100320080...021",
+      "slotId": 7
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000060720010022008020201100200000000000000000000000000000000000000000590",
+      "createdAt": 1649773240500,
+      "details": {
+        "Type": "Armor",
+        "Subtype": "Templar Forge",
+        "Rune Word": "Tal Ort Thul Eld Nef",
+        "Distribution": "Crafted",
+        "Date": "May 24 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            ""
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 2,
+              "max": 5,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 8,
+              "min": 10,
+              "max": 20,
+              "description": "Remove {value}% Fees"
+            },
+            {
+              "id": 11,
+              "min": 1,
+              "max": 2,
+              "description": "{value}% Random Rune Exchange"
+            }
+          ],
+          "perfection": [
+            5,
+            20,
+            2
+          ]
+        },
+        "2": {
+          "description": "",
+          "attributes": []
+        }
+      },
+      "shorthand": "2-20-2",
+      "mods": [
+        {
+          "variant": 2,
+          "attributeId": 1,
+          "value": 2
+        },
+        {
+          "variant": 2,
+          "attributeId": 8,
+          "value": 20
+        },
+        {
+          "variant": 2,
+          "attributeId": 11,
+          "value": 2
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 590
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 2,
+          "max": 5,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 2
+        },
+        {
+          "id": 8,
+          "min": 10,
+          "max": 20,
+          "description": "Remove {value}% Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 20
+        },
+        {
+          "id": 11,
+          "min": 1,
+          "max": 2,
+          "description": "{value}% Random Rune Exchange",
+          "variant": 2,
+          "attributeId": 11,
+          "value": 2
+        }
+      ],
+      "perfection": 0.66,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 2,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 0,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 0
+      },
+      "id": 6,
+      "name": "Titan",
+      "icon": "undefinedimages/items/00006.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 7,
+            "quantity": 1
+          },
+          {
+            "id": 9,
+            "quantity": 1
+          },
+          {
+            "id": 10,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 7,
+      "shortTokenId": "10030000607200100220080...590",
+      "slotId": 7
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000060720010022008019201100100000000000000000000000000000000000000000556",
+      "createdAt": 1649773241140,
+      "details": {
+        "Type": "Armor",
+        "Subtype": "Templar Forge",
+        "Rune Word": "Tal Ort Thul Eld Nef",
+        "Distribution": "Crafted",
+        "Date": "May 24 - Now",
+        "Max Supply": "Unknown"
+      },
+      "branches": {
+        "1": {
+          "description": [
+            ""
+          ],
+          "attributes": [
+            {
+              "id": 1,
+              "min": 2,
+              "max": 5,
+              "description": "{value}% Increased Harvest Yield"
+            },
+            {
+              "id": 8,
+              "min": 10,
+              "max": 20,
+              "description": "Remove {value}% Fees"
+            },
+            {
+              "id": 11,
+              "min": 1,
+              "max": 2,
+              "description": "{value}% Random Rune Exchange"
+            }
+          ],
+          "perfection": [
+            5,
+            20,
+            2
+          ]
+        },
+        "2": {
+          "description": "",
+          "attributes": []
+        }
+      },
+      "shorthand": "2-19-1",
+      "mods": [
+        {
+          "variant": 2,
+          "attributeId": 1,
+          "value": 2
+        },
+        {
+          "variant": 2,
+          "attributeId": 8,
+          "value": 19
+        },
+        {
+          "variant": 2,
+          "attributeId": 11,
+          "value": 1
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 0
+        },
+        {
+          "variant": 0,
+          "value": 556
+        }
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 2,
+          "max": 5,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 2
+        },
+        {
+          "id": 8,
+          "min": 10,
+          "max": 20,
+          "description": "Remove {value}% Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 19
+        },
+        {
+          "id": 11,
+          "min": 1,
+          "max": 2,
+          "description": "{value}% Random Rune Exchange",
+          "variant": 2,
+          "attributeId": 11,
+          "value": 1
+        }
+      ],
+      "perfection": 0.3,
+      "category": "armor",
+      "meta": {
+        "harvestYield": 2,
+        "harvestFees": {},
+        "chanceToSendHarvestToHiddenPool": 0,
+        "chanceToLoseHarvest": 0,
+        "harvestBurn": 0
+      },
+      "id": 6,
+      "name": "Titan",
+      "icon": "undefinedimages/items/00006.png",
+      "value": "0",
+      "isNew": false,
+      "isEquipable": true,
+      "isUnequipable": false,
+      "isTradeable": true,
+      "isTransferable": true,
+      "isCraftable": true,
+      "isDisabled": false,
+      "isRuneword": true,
+      "createdDate": 12111,
+      "hotnessScore": 1,
+      "recipe": {
+        "requirement": [
+          {
+            "id": 7,
+            "quantity": 1
+          },
+          {
+            "id": 9,
+            "quantity": 1
+          },
+          {
+            "id": 10,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "quantity": 1
+          }
+        ]
+      },
+      "version": 3,
+      "type": 7,
+      "shortTokenId": "10030000607200100220080...556",
+      "slotId": 7
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004018200700220020072003009203900620210040000000000000292",
+      "createdAt": 1649777415972,
+      "id": 12,
+      "perfection": 0.32
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004012200700120020062003009203900620210040000000000000293",
+      "createdAt": 1649777416226,
+      "id": 12,
+      "perfection": 0.18
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004023200700120020102003009203900620210040000000000000294",
+      "createdAt": 1649777416481,
+      "id": 12,
+      "perfection": 0.25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004013200700120020072003010203900620210040000000000000295",
+      "createdAt": 1649777416733,
+      "id": 12,
+      "perfection": 0.38
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+      "status": "transferred_out",
+      "tokenId": "1003000120120010052004040200700220020062003010203900620210040000000000000296",
+      "createdAt": 1649802324336,
+      "id": 12,
+      "updatedAt": 1629091244486,
+      "perfection": 0.83,
+      "itemId": 12
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004012200700120020042003010203900620210040000000000000297",
+      "createdAt": 1649777417250,
+      "id": 12,
+      "perfection": 0.27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004029200700220020062003010203900620210040000000000000298",
+      "createdAt": 1649777417501,
+      "id": 12,
+      "perfection": 0.6
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004021200700220020072003009203900620210040000000000000299",
+      "createdAt": 1649777417786,
+      "id": 12,
+      "perfection": 0.58
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004039200700220020072003010203900620210040000000000000300",
+      "createdAt": 1649777418171,
+      "id": 12,
+      "perfection": 0.55
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004033200700120020052003010203900620210040000000000000301",
+      "createdAt": 1649777421778,
+      "id": 12,
+      "perfection": 0.79
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004034200700120020092003009203900620210040000000000000302",
+      "createdAt": 1649777421910,
+      "id": 12,
+      "perfection": 0.3
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004028200700120020022003010203900620210040000000000000303",
+      "createdAt": 1649777422571,
+      "id": 12,
+      "perfection": 0.75
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004011200700120020052003011203900620210040000000000000304",
+      "createdAt": 1649777424878,
+      "id": 12,
+      "perfection": 0.21
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004030200700120020032003009203900620210040000000000000305",
+      "createdAt": 1649777425112,
+      "id": 12,
+      "perfection": 0.62
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004019200700220020022003011203900620210040000000000000306",
+      "createdAt": 1649777425286,
+      "id": 12,
+      "perfection": 0.43
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004010200700220020052003011203900620210040000000000000307",
+      "createdAt": 1649777425477,
+      "id": 12,
+      "perfection": 0.54
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004027200700220020102003009203900620210040000000000000308",
+      "createdAt": 1649777425593,
+      "id": 12,
+      "perfection": 0.41
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004029200700120020102003009203900620210040000000000000309",
+      "createdAt": 1649777425781,
+      "id": 12,
+      "perfection": 0.54
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004037200700120020072003011203900620210040000000000000310",
+      "createdAt": 1649777425962,
+      "id": 12,
+      "perfection": 0.42
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004038200700220020022003011203900620210040000000000000311",
+      "createdAt": 1649777426214,
+      "id": 12,
+      "perfection": 0.75
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004027200700220020092003011203900620210040000000000000312",
+      "createdAt": 1649777426413,
+      "id": 12,
+      "perfection": 0.34
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004024200700120020102003009203900620210040000000000000313",
+      "createdAt": 1649777426558,
+      "id": 12,
+      "perfection": 0.37
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004017200700220020092003011203900620210040000000000000314",
+      "createdAt": 1649777426710,
+      "id": 12,
+      "perfection": 0.45
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004017200700220020062003009203900620210040000000000000315",
+      "createdAt": 1649777429740,
+      "id": 12,
+      "perfection": 0.24
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004013200700120020052003010203900620210040000000000000316",
+      "createdAt": 1649777431156,
+      "id": 12,
+      "perfection": 0.46
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004028200700120020022003010203900620210040000000000000317",
+      "createdAt": 1649777433904,
+      "id": 12,
+      "perfection": 0.53
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004037200700220020022003010203900620210040000000000000318",
+      "createdAt": 1649777434290,
+      "id": 12,
+      "perfection": 0.63
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004037200700220020052003010203900620210040000000000000319",
+      "createdAt": 1649777435093,
+      "id": 12,
+      "perfection": 0.61
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004025200700120020082003010203900620210040000000000000320",
+      "createdAt": 1649777438094,
+      "id": 12,
+      "perfection": 0.47
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004020200700120020062003011203900620210040000000000000321",
+      "createdAt": 1649777438446,
+      "id": 12,
+      "perfection": 0.61
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+      "status": "transferred_out",
+      "tokenId": "1003000120120010052004034200700220020052003010203900620210040000000000000322",
+      "createdAt": 1649802324472,
+      "id": 12,
+      "updatedAt": 1629091244497,
+      "perfection": 0.8,
+      "itemId": 12
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004028200700220020032003010203900620210040000000000000323",
+      "createdAt": 1649777442947,
+      "id": 12,
+      "perfection": 0.82
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004025200700220020052003011203900620210040000000000000324",
+      "createdAt": 1649777443087,
+      "id": 12,
+      "perfection": 0.7
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004033200700220020032003009203900620210040000000000000325",
+      "createdAt": 1649777446092,
+      "id": 12,
+      "perfection": 0.54
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004018200700120020072003011203900620210040000000000000326",
+      "createdAt": 1649777447272,
+      "id": 12,
+      "perfection": 0.32
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004010200700120020022003010203900620210040000000000000327",
+      "createdAt": 1649777447575,
+      "id": 12,
+      "perfection": 0.66
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004036200700220020102003010203900620210040000000000000328",
+      "createdAt": 1649777447679,
+      "id": 12,
+      "perfection": 0.62
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004024200700120020042003010203900620210040000000000000329",
+      "createdAt": 1649777447782,
+      "id": 12,
+      "perfection": 0.73
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004025200700220020072003009203900620210040000000000000330",
+      "createdAt": 1649777447939,
+      "id": 12,
+      "perfection": 0.4
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004033200700120020032003010203900620210040000000000000331",
+      "createdAt": 1649777448084,
+      "id": 12,
+      "perfection": 0.88
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004036200700120020102003009203900620210040000000000000092",
+      "createdAt": 1649777448200,
+      "id": 12,
+      "perfection": 0.51
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004015200700120020062003009203900620210040000000000000093",
+      "createdAt": 1649777448304,
+      "id": 12,
+      "perfection": 0.33
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004030200700220020022003011203900620210040000000000000094",
+      "createdAt": 1649777448426,
+      "id": 12,
+      "perfection": 0.88
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004011200700220020042003010203900620210040000000000000095",
+      "createdAt": 1649777448543,
+      "id": 12,
+      "perfection": 0.26
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004018200700220020052003010203900620210040000000000000096",
+      "createdAt": 1649777448645,
+      "id": 12,
+      "perfection": 0.51
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004028200700120020022003011203900620210040000000000000097",
+      "createdAt": 1649777448826,
+      "id": 12,
+      "perfection": 0.86
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004019200700220020072003010203900620210040000000000000098",
+      "createdAt": 1649777448940,
+      "id": 12,
+      "perfection": 0.44
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004027200700120020062003009203900620210040000000000000099",
+      "createdAt": 1649777449089,
+      "id": 12,
+      "perfection": 0.46
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004025200700120020062003010203900620210040000000000000100",
+      "createdAt": 1649777449194,
+      "id": 12,
+      "perfection": 0.33
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004022200700120020062003010203900620210040000000000000101",
+      "createdAt": 1649777449307,
+      "id": 12,
+      "perfection": 0.63
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "1003000070920010052008090200910000000000000000000000000000000000000000000018",
+      "createdAt": 1649780918949,
+      "id": 7,
+      "perfection": 0.93,
+      "updatedAt": 1627286500462
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004015200700220020082003011203900620210040000000000000336",
+      "createdAt": 1649782707994,
+      "id": 12,
+      "perfection": 0.36
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004031200700120020032003009203900620210040000000000000337",
+      "createdAt": 1649782708130,
+      "id": 12,
+      "perfection": 0.63
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004012200700120020102003010203900620210040000000000000338",
+      "createdAt": 1649782708250,
+      "id": 12,
+      "perfection": 0.35
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004026200700120020062003011203900620210040000000000000339",
+      "createdAt": 1649782708421,
+      "id": 12,
+      "perfection": 0.56
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004026200700220020062003011203900620210040000000000000340",
+      "createdAt": 1649782708545,
+      "id": 12,
+      "perfection": 0.56
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004032200700120020092003009203900620210040000000000000341",
+      "createdAt": 1649782712563,
+      "id": 12,
+      "perfection": 0.28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004014200700220020082003010203900620210040000000000000342",
+      "createdAt": 1649782713268,
+      "id": 12,
+      "perfection": 0.23
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004026200700120020052003011203900620210040000000000000343",
+      "createdAt": 1649782714306,
+      "id": 12,
+      "perfection": 0.38
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004035200700220020072003009203900620210040000000000000344",
+      "createdAt": 1649782714573,
+      "id": 12,
+      "perfection": 0.73
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004019200700220020052003010203900620210040000000000000345",
+      "createdAt": 1649782714710,
+      "id": 12,
+      "perfection": 0.64
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004020200700120020042003010203900620210040000000000000727",
+      "createdAt": 1649782714902,
+      "id": 12,
+      "perfection": 0.58
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004018200700120020072003010203900620210040000000000000728",
+      "createdAt": 1649782715017,
+      "id": 12,
+      "perfection": 0.43
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004030200700220020032003009203900620210040000000000000729",
+      "createdAt": 1649782715119,
+      "id": 12,
+      "perfection": 0.84
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004016200700120020072003011203900620210040000000000000730",
+      "createdAt": 1649782715259,
+      "id": 12,
+      "perfection": 0.19
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004019200700220020102003009203900620210040000000000000731",
+      "createdAt": 1649782715403,
+      "id": 12,
+      "perfection": 0.21
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010032004016200700220020042003009203900620210040000000000000732",
+      "createdAt": 1649782715532,
+      "id": 12,
+      "perfection": 0.42
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004032200700220020092003010203900620210040000000000000733",
+      "createdAt": 1649782715660,
+      "id": 12,
+      "perfection": 0.61
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010052004014200700120020092003011203900620210040000000000000734",
+      "createdAt": 1649782715774,
+      "id": 12,
+      "perfection": 0.41
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010022004034200700220020072003009203900620210040000000000000735",
+      "createdAt": 1649782715974,
+      "id": 12,
+      "perfection": 0.39
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004020200700220020032003011203900620210040000000000000736",
+      "createdAt": 1649782716109,
+      "id": 12,
+      "perfection": 0.62
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001017200401520070152006015200200820030092039005202100200000017",
+      "createdAt": 1649784119660,
+      "id": 13,
+      "perfection": 0.31
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001038200401520070152006011200200920030102039005202100200000018",
+      "createdAt": 1649784119781,
+      "id": 13,
+      "perfection": 0.77
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001033200401520070152006015200201020030112039005202100200000019",
+      "createdAt": 1649784119876,
+      "id": 13,
+      "perfection": 0.42
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001028200401520070152006013200201320030112039005202100200000020",
+      "createdAt": 1649784120183,
+      "id": 13,
+      "perfection": 0.4
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001031200401520070152006015200201220030102039005202100200000021",
+      "createdAt": 1649784120279,
+      "id": 13,
+      "perfection": 0.33
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001016200401520070152006012200201120030092039005202100200000022",
+      "createdAt": 1649784120426,
+      "id": 13,
+      "perfection": 0.4
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001025200401520070152006010200201020030102039005202100200000023",
+      "createdAt": 1649784120554,
+      "id": 13,
+      "perfection": 0.66
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001010200401520070152006014200201020030102039005202100200000024",
+      "createdAt": 1649784120655,
+      "id": 13,
+      "perfection": 0.23
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001029200401520070152006011200200920030092039005202100200000025",
+      "createdAt": 1649784125371,
+      "id": 13,
+      "perfection": 0.67
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300013022001015200401520070152006013200200920030092039005202100200000026",
+      "createdAt": 1649784126076,
+      "id": 13,
+      "perfection": 0.38
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300016012001004200700120130022011004200200620030142039011202100700000242",
+      "createdAt": 1649782539125,
+      "id": 16,
+      "perfection": 0.38
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xc84ce216fef4EC8957bD0Fb966Bb3c3E2c938082",
+      "status": "transferred_out",
+      "tokenId": "100300013022001035200401520070152006010200200720030092039005202100200000157",
+      "createdAt": 1649783217710,
+      "id": 13,
+      "perfection": 0.87
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+      "status": "transferred_out",
+      "tokenId": "100300011022001040200402520070102006011200200920030102039007202100300000806",
+      "createdAt": 1649820962635,
+      "id": 11,
+      "perfection": 0.8,
+      "updatedAt": 1630183932585,
+      "itemId": 11
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "10030002008200800520070022013004201100320340002006003000000000000000000000013",
+      "createdAt": 1649819800979,
+      "id": 20,
+      "perfection": 0.13
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300021022001055201303220120102007009200500120060622002095200301100000853",
+      "createdAt": 1649820952245,
+      "perfection": 0.35,
+      "id": 21
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "100300021022001073201306520120002007038200500120060062002063200301100000759",
+      "createdAt": 1649820957500,
+      "perfection": 0.49,
+      "updatedAt": 1630183932553,
+      "id": 21
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "10030002008200800420070062013004201100420340012006000000000000000000000000212",
+      "createdAt": 1649822290278,
+      "id": 20,
+      "perfection": 0.72
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300024242008004201100120130142071002207200100000000000000000000000000000510",
+      "createdAt": 1649822374338,
+      "perfection": 0.52,
+      "id": 24
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800220070022013004201100120340012006001000000000000000000000182",
+      "createdAt": 1649822409339,
+      "id": 20,
+      "perfection": 0.47
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200801020070082013004201100320340002006002000000000000000000000182",
+      "createdAt": 1649822409479,
+      "id": 20,
+      "perfection": 0.52
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800520070062013004201100320340002006001000000000000000000000182",
+      "createdAt": 1649822409536,
+      "id": 20,
+      "perfection": 0.41
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800920070012013004201100120340002006001000000000000000000000182",
+      "createdAt": 1649822409680,
+      "id": 20,
+      "perfection": 0.38
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800120070102013004201100220340002006002000000000000000000000182",
+      "createdAt": 1649822409827,
+      "id": 20,
+      "perfection": 0.33
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800820070012013004201100320340002006002000000000000000000000182",
+      "createdAt": 1649822410107,
+      "id": 20,
+      "perfection": 0.27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800920070022013004201100320340002006003000000000000000000000182",
+      "createdAt": 1649822410448,
+      "id": 20,
+      "perfection": 0.25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800320070102013004201100320340012006003000000000000000000000182",
+      "createdAt": 1649822410566,
+      "id": 20,
+      "perfection": 0.55
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800820070032013004201100320340002006001000000000000000000000182",
+      "createdAt": 1649822411142,
+      "id": 20,
+      "perfection": 0.41
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002008200800920070032013004201100220340002006000000000000000000000000182",
+      "createdAt": 1649822411268,
+      "id": 20,
+      "perfection": 0.52
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "100300024242008006201100320130112071003207200100000000000000000000000000000298",
+      "createdAt": 1649823988578,
+      "perfection": 0.82,
+      "id": 24
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "100300024242008009201100120130152071001207200100000000000000000000000000000817",
+      "createdAt": 1649823988802,
+      "perfection": 0.55,
+      "id": 24
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "100300026122001004200400120130052019000206100520350202002010200300900000146",
+      "createdAt": 1649824024962,
+      "perfection": 0.46,
+      "id": 26
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "10030002712200100320080022004001201200320620052006000000000000000000000000039",
+      "createdAt": 1649824278238,
+      "perfection": 0.75,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100220080022004003201200220620032006000000000000000000000000103",
+      "createdAt": 1649824278312,
+      "perfection": 0.55,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100220080032004000201200220620052006000000000000000000000000103",
+      "createdAt": 1649824278385,
+      "perfection": 0.63,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100120080032004000201200120620052006002000000000000000000000103",
+      "createdAt": 1649824278457,
+      "perfection": 0.38,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100320080012004002201200120620042006003000000000000000000000103",
+      "createdAt": 1649824278531,
+      "perfection": 0.36,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100120080032004000201200120620042006003000000000000000000000103",
+      "createdAt": 1649824278618,
+      "perfection": 0.25,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100120080022004003201200320620052006001000000000000000000000103",
+      "createdAt": 1649824278699,
+      "perfection": 0.63,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100320080022004002201200120620042006003000000000000000000000103",
+      "createdAt": 1649824278790,
+      "perfection": 0.44,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100320080012004003201200120620032006001000000000000000000000103",
+      "createdAt": 1649824278909,
+      "perfection": 0.44,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100120080032004001201200220620052006002000000000000000000000103",
+      "createdAt": 1649824279130,
+      "perfection": 0.5,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "10030002712200100120080022004001201200220620032006002000000000000000000000103",
+      "createdAt": 1649824279388,
+      "perfection": 0.25,
+      "id": 27
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001001200800120130012007004200600300000000000000000000000000000353",
+      "createdAt": 1649824279496,
+      "perfection": 0.27,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001001200800120130022007001200600300000000000000000000000000000353",
+      "createdAt": 1649824279585,
+      "perfection": 0.18,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001001200800220130012007001200600000000000000000000000000000000353",
+      "createdAt": 1649824280218,
+      "perfection": 0.3,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001002200800120130022007004200600000000000000000000000000000000353",
+      "createdAt": 1649824280316,
+      "perfection": 0.6,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001002200800120130032007004200600000000000000000000000000000000353",
+      "createdAt": 1649824282429,
+      "perfection": 0.7,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001003200800220130012007002200600100000000000000000000000000000353",
+      "createdAt": 1649824282896,
+      "perfection": 0.52,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001003200800120130022007003200600300000000000000000000000000000353",
+      "createdAt": 1649824282966,
+      "perfection": 0.51,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001002200800320130022007001200600400000000000000000000000000000353",
+      "createdAt": 1649824283034,
+      "perfection": 0.44,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001002200800120130022007004200600300000000000000000000000000000353",
+      "createdAt": 1649824283091,
+      "perfection": 0.48,
+      "id": 28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300028132001003200800320130022007001200600200000000000000000000000000000353",
+      "createdAt": 1649824283163,
+      "perfection": 0.62,
+      "id": 28
+    },
+    {
+      "status": "created",
+      "tokenId": "1003000051120010092006001200401000000000000000000000000000000000000000000769",
+      "updatedAt": 1630436664821,
+      "id": 5,
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "createdAt": 1649782531021,
+      "perfection": 0.62
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008002200400020060002074016207500600000000000000000000000000000045",
+      "createdAt": 1649824302219,
+      "perfection": 0.52,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008001200400120060022074010207500900000000000000000000000000000045",
+      "createdAt": 1649824302306,
+      "perfection": 0.05,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008002200400220060002074017207500500000000000000000000000000000045",
+      "createdAt": 1649824302373,
+      "perfection": 0.64,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008003200400320060002074010207500500000000000000000000000000000045",
+      "createdAt": 1649824302441,
+      "perfection": 0.65,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008001200400420060002074018207500900000000000000000000000000000045",
+      "createdAt": 1649824302509,
+      "perfection": 0.65,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008003200400520060002074018207501200000000000000000000000000000045",
+      "createdAt": 1649824302579,
+      "perfection": 0.95,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008003200400120060002074011207500100000000000000000000000000000045",
+      "createdAt": 1649824302655,
+      "perfection": 0.57,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008002200400420060002074011207500700000000000000000000000000000045",
+      "createdAt": 1649824302740,
+      "perfection": 0.6,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008001200400420060002074016207501100000000000000000000000000000045",
+      "createdAt": 1649824302793,
+      "perfection": 0.6,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300025012008003200400520060002074015207501200000000000000000000000000000045",
+      "createdAt": 1649824302861,
+      "perfection": 0.87,
+      "id": 25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "100100001101110011000114111",
+      "createdAt": 1649825168435,
+      "id": 1,
+      "perfection": 0.7
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "100300002010005002600260000000000000000000000000000000000000000000000000751",
+      "createdAt": 1649825168571,
+      "id": 2,
+      "perfection": 0.5
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300019052007009200600220110032008005000000000000000000000000000000000681",
+      "createdAt": 1649825168757,
+      "id": 19,
+      "perfection": 0.68
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x2C4AA5618Cfe5c6dCc4e40AfD5025f68E75ebE71",
+      "status": "transferred_out",
+      "tokenId": "1003000120120010052004035200700120020022003010203900620210040000000000000912",
+      "createdAt": 1649828549942,
+      "id": 12,
+      "perfection": 0.94
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+      "status": "transferred_out",
+      "tokenId": "1003012052220400020000000000000000000000000000000000000000000000000016",
+      "createdAt": 1649854811323,
+      "id": 1205,
+      "perfection": 1
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010082006005200401400000000000000000000000000000000000000000614",
+      "createdAt": 1649782529129,
+      "id": 5,
+      "perfection": 0.39
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010042006004200401700000000000000000000000000000000000000000761",
+      "createdAt": 1649782529973,
+      "id": 5,
+      "perfection": 0.42
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010012006005200402000000000000000000000000000000000000000000762",
+      "createdAt": 1649782530081,
+      "id": 5,
+      "perfection": 0.33
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010072006002200401300000000000000000000000000000000000000000763",
+      "createdAt": 1649782530216,
+      "id": 5,
+      "perfection": 0.57
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010052006001200401200000000000000000000000000000000000000000764",
+      "createdAt": 1649782530350,
+      "id": 5,
+      "perfection": 0.54
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010052006003200401200000000000000000000000000000000000000000765",
+      "createdAt": 1649782530481,
+      "id": 5,
+      "perfection": 0.38
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010032006004200401200000000000000000000000000000000000000000766",
+      "createdAt": 1649782530630,
+      "id": 5,
+      "perfection": 0.22
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010022006002200401600000000000000000000000000000000000000000767",
+      "createdAt": 1649782530774,
+      "id": 5,
+      "perfection": 0.48
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010032006002200401700000000000000000000000000000000000000000768",
+      "createdAt": 1649782530892,
+      "id": 5,
+      "perfection": 0.55
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010022006004200401400000000000000000000000000000000000000000770",
+      "createdAt": 1649782531121,
+      "id": 5,
+      "perfection": 0.25
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010052006002200402000000000000000000000000000000000000000000917",
+      "createdAt": 1649782531391,
+      "id": 5,
+      "perfection": 0.73
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010012006003200401300000000000000000000000000000000000000000918",
+      "createdAt": 1649782531560,
+      "id": 5,
+      "perfection": 0.26
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010032006001200401700000000000000000000000000000000000000000919",
+      "createdAt": 1649782531695,
+      "id": 5,
+      "perfection": 0.64
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010012006004200401600000000000000000000000000000000000000000920",
+      "createdAt": 1649782531876,
+      "id": 5,
+      "perfection": 0.28
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010082006003200401400000000000000000000000000000000000000000921",
+      "createdAt": 1649782535878,
+      "id": 5,
+      "perfection": 0.55
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010032006003200401000000000000000000000000000000000000000000922",
+      "createdAt": 1649782536023,
+      "id": 5,
+      "perfection": 0.24
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010052006001200401900000000000000000000000000000000000000000923",
+      "createdAt": 1649782536534,
+      "id": 5,
+      "perfection": 0.78
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010092006004200401800000000000000000000000000000000000000000924",
+      "createdAt": 1649782537577,
+      "id": 5,
+      "perfection": 0.64
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010102006005200401800000000000000000000000000000000000000000925",
+      "createdAt": 1649782537792,
+      "id": 5,
+      "perfection": 0.6
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010032006003200401200000000000000000000000000000000000000000926",
+      "createdAt": 1649782537918,
+      "id": 5,
+      "perfection": 0.3
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010042006005200401800000000000000000000000000000000000000000350",
+      "createdAt": 1649782538148,
+      "id": 5,
+      "perfection": 0.37
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000150320080062012002201300920110012047006203900320210050000000000000386",
+      "createdAt": 1649782538290,
+      "id": 15,
+      "perfection": 0.53
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010042006001200401700000000000000000000000000000000000000000604",
+      "createdAt": 1649782538395,
+      "id": 5,
+      "perfection": 0.67
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010022006003200401000000000000000000000000000000000000000000893",
+      "createdAt": 1649782538531,
+      "id": 5,
+      "perfection": 0.2
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010072006003200401500000000000000000000000000000000000000000227",
+      "createdAt": 1649782538654,
+      "id": 5,
+      "perfection": 0.55
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000051120010072006005200401700000000000000000000000000000000000000000162",
+      "createdAt": 1649782538787,
+      "id": 5,
+      "perfection": 0.45
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "1003000120120010042004017200700220020072003011203900620210040000000000000549",
+      "createdAt": 1649782538907,
+      "id": 12,
+      "perfection": 0.42
+    },
+    {
+      "owner": "0xf5f74C75e82fa95dD2aC825A9F057486977ca294",
+      "from": "0x0000000000000000000000000000000000000000",
+      "status": "created",
+      "tokenId": "100300016012001004200701820130022011002200200220030122039011202100700000833",
+      "createdAt": 1649782539047,
+      "id": 16,
+      "perfection": 0.85
+    }
+  ]
+}

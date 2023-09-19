@@ -1,0 +1,643 @@
+{
+  "description": "Silken footwraps of deep crimson, this footwear allows its bearer to streak across the battlefield like a blazing firebolt.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300046112006019210600121080072008005201301000000000000000000000000000000281",
+  "image_url": "/images/items/00046.png",
+  "language": "en-US",
+  "tokenId": "100300046112006019210600121080072008005201301000000000000000000000000000000281",
+  "details": {
+    "Type": "Boot",
+    "Subtype": "Sol Battlemage Footwraps",
+    "Rune Word": "Gul Ist Zod Um"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 6,
+          "name": "HarvestBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Burn",
+          "param1": {
+            "spec": "0-20",
+            "min": 0,
+            "max": 20,
+            "value": 19
+          },
+          "value": 19,
+          "min": 0,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 6
+        },
+        {
+          "id": 106,
+          "name": "HarvestSpeed",
+          "isEnabled": false,
+          "nexusLink": "https://nexus.rune.game/item-attribute/raidpending5",
+          "description": "{parameter1} Reduction To Harvest Cooldown (Not Implemented)",
+          "paramType1": "percent",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 1
+          },
+          "value": 1,
+          "min": 0,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 106
+        },
+        {
+          "id": 108,
+          "name": "StunRecovery",
+          "isEnabled": false,
+          "nexusLink": "https://nexus.rune.game/item-attribute/raidpending3",
+          "description": "{parameter1} Faster Recovery From Stun Effects (Not Implemented)",
+          "paramType1": "percent",
+          "param1": {
+            "spec": "0-10",
+            "min": 0,
+            "max": 10,
+            "value": 7
+          },
+          "value": 7,
+          "min": 0,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 108
+        },
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          },
+          "value": 5,
+          "min": 5,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "10-10",
+            "min": 10,
+            "max": 10,
+            "value": 10
+          },
+          "value": 10,
+          "min": 10,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 13
+        }
+      ],
+      "perfection": [
+        0,
+        5,
+        10,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          0,
+          5,
+          10
+        ],
+        "3": [
+          0,
+          5,
+          10
+        ],
+        "4": [
+          1,
+          4,
+          9
+        ],
+        "5": [
+          6,
+          3,
+          7
+        ],
+        "6": [
+          16,
+          1,
+          2
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "3-5",
+            "min": 3,
+            "max": 5,
+            "value": 3
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "5-10",
+            "min": 5,
+            "max": 10,
+            "value": 6
+          },
+          "param2": {
+            "spec": "MovementSpeed",
+            "min": 3,
+            "max": 3,
+            "value": 3,
+            "map": {
+              "3": "MovementSpeed"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Flaming Dash",
+            "min": 450,
+            "max": 450,
+            "value": 450,
+            "map": {
+              "450": "Flaming Dash"
+            }
+          }
+        },
+        {
+          "id": 2304,
+          "name": "IncreaseResist",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Resistance",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 0
+          },
+          "param2": {
+            "spec": "Fire",
+            "min": 1,
+            "max": 1,
+            "value": 1,
+            "map": {
+              "1": "Fire"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2900,
+          "name": "WinRewardsIncrease",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/winrewardsincrease",
+          "paramType1": "percent",
+          "paramType2": "rewardtype",
+          "paramValue1": "0-20",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} {parameter2} Rewards on Win",
+          "param1": {
+            "spec": "1-5",
+            "min": 1,
+            "max": 5,
+            "value": 1
+          },
+          "param2": {
+            "spec": "Runes",
+            "min": null,
+            "max": null
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        5,
+        10,
+        null,
+        5,
+        5
+      ],
+      "presets": {
+        "2": [
+          5,
+          10,
+          null,
+          5,
+          5
+        ],
+        "3": [
+          5,
+          10,
+          null,
+          5,
+          5
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "19-1-7",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 19
+    },
+    {
+      "variant": 2,
+      "attributeId": 106,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 108,
+      "value": 7
+    },
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 10
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 281
+    }
+  ],
+  "attributes": [
+    {
+      "id": 6,
+      "name": "HarvestBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Burn",
+      "param1": {
+        "spec": "0-20",
+        "min": 0,
+        "max": 20,
+        "value": 19
+      },
+      "value": 19,
+      "min": 0,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 6,
+      "trait_type": "{parameter1} Harvest Burn"
+    },
+    {
+      "id": 106,
+      "name": "HarvestSpeed",
+      "isEnabled": false,
+      "nexusLink": "https://nexus.rune.game/item-attribute/raidpending5",
+      "description": "{parameter1} Reduction To Harvest Cooldown (Not Implemented)",
+      "paramType1": "percent",
+      "param1": {
+        "spec": "0-5",
+        "min": 0,
+        "max": 5,
+        "value": 1
+      },
+      "value": 1,
+      "min": 0,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 106,
+      "trait_type": "{parameter1} Reduction To Harvest Cooldown (Not Implemented)"
+    },
+    {
+      "id": 108,
+      "name": "StunRecovery",
+      "isEnabled": false,
+      "nexusLink": "https://nexus.rune.game/item-attribute/raidpending3",
+      "description": "{parameter1} Faster Recovery From Stun Effects (Not Implemented)",
+      "paramType1": "percent",
+      "param1": {
+        "spec": "0-10",
+        "min": 0,
+        "max": 10,
+        "value": 7
+      },
+      "value": 7,
+      "min": 0,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 108,
+      "trait_type": "{parameter1} Faster Recovery From Stun Effects (Not Implemented)"
+    },
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "5-5",
+        "min": 5,
+        "max": 5,
+        "value": 5
+      },
+      "value": 5,
+      "min": 5,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 13,
+      "name": "MagicFind",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "paramType1": "percent",
+      "paramValue1": "0-999",
+      "nature": "Buff",
+      "description": "{parameter1} Magic Find",
+      "param1": {
+        "spec": "10-10",
+        "min": 10,
+        "max": 10,
+        "value": 10
+      },
+      "value": 10,
+      "min": 10,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "{parameter1} Magic Find"
+    }
+  ],
+  "perfection": 0.31,
+  "slots": [
+    "Feet"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 19,
+    "attributes": {
+      "6": 19,
+      "8": 5,
+      "13": 10,
+      "106": 1,
+      "108": 7,
+      "2304": 0,
+      "2316": 3,
+      "2600": 6,
+      "2900": 1,
+      "3801": 450
+    },
+    "feeReduction": null,
+    "odds": 1386,
+    "version": 0,
+    "created": 1662341221245,
+    "revision": 0
+  },
+  "id": 46,
+  "name": "Ignition",
+  "slug": "ignition",
+  "icon": "/images/items/00046.png",
+  "image": "https://dl.airtable.com/.attachments/3a27ef8bdcef9580afcf61ce6d5d4f65/fea4088a/image.png?ts=1657605435&userId=usrf0GZYc5zCl9Cv7&cs=741d6786ad4b21ed",
+  "type": "Boot",
+  "subType": 12,
+  "specificType": 161,
+  "isPolled": false,
+  "isNew": false,
+  "isSecret": true,
+  "isUltraSecret": true,
+  "isPaused": false,
+  "isRetired": false,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "isExclusive": true,
+  "exclusiveConditions": [
+    "stream"
+  ],
+  "exclusiveActions": [
+    "recipe"
+  ],
+  "numPerfectionRolls": 1331,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 24,
+        "quantity": 1,
+        "symbol": "GUL"
+      },
+      {
+        "id": 23,
+        "quantity": 1,
+        "symbol": "IST"
+      },
+      {
+        "id": 32,
+        "quantity": 1,
+        "symbol": "ZOD"
+      },
+      {
+        "id": 21,
+        "quantity": 1,
+        "symbol": "UM"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "These silken footwraps are favored by the League of Sol, as they are well-suited to a desert environment. Saturated red dye and an infusion of kona mark these as belonging to a disciple of Relia.",
+  "skills": [],
+  "materials": [
+    20
+  ],
+  "version": 3,
+  "shortTokenId": "10030004611200601921060...281",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 2831
+}

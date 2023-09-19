@@ -1,0 +1,108 @@
+{
+  "address": "0x85F04C9eAF82722367e114D7814092CFB77b03F1",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "HcaeuMjUE",
+      "rune": "zod",
+      "value": 0.304,
+      "timestamp": 1645537936904
+    },
+    {
+      "id": "HcaeuMjUE",
+      "rune": "ral",
+      "value": 0.432,
+      "timestamp": 1645537936904
+    },
+    {
+      "id": "HcaeuMjUE",
+      "rune": "ort",
+      "value": 0.515,
+      "timestamp": 1645537936904
+    },
+    {
+      "id": "HcaeuMjUE",
+      "rune": "tal",
+      "value": 0.32899999999999996,
+      "timestamp": 1645537936904
+    },
+    {
+      "id": "HcaeuMjUE",
+      "rune": "ith",
+      "value": 0.43,
+      "timestamp": 1645537936904
+    },
+    {
+      "id": "HcaeuMjUE",
+      "rune": "hel",
+      "value": 0.5720000000000001,
+      "timestamp": 1645537936904
+    },
+    {
+      "id": "HcaeuMjUE",
+      "rune": "amn",
+      "value": 0.535,
+      "timestamp": 1645537936904
+    },
+    {
+      "id": "HcaeuMjUE",
+      "rune": "nef",
+      "value": 0.379,
+      "timestamp": 1645537936904
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "zod": 0.022000000000000002,
+      "ral": 0,
+      "ort": 0.003,
+      "tal": 0.006,
+      "ith": 0.003,
+      "hel": 0,
+      "amn": 0.006,
+      "nef": 0.012,
+      "thul": 0.018000000000000002,
+      "dol": 0.006,
+      "tir": 0.006
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "zod": 0.326,
+      "ral": 0.432,
+      "ort": 0.518,
+      "tal": 0.33499999999999996,
+      "ith": 0.433,
+      "hel": 0.5720000000000001,
+      "amn": 0.541,
+      "nef": 0.391,
+      "thul": 0.018000000000000002,
+      "dol": 0.006,
+      "tir": 0.006
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "HcaeuMjUE",
+      "timestamp": 1645537936904,
+      "status": "processing"
+    },
+    {
+      "id": "HcaeuMjUE",
+      "requestId": "0x2438fb315173644faf2de120b430a30abb64b6ebd1916170fa4254ef18003b26",
+      "status": "completed"
+    }
+  ]
+}

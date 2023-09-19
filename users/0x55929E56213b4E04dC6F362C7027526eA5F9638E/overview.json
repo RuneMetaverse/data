@@ -1,0 +1,88 @@
+{
+  "address": "0x55929E56213b4E04dC6F362C7027526eA5F9638E",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "x6RdvREQB",
+      "rune": "thul",
+      "value": 0.004,
+      "timestamp": 1644572168035
+    },
+    {
+      "id": "x6RdvREQB",
+      "rune": "ith",
+      "value": 0.002,
+      "timestamp": 1644572168035
+    },
+    {
+      "id": "x6RdvREQB",
+      "rune": "hel",
+      "value": 0.002,
+      "timestamp": 1644572168035
+    },
+    {
+      "id": "x6RdvREQB",
+      "rune": "amn",
+      "value": 0.004,
+      "timestamp": 1644572168035
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "zod": 0.067,
+      "thul": 0.03100000000000001,
+      "ith": 0.014000000000000005,
+      "hel": 0.029000000000000012,
+      "amn": 0.032000000000000015,
+      "sol": 0.06500000000000002,
+      "ral": 0.05,
+      "tal": 0.037000000000000005,
+      "tir": 0.03000000000000001,
+      "shael": 0.024000000000000004,
+      "nef": 0.03100000000000001,
+      "ort": 0.029000000000000012,
+      "dol": 0.04000000000000001
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "zod": 0.067,
+      "thul": 0.03500000000000001,
+      "ith": 0.016000000000000007,
+      "hel": 0.031000000000000014,
+      "amn": 0.03600000000000002,
+      "sol": 0.06500000000000002,
+      "ral": 0.05,
+      "tal": 0.037000000000000005,
+      "tir": 0.03000000000000001,
+      "shael": 0.024000000000000004,
+      "nef": 0.03100000000000001,
+      "ort": 0.029000000000000012,
+      "dol": 0.04000000000000001
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "x6RdvREQB",
+      "timestamp": 1644572168035,
+      "status": "processing"
+    },
+    {
+      "id": "x6RdvREQB",
+      "requestId": "0xc14c89fb9d26196c2ccffedfef793705ab65ad32ff49a4728452683ee737065c",
+      "status": "completed"
+    }
+  ]
+}

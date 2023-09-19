@@ -1,0 +1,303 @@
+{
+  "trades": [
+    {
+      "id": 122,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0x37470038C615Def104e1bee33c710bD16a09FdEf",
+      "tokenId": "1002000030500030003000044380",
+      "price": 0.06,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1621504757858,
+      "updatedAt": 1622670058647,
+      "blockNumber": 7956697,
+      "item": {
+        "tokenId": "1002000030500030003000044380",
+        "details": {
+          "Type": "Helm",
+          "Subtype": "Full Helm",
+          "Rune Word": "Nef Tir",
+          "Distribution": "Crafted",
+          "Date": "April 25 - Now",
+          "Max Supply": "Unknown"
+        },
+        "branches": {
+          "1": {
+            "description": [
+              "A once unbreakable helm, it's seen its best days."
+            ],
+            "attributes": [
+              {
+                "id": 1,
+                "min": 1,
+                "max": 3,
+                "description": "{value}% Increased Harvest Yield"
+              },
+              {
+                "id": 6,
+                "min": 1,
+                "max": 3,
+                "description": "{value}% Harvest Burn"
+              },
+              {
+                "id": 7,
+                "min": 100,
+                "max": 100,
+                "description": "{value}% Chance To Find Worldstone Shard (Per Raid)"
+              }
+            ],
+            "perfection": [
+              3,
+              1
+            ]
+          },
+          "2": {
+            "description": "A once unbreakable helm, it's seen its best days.",
+            "attributes": [
+              {
+                "id": 1,
+                "value": 5,
+                "description": "{value}% Chance to Cast L6 Lion Heart on Taking Damage"
+              },
+              {
+                "id": 2,
+                "value": 100,
+                "description": "{value}% Increased Block Speed"
+              },
+              {
+                "id": 2,
+                "value": 230,
+                "description": "{value}% Enhanced Defense"
+              },
+              {
+                "id": 2,
+                "min": 41,
+                "max": 50,
+                "description": "Physical Damage Reduced by {value}"
+              },
+              {
+                "id": 2,
+                "description": "Half Freeze Duration"
+              }
+            ]
+          }
+        },
+        "shorthand": "3-3",
+        "mods": [
+          {
+            "variant": 0,
+            "value": 3,
+            "attributeId": 1
+          },
+          {
+            "variant": 0,
+            "value": 3,
+            "attributeId": 6
+          },
+          {
+            "variant": 0,
+            "value": 0
+          },
+          {
+            "variant": 4,
+            "value": 438
+          }
+        ],
+        "attributes": [
+          {
+            "id": 1,
+            "min": 1,
+            "max": 3,
+            "description": "{value}% Increased Harvest Yield",
+            "variant": 0,
+            "value": 3,
+            "attributeId": 1
+          },
+          {
+            "id": 6,
+            "min": 1,
+            "max": 3,
+            "description": "{value}% Harvest Burn",
+            "variant": 0,
+            "value": 3,
+            "attributeId": 6
+          }
+        ],
+        "perfection": 0.5,
+        "category": "armor",
+        "meta": {
+          "harvestYield": 3,
+          "harvestFees": {},
+          "chanceToSendHarvestToHiddenPool": 0,
+          "chanceToLoseHarvest": 0,
+          "harvestBurn": 3
+        },
+        "id": 3,
+        "name": "Lorekeeper",
+        "icon": "undefinedimages/items/00003.png",
+        "value": "0",
+        "isNew": false,
+        "isEquipable": true,
+        "isUnequipable": false,
+        "isTradeable": true,
+        "isTransferable": true,
+        "isCraftable": true,
+        "isDisabled": false,
+        "isRuneword": true,
+        "createdDate": 12111,
+        "hotnessScore": 1,
+        "recipe": {
+          "requirement": [
+            {
+              "id": 4,
+              "quantity": 1
+            },
+            {
+              "id": 3,
+              "quantity": 1
+            }
+          ]
+        },
+        "version": 2,
+        "type": 5,
+        "shortTokenId": "10020000305000300030000...380",
+        "slotId": 3
+      }
+    },
+    {
+      "id": 2304,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0x758fA6E2C0a21Be47953a9bC0538ee157a6669bC",
+      "tokenId": "1003000070920010032008070200910000000000000000000000000000000000000000000930",
+      "price": 0.18,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1623623050299,
+      "updatedAt": 1626324385727,
+      "blockNumber": 9166124,
+      "item": {
+        "id": 7
+      }
+    },
+    {
+      "id": 2306,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0xFFFe5C20d8861908C524313D0CF74a15b3448319",
+      "tokenId": "1003000070920010052008068200910000000000000000000000000000000000000000000441",
+      "price": 0.2,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1623623139579,
+      "updatedAt": 1625631646865,
+      "blockNumber": 8938041,
+      "item": {
+        "id": 7
+      }
+    },
+    {
+      "id": 2308,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0xA51Bbd375F32de234F3A8eC0377d0dC780c69cfC",
+      "tokenId": "1003000051120010062006004200401400000000000000000000000000000000000000000794",
+      "price": 0.02,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1623623739734,
+      "updatedAt": 1627977928149,
+      "blockNumber": 9708324,
+      "item": {
+        "id": 5
+      }
+    },
+    {
+      "id": 2310,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0xc43ceD2086e387ECaa0d9fB8eD1c446Cec04Ae5D",
+      "tokenId": "1003000060720010042008012201100200000000000000000000000000000000000000000329",
+      "price": 0.05,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1623623965220,
+      "updatedAt": 1624740796838,
+      "blockNumber": 8627752,
+      "item": {
+        "id": 6
+      }
+    },
+    {
+      "id": 13728,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300028132001001200800320130032007001200600500000000000000000000000000000078",
+      "price": 0.014,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1639362274358,
+      "updatedAt": 1639362274358,
+      "blockNumber": 13427259,
+      "item": {
+        "id": 28
+      }
+    },
+    {
+      "id": 13729,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300028132001001200800120130022007004200600400000000000000000000000000000999",
+      "price": 0.014,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1639362607998,
+      "updatedAt": 1639362607998,
+      "blockNumber": 13427331,
+      "item": {
+        "id": 28
+      }
+    },
+    {
+      "id": 13730,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300028132001003200800120130012007003200600200000000000000000000000000000048",
+      "price": 0.015,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1639362608019,
+      "updatedAt": 1639362608019,
+      "blockNumber": 13427366,
+      "item": {
+        "id": 28
+      }
+    },
+    {
+      "id": 13731,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "10030002712200100220080012004000201200420620052006002000000000000000000000819",
+      "price": 0.014,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1639363478958,
+      "updatedAt": 1639363478958,
+      "blockNumber": 13427661,
+      "item": {
+        "id": 27
+      }
+    },
+    {
+      "id": 17917,
+      "seller": "0xa6d409C9e1e85e5997eD675d00E91bbBFd1a7a14",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "1003000120120010042004014201100120020072003010203900620210040000000000000175",
+      "price": 0.018,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1640729780582,
+      "updatedAt": 1640729780582,
+      "blockNumber": 13881228,
+      "item": {
+        "id": 12
+      }
+    }
+  ]
+}

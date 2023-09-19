@@ -1,0 +1,90 @@
+{
+  "address": "0x2B345B871dD7081dE63f20F6E8b9aDD8E172413D",
+  "lastGamePlayed": 0,
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 5,
+  "username": "pauldilan",
+  "guildId": 5,
+  "joinedGuildAt": 1629162074273,
+  "isGuildMembershipActive": true,
+  "guildMembershipTokenId": 4427,
+  "rewardHistory": [
+    {
+      "id": "1nbUtHQ7E",
+      "rune": "shael",
+      "value": 0.86,
+      "timestamp": 1645149097072
+    },
+    {
+      "id": "1nbUtHQ7E",
+      "rune": "sol",
+      "value": 1.1500000000000001,
+      "timestamp": 1645149097072
+    },
+    {
+      "id": "1nbUtHQ7E",
+      "rune": "zod",
+      "value": 0.017,
+      "timestamp": 1645149097072
+    },
+    {
+      "id": "1nbUtHQ7E",
+      "rune": "tal",
+      "value": 0.01,
+      "timestamp": 1645149097072
+    },
+    {
+      "id": "1nbUtHQ7E",
+      "rune": "dol",
+      "value": 0.02,
+      "timestamp": 1645149097072
+    },
+    {
+      "id": "1nbUtHQ7E",
+      "rune": "nef",
+      "value": 0.01,
+      "timestamp": 1645149097072
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "shael": 0,
+      "sol": 0,
+      "zod": 0.003,
+      "tal": 0,
+      "dol": 0,
+      "nef": 0
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "sol": 1.1500000000000001,
+      "shael": 0.86,
+      "zod": 0.02,
+      "dol": 0.02,
+      "nef": 0.01,
+      "tal": 0.01
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "1nbUtHQ7E",
+      "timestamp": 1645149097072,
+      "status": "processing"
+    },
+    {
+      "id": "1nbUtHQ7E",
+      "requestId": "0xb09f52beaad0c331526d08f8e0ef6bfe6ce5a25417cb1e0677cda7b4bf78c3c2",
+      "status": "completed"
+    }
+  ]
+}

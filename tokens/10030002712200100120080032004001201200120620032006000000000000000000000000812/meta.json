@@ -1,0 +1,420 @@
+{
+  "description": [
+    "Wearers of this masterfully-crafted ring display a preternatural ability to find fortune and avoid harm."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10030002712200100120080032004001201200120620032006000000000000000000000000812",
+  "image_url": "https://rune.game/images/items/00027.png",
+  "language": "en-US",
+  "tokenId": "10030002712200100120080032004001201200120620032006000000000000000000000000812",
+  "details": {
+    "Type": "Ring",
+    "Subtype": "Glimmering Band",
+    "Rune Word": "Lum Dol Io Dol Lum",
+    "Distribution": "Crafted",
+    "Date": "August 27, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 3,
+          "paramType1": "percent",
+          "description": "{param1} Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 1,
+          "param1": {
+            "min": 1,
+            "max": 3,
+            "value": 1
+          }
+        },
+        {
+          "id": 8,
+          "min": 1,
+          "max": 3,
+          "paramType1": "percent",
+          "description": "{param1} Reduced Harvest Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 3,
+          "param1": {
+            "min": 1,
+            "max": 3,
+            "value": 3
+          }
+        },
+        {
+          "id": 4,
+          "min": 0,
+          "max": 3,
+          "paramType1": "percent",
+          "description": "{param1} Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 1,
+          "param1": {
+            "min": 0,
+            "max": 3,
+            "value": 1
+          }
+        },
+        {
+          "id": 12,
+          "min": 1,
+          "max": 4,
+          "paramType1": "percent",
+          "description": "{param1} Guild Token (Not Implemented)",
+          "variant": 2,
+          "attributeId": 12,
+          "value": 1,
+          "param1": {
+            "min": 1,
+            "max": 4,
+            "value": 1
+          }
+        },
+        {
+          "id": 62,
+          "min": 3,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "{param1} Critical Harvest Bonus (Not Implemented)",
+          "variant": 2,
+          "attributeId": 62,
+          "value": 3,
+          "param1": {
+            "min": 3,
+            "max": 5,
+            "value": 3
+          }
+        },
+        {
+          "id": 6,
+          "min": 0,
+          "max": 3,
+          "paramType1": "percent",
+          "description": "{param1} Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 0,
+          "param1": {
+            "min": 0,
+            "max": 3,
+            "value": 0
+          }
+        }
+      ],
+      "perfection": [
+        3,
+        3,
+        3,
+        4,
+        5,
+        0
+      ],
+      "presets": {
+        "2": [
+          3,
+          3,
+          3,
+          4,
+          5,
+          0
+        ],
+        "3": [
+          3,
+          3,
+          3,
+          4,
+          5,
+          0
+        ],
+        "4": [
+          2,
+          2,
+          2,
+          3,
+          4,
+          0
+        ],
+        "5": [
+          2,
+          2,
+          2,
+          3,
+          4,
+          0
+        ],
+        "6": [
+          1,
+          1,
+          0,
+          1,
+          3,
+          2
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "1-3-1-1-3-0",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 4,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 12,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 62,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 812
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 1,
+      "max": 3,
+      "paramType1": "percent",
+      "description": "{param1} Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 1,
+      "param1": {
+        "min": 1,
+        "max": 3,
+        "value": 1
+      },
+      "trait_type": "{param1} Increased Harvest Yield"
+    },
+    {
+      "id": 8,
+      "min": 1,
+      "max": 3,
+      "paramType1": "percent",
+      "description": "{param1} Reduced Harvest Fees",
+      "variant": 2,
+      "attributeId": 8,
+      "value": 3,
+      "param1": {
+        "min": 1,
+        "max": 3,
+        "value": 3
+      },
+      "trait_type": "{param1} Reduced Harvest Fees"
+    },
+    {
+      "id": 4,
+      "min": 0,
+      "max": 3,
+      "paramType1": "percent",
+      "description": "{param1} Chance To Send Harvest To Hidden Pool",
+      "variant": 2,
+      "attributeId": 4,
+      "value": 1,
+      "param1": {
+        "min": 0,
+        "max": 3,
+        "value": 1
+      },
+      "trait_type": "{param1} Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 12,
+      "min": 1,
+      "max": 4,
+      "paramType1": "percent",
+      "description": "{param1} Guild Token (Not Implemented)",
+      "variant": 2,
+      "attributeId": 12,
+      "value": 1,
+      "param1": {
+        "min": 1,
+        "max": 4,
+        "value": 1
+      },
+      "trait_type": "{param1} Guild Token (Not Implemented)"
+    },
+    {
+      "id": 62,
+      "min": 3,
+      "max": 5,
+      "paramType1": "percent",
+      "description": "{param1} Critical Harvest Bonus (Not Implemented)",
+      "variant": 2,
+      "attributeId": 62,
+      "value": 3,
+      "param1": {
+        "min": 3,
+        "max": 5,
+        "value": 3
+      },
+      "trait_type": "{param1} Critical Harvest Bonus (Not Implemented)"
+    },
+    {
+      "id": 6,
+      "min": 0,
+      "max": 3,
+      "paramType1": "percent",
+      "description": "{param1} Harvest Burn",
+      "variant": 2,
+      "attributeId": 6,
+      "value": 0,
+      "param1": {
+        "min": 0,
+        "max": 3,
+        "value": 0
+      },
+      "trait_type": "{param1} Harvest Burn"
+    }
+  ],
+  "perfection": 0.38,
+  "slots": [
+    "Finger 1",
+    "Finger 2"
+  ],
+  "meta": {
+    "harvestYield": 1,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 1,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "feeReduction": 3,
+    "odds": 1728,
+    "version": 0,
+    "created": 1657807728516,
+    "revision": 0
+  },
+  "id": 27,
+  "name": "Instinct",
+  "icon": "https://rune.game/images/items/00027.png",
+  "isPublishable": true,
+  "isSecret": false,
+  "type": "Ring",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": true,
+  "isRetired": true,
+  "recipe": {
+    "requirement": [
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030002712200100120080...812",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 3777
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": 21499,
+    "seller": "0xBe82C743ce57555bc12821CeA7220DF44069407E",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100100001101410011001115111",
+    "price": 0.3,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1649976415948,
+    "updatedAt": 1649976415948,
+    "lastBlock": 7515056,
+    "blockNumber": 10436325,
+    "item": {
+      "id": 1
+    }
+  },
+  {
+    "id": 19185,
+    "seller": "0xBe82C743ce57555bc12821CeA7220DF44069407E",
+    "buyer": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "tokenId": "100100001101410011001115111",
+    "price": 0.3,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1649861847904,
+    "updatedAt": 1649911367059,
+    "blockNumber": 10437536,
+    "item": {
+      "id": 1
+    }
+  },
+  {
+    "id": 4876,
+    "seller": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100100001101410011001115111",
+    "price": 44000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1662958396177,
+    "updatedAt": 1662958396177,
+    "blockNumber": 21258728,
+    "item": {
+      "id": 1,
+      "name": "Steel"
+    }
+  }
+]

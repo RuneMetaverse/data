@@ -1,0 +1,638 @@
+{
+  "description": "Forged in the darkest hour of the Reckoning; used to seek out Worldstone shards and powerful energy sources.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300003050003000100380000000000000000000000000000000000000000000000000781",
+  "image_url": "/images/items/00003.png",
+  "language": "en-US",
+  "tokenId": "100300003050003000100380000000000000000000000000000000000000000000000000781",
+  "details": {
+    "Type": "Helm",
+    "Subtype": "Ancient Helm",
+    "Rune Word": "Nef Tir",
+    "Distribution": "Crafted",
+    "Date": "April 25, 2021 - June 3, 2021"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "name": "HarvestYield",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Increased Harvest Yield",
+          "param1": {
+            "spec": "1-3",
+            "min": 1,
+            "max": 3,
+            "value": 3
+          },
+          "value": 3,
+          "min": 1,
+          "max": 3,
+          "variant": 0,
+          "attributeId": 1
+        },
+        {
+          "id": 6,
+          "name": "HarvestBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Burn",
+          "param1": {
+            "spec": "1-3",
+            "min": 1,
+            "max": 3,
+            "value": 1
+          },
+          "value": 1,
+          "min": 1,
+          "max": 3,
+          "variant": 0,
+          "attributeId": 6
+        },
+        {
+          "id": 7,
+          "name": "FindShard",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+          "param1": {
+            "spec": "100-100",
+            "min": 100,
+            "max": 100,
+            "value": 100
+          },
+          "value": 100,
+          "min": 100,
+          "max": 100,
+          "explanation": "Chance applies once per raid.",
+          "variant": 0,
+          "attributeId": 7
+        }
+      ],
+      "perfection": [
+        3,
+        1,
+        null
+      ],
+      "presets": {
+        "2": [
+          3,
+          1
+        ],
+        "3": [
+          3,
+          1
+        ],
+        "4": [
+          2,
+          1
+        ],
+        "5": [
+          2,
+          1
+        ],
+        "6": [
+          1,
+          2
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1060,
+          "name": "DamageResist",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} damage resist",
+          "param1": {
+            "spec": [
+              "5-7"
+            ],
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        },
+        {
+          "id": 1102,
+          "name": "DeathPenaltyAvoid",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltyavoid",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Buff",
+          "influences": "Game",
+          "description": "{parameter1} to avoid losing points on death.",
+          "param1": {
+            "spec": "3-5",
+            "min": 3,
+            "max": 5,
+            "value": 5
+          },
+          "value": 5
+        },
+        {
+          "id": 1169,
+          "name": "ShardFindWin",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/shardfindwin",
+          "paramType1": "percent",
+          "nature": "Mechanic",
+          "influences": "Reward",
+          "description": "{parameter1} chance to find a worldstone shard on win",
+          "param1": {
+            "spec": "2-2",
+            "min": 2,
+            "max": 2,
+            "value": 2
+          }
+        },
+        {
+          "id": 1170,
+          "name": "ShardFindItem",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/shardfinditem",
+          "paramType1": "percent",
+          "nature": "Mechanic",
+          "influences": "Reward",
+          "description": "{parameter1} chance to find a worldstone shard on item pickup",
+          "param1": {
+            "spec": "0.1-0.1",
+            "min": 0.1,
+            "max": 0.1,
+            "value": 0.1
+          }
+        },
+        {
+          "id": 1165,
+          "name": "RandomRuneOnWin",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneonwin",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} of your win reward as a random rune",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        },
+        {
+          "id": 1158,
+          "name": "WinStreakMagicFindIncrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/winstreakmagicfindincrease",
+          "param1": {
+            "spec": "3-3",
+            "min": 3,
+            "max": 3,
+            "value": 3
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        5,
+        null,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          null,
+          5
+        ],
+        "3": [
+          null,
+          5
+        ],
+        "4": [
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null
+        ]
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "5-7",
+            "min": 5,
+            "max": 7,
+            "value": 7
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": 7
+        },
+        {
+          "id": 2903,
+          "name": "IncreaseRankRewardBonus",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaserankrewardbonus",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} Increase to Rank Reward Bonuses",
+          "param1": {
+            "spec": "5-10",
+            "min": 5,
+            "max": 10,
+            "value": 10
+          },
+          "value": 10
+        },
+        {
+          "id": 2302,
+          "name": "IncreaseEnergy",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseenergy",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} Maximum Energy",
+          "param1": {
+            "spec": "10-15",
+            "min": 10,
+            "max": 15,
+            "value": 10
+          },
+          "value": 15
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Weakness",
+            "min": 494,
+            "max": 494,
+            "value": 494,
+            "map": {
+              "494": "Weakness"
+            }
+          }
+        },
+        {
+          "id": 2900,
+          "name": "WinRewardsIncrease",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/winrewardsincrease",
+          "paramType1": "percent",
+          "paramType2": "rewardtype",
+          "paramValue1": "0-20",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} {parameter2} Rewards on Win",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5
+          },
+          "value": 5
+        }
+      ],
+      "perfection": [
+        7,
+        10,
+        15,
+        null,
+        5
+      ],
+      "presets": {
+        "2": [
+          7,
+          10,
+          15,
+          null,
+          5
+        ],
+        "3": [
+          7,
+          10,
+          15,
+          null,
+          5
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "3-1",
+  "mods": [
+    {
+      "variant": 0,
+      "value": 3,
+      "attributeId": 1
+    },
+    {
+      "variant": 0,
+      "value": 1,
+      "attributeId": 6
+    },
+    {
+      "variant": 0,
+      "value": 100,
+      "attributeId": 7
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 781
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "HarvestYield",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Increased Harvest Yield",
+      "param1": {
+        "spec": "1-3",
+        "min": 1,
+        "max": 3,
+        "value": 3
+      },
+      "value": 3,
+      "min": 1,
+      "max": 3,
+      "variant": 0,
+      "attributeId": 1,
+      "trait_type": "{parameter1} Increased Harvest Yield"
+    },
+    {
+      "id": 6,
+      "name": "HarvestBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Burn",
+      "param1": {
+        "spec": "1-3",
+        "min": 1,
+        "max": 3,
+        "value": 1
+      },
+      "value": 1,
+      "min": 1,
+      "max": 3,
+      "variant": 0,
+      "attributeId": 6,
+      "trait_type": "{parameter1} Harvest Burn"
+    },
+    {
+      "id": 7,
+      "name": "FindShard",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+      "param1": {
+        "spec": "100-100",
+        "min": 100,
+        "max": 100,
+        "value": 100
+      },
+      "value": 100,
+      "min": 100,
+      "max": 100,
+      "explanation": "Chance applies once per raid.",
+      "variant": 0,
+      "attributeId": 7,
+      "trait_type": "{parameter1} Chance To Find Worldstone Shard (Per Raid)"
+    }
+  ],
+  "perfection": 1,
+  "slots": [
+    "Head"
+  ],
+  "meta": {
+    "harvestYield": 3,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 1,
+    "attributes": {
+      "1": 3,
+      "6": 1,
+      "7": 100,
+      "1060": 5,
+      "1102": 5,
+      "1169": 2,
+      "2302": 10,
+      "2316": 7,
+      "2903": 10
+    },
+    "worldstoneShardChance": null,
+    "odds": 9,
+    "version": 0,
+    "created": 1662164899995,
+    "revision": 0
+  },
+  "id": 3,
+  "name": "Lorekeeper",
+  "slug": "lorekeeper",
+  "icon": "/images/items/00003.png",
+  "image": "https://dl.airtable.com/.attachments/229540c9004fb883f73320a9a28c7173/f03020d1/00003.png?ts=1657605325&userId=usrf0GZYc5zCl9Cv7&cs=585fe80e5923cecd",
+  "type": "Helm",
+  "subType": 10,
+  "specificType": 3,
+  "isPolled": true,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": true,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 9,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 3,
+        "quantity": 1,
+        "symbol": "NEF"
+      },
+      {
+        "id": 2,
+        "quantity": 1,
+        "symbol": "TIR"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "An intricate silvery helm, inlaid with glittering azure gems: built more for beauty than actual defense.",
+  "skills": [
+    494
+  ],
+  "materials": [],
+  "version": 3,
+  "shortTokenId": "10030000305000300010038...781",
+  "rarity": {
+    "id": 3,
+    "name": "Mythic"
+  },
+  "$loki": 1649
+}

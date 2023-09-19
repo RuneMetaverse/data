@@ -1,0 +1,67 @@
+{
+  "address": "0xC9b5DD08F39a21C8Fd22088c679e063fa37307ee",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "guildId": 5,
+  "joinedGuildAt": 1630204947303,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "GC00MAV64",
+      "rune": "zod",
+      "value": 0.006,
+      "timestamp": 1646259761091
+    },
+    {
+      "id": "GC00MAV64",
+      "rune": "sol",
+      "value": 0.003,
+      "timestamp": 1646259761091
+    },
+    {
+      "id": "GC00MAV64",
+      "rune": "thul",
+      "value": 0.003,
+      "timestamp": 1646259761091
+    },
+    {
+      "id": "GC00MAV64",
+      "rune": "nef",
+      "value": 0.009000000000000001,
+      "timestamp": 1646259761091
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "zod": 0,
+      "sol": 0,
+      "thul": 0,
+      "nef": 0
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "zod": 0.006,
+      "sol": 0.003,
+      "thul": 0.003,
+      "nef": 0.009000000000000001
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "GC00MAV64",
+      "timestamp": 1646259761091,
+      "status": "processing"
+    }
+  ]
+}

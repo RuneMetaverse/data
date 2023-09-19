@@ -1,0 +1,64 @@
+[
+  {
+    "id": 3925,
+    "seller": "0xBFCBB2c5f54313ea8945777a4eE6141420C67E0B",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000060720010042008020201100200000000000000000000000000000000000000000738",
+    "price": 0.1,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1628426756970,
+    "updatedAt": 1628426756970,
+    "blockNumber": 9850014,
+    "item": {
+      "id": 6
+    }
+  },
+  {
+    "id": 3925,
+    "seller": "0xBFCBB2c5f54313ea8945777a4eE6141420C67E0B",
+    "buyer": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "tokenId": "1003000060720010042008020201100200000000000000000000000000000000000000000738",
+    "price": 0.1,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1628426756970,
+    "updatedAt": 1628753594401,
+    "blockNumber": 9957501,
+    "item": {
+      "id": 6
+    }
+  },
+  {
+    "id": 4846,
+    "seller": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "1003000060720010042008020201100200000000000000000000000000000000000000000738",
+    "price": 25000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1662956401334,
+    "updatedAt": 1662956401334,
+    "blockNumber": 21258066,
+    "item": {
+      "id": 6,
+      "name": "Titan"
+    }
+  },
+  {
+    "id": 4846,
+    "seller": "0x0B0185c82B7e6A7e0825a2E29dcDedb824fB874A",
+    "buyer": "0xFF234b43d68a9aC4D608C1D21EBC6fa6dea8a2e4",
+    "tokenId": "1003000060720010042008020201100200000000000000000000000000000000000000000738",
+    "price": 25000,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1662956401334,
+    "updatedAt": 1663027431200,
+    "blockNumber": 21281742,
+    "item": {
+      "id": 6,
+      "name": "Titan"
+    }
+  }
+]

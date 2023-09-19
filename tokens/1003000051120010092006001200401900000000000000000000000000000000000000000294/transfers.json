@@ -1,0 +1,226 @@
+[
+  {
+    "owner": "0x92F3EdaD672147B2c55Ac269287421Cb9fA2bf42",
+    "from": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+    "status": "transferred_in",
+    "tokenId": "1003000051120010092006001200401900000000000000000000000000000000000000000294",
+    "createdAt": 1652133350995,
+    "details": {
+      "Type": "Greaves",
+      "Rune Word": "Ith Eld Ral Tal",
+      "Distribution": "Crafted",
+      "Date": "May 17 - Now",
+      "Max Supply": "Infinite"
+    },
+    "branches": {
+      "1": {
+        "description": [
+          ""
+        ],
+        "attributes": [
+          {
+            "id": 1,
+            "min": 1,
+            "max": 10,
+            "desc": "{value}% Increased Harvest Yield"
+          },
+          {
+            "id": 6,
+            "min": 1,
+            "max": 5,
+            "desc": "{value}% Harvest Burn"
+          },
+          {
+            "id": 4,
+            "min": 10,
+            "max": 20,
+            "desc": "{value}% Chance To Send Harvest To Hidden Pool"
+          }
+        ],
+        "perfection": [
+          3,
+          1,
+          100
+        ]
+      },
+      "2": {
+        "description": "",
+        "attributes": []
+      }
+    },
+    "shorthand": "9-1-19",
+    "mods": [
+      {
+        "variant": 2,
+        "attributeId": 1,
+        "value": 9
+      },
+      {
+        "variant": 2,
+        "attributeId": 6,
+        "value": 1
+      },
+      {
+        "variant": 2,
+        "attributeId": 4,
+        "value": 19
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 0
+      },
+      {
+        "variant": 0,
+        "value": 294
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "min": 1,
+        "max": 10,
+        "desc": "{value}% Increased Harvest Yield",
+        "variant": 2,
+        "attributeId": 1,
+        "value": 9
+      },
+      {
+        "id": 6,
+        "min": 1,
+        "max": 5,
+        "desc": "{value}% Harvest Burn",
+        "variant": 2,
+        "attributeId": 6,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "min": 10,
+        "max": 20,
+        "desc": "{value}% Chance To Send Harvest To Hidden Pool",
+        "variant": 2,
+        "attributeId": 4,
+        "value": 19
+      }
+    ],
+    "perfection": 0.92,
+    "meta": {
+      "harvestYield": 9,
+      "harvestFees": {},
+      "chanceToSendHarvestToHiddenPool": 19,
+      "chanceToLoseHarvest": 0,
+      "harvestBurn": 1
+    },
+    "id": 5,
+    "name": "Flash",
+    "category": "armor",
+    "icon": "undefinedimages/items/00005.png",
+    "value": "0",
+    "isNew": true,
+    "isEquipable": true,
+    "isUnequipable": false,
+    "isTradeable": true,
+    "isTransferable": true,
+    "isCraftable": false,
+    "isDisabled": false,
+    "isRuneword": true,
+    "createdDate": 12111,
+    "hotnessScore": 1,
+    "recipe": {
+      "requirement": [
+        {
+          "id": 6,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "quantity": 1
+        },
+        {
+          "id": 7,
+          "quantity": 1
+        }
+      ]
+    },
+    "version": 3,
+    "type": 11,
+    "shortTokenId": "10030000511200100920060...294",
+    "slotId": 12
+  },
+  {
+    "owner": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+    "from": "0xFF234b43d68a9aC4D608C1D21EBC6fa6dea8a2e4",
+    "status": "transferred_in",
+    "tokenId": "1003000051120010092006001200401900000000000000000000000000000000000000000294",
+    "createdAt": 1662091360759,
+    "id": 5,
+    "perfection": 0.92
+  },
+  {
+    "owner": "0xA9B9195B19963F2D72A7F56BAd3705bA536cDb66",
+    "from": "0x92F3EdaD672147B2c55Ac269287421Cb9fA2bf42",
+    "status": "transferred_in",
+    "tokenId": "1003000051120010092006001200401900000000000000000000000000000000000000000294",
+    "createdAt": 1652133410446,
+    "id": 5,
+    "perfection": 0.92
+  },
+  {
+    "owner": "0x954246b18fee13712C48E5a7Da5b78D88e8891d5",
+    "from": "0xA9B9195B19963F2D72A7F56BAd3705bA536cDb66",
+    "status": "transferred_in",
+    "tokenId": "1003000051120010092006001200401900000000000000000000000000000000000000000294",
+    "createdAt": 1658475503289,
+    "id": 5,
+    "perfection": 0.92
+  },
+  {
+    "owner": "0xFF234b43d68a9aC4D608C1D21EBC6fa6dea8a2e4",
+    "from": "0x954246b18fee13712C48E5a7Da5b78D88e8891d5",
+    "status": "transferred_in",
+    "tokenId": "1003000051120010092006001200401900000000000000000000000000000000000000000294",
+    "createdAt": 1662091269822,
+    "id": 5,
+    "perfection": 0.92
+  }
+]

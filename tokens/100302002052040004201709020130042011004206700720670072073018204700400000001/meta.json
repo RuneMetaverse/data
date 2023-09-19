@@ -1,0 +1,645 @@
+{
+  "description": "\"It appears you've been through Hell and back\" - Cain (in honor of Diablo 2)",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100302002052040004201709020130042011004206700720670072073018204700400000001",
+  "image_url": "https://rune.game/images/items/02002.png",
+  "language": "en-US",
+  "tokenId": "100302002052040004201709020130042011004206700720670072073018204700400000001",
+  "details": {
+    "Type": "Helm",
+    "Subtype": "Grim Helm",
+    "Distribution": "Fundraiser",
+    "Date": "TBD",
+    "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 40,
+          "min": 3,
+          "max": 6,
+          "description": "Rarity: {param1}",
+          "map": {
+            "1": "Legendary",
+            "2": "Unique",
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical",
+            "7": "Normal",
+            "8": "Set",
+            "9": "Quest",
+            "10": "Trash"
+          },
+          "variant": 2,
+          "attributeId": 40,
+          "value": 4,
+          "param1": {
+            "min": 3,
+            "max": 6,
+            "value": 4,
+            "map": {
+              "1": "Legendary",
+              "2": "Unique",
+              "3": "Mythic",
+              "4": "Epic",
+              "5": "Rare",
+              "6": "Magical",
+              "7": "Normal",
+              "8": "Set",
+              "9": "Quest",
+              "10": "Trash"
+            }
+          }
+        },
+        {
+          "id": 17,
+          "min": 70,
+          "max": 100,
+          "paramType1": "percent",
+          "description": "{param1} Chance to Freeze Fees (1 Hour) (Not Implemented)",
+          "variant": 2,
+          "attributeId": 17,
+          "value": 90,
+          "param1": {
+            "min": 70,
+            "max": 100,
+            "value": 90
+          }
+        },
+        {
+          "id": 13,
+          "min": 2,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "{param1} Magic Find",
+          "variant": 2,
+          "attributeId": 13,
+          "value": 4,
+          "param1": {
+            "min": 2,
+            "max": 5,
+            "value": 4
+          }
+        },
+        {
+          "id": 11,
+          "min": 4,
+          "max": 4,
+          "paramType1": "percent",
+          "description": "{param1} Random Rune Exchange",
+          "value": 4,
+          "variant": 2,
+          "attributeId": 11,
+          "param1": {
+            "min": 4,
+            "max": 4,
+            "value": 4
+          }
+        },
+        {
+          "id": 67,
+          "min": 5,
+          "max": 8,
+          "paramType1": "percent",
+          "description": "+{param1} Minimum Harvest Theft (Not Implemented)",
+          "variant": 2,
+          "attributeId": 67,
+          "value": 7,
+          "param1": {
+            "min": 5,
+            "max": 8,
+            "value": 7
+          }
+        },
+        {
+          "id": 67,
+          "min": 5,
+          "max": 8,
+          "paramType1": "percent",
+          "description": "+{param1} Maximum Harvest Theft (Not Implemented)",
+          "variant": 2,
+          "attributeId": 67,
+          "value": 7,
+          "param1": {
+            "min": 5,
+            "max": 8,
+            "value": 7
+          }
+        },
+        {
+          "id": 73,
+          "min": 14,
+          "max": 20,
+          "paramType1": "percent",
+          "description": "{param1} Theft Counter Chance (Not Implemented)",
+          "variant": 2,
+          "attributeId": 73,
+          "value": 18,
+          "param1": {
+            "min": 14,
+            "max": 20,
+            "value": 18
+          }
+        },
+        {
+          "id": 47,
+          "min": 2,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "{param1} Reduced Burn (Not Implemented)",
+          "variant": 2,
+          "attributeId": 47,
+          "value": 4,
+          "param1": {
+            "min": 2,
+            "max": 5,
+            "value": 4
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        100,
+        5,
+        null,
+        8,
+        8,
+        20,
+        5
+      ],
+      "presets": {
+        "2": [
+          3,
+          100,
+          5,
+          4,
+          8,
+          8,
+          20,
+          5
+        ],
+        "3": [
+          3,
+          100,
+          5,
+          4,
+          8,
+          8,
+          20,
+          5
+        ],
+        "4": [
+          4,
+          90,
+          4,
+          4,
+          7,
+          7,
+          18,
+          4
+        ],
+        "5": [
+          5,
+          80,
+          3,
+          4,
+          6,
+          6,
+          16,
+          3
+        ],
+        "6": [
+          6,
+          70,
+          2,
+          4,
+          5,
+          5,
+          14,
+          2
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 40,
+          "min": 3,
+          "max": 6,
+          "description": "Rarity: {param1}",
+          "map": {
+            "1": "Legendary",
+            "2": "Unique",
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical",
+            "7": "Normal",
+            "8": "Set",
+            "9": "Quest",
+            "10": "Trash"
+          }
+        },
+        {
+          "id": 201,
+          "min": 70,
+          "max": 100,
+          "paramType1": "percent",
+          "description": "{param1} Enhanced Defense",
+          "value": 98
+        },
+        {
+          "id": 201,
+          "min": 2,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "Adds {param1} Cold Damage",
+          "value": 4
+        },
+        {
+          "id": 201,
+          "min": 4,
+          "max": 4,
+          "description": "{param1} Seconds Cold Duration",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "min": 5,
+          "max": 8,
+          "paramType1": "percent",
+          "description": "{param1} Life Stolen Per Hit",
+          "value": 7
+        },
+        {
+          "id": 204,
+          "min": 5,
+          "max": 8,
+          "paramType1": "percent",
+          "description": "{param1} Mana Stolen Per Hit",
+          "value": 7
+        },
+        {
+          "id": 205,
+          "min": 14,
+          "max": 20,
+          "paramType1": "percent",
+          "description": "Physical Damage Reduced By {param1}",
+          "value": 19
+        },
+        {
+          "id": 206,
+          "min": 2,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "Magic Damage Reduced By {param1}",
+          "value": 4
+        }
+      ],
+      "perfection": [
+        null,
+        100,
+        5,
+        null,
+        8,
+        8,
+        20,
+        5
+      ],
+      "presets": {
+        "2": [
+          null,
+          100,
+          5,
+          null,
+          8,
+          8,
+          20,
+          5
+        ],
+        "3": [
+          null,
+          100,
+          5,
+          null,
+          8,
+          8,
+          20,
+          5
+        ],
+        "4": [
+          null,
+          98,
+          4,
+          null,
+          7,
+          7,
+          19,
+          4
+        ],
+        "5": [
+          null,
+          91,
+          4,
+          null,
+          7,
+          7,
+          18,
+          4
+        ],
+        "6": [
+          null,
+          76,
+          2,
+          null,
+          5,
+          5,
+          15,
+          2
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "90-4-7-7-18-4",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 40,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 17,
+      "value": 90
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 67,
+      "value": 7
+    },
+    {
+      "variant": 2,
+      "attributeId": 67,
+      "value": 7
+    },
+    {
+      "variant": 2,
+      "attributeId": 73,
+      "value": 18
+    },
+    {
+      "variant": 2,
+      "attributeId": 47,
+      "value": 4
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 1
+    }
+  ],
+  "attributes": [
+    {
+      "id": 40,
+      "min": 3,
+      "max": 6,
+      "description": "Rarity: {param1}",
+      "map": {
+        "1": "Legendary",
+        "2": "Unique",
+        "3": "Mythic",
+        "4": "Epic",
+        "5": "Rare",
+        "6": "Magical",
+        "7": "Normal",
+        "8": "Set",
+        "9": "Quest",
+        "10": "Trash"
+      },
+      "variant": 2,
+      "attributeId": 40,
+      "value": 4,
+      "param1": {
+        "min": 3,
+        "max": 6,
+        "value": 4,
+        "map": {
+          "1": "Legendary",
+          "2": "Unique",
+          "3": "Mythic",
+          "4": "Epic",
+          "5": "Rare",
+          "6": "Magical",
+          "7": "Normal",
+          "8": "Set",
+          "9": "Quest",
+          "10": "Trash"
+        }
+      },
+      "trait_type": "Rarity: {param1}"
+    },
+    {
+      "id": 17,
+      "min": 70,
+      "max": 100,
+      "paramType1": "percent",
+      "description": "{param1} Chance to Freeze Fees (1 Hour) (Not Implemented)",
+      "variant": 2,
+      "attributeId": 17,
+      "value": 90,
+      "param1": {
+        "min": 70,
+        "max": 100,
+        "value": 90
+      },
+      "trait_type": "{param1} Chance to Freeze Fees (1 Hour) (Not Implemented)"
+    },
+    {
+      "id": 13,
+      "min": 2,
+      "max": 5,
+      "paramType1": "percent",
+      "description": "{param1} Magic Find",
+      "variant": 2,
+      "attributeId": 13,
+      "value": 4,
+      "param1": {
+        "min": 2,
+        "max": 5,
+        "value": 4
+      },
+      "trait_type": "{param1} Magic Find"
+    },
+    {
+      "id": 11,
+      "min": 4,
+      "max": 4,
+      "paramType1": "percent",
+      "description": "{param1} Random Rune Exchange",
+      "value": 4,
+      "variant": 2,
+      "attributeId": 11,
+      "param1": {
+        "min": 4,
+        "max": 4,
+        "value": 4
+      },
+      "trait_type": "{param1} Random Rune Exchange"
+    },
+    {
+      "id": 67,
+      "min": 5,
+      "max": 8,
+      "paramType1": "percent",
+      "description": "+{param1} Minimum Harvest Theft (Not Implemented)",
+      "variant": 2,
+      "attributeId": 67,
+      "value": 7,
+      "param1": {
+        "min": 5,
+        "max": 8,
+        "value": 7
+      },
+      "trait_type": "+{param1} Minimum Harvest Theft (Not Implemented)"
+    },
+    {
+      "id": 67,
+      "min": 5,
+      "max": 8,
+      "paramType1": "percent",
+      "description": "+{param1} Maximum Harvest Theft (Not Implemented)",
+      "variant": 2,
+      "attributeId": 67,
+      "value": 7,
+      "param1": {
+        "min": 5,
+        "max": 8,
+        "value": 7
+      },
+      "trait_type": "+{param1} Maximum Harvest Theft (Not Implemented)"
+    },
+    {
+      "id": 73,
+      "min": 14,
+      "max": 20,
+      "paramType1": "percent",
+      "description": "{param1} Theft Counter Chance (Not Implemented)",
+      "variant": 2,
+      "attributeId": 73,
+      "value": 18,
+      "param1": {
+        "min": 14,
+        "max": 20,
+        "value": 18
+      },
+      "trait_type": "{param1} Theft Counter Chance (Not Implemented)"
+    },
+    {
+      "id": 47,
+      "min": 2,
+      "max": 5,
+      "paramType1": "percent",
+      "description": "{param1} Reduced Burn (Not Implemented)",
+      "variant": 2,
+      "attributeId": 47,
+      "value": 4,
+      "param1": {
+        "min": 2,
+        "max": 5,
+        "value": 4
+      },
+      "trait_type": "{param1} Reduced Burn (Not Implemented)"
+    }
+  ],
+  "perfection": 0.66,
+  "slots": [
+    "Head"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "attributes": {
+      "11": 4,
+      "13": 4,
+      "17": 90,
+      "40": 4,
+      "47": 4,
+      "67": 14,
+      "73": 18
+    },
+    "randomRuneExchange": null,
+    "probability": {
+      "mythic": null,
+      "epic": null,
+      "rare": null,
+      "magical": null,
+      "roll": null
+    },
+    "version": 0,
+    "created": 1664757168082,
+    "revision": 0
+  },
+  "id": 2002,
+  "name": "Vampire Gaze",
+  "icon": "https://rune.game/images/items/02002.png",
+  "isPublishable": true,
+  "type": "Helm",
+  "isNew": true,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "isSecret": true,
+  "version": 3,
+  "shortTokenId": "10030200205204000420170...001",
+  "rarity": {
+    "id": 4,
+    "name": "Epic"
+  },
+  "slug": "vampire-gaze",
+  "$loki": 11886
+}

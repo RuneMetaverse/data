@@ -1,0 +1,41 @@
+{
+  "address": "0xd92637Dea6A548F9508f5811eBB894887991297e",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "NDN52bG7a",
+      "rune": "tal",
+      "value": 0.003,
+      "timestamp": 1644373233695
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "tal": 0
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "tal": 0.003
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "NDN52bG7a",
+      "timestamp": 1644373233695,
+      "status": "processing"
+    }
+  ]
+}

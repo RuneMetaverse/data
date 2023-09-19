@@ -1,0 +1,102 @@
+{
+  "address": "0x002A8c33185f29F55565d1c16cF72fD32f40465C",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "WMJfaA4iD",
+      "rune": "amn",
+      "value": 0.5,
+      "timestamp": 1644447377542
+    },
+    {
+      "id": "WMJfaA4iD",
+      "rune": "zod",
+      "value": 0.294,
+      "timestamp": 1644447377542
+    },
+    {
+      "id": "WMJfaA4iD",
+      "rune": "ort",
+      "value": 0.72,
+      "timestamp": 1644447377542
+    },
+    {
+      "id": "WMJfaA4iD",
+      "rune": "tal",
+      "value": 0.64,
+      "timestamp": 1644447377542
+    },
+    {
+      "id": "WMJfaA4iD",
+      "rune": "nef",
+      "value": 0.97,
+      "timestamp": 1644447377542
+    },
+    {
+      "id": "WMJfaA4iD",
+      "rune": "ith",
+      "value": 0.7,
+      "timestamp": 1644447377542
+    },
+    {
+      "id": "WMJfaA4iD",
+      "rune": "ral",
+      "value": 0.56,
+      "timestamp": 1644447377542
+    },
+    {
+      "id": "WMJfaA4iD",
+      "rune": "hel",
+      "value": 0.54,
+      "timestamp": 1644447377542
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "amn": 0,
+      "zod": 0,
+      "ort": 0,
+      "tal": 0,
+      "nef": 0,
+      "ith": 0,
+      "ral": 0,
+      "hel": 0
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "amn": 0.5,
+      "zod": 0.294,
+      "ort": 0.72,
+      "tal": 0.64,
+      "nef": 0.97,
+      "ith": 0.7,
+      "ral": 0.56,
+      "hel": 0.54
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "WMJfaA4iD",
+      "timestamp": 1644447377543,
+      "status": "processing"
+    },
+    {
+      "id": "WMJfaA4iD",
+      "requestId": "0xfa6bc79acdb0240bec010575f85fd673c1f824b43b5261820a34b7ab987074dc",
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "description": "\"It appears you've been through Hell and back\" - Cain (in honor of Diablo 2)",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100302001122040006200100220130052061002201900120350200000000000000000000001",
+  "image_url": "https://rune.game/images/items/02001.png",
+  "language": "en-US",
+  "tokenId": "100302001122040006200100220130052061002201900120350200000000000000000000001",
+  "details": {
+    "Type": "Ring",
+    "Subtype": "Inscribed Archon Band",
+    "Distribution": "Fundraiser",
+    "Date": "TBD",
+    "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 40,
+          "min": 3,
+          "max": 6,
+          "description": "Rarity: {param1}",
+          "map": {
+            "1": "Legendary",
+            "2": "Unique",
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical",
+            "7": "Normal",
+            "8": "Set",
+            "9": "Quest",
+            "10": "Trash"
+          },
+          "variant": 2,
+          "attributeId": 40,
+          "value": 6,
+          "param1": {
+            "min": 3,
+            "max": 6,
+            "value": 6,
+            "map": {
+              "1": "Legendary",
+              "2": "Unique",
+              "3": "Mythic",
+              "4": "Epic",
+              "5": "Rare",
+              "6": "Magical",
+              "7": "Normal",
+              "8": "Set",
+              "9": "Quest",
+              "10": "Trash"
+            }
+          }
+        },
+        {
+          "id": 1,
+          "min": 2,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "{param1} Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 2,
+          "param1": {
+            "min": 2,
+            "max": 5,
+            "value": 2
+          }
+        },
+        {
+          "id": 13,
+          "min": 5,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "{param1} Magic Find",
+          "value": 5,
+          "variant": 2,
+          "attributeId": 13,
+          "param1": {
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        },
+        {
+          "id": 61,
+          "min": 2,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "{param1} Increased Chance To Critically Harvest Yield (Not Implemented)",
+          "variant": 2,
+          "attributeId": 61,
+          "value": 2,
+          "param1": {
+            "min": 2,
+            "max": 5,
+            "value": 2
+          }
+        },
+        {
+          "id": 19,
+          "min": 1,
+          "max": 1,
+          "paramType1": "percent",
+          "description": "{param1} Chance To Create Random Runeword (Not Implemented)",
+          "value": 1,
+          "variant": 2,
+          "attributeId": 19,
+          "param1": {
+            "min": 1,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 35,
+          "min": 20,
+          "max": 20,
+          "description": "Early Raid Access: {param1} Minutes (Not Implemented)",
+          "value": 20,
+          "variant": 2,
+          "attributeId": 35,
+          "param1": {
+            "min": 20,
+            "max": 20,
+            "value": 20
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        5,
+        null,
+        5
+      ],
+      "presets": {
+        "2": [
+          3,
+          5,
+          5,
+          5,
+          1,
+          20
+        ],
+        "3": [
+          3,
+          5,
+          5,
+          5,
+          1,
+          20
+        ],
+        "4": [
+          4,
+          4,
+          5,
+          4,
+          1,
+          20
+        ],
+        "5": [
+          5,
+          3,
+          5,
+          3,
+          1,
+          20
+        ],
+        "6": [
+          6,
+          2,
+          5,
+          2,
+          1,
+          20
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 40,
+          "min": 3,
+          "max": 6,
+          "description": "Rarity: {param1}",
+          "map": {
+            "1": "Legendary",
+            "2": "Unique",
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical",
+            "7": "Normal",
+            "8": "Set",
+            "9": "Quest",
+            "10": "Trash"
+          },
+          "value": 6
+        },
+        {
+          "id": 3801,
+          "min": 3,
+          "max": 5,
+          "description": "{param1}% Increased Cast Speed",
+          "value": 3
+        },
+        {
+          "id": 2302,
+          "min": 10,
+          "max": 25,
+          "description": "{param1}% Maximum Energy",
+          "value": 10
+        },
+        {
+          "id": 3801,
+          "min": 5,
+          "max": 5,
+          "description": "{param1}% Energy Regeneration",
+          "value": 5
+        },
+        {
+          "id": 2914,
+          "min": 1,
+          "max": 1,
+          "paramType1": "percent",
+          "description": "{param1} Chance To Double Item Pickup",
+          "value": 1
+        },
+        {
+          "id": 2006,
+          "min": 2,
+          "max": 5,
+          "paramType1": "percent",
+          "description": "{param1} Critical Hit Chance",
+          "value": 2
+        },
+        {
+          "id": 2015,
+          "min": 10,
+          "max": 10,
+          "description": "{param1}% Increased Burn Ailment Duration",
+          "value": 10
+        },
+        {
+          "id": 3801,
+          "min": 1,
+          "max": 10,
+          "paramType1": "percent",
+          "description": "{param1} Increase To Rank Reward Bonuses",
+          "value": 1
+        },
+        {
+          "id": 3807,
+          "min": 1,
+          "max": 1,
+          "description": "+{param1} Skill Points",
+          "value": 1
+        }
+      ],
+      "perfection": [
+        null,
+        5,
+        25,
+        null,
+        null,
+        5,
+        null,
+        10
+      ],
+      "presets": {
+        "2": [
+          3,
+          5,
+          25,
+          5,
+          1,
+          5,
+          10,
+          10,
+          1
+        ],
+        "3": [
+          3,
+          5,
+          25,
+          5,
+          1,
+          5,
+          10,
+          10,
+          1
+        ],
+        "4": [
+          4,
+          4,
+          20,
+          5,
+          1,
+          4,
+          10,
+          7,
+          1
+        ],
+        "5": [
+          5,
+          3,
+          15,
+          5,
+          0,
+          3,
+          10,
+          4,
+          1
+        ],
+        "6": [
+          6,
+          3,
+          10,
+          5,
+          0,
+          2,
+          10,
+          1,
+          1
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "2-2",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 40,
+      "value": 6
+    },
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 61,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 19,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 35,
+      "value": 20
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 1
+    }
+  ],
+  "attributes": [
+    {
+      "id": 40,
+      "min": 3,
+      "max": 6,
+      "description": "Rarity: {param1}",
+      "map": {
+        "1": "Legendary",
+        "2": "Unique",
+        "3": "Mythic",
+        "4": "Epic",
+        "5": "Rare",
+        "6": "Magical",
+        "7": "Normal",
+        "8": "Set",
+        "9": "Quest",
+        "10": "Trash"
+      },
+      "variant": 2,
+      "attributeId": 40,
+      "value": 6,
+      "param1": {
+        "min": 3,
+        "max": 6,
+        "value": 6,
+        "map": {
+          "1": "Legendary",
+          "2": "Unique",
+          "3": "Mythic",
+          "4": "Epic",
+          "5": "Rare",
+          "6": "Magical",
+          "7": "Normal",
+          "8": "Set",
+          "9": "Quest",
+          "10": "Trash"
+        }
+      },
+      "trait_type": "Rarity: {param1}"
+    },
+    {
+      "id": 1,
+      "min": 2,
+      "max": 5,
+      "paramType1": "percent",
+      "description": "{param1} Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 2,
+      "param1": {
+        "min": 2,
+        "max": 5,
+        "value": 2
+      },
+      "trait_type": "{param1} Increased Harvest Yield"
+    },
+    {
+      "id": 13,
+      "min": 5,
+      "max": 5,
+      "paramType1": "percent",
+      "description": "{param1} Magic Find",
+      "value": 5,
+      "variant": 2,
+      "attributeId": 13,
+      "param1": {
+        "min": 5,
+        "max": 5,
+        "value": 5
+      },
+      "trait_type": "{param1} Magic Find"
+    },
+    {
+      "id": 61,
+      "min": 2,
+      "max": 5,
+      "paramType1": "percent",
+      "description": "{param1} Increased Chance To Critically Harvest Yield (Not Implemented)",
+      "variant": 2,
+      "attributeId": 61,
+      "value": 2,
+      "param1": {
+        "min": 2,
+        "max": 5,
+        "value": 2
+      },
+      "trait_type": "{param1} Increased Chance To Critically Harvest Yield (Not Implemented)"
+    },
+    {
+      "id": 19,
+      "min": 1,
+      "max": 1,
+      "paramType1": "percent",
+      "description": "{param1} Chance To Create Random Runeword (Not Implemented)",
+      "value": 1,
+      "variant": 2,
+      "attributeId": 19,
+      "param1": {
+        "min": 1,
+        "max": 1,
+        "value": 1
+      },
+      "trait_type": "{param1} Chance To Create Random Runeword (Not Implemented)"
+    },
+    {
+      "id": 35,
+      "min": 20,
+      "max": 20,
+      "description": "Early Raid Access: {param1} Minutes (Not Implemented)",
+      "value": 20,
+      "variant": 2,
+      "attributeId": 35,
+      "param1": {
+        "min": 20,
+        "max": 20,
+        "value": 20
+      },
+      "trait_type": "Early Raid Access: {param1} Minutes (Not Implemented)"
+    }
+  ],
+  "perfection": 0,
+  "slots": [
+    "Finger 1",
+    "Finger 2"
+  ],
+  "meta": {
+    "harvestYield": 2,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "odds": 16,
+    "version": 0,
+    "created": 1658775042680,
+    "revision": 0
+  },
+  "id": 2001,
+  "name": "Stone of Jordan",
+  "icon": "https://rune.game/images/items/02001.png",
+  "isPublishable": true,
+  "type": "Ring",
+  "isNew": true,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "isSecret": true,
+  "version": 3,
+  "shortTokenId": "10030200112204000620010...001",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "slug": "Stone-of-Jordan",
+  "$loki": 5721
+}

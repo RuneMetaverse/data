@@ -1,0 +1,665 @@
+{
+  "description": "These handwraps have an unknown origin and emit a dark aura.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000070920010042008087200910000000000000000000000000000000000000000000856",
+  "image_url": "/images/items/00007.png",
+  "language": "en-US",
+  "tokenId": "1003000070920010042008087200910000000000000000000000000000000000000000000856",
+  "details": {
+    "Type": "Glove",
+    "Subtype": "Shadow Wraps",
+    "Rune Word": "Thul Ith Ort Ral",
+    "Distribution": "Crafted",
+    "Date": "May 25, 2021 - June 25, 2021"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "name": "HarvestYield",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Increased Harvest Yield",
+          "param1": {
+            "spec": "1-5",
+            "min": 1,
+            "max": 5,
+            "value": 4
+          },
+          "value": 4,
+          "min": 1,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 1
+        },
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "25-100",
+            "min": 25,
+            "max": 100,
+            "value": 87
+          },
+          "value": 87,
+          "min": 25,
+          "max": 100,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 9,
+          "name": "UnstakeLocked",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unstakelocked",
+          "paramType1": "percent",
+          "paramValue1": "100-100",
+          "nature": "Debuff",
+          "description": "Unstake Locked Until Completion",
+          "param1": {
+            "spec": "100",
+            "min": 100,
+            "max": 100,
+            "value": 100
+          },
+          "value": 100,
+          "min": 100,
+          "max": 100,
+          "variant": 2,
+          "attributeId": 9
+        }
+      ],
+      "perfection": [
+        5,
+        100,
+        null
+      ],
+      "presets": {
+        "2": [
+          5,
+          100
+        ],
+        "3": [
+          5,
+          100
+        ],
+        "4": [
+          4,
+          96
+        ],
+        "5": [
+          3,
+          77
+        ],
+        "6": [
+          1,
+          40
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1060,
+          "name": "DamageResist",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} damage resist",
+          "param1": {
+            "spec": [
+              "1-5"
+            ],
+            "min": 1,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 1102,
+          "name": "DeathPenaltyAvoid",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltyavoid",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Buff",
+          "influences": "Game",
+          "description": "{parameter1} to avoid losing points on death.",
+          "param1": {
+            "spec": "1-25",
+            "min": 1,
+            "max": 25,
+            "value": 21
+          },
+          "value": null
+        },
+        {
+          "id": 1167,
+          "name": "RunewordFindWin",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/runewordfindwin",
+          "paramType1": "percent",
+          "nature": "Mechanic",
+          "influences": "Reward",
+          "description": "{parameter1} chance to find a random runeword on win",
+          "param1": {
+            "spec": "1-1",
+            "min": 1,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 1173,
+          "name": "StealVictimRewardsChance",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/stealvictimrewardschance",
+          "paramType1": "percent",
+          "paramValue1": "0-10",
+          "nature": "Mechanic",
+          "influences": "Reward",
+          "description": "{parameter1} chance to take a portion of a killed player's rewards for the round",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        25,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          null,
+          25
+        ],
+        "3": [
+          null,
+          25
+        ],
+        "4": [
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null
+        ]
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "7-10",
+            "min": 7,
+            "max": 10,
+            "value": 9
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2903,
+          "name": "IncreaseRankRewardBonus",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaserankrewardbonus",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} Increase to Rank Reward Bonuses",
+          "param1": {
+            "spec": "0-25",
+            "min": 0,
+            "max": 25,
+            "value": 21
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Shuriken Dance",
+            "min": 474,
+            "max": 474,
+            "value": 474,
+            "map": {
+              "474": "Shuriken Dance"
+            }
+          }
+        },
+        {
+          "id": 2602,
+          "name": "ExtraProjectiles",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/extraprojectiles",
+          "paramType1": "percent",
+          "paramType2": "value",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} Chance Of {parameter2} Extra Projectile(s)",
+          "param1": {
+            "spec": "35",
+            "min": 35,
+            "max": 35,
+            "value": 35
+          },
+          "param2": {
+            "spec": "1",
+            "min": 1,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 2309,
+          "name": "ReduceCost",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/reducecost",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "-{parameter1} Energy Cost",
+          "param1": {
+            "spec": "5-8",
+            "min": 5,
+            "max": 8,
+            "value": 7
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        10,
+        25,
+        null,
+        null,
+        8
+      ],
+      "presets": {
+        "2": [
+          10,
+          25,
+          null,
+          null,
+          8
+        ],
+        "3": [
+          10,
+          25,
+          null,
+          null,
+          8
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "4-87",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 87
+    },
+    {
+      "variant": 2,
+      "attributeId": 9,
+      "value": 100
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 856
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "HarvestYield",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Increased Harvest Yield",
+      "param1": {
+        "spec": "1-5",
+        "min": 1,
+        "max": 5,
+        "value": 4
+      },
+      "value": 4,
+      "min": 1,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 1,
+      "trait_type": "{parameter1} Increased Harvest Yield"
+    },
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "25-100",
+        "min": 25,
+        "max": 100,
+        "value": 87
+      },
+      "value": 87,
+      "min": 25,
+      "max": 100,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 9,
+      "name": "UnstakeLocked",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/unstakelocked",
+      "paramType1": "percent",
+      "paramValue1": "100-100",
+      "nature": "Debuff",
+      "description": "Unstake Locked Until Completion",
+      "param1": {
+        "spec": "100",
+        "min": 100,
+        "max": 100,
+        "value": 100
+      },
+      "value": 100,
+      "min": 100,
+      "max": 100,
+      "variant": 2,
+      "attributeId": 9,
+      "trait_type": "Unstake Locked Until Completion"
+    }
+  ],
+  "perfection": 0.78,
+  "slots": [
+    "Hands"
+  ],
+  "meta": {
+    "harvestYield": 4,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "attributes": {
+      "1": 4,
+      "8": 87,
+      "9": 100,
+      "13": 5,
+      "1060": 1,
+      "1102": 21,
+      "1167": 1,
+      "1173": 5,
+      "2309": 7,
+      "2316": 9,
+      "2602": 35,
+      "2903": 21,
+      "3801": 474
+    },
+    "feeReduction": null,
+    "unstakeLocked": true,
+    "probability": {
+      "mythic": null,
+      "epic": null,
+      "rare": null,
+      "magical": null,
+      "roll": null
+    },
+    "version": 0,
+    "created": 1662718690301,
+    "revision": 0
+  },
+  "id": 7,
+  "name": "Smoke",
+  "slug": "smoke",
+  "icon": "/images/items/00007.png",
+  "image": "https://dl.airtable.com/.attachments/6402ec0b1b5fb7913ef336d62c0d38df/21df471d/00007.png?ts=1657605345&userId=usrf0GZYc5zCl9Cv7&cs=8c16a9edf219c7c9",
+  "type": "Glove",
+  "subType": 15,
+  "specificType": 7,
+  "isPolled": true,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": true,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 380,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 9,
+        "quantity": 1,
+        "symbol": "THUL"
+      },
+      {
+        "id": 5,
+        "quantity": 1,
+        "symbol": "ITH"
+      },
+      {
+        "id": 8,
+        "quantity": 1,
+        "symbol": "ORT"
+      },
+      {
+        "id": 7,
+        "quantity": 1,
+        "symbol": "RAL"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "Though these handwraps appear simple at first glance, a closer look would reveal faint black smoke snaking up from the cloth.",
+  "skills": [
+    475
+  ],
+  "materials": [
+    32
+  ],
+  "version": 3,
+  "shortTokenId": "10030000709200100420080...856",
+  "rarity": {
+    "id": 5,
+    "name": "Rare"
+  },
+  "$loki": 5497
+}

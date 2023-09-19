@@ -1,0 +1,718 @@
+{
+  "description": "Shaped by the hands of a respected Barbarian artisan, these boots were designed to support a life of constant combat.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10030005511200800120630002062003201100020740022075002000000000000000000000998",
+  "image_url": "https://rune.game/images/items/00055.png",
+  "language": "en-US",
+  "tokenId": "10030005511200800120630002062003201100020740022075002000000000000000000000998",
+  "details": {
+    "Type": "Boot",
+    "Subtype": "Raider Boots",
+    "Rune Word": "Gul Lo Zod Ist"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 1
+          },
+          "value": 1,
+          "min": 0,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 63,
+          "name": "HarvestOverTime",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestovertime",
+          "paramType1": "percent",
+          "paramValue1": "0-10",
+          "nature": "Buff",
+          "description": "Add {parameter1} To Harvest, Vested Over Time (Not Implemented)",
+          "param1": {
+            "spec": "0-3",
+            "min": 0,
+            "max": 3,
+            "value": 0
+          },
+          "value": 0,
+          "min": 0,
+          "max": 3,
+          "variant": 2,
+          "attributeId": 63
+        },
+        {
+          "id": 62,
+          "name": "HarvestCritMultiplier",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestcritmultiplier",
+          "paramType1": "percent",
+          "paramValue1": "0-10",
+          "nature": "Buff",
+          "description": "{parameter1} Critical Harvest Bonus (Not Implemented)",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 3
+          },
+          "value": 3,
+          "min": 0,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 62
+        },
+        {
+          "id": 11,
+          "name": "RandomRuneExchange",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Mechanic",
+          "description": "{parameter1} Random Rune Exchange",
+          "param1": {
+            "spec": "0-3",
+            "min": 0,
+            "max": 3,
+            "value": 0
+          },
+          "value": 0,
+          "min": 0,
+          "max": 3,
+          "variant": 2,
+          "attributeId": 11
+        },
+        {
+          "id": 74,
+          "name": "RandomRuneExchangeSpecific",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchangespecific",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "description": "{parameter1} Chance That Random Rune Exchange Gives A Specific Rune (Not Implemented)",
+          "param1": {
+            "spec": "0-20",
+            "min": 0,
+            "max": 20,
+            "value": 2
+          },
+          "value": 2,
+          "min": 0,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 74
+        },
+        {
+          "id": 75,
+          "name": "RandomRuneToken",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomrunetoken",
+          "paramType1": "rune",
+          "nature": "Mechanic",
+          "description": "Random Exchange Target: {parameter1}",
+          "param1": {
+            "spec": "ELD-NEF",
+            "min": 1,
+            "max": 3,
+            "map": {
+              "1": "ELD",
+              "2": "TIR",
+              "3": "NEF"
+            },
+            "value": 2
+          },
+          "value": 2,
+          "min": 1,
+          "max": 3,
+          "variant": 2,
+          "attributeId": 75,
+          "map": {
+            "1": "ELD",
+            "2": "TIR",
+            "3": "NEF"
+          }
+        }
+      ],
+      "perfection": [
+        5,
+        3,
+        5,
+        null,
+        20,
+        null
+      ],
+      "presets": {
+        "2": [
+          5,
+          3,
+          5,
+          null,
+          20
+        ],
+        "3": [
+          5,
+          3,
+          5,
+          null,
+          20
+        ],
+        "4": [
+          4,
+          2,
+          4,
+          null,
+          19
+        ],
+        "5": [
+          3,
+          2,
+          3,
+          null,
+          14
+        ],
+        "6": [
+          1,
+          0,
+          1,
+          null,
+          4
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1060,
+          "name": "DamageResist",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} damage resist",
+          "param1": {
+            "spec": [
+              "2-5"
+            ],
+            "min": 2,
+            "max": 2,
+            "value": 2
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        null
+      ],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "2-5",
+            "min": 2,
+            "max": 5
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2304,
+          "name": "IncreaseResist",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Resistance",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5
+          },
+          "param2": {
+            "spec": "Physical",
+            "min": 9,
+            "max": 9,
+            "value": 9,
+            "map": {
+              "9": "Physical"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "4-7",
+            "min": 4,
+            "max": 7
+          },
+          "param2": {
+            "spec": "MovementSpeed",
+            "min": 3,
+            "max": 3,
+            "value": 3,
+            "map": {
+              "3": "MovementSpeed"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2303,
+          "name": "EnergyRegen",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/energyregen",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "paramValue2": "0-60",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} Energy Regeneration",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Charge",
+            "min": 471,
+            "max": 471,
+            "value": 471,
+            "map": {
+              "471": "Charge"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 1158,
+          "name": "WinStreakMagicFindIncrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/winstreakmagicfindincrease",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        5,
+        5,
+        7,
+        5,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          5,
+          5,
+          7,
+          5
+        ],
+        "3": [
+          5,
+          5,
+          7,
+          5
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "1-0-3-2",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 63,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 62,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 74,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 75,
+      "value": 2
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 998
+    }
+  ],
+  "attributes": [
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "0-5",
+        "min": 0,
+        "max": 5,
+        "value": 1
+      },
+      "value": 1,
+      "min": 0,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 63,
+      "name": "HarvestOverTime",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestovertime",
+      "paramType1": "percent",
+      "paramValue1": "0-10",
+      "nature": "Buff",
+      "description": "Add {parameter1} To Harvest, Vested Over Time (Not Implemented)",
+      "param1": {
+        "spec": "0-3",
+        "min": 0,
+        "max": 3,
+        "value": 0
+      },
+      "value": 0,
+      "min": 0,
+      "max": 3,
+      "variant": 2,
+      "attributeId": 63,
+      "trait_type": "Add {parameter1} To Harvest, Vested Over Time (Not Implemented)"
+    },
+    {
+      "id": 62,
+      "name": "HarvestCritMultiplier",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestcritmultiplier",
+      "paramType1": "percent",
+      "paramValue1": "0-10",
+      "nature": "Buff",
+      "description": "{parameter1} Critical Harvest Bonus (Not Implemented)",
+      "param1": {
+        "spec": "0-5",
+        "min": 0,
+        "max": 5,
+        "value": 3
+      },
+      "value": 3,
+      "min": 0,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 62,
+      "trait_type": "{parameter1} Critical Harvest Bonus (Not Implemented)"
+    },
+    {
+      "id": 11,
+      "name": "RandomRuneExchange",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Mechanic",
+      "description": "{parameter1} Random Rune Exchange",
+      "param1": {
+        "spec": "0-3",
+        "min": 0,
+        "max": 3,
+        "value": 0
+      },
+      "value": 0,
+      "min": 0,
+      "max": 3,
+      "variant": 2,
+      "attributeId": 11,
+      "trait_type": "{parameter1} Random Rune Exchange"
+    },
+    {
+      "id": 74,
+      "name": "RandomRuneExchangeSpecific",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchangespecific",
+      "paramType1": "percent",
+      "nature": "Buff",
+      "description": "{parameter1} Chance That Random Rune Exchange Gives A Specific Rune (Not Implemented)",
+      "param1": {
+        "spec": "0-20",
+        "min": 0,
+        "max": 20,
+        "value": 2
+      },
+      "value": 2,
+      "min": 0,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 74,
+      "trait_type": "{parameter1} Chance That Random Rune Exchange Gives A Specific Rune (Not Implemented)"
+    },
+    {
+      "id": 75,
+      "name": "RandomRuneToken",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/randomrunetoken",
+      "paramType1": "rune",
+      "nature": "Mechanic",
+      "description": "Random Exchange Target: {parameter1}",
+      "param1": {
+        "spec": "ELD-NEF",
+        "min": 1,
+        "max": 3,
+        "map": {
+          "1": "ELD",
+          "2": "TIR",
+          "3": "NEF"
+        },
+        "value": 2
+      },
+      "value": 2,
+      "min": 1,
+      "max": 3,
+      "variant": 2,
+      "attributeId": 75,
+      "map": {
+        "1": "ELD",
+        "2": "TIR",
+        "3": "NEF"
+      },
+      "trait_type": "Random Exchange Target: {parameter1}"
+    }
+  ],
+  "perfection": 0.22,
+  "slots": [
+    "Feet"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "feeReduction": 1,
+    "odds": 12096,
+    "version": 0,
+    "created": 1658244222111,
+    "revision": 0
+  },
+  "id": 55,
+  "name": "Reave",
+  "icon": "https://rune.game/images/items/00055.png",
+  "image": "https://dl.airtable.com/.attachments/81fe6356a27477cf4c357c4638e197aa/1f3e076d/Reave.jpeg?ts=1657605446&userId=usrf0GZYc5zCl9Cv7&cs=cdeae287148af955",
+  "type": "Boot",
+  "subType": 12,
+  "specificType": 27,
+  "isPolled": true,
+  "isNew": true,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": false,
+  "isDisabled": false,
+  "isCraftable": true,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 3024,
+  "recipe": {
+    "requirement": [
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "",
+  "skills": [],
+  "materials": [],
+  "version": 3,
+  "shortTokenId": "10030005511200800120630...998",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 4462
+}

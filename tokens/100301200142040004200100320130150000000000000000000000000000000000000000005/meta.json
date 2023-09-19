@@ -1,0 +1,311 @@
+{
+  "description": [
+    "Rewarded to Rune Scholars for their noble service."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100301200142040004200100320130150000000000000000000000000000000000000000005",
+  "image_url": "https://rune.game/images/items/01200.png",
+  "language": "en-US",
+  "tokenId": "100301200142040004200100320130150000000000000000000000000000000000000000005",
+  "details": {
+    "Type": "Trinket",
+    "Subtype": "Codex",
+    "Distribution": "Reward",
+    "Date": "June 12, 2021 - June 12, 2021",
+    "Max Supply": "Mythic: 2, Epic: 4, Rare: 10, Magical: 20"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 40,
+          "min": 3,
+          "max": 6,
+          "description": "Rarity: {param1}",
+          "map": {
+            "1": "Legendary",
+            "2": "Unique",
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical",
+            "7": "Normal",
+            "8": "Set",
+            "9": "Quest",
+            "10": "Trash"
+          },
+          "variant": 2,
+          "attributeId": 40,
+          "value": 4,
+          "param1": {
+            "min": 3,
+            "max": 6,
+            "value": 4,
+            "map": {
+              "1": "Legendary",
+              "2": "Unique",
+              "3": "Mythic",
+              "4": "Epic",
+              "5": "Rare",
+              "6": "Magical",
+              "7": "Normal",
+              "8": "Set",
+              "9": "Quest",
+              "10": "Trash"
+            }
+          }
+        },
+        {
+          "id": 1,
+          "min": 1,
+          "max": 4,
+          "paramType1": "percent",
+          "description": "{param1} Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 3,
+          "param1": {
+            "min": 1,
+            "max": 4,
+            "value": 3
+          }
+        },
+        {
+          "id": 13,
+          "min": 1,
+          "max": 20,
+          "paramType1": "percent",
+          "description": "{param1} Magic Find",
+          "variant": 2,
+          "attributeId": 13,
+          "value": 15,
+          "param1": {
+            "min": 1,
+            "max": 20,
+            "value": 15
+          }
+        }
+      ],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": [],
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 40,
+      "value": 4
+    },
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 15
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 5
+    }
+  ],
+  "attributes": [
+    {
+      "id": 40,
+      "min": 3,
+      "max": 6,
+      "description": "Rarity: {param1}",
+      "map": {
+        "1": "Legendary",
+        "2": "Unique",
+        "3": "Mythic",
+        "4": "Epic",
+        "5": "Rare",
+        "6": "Magical",
+        "7": "Normal",
+        "8": "Set",
+        "9": "Quest",
+        "10": "Trash"
+      },
+      "variant": 2,
+      "attributeId": 40,
+      "value": 4,
+      "param1": {
+        "min": 3,
+        "max": 6,
+        "value": 4,
+        "map": {
+          "1": "Legendary",
+          "2": "Unique",
+          "3": "Mythic",
+          "4": "Epic",
+          "5": "Rare",
+          "6": "Magical",
+          "7": "Normal",
+          "8": "Set",
+          "9": "Quest",
+          "10": "Trash"
+        }
+      },
+      "trait_type": "Rarity: {param1}"
+    },
+    {
+      "id": 1,
+      "min": 1,
+      "max": 4,
+      "paramType1": "percent",
+      "description": "{param1} Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 3,
+      "param1": {
+        "min": 1,
+        "max": 4,
+        "value": 3
+      },
+      "trait_type": "{param1} Increased Harvest Yield"
+    },
+    {
+      "id": 13,
+      "min": 1,
+      "max": 20,
+      "paramType1": "percent",
+      "description": "{param1} Magic Find",
+      "variant": 2,
+      "attributeId": 13,
+      "value": 15,
+      "param1": {
+        "min": 1,
+        "max": 20,
+        "value": 15
+      },
+      "trait_type": "{param1} Magic Find"
+    }
+  ],
+  "perfection": 1,
+  "slots": [
+    "Trinket 1",
+    "Trinket 2",
+    "Trinket 3"
+  ],
+  "meta": {
+    "harvestYield": 3,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "attributes": {
+      "1": 3,
+      "13": 15,
+      "40": 4
+    },
+    "odds": 80,
+    "version": 0,
+    "created": 1662026884821,
+    "revision": 0
+  },
+  "id": 1200,
+  "name": "Scholar's Codex",
+  "icon": "https://rune.game/images/items/01200.png",
+  "isPublishable": true,
+  "isSecret": false,
+  "type": "Trinket",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "version": 3,
+  "shortTokenId": "10030120014204000420010...005",
+  "rarity": {
+    "id": 4,
+    "name": "Epic"
+  },
+  "slug": "scholar's-codex",
+  "$loki": 1295
+}

@@ -1,0 +1,110 @@
+{
+  "address": "0x3282Bff0961C62a885E6a5Ee4233BBDacD036c10",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "h987JhaW3",
+      "rune": "hel",
+      "value": 2.024,
+      "timestamp": 1645300015603
+    },
+    {
+      "id": "h987JhaW3",
+      "rune": "ral",
+      "value": 2.1369999999999996,
+      "timestamp": 1645300015603
+    },
+    {
+      "id": "h987JhaW3",
+      "rune": "tal",
+      "value": 2.094,
+      "timestamp": 1645300015603
+    },
+    {
+      "id": "h987JhaW3",
+      "rune": "amn",
+      "value": 1.9240000000000002,
+      "timestamp": 1645300015603
+    },
+    {
+      "id": "h987JhaW3",
+      "rune": "zod",
+      "value": 1.213,
+      "timestamp": 1645300015603
+    },
+    {
+      "id": "h987JhaW3",
+      "rune": "ith",
+      "value": 2.1339999999999995,
+      "timestamp": 1645300015603
+    },
+    {
+      "id": "h987JhaW3",
+      "rune": "nef",
+      "value": 2.046,
+      "timestamp": 1645300015603
+    },
+    {
+      "id": "h987JhaW3",
+      "rune": "ort",
+      "value": 2.0999999999999996,
+      "timestamp": 1645300015603
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "hel": 0.008,
+      "ral": 0.01,
+      "tal": 0.01,
+      "amn": 0,
+      "zod": 0.004,
+      "ith": 0.002,
+      "nef": 0.004,
+      "ort": 0.004,
+      "sol": 0.008,
+      "shael": 0.002,
+      "dol": 0.002,
+      "tir": 0.004
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "ral": 2.1469999999999985,
+      "ort": 2.103999999999999,
+      "amn": 1.9240000000000002,
+      "nef": 2.0499999999999994,
+      "zod": 1.217,
+      "ith": 2.1359999999999992,
+      "hel": 2.031999999999999,
+      "tal": 2.1039999999999988,
+      "sol": 0.008,
+      "shael": 0.002,
+      "dol": 0.002,
+      "tir": 0.004
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "h987JhaW3",
+      "timestamp": 1645300015603,
+      "status": "processing"
+    },
+    {
+      "id": "h987JhaW3",
+      "requestId": "0x0021997bec890594a5a460c7d402a135cccb6d98ef8d8611370511cbf3efde0b",
+      "status": "completed"
+    }
+  ]
+}

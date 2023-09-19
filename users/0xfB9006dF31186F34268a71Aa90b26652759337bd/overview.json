@@ -1,0 +1,61 @@
+{
+  "address": "0xfB9006dF31186F34268a71Aa90b26652759337bd",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "eRr7SMs0y",
+      "rune": "zod",
+      "value": 0.004,
+      "timestamp": 1645733847282
+    },
+    {
+      "id": "eRr7SMs0y",
+      "rune": "nef",
+      "value": 0.006,
+      "timestamp": 1645733847282
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "zod": 0.006,
+      "nef": 0,
+      "hel": 0.002,
+      "sol": 0.002,
+      "shael": 0.005,
+      "ral": 0.005,
+      "dol": 0.003,
+      "ort": 0.003
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "zod": 0.010000000000000002,
+      "nef": 0.006,
+      "hel": 0.002,
+      "sol": 0.002,
+      "shael": 0.005,
+      "ral": 0.005,
+      "dol": 0.003,
+      "ort": 0.003
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "eRr7SMs0y",
+      "timestamp": 1645733847282,
+      "status": "processing"
+    }
+  ]
+}

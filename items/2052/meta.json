@@ -1,0 +1,87 @@
+{
+  "description": "\"It appears you've been through Hell and back\" - Cain (in honor of Diablo 2)",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/catalog/2052",
+  "image_url": "https://rune.game/images/items/02052.png",
+  "language": "en-US",
+  "id": 2052,
+  "name": "Crown of Ages",
+  "icon": "https://rune.game/images/items/02052.png",
+  "isPublishable": true,
+  "type": "Helm",
+  "slots": [
+    "Head"
+  ],
+  "isNew": true,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "isSecret": true,
+  "attributes": [],
+  "details": {
+    "Type": "Helm",
+    "Subtype": "Corona",
+    "Distribution": "Fundraiser",
+    "Date": "TBD",
+    "Max Supply": "Mythic: 1, Epic: 1, Rare: 1, Magical: 1"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 40,
+          "min": 3,
+          "max": 6,
+          "description": "Rarity: {param1}",
+          "map": {
+            "1": "Legendary",
+            "2": "Unique",
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical",
+            "7": "Normal",
+            "8": "Set",
+            "9": "Quest",
+            "10": "Trash"
+          }
+        }
+      ],
+      "perfection": []
+    },
+    "2": {
+      "attributes": []
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 40,
+          "min": 3,
+          "max": 6,
+          "description": "Rarity: {param1}",
+          "map": {
+            "1": "Legendary",
+            "2": "Unique",
+            "3": "Mythic",
+            "4": "Epic",
+            "5": "Rare",
+            "6": "Magical",
+            "7": "Normal",
+            "8": "Set",
+            "9": "Quest",
+            "10": "Trash"
+          }
+        }
+      ],
+      "perfection": []
+    },
+    "4": {
+      "attributes": []
+    }
+  }
+}

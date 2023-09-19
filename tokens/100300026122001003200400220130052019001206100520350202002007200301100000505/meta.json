@@ -1,0 +1,456 @@
+{
+  "description": [
+    "The method and materials used to create this object of transcendant beauty and power have long been lost to the world."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300026122001003200400220130052019001206100520350202002007200301100000505",
+  "catalog_url": "https://rune.game/catalog/26",
+  "image": "https://rune.game/images/items/00026.png",
+  "language": "en-US",
+  "tokenId": "100300026122001003200400220130052019001206100520350202002007200301100000505",
+  "details": {
+    "Type": "Ring",
+    "Subtype": "Inscribed Archon Band",
+    "Distribution": "Crafted",
+    "Date": "August 27, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "min": 2,
+          "max": 4,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 3
+        },
+        {
+          "id": 4,
+          "min": 0,
+          "max": 3,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool",
+          "variant": 2,
+          "attributeId": 4,
+          "value": 2
+        },
+        {
+          "id": 13,
+          "min": 5,
+          "max": 5,
+          "description": "{value}% Magic Find",
+          "value": 5,
+          "variant": 2,
+          "attributeId": 13
+        },
+        {
+          "id": 19,
+          "min": 0,
+          "max": 1,
+          "description": "{value}% Chance To Create Random Runeword (Not Implemented)",
+          "variant": 2,
+          "attributeId": 19,
+          "value": 1
+        },
+        {
+          "id": 61,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% increased chance to critically harvest yield (Not Implemented)",
+          "variant": 2,
+          "attributeId": 61,
+          "value": 5
+        },
+        {
+          "id": 35,
+          "min": 20,
+          "max": 20,
+          "description": "Early Rune Access: {value} Minutes (Not Implemented)",
+          "value": 20,
+          "variant": 2,
+          "attributeId": 35
+        },
+        {
+          "id": 2,
+          "min": 0,
+          "max": 10,
+          "description": "{value}% Harvest Fee",
+          "variant": 2,
+          "attributeId": 2,
+          "value": 7
+        },
+        {
+          "id": 3,
+          "min": 9,
+          "max": 11,
+          "description": "Harvest Fee Token: {value}",
+          "map": {
+            "0": "EL",
+            "1": "ELD",
+            "2": "TIR",
+            "3": "NEF",
+            "4": "ETH",
+            "5": "ITH",
+            "6": "TAL",
+            "7": "RAL",
+            "8": "ORT",
+            "9": "THUL",
+            "10": "AMN",
+            "11": "SOL",
+            "12": "SHAEL",
+            "13": "DOL",
+            "14": "HEL",
+            "15": "IO",
+            "16": "LUM",
+            "17": "KO",
+            "18": "FAL",
+            "19": "LEM",
+            "20": "PUL",
+            "21": "UM",
+            "22": "MAL",
+            "23": "IST",
+            "24": "GUL",
+            "25": "VEX",
+            "26": "OHM",
+            "27": "LO",
+            "28": "SUR",
+            "29": "BER",
+            "30": "JAH",
+            "31": "CHAM",
+            "32": "ZOD"
+          },
+          "variant": 2,
+          "attributeId": 3,
+          "value": 11
+        }
+      ],
+      "perfection": [
+        4,
+        3,
+        null,
+        1,
+        5,
+        null,
+        0,
+        null
+      ],
+      "presents": {
+        "2": [
+          4,
+          3,
+          null,
+          1,
+          5,
+          null,
+          0
+        ],
+        "3": [
+          4,
+          3,
+          null,
+          1,
+          5,
+          null,
+          0
+        ],
+        "4": [
+          3,
+          2,
+          null,
+          0,
+          4,
+          null,
+          0
+        ],
+        "5": [
+          3,
+          2,
+          null,
+          0,
+          3,
+          null,
+          3
+        ],
+        "6": [
+          2,
+          0,
+          null,
+          0,
+          1,
+          null,
+          8
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "3-2-1-5-7",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 4,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 19,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 61,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 35,
+      "value": 20
+    },
+    {
+      "variant": 2,
+      "attributeId": 2,
+      "value": 7
+    },
+    {
+      "variant": 2,
+      "attributeId": 3,
+      "value": 11
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 505
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 2,
+      "max": 4,
+      "description": "{value}% Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 3,
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 4,
+      "min": 0,
+      "max": 3,
+      "description": "{value}% Chance To Send Harvest To Hidden Pool",
+      "variant": 2,
+      "attributeId": 4,
+      "value": 2,
+      "trait_type": "Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 13,
+      "min": 5,
+      "max": 5,
+      "description": "{value}% Magic Find",
+      "value": 5,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "Magic Find"
+    },
+    {
+      "id": 19,
+      "min": 0,
+      "max": 1,
+      "description": "{value}% Chance To Create Random Runeword (Not Implemented)",
+      "variant": 2,
+      "attributeId": 19,
+      "value": 1,
+      "trait_type": "Chance To Create Random Runeword (Not Implemented)"
+    },
+    {
+      "id": 61,
+      "min": 1,
+      "max": 5,
+      "description": "{value}% increased chance to critically harvest yield (Not Implemented)",
+      "variant": 2,
+      "attributeId": 61,
+      "value": 5,
+      "trait_type": "increased chance to critically harvest yield (Not Implemented)"
+    },
+    {
+      "id": 35,
+      "min": 20,
+      "max": 20,
+      "description": "Early Rune Access: {value} Minutes (Not Implemented)",
+      "value": 20,
+      "variant": 2,
+      "attributeId": 35,
+      "trait_type": "Early Rune Access Minutes (Not Implemented)"
+    },
+    {
+      "id": 2,
+      "min": 0,
+      "max": 10,
+      "description": "{value}% Harvest Fee",
+      "variant": 2,
+      "attributeId": 2,
+      "value": 7,
+      "trait_type": "Harvest Fee"
+    },
+    {
+      "id": 3,
+      "min": 9,
+      "max": 11,
+      "description": "Harvest Fee Token: {value}",
+      "map": {
+        "0": "EL",
+        "1": "ELD",
+        "2": "TIR",
+        "3": "NEF",
+        "4": "ETH",
+        "5": "ITH",
+        "6": "TAL",
+        "7": "RAL",
+        "8": "ORT",
+        "9": "THUL",
+        "10": "AMN",
+        "11": "SOL",
+        "12": "SHAEL",
+        "13": "DOL",
+        "14": "HEL",
+        "15": "IO",
+        "16": "LUM",
+        "17": "KO",
+        "18": "FAL",
+        "19": "LEM",
+        "20": "PUL",
+        "21": "UM",
+        "22": "MAL",
+        "23": "IST",
+        "24": "GUL",
+        "25": "VEX",
+        "26": "OHM",
+        "27": "LO",
+        "28": "SUR",
+        "29": "BER",
+        "30": "JAH",
+        "31": "CHAM",
+        "32": "ZOD"
+      },
+      "variant": 2,
+      "attributeId": 3,
+      "value": "SOL",
+      "trait_type": "Harvest Fee Token"
+    }
+  ],
+  "perfection": 0.69,
+  "slots": [
+    "Finger 1",
+    "Finger 2"
+  ],
+  "meta": {
+    "harvestYield": 3,
+    "harvestFeeToken": "SOL",
+    "harvestFeePercent": 7,
+    "harvestFees": {
+      "SOL": 7
+    },
+    "chanceToSendHarvestToHiddenPool": 2,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "odds": 1320
+  },
+  "id": 26,
+  "name": "Eternity",
+  "icon": "https://rune.game/images/items/00026.png",
+  "type": "Ring",
+  "isNew": true,
+  "isEquipable": false,
+  "isUnequipable": false,
+  "isTradeable": false,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": true,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "ELD",
+        "quantity": 1
+      },
+      {
+        "id": "AMN",
+        "quantity": 1
+      },
+      {
+        "id": "SHAEL",
+        "quantity": 1
+      },
+      {
+        "id": "IO",
+        "quantity": 1
+      },
+      {
+        "id": "ZOD",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030002612200100320040...505",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

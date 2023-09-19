@@ -1,0 +1,56 @@
+[
+  {
+    "owner": "0x3551691499D740790C4511CDBD1D64b2f146f6Bd",
+    "from": "0x0000000000000000000000000000000000000000",
+    "status": "created",
+    "tokenId": "100300035012001004200401520340012019001200201120030032039024202100600000013",
+    "createdAt": 1649853899540,
+    "perfection": 0.74,
+    "id": 35
+  },
+  {
+    "owner": "0xC43Cf3cA7c4F377801d3cB1194fE3E367669517E",
+    "from": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+    "status": "transferred_in",
+    "tokenId": "100300035012001004200401520340012019001200201120030032039024202100600000013",
+    "createdAt": 1649921537328,
+    "perfection": 0.74,
+    "id": 35
+  },
+  {
+    "owner": "0xdAE69A43bC73e662095b488dbDDD1D3aBA59c1FF",
+    "from": "0xC43Cf3cA7c4F377801d3cB1194fE3E367669517E",
+    "status": "transferred_in",
+    "tokenId": "100300035012001004200401520340012019001200201120030032039024202100600000013",
+    "createdAt": 1649921161094,
+    "perfection": 0.74,
+    "id": 35
+  },
+  {
+    "owner": "0x791F470D582430710d6D7754DE3EA37F697E5d1D",
+    "from": "0xC43Cf3cA7c4F377801d3cB1194fE3E367669517E",
+    "status": "transferred_in",
+    "tokenId": "100300035012001004200401520340012019001200201120030032039024202100600000013",
+    "createdAt": 1649924408696,
+    "id": 35,
+    "perfection": 0.74
+  },
+  {
+    "owner": "0x5331F7035FCd45dadD1c6B5C2acFEA0BC27705b0",
+    "from": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+    "status": "transferred_in",
+    "tokenId": "100300035012001004200401520340012019001200201120030032039024202100600000013",
+    "createdAt": 1662179062033,
+    "id": 35,
+    "perfection": 0.74
+  },
+  {
+    "owner": "0x85C07b6a475Ee19218D0ef9C278C7e58715Af842",
+    "from": "0x5331F7035FCd45dadD1c6B5C2acFEA0BC27705b0",
+    "status": "transferred_in",
+    "tokenId": "100300035012001004200401520340012019001200201120030032039024202100600000013",
+    "createdAt": 1649295063369,
+    "id": 35,
+    "perfection": 0.74
+  }
+]

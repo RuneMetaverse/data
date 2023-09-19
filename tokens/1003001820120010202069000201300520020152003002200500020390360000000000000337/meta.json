@@ -1,0 +1,752 @@
+{
+  "description": "This chaos-imbued blade thirsts for life to such an extent that even the wielder's is consumed once it is drawn.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003001820120010202069000201300520020152003002200500020390360000000000000337",
+  "image_url": "/images/items/00182.png",
+  "language": "en-US",
+  "tokenId": "1003001820120010202069000201300520020152003002200500020390360000000000000337",
+  "details": {
+    "Type": "One-Handed Weapon",
+    "Subtype": "Thirsting Edge",
+    "Rune Word": "Mal Um Zod Ist El"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "name": "HarvestYield",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Increased Harvest Yield",
+          "param1": {
+            "spec": "0-20",
+            "min": 0,
+            "max": 20,
+            "value": 20
+          },
+          "value": 20,
+          "min": 0,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 1
+        },
+        {
+          "id": 69,
+          "name": "RandomRuneBonus",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomrunebonus",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Bonus Yield Given as a Random Rune (Not Implemented)",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 0
+          },
+          "value": 0,
+          "min": 0,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 69
+        },
+        {
+          "id": 13,
+          "name": "MagicFind",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "description": "{parameter1} Magic Find",
+          "param1": {
+            "spec": "0-20",
+            "min": 0,
+            "max": 20,
+            "value": 5
+          },
+          "value": 5,
+          "min": 0,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 13
+        },
+        {
+          "id": 2,
+          "name": "HarvestFee",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Fee",
+          "param1": {
+            "spec": "15",
+            "min": 15,
+            "max": 15,
+            "value": 15
+          },
+          "value": 15,
+          "min": 15,
+          "max": 15,
+          "variant": 2,
+          "attributeId": 2
+        },
+        {
+          "id": 3,
+          "name": "HarvestFeeToken",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+          "paramType1": "tokenId",
+          "paramValue1": "0-999",
+          "nature": "Mechanic",
+          "description": "Harvest Fee Token: {parameter1}",
+          "param1": {
+            "spec": "EL-TIR",
+            "min": 0,
+            "max": 2,
+            "map": {
+              "0": "EL",
+              "1": "ELD",
+              "2": "TIR"
+            },
+            "value": 2
+          },
+          "value": 2,
+          "min": 0,
+          "max": 2,
+          "variant": 2,
+          "attributeId": 3,
+          "map": {
+            "0": "EL",
+            "1": "ELD",
+            "2": "TIR"
+          }
+        },
+        {
+          "id": 5,
+          "name": "BurnEntireHarvest",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/burnentireharvest",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Chance To Lose Entire Harvest",
+          "param1": {
+            "spec": "0-1",
+            "min": 0,
+            "max": 1,
+            "value": 0
+          },
+          "value": 0,
+          "min": 0,
+          "max": 1,
+          "variant": 2,
+          "attributeId": 5
+        },
+        {
+          "id": 39,
+          "name": "AddSkill",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+          "paramType1": "skill",
+          "paramValue1": "0-999",
+          "nature": "Requirement",
+          "description": "Unlocked: {parameter1} (Not Implemented)",
+          "param1": {
+            "spec": "Sating Rend",
+            "min": 36,
+            "max": 36,
+            "value": 36,
+            "map": {
+              "36": "Sating Rend"
+            }
+          },
+          "value": 36,
+          "min": 36,
+          "max": 36,
+          "variant": 2,
+          "attributeId": 39,
+          "map": {
+            "36": "Sating Rend"
+          }
+        }
+      ],
+      "perfection": [
+        20,
+        5,
+        20,
+        null,
+        null,
+        0,
+        null
+      ],
+      "presets": {
+        "2": [
+          20,
+          5,
+          20,
+          null,
+          null,
+          0
+        ],
+        "3": [
+          20,
+          5,
+          20,
+          null,
+          null,
+          0
+        ],
+        "4": [
+          19,
+          4,
+          19,
+          null,
+          null,
+          0
+        ],
+        "5": [
+          14,
+          3,
+          14,
+          null,
+          null,
+          0
+        ],
+        "6": [
+          4,
+          1,
+          4,
+          null,
+          null,
+          0
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2000,
+          "name": "IncreaseDamage",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamage",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-200",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} Increased {parameter2} Damage",
+          "param1": {
+            "spec": "24-36",
+            "min": 24,
+            "max": 36,
+            "value": 36
+          },
+          "param2": {
+            "spec": "Physical",
+            "min": 9,
+            "max": 9,
+            "value": 9,
+            "map": {
+              "9": "Physical"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3213,
+          "name": "SelfEffectOnCondition",
+          "isEnabled": false,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/selfeffectoncondition",
+          "paramType1": "conditions",
+          "paramType2": "conditionparams",
+          "paramType3": "effect",
+          "param1": {
+            "spec": "SkillTypeUsed",
+            "min": 23,
+            "max": 23,
+            "value": 23,
+            "map": {
+              "23": "SkillTypeUsed"
+            }
+          },
+          "param2": {
+            "spec": "Attack",
+            "min": null,
+            "max": null,
+            "map": {}
+          }
+        },
+        {
+          "id": 2949,
+          "name": "IncreaseOnHit",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseonhit",
+          "paramType1": "percent",
+          "paramType2": "percent",
+          "paramType3": "stat",
+          "paramValue1": "0-100",
+          "paramValue2": "0-200",
+          "description": "{parameter1} Chance For {parameter2} {parameter3} On Hit",
+          "param1": {
+            "spec": "50%",
+            "min": 50,
+            "max": 50,
+            "value": 50
+          },
+          "param2": {
+            "spec": "4",
+            "min": 4,
+            "max": 4,
+            "value": 4
+          },
+          "param3": {
+            "spec": "Health",
+            "min": 7,
+            "max": 7,
+            "value": 7,
+            "map": {
+              "7": "Health"
+            }
+          }
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Bloodlet",
+            "min": 479,
+            "max": 479,
+            "value": 479,
+            "map": {
+              "479": "Bloodlet"
+            }
+          }
+        }
+      ],
+      "perfection": [
+        36,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          36
+        ],
+        "3": [
+          36
+        ],
+        "4": [
+          null
+        ],
+        "5": [
+          null
+        ],
+        "6": [
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "20-0-5-0",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 20
+    },
+    {
+      "variant": 2,
+      "attributeId": 69,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 13,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 2,
+      "value": 15
+    },
+    {
+      "variant": 2,
+      "attributeId": 3,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 5,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 39,
+      "value": 36
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 337
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "HarvestYield",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Increased Harvest Yield",
+      "param1": {
+        "spec": "0-20",
+        "min": 0,
+        "max": 20,
+        "value": 20
+      },
+      "value": 20,
+      "min": 0,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 1,
+      "trait_type": "{parameter1} Increased Harvest Yield"
+    },
+    {
+      "id": 69,
+      "name": "RandomRuneBonus",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/randomrunebonus",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Bonus Yield Given as a Random Rune (Not Implemented)",
+      "param1": {
+        "spec": "0-5",
+        "min": 0,
+        "max": 5,
+        "value": 0
+      },
+      "value": 0,
+      "min": 0,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 69,
+      "trait_type": "{parameter1} Bonus Yield Given as a Random Rune (Not Implemented)"
+    },
+    {
+      "id": 13,
+      "name": "MagicFind",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "paramType1": "percent",
+      "paramValue1": "0-999",
+      "nature": "Buff",
+      "description": "{parameter1} Magic Find",
+      "param1": {
+        "spec": "0-20",
+        "min": 0,
+        "max": 20,
+        "value": 5
+      },
+      "value": 5,
+      "min": 0,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 13,
+      "trait_type": "{parameter1} Magic Find"
+    },
+    {
+      "id": 2,
+      "name": "HarvestFee",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Fee",
+      "param1": {
+        "spec": "15",
+        "min": 15,
+        "max": 15,
+        "value": 15
+      },
+      "value": 15,
+      "min": 15,
+      "max": 15,
+      "variant": 2,
+      "attributeId": 2,
+      "trait_type": "{parameter1} Harvest Fee"
+    },
+    {
+      "id": 3,
+      "name": "HarvestFeeToken",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+      "paramType1": "tokenId",
+      "paramValue1": "0-999",
+      "nature": "Mechanic",
+      "description": "Harvest Fee Token: {parameter1}",
+      "param1": {
+        "spec": "EL-TIR",
+        "min": 0,
+        "max": 2,
+        "map": {
+          "0": "EL",
+          "1": "ELD",
+          "2": "TIR"
+        },
+        "value": 2
+      },
+      "value": 2,
+      "min": 0,
+      "max": 2,
+      "variant": 2,
+      "attributeId": 3,
+      "map": {
+        "0": "EL",
+        "1": "ELD",
+        "2": "TIR"
+      },
+      "trait_type": "Harvest Fee Token: {parameter1}"
+    },
+    {
+      "id": 5,
+      "name": "BurnEntireHarvest",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/burnentireharvest",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Chance To Lose Entire Harvest",
+      "param1": {
+        "spec": "0-1",
+        "min": 0,
+        "max": 1,
+        "value": 0
+      },
+      "value": 0,
+      "min": 0,
+      "max": 1,
+      "variant": 2,
+      "attributeId": 5,
+      "trait_type": "{parameter1} Chance To Lose Entire Harvest"
+    },
+    {
+      "id": 39,
+      "name": "AddSkill",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+      "paramType1": "skill",
+      "paramValue1": "0-999",
+      "nature": "Requirement",
+      "description": "Unlocked: {parameter1} (Not Implemented)",
+      "param1": {
+        "spec": "Sating Rend",
+        "min": 36,
+        "max": 36,
+        "value": 36,
+        "map": {
+          "36": "Sating Rend"
+        }
+      },
+      "value": 36,
+      "min": 36,
+      "max": 36,
+      "variant": 2,
+      "attributeId": 39,
+      "map": {
+        "36": "Sating Rend"
+      },
+      "trait_type": "Unlocked: {parameter1} (Not Implemented)"
+    }
+  ],
+  "perfection": 0.56,
+  "slots": [
+    "Left Hand",
+    "Right Hand"
+  ],
+  "meta": {
+    "harvestYield": 20,
+    "harvestFeeToken": "TIR",
+    "harvestFeePercent": 15,
+    "harvestFees": {
+      "TIR": 15
+    },
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "attributes": {
+      "1": 20,
+      "2": 15,
+      "3": 2,
+      "5": 0,
+      "13": 5,
+      "39": 36,
+      "69": 0,
+      "2000": 36,
+      "2949": 50,
+      "3213": 23,
+      "3801": 479
+    },
+    "probability": {
+      "mythic": null,
+      "epic": null,
+      "rare": null,
+      "magical": null,
+      "roll": null
+    },
+    "version": 0,
+    "created": 1667782390421,
+    "revision": 0
+  },
+  "id": 182,
+  "name": "Exile",
+  "slug": "exile",
+  "icon": "/images/items/00182.png",
+  "image": "https://dl.airtable.com/.attachments/54d31e612a1f505befc44c2b308b6cab/461714fa/image.png?ts=1657605455&userId=usrf0GZYc5zCl9Cv7&cs=47f8757379937163",
+  "type": "One Handed Weapon",
+  "subType": 1,
+  "specificType": 104,
+  "isPolled": true,
+  "isNew": true,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": false,
+  "isDisabled": false,
+  "isCraftable": true,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 5292,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 22,
+        "quantity": 1,
+        "symbol": "MAL"
+      },
+      {
+        "id": 21,
+        "quantity": 1,
+        "symbol": "UM"
+      },
+      {
+        "id": 32,
+        "quantity": 1,
+        "symbol": "ZOD"
+      },
+      {
+        "id": 23,
+        "quantity": 1,
+        "symbol": "IST"
+      },
+      {
+        "id": 0,
+        "quantity": 1,
+        "symbol": "EL"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "",
+  "skills": [
+    null
+  ],
+  "materials": [],
+  "version": 3,
+  "shortTokenId": "10030018201200102020690...337",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 2170
+}

@@ -1,0 +1,102 @@
+{
+  "address": "0xa2892cB814118c404449C8a8959977C12492d7D1",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "484DNgRZ2",
+      "rune": "ort",
+      "value": 9.984,
+      "timestamp": 1644323884273
+    },
+    {
+      "id": "484DNgRZ2",
+      "rune": "zod",
+      "value": 14.372,
+      "timestamp": 1644323884273
+    },
+    {
+      "id": "484DNgRZ2",
+      "rune": "amn",
+      "value": 9.527,
+      "timestamp": 1644323884273
+    },
+    {
+      "id": "484DNgRZ2",
+      "rune": "ral",
+      "value": 9.379,
+      "timestamp": 1644323884273
+    },
+    {
+      "id": "484DNgRZ2",
+      "rune": "hel",
+      "value": 9.293,
+      "timestamp": 1644323884273
+    },
+    {
+      "id": "484DNgRZ2",
+      "rune": "tal",
+      "value": 9.423,
+      "timestamp": 1644323884273
+    },
+    {
+      "id": "484DNgRZ2",
+      "rune": "ith",
+      "value": 9.369,
+      "timestamp": 1644323884273
+    },
+    {
+      "id": "484DNgRZ2",
+      "rune": "nef",
+      "value": 9.561,
+      "timestamp": 1644323884273
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "ort": 0,
+      "zod": 0,
+      "amn": 0,
+      "ral": 0,
+      "hel": 0,
+      "tal": 0,
+      "ith": 0,
+      "nef": 0
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "ort": 9.984,
+      "zod": 14.372,
+      "amn": 9.527,
+      "ral": 9.379,
+      "hel": 9.293,
+      "tal": 9.423,
+      "ith": 9.369,
+      "nef": 9.561
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "484DNgRZ2",
+      "timestamp": 1644323884274,
+      "status": "processing"
+    },
+    {
+      "id": "484DNgRZ2",
+      "requestId": "0x4661b986270992499755f8a6715e67450fb74b9e78b039c9bb83b87f6aee34ca",
+      "status": "completed"
+    }
+  ]
+}

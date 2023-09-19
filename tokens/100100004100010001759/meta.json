@@ -1,0 +1,151 @@
+{
+  "description": "A relic from a broken time.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100100004100010001759",
+  "image_url": "https://rune.game/images/items/00004.png",
+  "language": "en-US",
+  "tokenId": "100100004100010001759",
+  "details": {
+    "Type": "Ingredient",
+    "Subtype": "Relic",
+    "Distribution": "Claimable",
+    "Date": "May 3, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "A relic from a broken time."
+      ],
+      "attributes": [
+        {
+          "id": 33,
+          "min": 0,
+          "max": 0,
+          "description": "100% Chance To Transmute Item",
+          "value": 100,
+          "variant": 1,
+          "attributeId": 7
+        }
+      ],
+      "perfection": [
+        100
+      ],
+      "presets": {
+        "2": [
+          100
+        ],
+        "3": [
+          100
+        ],
+        "4": [
+          0
+        ],
+        "5": [
+          0
+        ],
+        "6": [
+          0
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "description": "A relic from a broken time.",
+      "attributes": [
+        {
+          "id": 1,
+          "value": 0,
+          "description": "Used to transmute items."
+        }
+      ],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "100",
+  "mods": [
+    {
+      "variant": 1,
+      "value": 100,
+      "attributeId": 7
+    },
+    {
+      "variant": 1,
+      "value": 0
+    },
+    {
+      "variant": 1,
+      "value": 759
+    }
+  ],
+  "attributes": [
+    {
+      "id": 33,
+      "min": 0,
+      "max": 0,
+      "description": "100% Chance To Transmute Item",
+      "value": 100,
+      "variant": 1,
+      "attributeId": 7,
+      "trait_type": "100% Chance To Transmute Item"
+    }
+  ],
+  "perfection": 1,
+  "slots": [],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "worldstoneShardChance": 100,
+    "version": 0,
+    "created": 1657010216640,
+    "revision": 0
+  },
+  "id": 4,
+  "name": "Worldstone Shard",
+  "icon": "https://rune.game/images/items/00004.png",
+  "isSecret": false,
+  "type": "None",
+  "isNew": false,
+  "isEquipable": false,
+  "isTradeable": false,
+  "isTransferable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "version": 1,
+  "shortTokenId": "100100004100010001759...759",
+  "rarity": {
+    "id": 3,
+    "name": "Mythic"
+  },
+  "$loki": 2353
+}

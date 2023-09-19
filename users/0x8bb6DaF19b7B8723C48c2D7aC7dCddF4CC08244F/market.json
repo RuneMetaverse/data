@@ -1,0 +1,96 @@
+{
+  "trades": [
+    {
+      "id": 13525,
+      "seller": "0x8bb6DaF19b7B8723C48c2D7aC7dCddF4CC08244F",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300014012001002201900120130092011001200200720030132039008202100600000104",
+      "price": 0.019,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1638610879176,
+      "updatedAt": 1638610879176,
+      "blockNumber": 13184057,
+      "item": {
+        "id": 14
+      }
+    },
+    {
+      "id": 7,
+      "seller": "0x8bb6DaF19b7B8723C48c2D7aC7dCddF4CC08244F",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300025012008003200400120060002074020207500800000000000000000000000000000672",
+      "price": 65000,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1650051405584,
+      "updatedAt": 1650051405584,
+      "blockNumber": 16975996,
+      "item": {
+        "id": 25,
+        "name": "Balance"
+      }
+    },
+    {
+      "id": 12269,
+      "seller": "0xa844d0FA42435e271D472FBa57F8086348461A32",
+      "buyer": "0x8bb6DaF19b7B8723C48c2D7aC7dCddF4CC08244F",
+      "tokenId": "100300021022001005201306220120012007050200500020060582002014200300900000119",
+      "price": 0.08,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1636049876443,
+      "updatedAt": 1643041199170,
+      "blockNumber": 14649503,
+      "item": {
+        "id": 21
+      }
+    },
+    {
+      "id": 21252,
+      "seller": "0x3A2B576Ef1884f10c4b18C06D55E7C07fdE4eC12",
+      "buyer": "0x8bb6DaF19b7B8723C48c2D7aC7dCddF4CC08244F",
+      "tokenId": "1003000291320400062001002200802020130142007010000000000000000000000724",
+      "price": 0.01,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1649868431804,
+      "updatedAt": 1649939085363,
+      "blockNumber": 14760913,
+      "item": {
+        "id": 29
+      }
+    },
+    {
+      "id": 18577,
+      "seller": "0x8bb6DaF19b7B8723C48c2D7aC7dCddF4CC08244F",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300013022001035200401520070152006010200200620030102039005202100200000396",
+      "price": 5.25,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1644240673624,
+      "updatedAt": 1644240673624,
+      "blockNumber": 15027430,
+      "item": {
+        "id": 13
+      }
+    },
+    {
+      "id": 394,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0x8bb6DaF19b7B8723C48c2D7aC7dCddF4CC08244F",
+      "tokenId": "100300002010003003300400000000000000000000000000000000000000000000000000636",
+      "price": 888,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650233157412,
+      "updatedAt": 1650316561289,
+      "blockNumber": 17063277,
+      "item": {
+        "id": 2,
+        "name": "Fury"
+      }
+    }
+  ]
+}

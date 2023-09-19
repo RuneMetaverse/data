@@ -1,0 +1,241 @@
+{
+  "description": "Used for entry to a Rune Royale tournament.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10030121125204100520420120000000000000000000000000000000000000000000000000671",
+  "catalog_url": "https://rune.game/catalog/1211",
+  "image": "https://rune.game/images/items/01211.png",
+  "language": "en-US",
+  "tokenId": "10030121125204100520420120000000000000000000000000000000000000000000000000671",
+  "details": {
+    "Type": "Scroll",
+    "Subtype": "Ticket",
+    "Rune Word": "ZOD",
+    "Distribution": "Crafted",
+    "Date": "Feb 21, 2022 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "Used for entry to a Rune Royale tournament."
+      ],
+      "attributes": [
+        {
+          "id": 41,
+          "min": 3,
+          "max": 5,
+          "description": "Access to Rune Royale #{param1}",
+          "value": 5,
+          "variant": 2,
+          "attributeId": 41,
+          "param1": {
+            "min": 3,
+            "max": 5,
+            "value": 5
+          }
+        },
+        {
+          "id": 42,
+          "min": 0,
+          "max": 999,
+          "description": "",
+          "variant": 2,
+          "attributeId": 42,
+          "value": 12,
+          "param1": {
+            "min": 0,
+            "max": 999,
+            "value": 12
+          }
+        }
+      ],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": [],
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 41,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 42,
+      "value": 12
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 671
+    }
+  ],
+  "attributes": [
+    {
+      "id": 41,
+      "min": 3,
+      "max": 5,
+      "description": "Access to Rune Royale #{param1}",
+      "value": 5,
+      "variant": 2,
+      "attributeId": 41,
+      "param1": {
+        "min": 3,
+        "max": 5,
+        "value": 5
+      }
+    },
+    {
+      "id": 42,
+      "min": 0,
+      "max": 999,
+      "description": "",
+      "variant": 2,
+      "attributeId": 42,
+      "value": 12,
+      "param1": {
+        "min": 0,
+        "max": 999,
+        "value": 12
+      }
+    }
+  ],
+  "perfection": 1,
+  "slots": [],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "version": 0,
+    "created": 1686289242937,
+    "revision": 0
+  },
+  "id": 1211,
+  "name": "Rune Royale Ticket",
+  "icon": "https://rune.game/images/items/01211.png",
+  "isPublishable": true,
+  "isSecret": false,
+  "rarity": {
+    "id": 7,
+    "name": "Normal"
+  },
+  "type": "Misc",
+  "isNew": true,
+  "isEquipable": false,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": false,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "ZOD",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030121125204100520420...671",
+  "slug": "rune-royale-ticket",
+  "$loki": 13238
+}

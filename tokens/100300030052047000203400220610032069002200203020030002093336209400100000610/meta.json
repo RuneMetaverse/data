@@ -1,0 +1,447 @@
+{
+  "description": [
+    "A hood of unknown origin and fabric. Preternatural darkness clouds the appearance of the wearer."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300030052047000203400220610032069002200203020030002093336209400100000610",
+  "image_url": "https://rune.game/images/items/00030.png",
+  "language": "en-US",
+  "tokenId": "100300030052047000203400220610032069002200203020030002093336209400100000610",
+  "details": {
+    "Type": "Helm",
+    "Subtype": "Shadow Veil",
+    "Distribution": "Crafted",
+    "Date": "October 31, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 47,
+          "min": 0,
+          "max": 15,
+          "description": "{value}% Reduced Burn (Not Implemented)",
+          "variant": 2,
+          "attributeId": 47,
+          "value": 0
+        },
+        {
+          "id": 34,
+          "min": 0,
+          "max": 2,
+          "description": "{value}% Avoid All Burns (Not Implemented)",
+          "variant": 2,
+          "attributeId": 34,
+          "value": 2
+        },
+        {
+          "id": 61,
+          "min": 0,
+          "max": 3,
+          "description": "{value}% Increased Chance To Critically Harvest Yield (Not Implemented)",
+          "variant": 2,
+          "attributeId": 61,
+          "value": 3
+        },
+        {
+          "id": 69,
+          "min": 0,
+          "max": 2,
+          "description": "{value}% Bonus Yield Given as a Random Rune (Not Implemented)",
+          "variant": 2,
+          "attributeId": 69,
+          "value": 2
+        },
+        {
+          "id": 2,
+          "min": 30,
+          "max": 30,
+          "description": "{value}% Harvest Fee",
+          "value": 30,
+          "variant": 2,
+          "attributeId": 2
+        },
+        {
+          "id": 3,
+          "min": 0,
+          "max": 2,
+          "description": "Harvest Fee Token: {value}",
+          "map": {
+            "0": "EL",
+            "1": "ELD",
+            "2": "TIR",
+            "3": "NEF",
+            "4": "ETH",
+            "5": "ITH",
+            "6": "TAL",
+            "7": "RAL",
+            "8": "ORT",
+            "9": "THUL",
+            "10": "AMN",
+            "11": "SOL",
+            "12": "SHAEL",
+            "13": "DOL",
+            "14": "HEL",
+            "15": "IO",
+            "16": "LUM",
+            "17": "KO",
+            "18": "FAL",
+            "19": "LEM",
+            "20": "PUL",
+            "21": "UM",
+            "22": "MAL",
+            "23": "IST",
+            "24": "GUL",
+            "25": "VEX",
+            "26": "OHM",
+            "27": "LO",
+            "28": "SUR",
+            "29": "BER",
+            "30": "JAH",
+            "31": "CHAM",
+            "32": "ZOD"
+          },
+          "variant": 2,
+          "attributeId": 3,
+          "value": 0
+        },
+        {
+          "id": 93,
+          "min": 336,
+          "max": 336,
+          "description": "Must equip for {value} consecutive hours to receive benefit of \"Avoid All Burns\" (Not Implemented)",
+          "value": 336,
+          "variant": 2,
+          "attributeId": 93
+        },
+        {
+          "id": 94,
+          "min": 1,
+          "max": 1,
+          "description": "Attribute {value} is initially locked, and is unlocked via equip time.",
+          "value": 1,
+          "map": [
+            "1",
+            "2"
+          ],
+          "variant": 2,
+          "attributeId": 94
+        }
+      ],
+      "perfection": [
+        15,
+        2,
+        3,
+        2,
+        null,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          15,
+          2,
+          3,
+          2
+        ],
+        "3": [
+          15,
+          2,
+          3,
+          2
+        ],
+        "4": [
+          14,
+          1,
+          2,
+          1
+        ],
+        "5": [
+          10,
+          1,
+          2,
+          1
+        ],
+        "6": [
+          3,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "0-2-3-2",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 47,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 34,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 61,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 69,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 2,
+      "value": 30
+    },
+    {
+      "variant": 2,
+      "attributeId": 3,
+      "value": 0
+    },
+    {
+      "variant": 2,
+      "attributeId": 93,
+      "value": 336
+    },
+    {
+      "variant": 2,
+      "attributeId": 94,
+      "value": 1
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 610
+    }
+  ],
+  "attributes": [
+    {
+      "id": 47,
+      "min": 0,
+      "max": 15,
+      "description": "{value}% Reduced Burn (Not Implemented)",
+      "variant": 2,
+      "attributeId": 47,
+      "value": 0,
+      "trait_type": "Reduced Burn (Not Implemented)"
+    },
+    {
+      "id": 34,
+      "min": 0,
+      "max": 2,
+      "description": "{value}% Avoid All Burns (Not Implemented)",
+      "variant": 2,
+      "attributeId": 34,
+      "value": 2,
+      "trait_type": "Avoid All Burns (Not Implemented)"
+    },
+    {
+      "id": 61,
+      "min": 0,
+      "max": 3,
+      "description": "{value}% Increased Chance To Critically Harvest Yield (Not Implemented)",
+      "variant": 2,
+      "attributeId": 61,
+      "value": 3,
+      "trait_type": "Increased Chance To Critically Harvest Yield (Not Implemented)"
+    },
+    {
+      "id": 69,
+      "min": 0,
+      "max": 2,
+      "description": "{value}% Bonus Yield Given as a Random Rune (Not Implemented)",
+      "variant": 2,
+      "attributeId": 69,
+      "value": 2,
+      "trait_type": "Bonus Yield Given as a Random Rune (Not Implemented)"
+    },
+    {
+      "id": 2,
+      "min": 30,
+      "max": 30,
+      "description": "{value}% Harvest Fee",
+      "value": 30,
+      "variant": 2,
+      "attributeId": 2,
+      "trait_type": "Harvest Fee"
+    },
+    {
+      "id": 3,
+      "min": 0,
+      "max": 2,
+      "description": "Harvest Fee Token: {value}",
+      "map": {
+        "0": "EL",
+        "1": "ELD",
+        "2": "TIR",
+        "3": "NEF",
+        "4": "ETH",
+        "5": "ITH",
+        "6": "TAL",
+        "7": "RAL",
+        "8": "ORT",
+        "9": "THUL",
+        "10": "AMN",
+        "11": "SOL",
+        "12": "SHAEL",
+        "13": "DOL",
+        "14": "HEL",
+        "15": "IO",
+        "16": "LUM",
+        "17": "KO",
+        "18": "FAL",
+        "19": "LEM",
+        "20": "PUL",
+        "21": "UM",
+        "22": "MAL",
+        "23": "IST",
+        "24": "GUL",
+        "25": "VEX",
+        "26": "OHM",
+        "27": "LO",
+        "28": "SUR",
+        "29": "BER",
+        "30": "JAH",
+        "31": "CHAM",
+        "32": "ZOD"
+      },
+      "variant": 2,
+      "attributeId": 3,
+      "value": 0,
+      "trait_type": "Harvest Fee Token"
+    },
+    {
+      "id": 93,
+      "min": 336,
+      "max": 336,
+      "description": "Must equip for {value} consecutive hours to receive benefit of \"Avoid All Burns\" (Not Implemented)",
+      "value": 336,
+      "variant": 2,
+      "attributeId": 93,
+      "trait_type": "Must equip for consecutive hours to receive benefit of \"Avoid All Burns\" (Not Implemented)"
+    },
+    {
+      "id": 94,
+      "min": 1,
+      "max": 1,
+      "description": "Attribute {value} is initially locked, and is unlocked via equip time.",
+      "value": 1,
+      "map": [
+        "1",
+        "2"
+      ],
+      "variant": 2,
+      "attributeId": 94,
+      "trait_type": "Attribute is initially locked, and is unlocked via equip time."
+    }
+  ],
+  "perfection": 0.75,
+  "slots": [
+    "Head"
+  ],
+  "meta": {
+    "harvestYield": 0,
+    "harvestFeeToken": "EL",
+    "harvestFeePercent": 30,
+    "harvestFees": {
+      "EL": 30
+    },
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "odds": 576,
+    "version": 0,
+    "created": 1649842155870,
+    "revision": 0
+  },
+  "id": 30,
+  "name": "Haze",
+  "icon": "https://rune.game/images/items/00030.png",
+  "isSecret": false,
+  "type": "Helm",
+  "isNew": true,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": true,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030003005204700020340...610",
+  "rarity": {
+    "id": 5,
+    "name": "Rare"
+  },
+  "$loki": 23999
+}

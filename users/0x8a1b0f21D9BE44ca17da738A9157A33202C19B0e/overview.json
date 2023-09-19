@@ -1,0 +1,78 @@
+{
+  "address": "0x8a1b0f21D9BE44ca17da738A9157A33202C19B0e",
+  "lastGamePlayed": 0,
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 1,
+  "holdings": {},
+  "points": 6,
+  "username": "Unknownwarrior",
+  "guildId": 4,
+  "joinedGuildAt": 1629435772618,
+  "isGuildMembershipActive": true,
+  "guildMembershipTokenId": 4869,
+  "rewardHistory": [
+    {
+      "id": "cVvetHT51",
+      "rune": "sol",
+      "value": 0.9400000000000001,
+      "timestamp": 1647241069847
+    },
+    {
+      "id": "cVvetHT51",
+      "rune": "shael",
+      "value": 0.2,
+      "timestamp": 1647241069847
+    },
+    {
+      "id": "cVvetHT51",
+      "rune": "zod",
+      "value": 0.043,
+      "timestamp": 1647241069847
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "sol": 0.003,
+      "shael": 0,
+      "zod": 0.003,
+      "thul": 0.013999999999999999,
+      "tir": 0.008,
+      "ral": 0.006,
+      "ort": 0.003,
+      "ith": 0.003,
+      "dol": 0.003
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "sol": 0.9430000000000001,
+      "shael": 0.2,
+      "zod": 0.046,
+      "thul": 0.013999999999999999,
+      "tir": 0.008,
+      "ral": 0.006,
+      "ort": 0.003,
+      "ith": 0.003,
+      "dol": 0.003
+    },
+    "items": {}
+  },
+  "craftedItemCount": 6,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "cVvetHT51",
+      "timestamp": 1647241069847,
+      "status": "processing"
+    },
+    {
+      "id": "cVvetHT51",
+      "requestId": "0x82f2da55117732b6762a7083fa197002a8e4890d1ebdcfac0ac492e9bbc4e4ed",
+      "status": "completed"
+    }
+  ]
+}

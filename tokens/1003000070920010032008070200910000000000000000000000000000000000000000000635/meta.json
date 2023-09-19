@@ -1,0 +1,270 @@
+{
+  "description": "These handwraps have an unknown origin and emit a dark aura.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000070920010032008070200910000000000000000000000000000000000000000000635",
+  "catalog_url": "https://rune.game/catalog/7",
+  "image": "https://rune.game/images/items/00007.png",
+  "language": "en-US",
+  "tokenId": "1003000070920010032008070200910000000000000000000000000000000000000000000635",
+  "details": {
+    "Type": "Gloves",
+    "Subtype": "Shadow Wraps",
+    "Rune Word": "Thul Ith Ort Ral",
+    "Distribution": "Crafted",
+    "Date": "May 25, 2021 - June 25, 2021",
+    "Max Supply": "Limited"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "These handwraps have an unknown origin and emit a dark aura."
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 1,
+          "max": 5,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 3
+        },
+        {
+          "id": 8,
+          "min": 25,
+          "max": 100,
+          "description": "{value}% Reduced Harvest Fees",
+          "variant": 2,
+          "attributeId": 8,
+          "value": 70
+        },
+        {
+          "id": 9,
+          "min": 100,
+          "max": 100,
+          "description": "Unstake Locked Until Completion",
+          "value": 100,
+          "variant": 2,
+          "attributeId": 9
+        }
+      ],
+      "perfection": [
+        5,
+        100
+      ],
+      "presents": {
+        "2": [
+          5,
+          100
+        ],
+        "3": [
+          5,
+          100
+        ],
+        "4": [
+          4,
+          96
+        ],
+        "5": [
+          3,
+          77
+        ],
+        "6": [
+          1,
+          40
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "4": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presents": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "3-70",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 3
+    },
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 70
+    },
+    {
+      "variant": 2,
+      "attributeId": 9,
+      "value": 100
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 635
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 1,
+      "max": 5,
+      "description": "{value}% Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 3,
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 8,
+      "min": 25,
+      "max": 100,
+      "description": "{value}% Reduced Harvest Fees",
+      "variant": 2,
+      "attributeId": 8,
+      "value": 70,
+      "trait_type": "Reduced Harvest Fees"
+    },
+    {
+      "id": 9,
+      "min": 100,
+      "max": 100,
+      "description": "Unstake Locked Until Completion",
+      "value": 100,
+      "variant": 2,
+      "attributeId": 9,
+      "trait_type": "Unstake Locked Until Completion"
+    }
+  ],
+  "perfection": 0.55,
+  "slots": [
+    "Hands"
+  ],
+  "meta": {
+    "harvestYield": 3,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "feeReduction": 70,
+    "unstakeLocked": true,
+    "odds": 380
+  },
+  "id": 7,
+  "name": "Smoke",
+  "icon": "https://rune.game/images/items/00007.png",
+  "type": "Glove",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": true,
+  "isLimited": true,
+  "isRetired": true,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "THUL",
+        "quantity": 1
+      },
+      {
+        "id": "ITH",
+        "quantity": 1
+      },
+      {
+        "id": "ORT",
+        "quantity": 1
+      },
+      {
+        "id": "RAL",
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030000709200100320080...635",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  }
+}

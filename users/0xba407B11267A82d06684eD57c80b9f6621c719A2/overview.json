@@ -1,0 +1,90 @@
+{
+  "address": "0xba407B11267A82d06684eD57c80b9f6621c719A2",
+  "lastGamePlayed": 0,
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "gRpEx5wTA",
+      "rune": "tal",
+      "value": 0.08,
+      "timestamp": 1651042784987
+    },
+    {
+      "id": "gRpEx5wTA",
+      "rune": "amn",
+      "value": 0.15,
+      "timestamp": 1651042784987
+    },
+    {
+      "id": "gRpEx5wTA",
+      "rune": "ort",
+      "value": 0.23,
+      "timestamp": 1651042784987
+    },
+    {
+      "id": "gRpEx5wTA",
+      "rune": "nef",
+      "value": 0.08,
+      "timestamp": 1651042784987
+    },
+    {
+      "id": "gRpEx5wTA",
+      "rune": "thul",
+      "value": 0.06,
+      "timestamp": 1651042784987
+    },
+    {
+      "id": "gRpEx5wTA",
+      "rune": "zod",
+      "value": 0.015,
+      "timestamp": 1651042784987
+    },
+    {
+      "id": "gRpEx5wTA",
+      "rune": "ith",
+      "value": 0.06,
+      "timestamp": 1651042784987
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "tal": 0,
+      "amn": 0,
+      "ort": 0,
+      "nef": 0,
+      "thul": 0,
+      "zod": 0,
+      "ith": 0
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "tal": 0.08,
+      "amn": 0.15,
+      "ort": 0.23,
+      "nef": 0.08,
+      "thul": 0.06,
+      "zod": 0.015,
+      "ith": 0.06
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "gRpEx5wTA",
+      "timestamp": 1651042784987,
+      "status": "processing"
+    }
+  ]
+}

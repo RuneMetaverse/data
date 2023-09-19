@@ -1,0 +1,1080 @@
+{
+  "description": "A mysterious staff with no defined origin, imbued with the power of time.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/100300013022001020200401520070152006011200200720030102039005202100200000765",
+  "catalog_url": "https://rune.game/catalog/13",
+  "image": "https://dl.airtable.com/.attachments/354746ccb047c8be47634cb2776661fd/f21110e7/00013.png?ts=1657605362&userId=usrf0GZYc5zCl9Cv7&cs=8fb6691a7c5e3296",
+  "language": "en-US",
+  "tokenId": "100300013022001020200401520070152006011200200720030102039005202100200000765",
+  "details": {
+    "Type": "Two-Handed Weapon",
+    "Subtype": "Chrono Staff",
+    "Rune Word": "Sol Amn Ort Thul Ral",
+    "Distribution": "Crafted",
+    "Date": "June 1, 2021 - Now"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "name": "HarvestYield",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Increased Harvest Yield",
+          "param1": {
+            "spec": "10-40",
+            "min": 10,
+            "max": 40,
+            "value": 20
+          },
+          "value": 20,
+          "min": 10,
+          "max": 40,
+          "variant": 2,
+          "attributeId": 1
+        },
+        {
+          "id": 4,
+          "name": "SendHarvestHiddenPool",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Send Harvest To Hidden Pool",
+          "param1": {
+            "spec": "15-15",
+            "min": 15,
+            "max": 15,
+            "value": 15
+          },
+          "value": 15,
+          "min": 15,
+          "max": 15,
+          "variant": 2,
+          "attributeId": 4
+        },
+        {
+          "id": 7,
+          "name": "FindShard",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+          "param1": {
+            "spec": "15-15",
+            "min": 15,
+            "max": 15,
+            "value": 15
+          },
+          "value": 15,
+          "min": 15,
+          "max": 15,
+          "explanation": "Chance applies once per raid.",
+          "variant": 2,
+          "attributeId": 7
+        },
+        {
+          "id": 6,
+          "name": "HarvestBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Burn",
+          "param1": {
+            "spec": "10-15",
+            "min": 10,
+            "max": 15,
+            "value": 11
+          },
+          "value": 11,
+          "min": 10,
+          "max": 15,
+          "variant": 2,
+          "attributeId": 6
+        },
+        {
+          "id": 2,
+          "name": "HarvestFee",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Fee",
+          "param1": {
+            "spec": "5-15",
+            "min": 5,
+            "max": 15,
+            "value": 7
+          },
+          "value": 7,
+          "min": 5,
+          "max": 15,
+          "variant": 2,
+          "attributeId": 2
+        },
+        {
+          "id": 3,
+          "name": "HarvestFeeToken",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+          "paramType1": "tokenId",
+          "paramValue1": "0-999",
+          "nature": "Mechanic",
+          "description": "Harvest Fee Token: {parameter1}",
+          "param1": {
+            "spec": "THUL-SOL",
+            "min": 9,
+            "max": 11,
+            "map": {
+              "9": "THUL",
+              "10": "AMN",
+              "11": "SOL"
+            },
+            "value": 10
+          },
+          "value": 10,
+          "min": 9,
+          "max": 11,
+          "variant": 2,
+          "attributeId": 3,
+          "map": {
+            "9": "THUL",
+            "10": "AMN",
+            "11": "SOL"
+          }
+        },
+        {
+          "id": 39,
+          "name": "AddSkill",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+          "paramType1": "skill",
+          "paramValue1": "0-999",
+          "nature": "Requirement",
+          "description": "Unlocked: {parameter1} (Not Implemented)",
+          "param1": {
+            "spec": "Time Warp",
+            "min": 5,
+            "max": 5,
+            "value": 5,
+            "map": {
+              "5": "Time Warp"
+            }
+          },
+          "value": 5,
+          "min": 5,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 39,
+          "map": {
+            "5": "Time Warp"
+          }
+        },
+        {
+          "id": 21,
+          "name": "SpecificClass",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/specificclass",
+          "paramType1": "classId",
+          "paramValue1": "0-999",
+          "nature": "Requirement",
+          "description": "{parameter1} Required",
+          "param1": {
+            "spec": "Mage",
+            "min": 2,
+            "max": 2,
+            "value": 2,
+            "map": {
+              "2": "Mage"
+            }
+          },
+          "value": 2,
+          "min": 2,
+          "max": 2,
+          "variant": 2,
+          "attributeId": 21,
+          "map": {
+            "2": "Mage"
+          }
+        }
+      ],
+      "perfection": [
+        40,
+        null,
+        null,
+        10,
+        5,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          40,
+          null,
+          null,
+          10,
+          5
+        ],
+        "3": [
+          40,
+          null,
+          null,
+          10,
+          5
+        ],
+        "4": [
+          38,
+          null,
+          null,
+          10,
+          5
+        ],
+        "5": [
+          31,
+          null,
+          null,
+          11,
+          8
+        ],
+        "6": [
+          16,
+          null,
+          null,
+          14,
+          13
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1007,
+          "name": "ArcaneDamage",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/arcanedamage",
+          "paramType1": "value",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} arcane damage",
+          "param1": {
+            "spec": [
+              "5-20"
+            ],
+            "min": 5,
+            "max": 5,
+            "value": 5
+          },
+          "value": null
+        },
+        {
+          "id": 1022,
+          "name": "SlowChance",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/slowchance",
+          "paramType1": "value",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} slow chance",
+          "param1": {
+            "spec": "15-15",
+            "min": 15,
+            "max": 15,
+            "value": 15
+          },
+          "value": null
+        },
+        {
+          "id": 1218,
+          "name": "IncreaseDamageOnKill",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamageonkill",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} damage on kill",
+          "param1": {
+            "spec": "15-15",
+            "min": 15,
+            "max": 15,
+            "value": 15
+          },
+          "value": null
+        },
+        {
+          "id": 1237,
+          "name": "CastOnKillChance",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/castonkillchance",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Skill",
+          "description": "{parameter1} cast {CastOnKillEffect.Value} {CastOnKillType.Value} on kill",
+          "param1": {
+            "spec": "5-15",
+            "min": 5,
+            "max": 15
+          },
+          "value": null
+        },
+        {
+          "id": 1201,
+          "name": "LeaderDeathPenaltyIncrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/leaderdeathpenaltyincrease",
+          "paramType1": "percent",
+          "nature": "Debuff",
+          "influences": "Game",
+          "description": "{parameter1} increase to points lost on death when leading",
+          "param1": {
+            "spec": "5-15",
+            "min": 5,
+            "max": 15
+          },
+          "value": null
+        },
+        {
+          "id": 1327,
+          "name": "SkillMod",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/skillmod",
+          "paramType1": "value",
+          "paramValue1": "0-5",
+          "nature": "Buff",
+          "influences": "Skill",
+          "param1": {
+            "spec": "1-3",
+            "min": 1,
+            "max": 3
+          },
+          "value": null
+        },
+        {
+          "id": 1325,
+          "name": "SkillUnlock",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/skillunlock",
+          "paramType1": "skill",
+          "nature": "Mechanic",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "5-5",
+            "map": {}
+          },
+          "value": null
+        },
+        {
+          "id": 1326,
+          "name": "ClassRequirement",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/classrequirement",
+          "paramType1": "class",
+          "nature": "Requirement",
+          "description": "{parameter1} Required",
+          "param1": {
+            "spec": "Mage",
+            "min": 2,
+            "max": 2,
+            "value": 2,
+            "map": {
+              "2": "Mage"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 1238,
+          "name": "CastOnKillType",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/castonkilltype",
+          "paramType1": "spelltype",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "param1": {
+            "spec": "3-3",
+            "min": 3,
+            "max": 3,
+            "value": 3
+          }
+        },
+        {
+          "id": 1239,
+          "name": "CastOnKillEffect",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/castonkilleffect",
+          "paramType1": "effect",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "param1": {
+            "spec": "11-11",
+            "min": 11,
+            "max": 11,
+            "value": 11,
+            "map": {
+              "11": "EvolveLock"
+            }
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        null,
+        null,
+        15,
+        5,
+        3,
+        null,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          null,
+          null,
+          null,
+          15,
+          5,
+          3
+        ],
+        "3": [
+          null,
+          null,
+          null,
+          15,
+          5,
+          3
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2000,
+          "name": "IncreaseDamage",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamage",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-200",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} Increased {parameter2} Damage",
+          "param1": {
+            "spec": "5-20",
+            "min": 5,
+            "max": 20
+          },
+          "param2": {
+            "spec": "Fire",
+            "min": 1,
+            "max": 1,
+            "value": 1,
+            "map": {
+              "1": "Fire"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 4156,
+          "name": "EffectChanceOnHit",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/effectchanceonhit",
+          "paramType1": "percent",
+          "paramType2": "effect",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} chance of {parameter2} on hit.",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          },
+          "param2": {
+            "spec": "Slow",
+            "min": null,
+            "max": null,
+            "map": {}
+          },
+          "value": null
+        },
+        {
+          "id": 2002,
+          "name": "IncreaseDamageOverTime",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamageovertime",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-200",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Offense",
+          "description": "{parameter1} Increase To {parameter2} Damage Over Time",
+          "param1": {
+            "spec": "10-10",
+            "min": 10,
+            "max": 10,
+            "value": 10
+          },
+          "param2": {
+            "spec": "Fire",
+            "min": 1,
+            "max": 1,
+            "value": 1,
+            "map": {
+              "1": "Fire"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2302,
+          "name": "IncreaseEnergy",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseenergy",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} Maximum Energy",
+          "param1": {
+            "spec": "15-25",
+            "min": 15,
+            "max": 25
+          },
+          "value": null
+        },
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "2-12",
+            "min": 2,
+            "max": 12
+          },
+          "param2": {
+            "spec": "CastSpeed",
+            "min": 6,
+            "max": 6,
+            "value": 6,
+            "map": {
+              "6": "CastSpeed"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 1325,
+          "name": "SkillUnlock",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/skillunlock",
+          "paramType1": "skill",
+          "nature": "Mechanic",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Fireball, Meteor",
+            "map": {}
+          },
+          "value": null
+        },
+        {
+          "id": 1326,
+          "name": "ClassRequirement",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/classrequirement",
+          "paramType1": "class",
+          "nature": "Requirement",
+          "description": "{parameter1} Required",
+          "param1": {
+            "spec": "Mage",
+            "min": 2,
+            "max": 2,
+            "value": 2,
+            "map": {
+              "2": "Mage"
+            }
+          },
+          "value": null
+        }
+      ],
+      "perfection": [
+        20,
+        null,
+        null,
+        25,
+        12,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          20,
+          null,
+          null,
+          25,
+          12
+        ],
+        "3": [
+          20,
+          null,
+          null,
+          25,
+          12
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "20-11-7",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 20
+    },
+    {
+      "variant": 2,
+      "attributeId": 4,
+      "value": 15
+    },
+    {
+      "variant": 2,
+      "attributeId": 7,
+      "value": 15
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 11
+    },
+    {
+      "variant": 2,
+      "attributeId": 2,
+      "value": 7
+    },
+    {
+      "variant": 2,
+      "attributeId": 3,
+      "value": 10
+    },
+    {
+      "variant": 2,
+      "attributeId": 39,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 21,
+      "value": 2
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 765
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "HarvestYield",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Increased Harvest Yield",
+      "param1": {
+        "spec": "10-40",
+        "min": 10,
+        "max": 40,
+        "value": 20
+      },
+      "value": 20,
+      "min": 10,
+      "max": 40,
+      "variant": 2,
+      "attributeId": 1
+    },
+    {
+      "id": 4,
+      "name": "SendHarvestHiddenPool",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Send Harvest To Hidden Pool",
+      "param1": {
+        "spec": "15-15",
+        "min": 15,
+        "max": 15,
+        "value": 15
+      },
+      "value": 15,
+      "min": 15,
+      "max": 15,
+      "variant": 2,
+      "attributeId": 4
+    },
+    {
+      "id": 7,
+      "name": "FindShard",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Find Worldstone Shard (Per Raid)",
+      "param1": {
+        "spec": "15-15",
+        "min": 15,
+        "max": 15,
+        "value": 15
+      },
+      "value": 15,
+      "min": 15,
+      "max": 15,
+      "explanation": "Chance applies once per raid.",
+      "variant": 2,
+      "attributeId": 7
+    },
+    {
+      "id": 6,
+      "name": "HarvestBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Burn",
+      "param1": {
+        "spec": "10-15",
+        "min": 10,
+        "max": 15,
+        "value": 11
+      },
+      "value": 11,
+      "min": 10,
+      "max": 15,
+      "variant": 2,
+      "attributeId": 6
+    },
+    {
+      "id": 2,
+      "name": "HarvestFee",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Fee",
+      "param1": {
+        "spec": "5-15",
+        "min": 5,
+        "max": 15,
+        "value": 7
+      },
+      "value": 7,
+      "min": 5,
+      "max": 15,
+      "variant": 2,
+      "attributeId": 2
+    },
+    {
+      "id": 3,
+      "name": "HarvestFeeToken",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+      "paramType1": "tokenId",
+      "paramValue1": "0-999",
+      "nature": "Mechanic",
+      "description": "Harvest Fee Token: {parameter1}",
+      "param1": {
+        "spec": "THUL-SOL",
+        "min": 9,
+        "max": 11,
+        "map": {
+          "9": "THUL",
+          "10": "AMN",
+          "11": "SOL"
+        },
+        "value": 10
+      },
+      "value": "AMN",
+      "min": 9,
+      "max": 11,
+      "variant": 2,
+      "attributeId": 3,
+      "map": {
+        "9": "THUL",
+        "10": "AMN",
+        "11": "SOL"
+      }
+    },
+    {
+      "id": 39,
+      "name": "AddSkill",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+      "paramType1": "skill",
+      "paramValue1": "0-999",
+      "nature": "Requirement",
+      "description": "Unlocked: {parameter1} (Not Implemented)",
+      "param1": {
+        "spec": "Time Warp",
+        "min": 5,
+        "max": 5,
+        "value": 5,
+        "map": {
+          "5": "Time Warp"
+        }
+      },
+      "value": "Time Warp",
+      "min": 5,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 39,
+      "map": {
+        "5": "Time Warp"
+      }
+    },
+    {
+      "id": 21,
+      "name": "SpecificClass",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/specificclass",
+      "paramType1": "classId",
+      "paramValue1": "0-999",
+      "nature": "Requirement",
+      "description": "{parameter1} Required",
+      "param1": {
+        "spec": "Mage",
+        "min": 2,
+        "max": 2,
+        "value": 2,
+        "map": {
+          "2": "Mage"
+        }
+      },
+      "value": "Mage",
+      "min": 2,
+      "max": 2,
+      "variant": 2,
+      "attributeId": 21,
+      "map": {
+        "2": "Mage"
+      }
+    }
+  ],
+  "perfection": 0.64,
+  "slots": [
+    "Left Hand"
+  ],
+  "meta": {
+    "harvestYield": 20,
+    "harvestFeeToken": "AMN",
+    "harvestFeePercent": 7,
+    "harvestFees": {
+      "AMN": 7
+    },
+    "chanceToSendHarvestToHiddenPool": 15,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 11,
+    "worldstoneShardChance": 15,
+    "classRequired": 2,
+    "odds": 2046,
+    "version": 0,
+    "created": 1662720101960,
+    "revision": 0
+  },
+  "id": 13,
+  "name": "Destiny",
+  "slug": "destiny",
+  "icon": "/images/items/00013.png",
+  "type": "Two Handed Weapon",
+  "subType": 7,
+  "specificType": 11,
+  "isPolled": true,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": false,
+  "isDisabled": false,
+  "isCraftable": true,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 2046,
+  "recipe": {
+    "requirement": [
+      {
+        "id": "SOL",
+        "quantity": 1
+      },
+      {
+        "id": "AMN",
+        "quantity": 1
+      },
+      {
+        "id": "ORT",
+        "quantity": 1
+      },
+      {
+        "id": "THUL",
+        "quantity": 1
+      },
+      {
+        "id": "RAL",
+        "quantity": 1
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "Destiny is a chrome-encrusted ebony staff, crowned with an incredible amethyst. If eyed closely, a slightly glimmering star can be seen within the amethyst.",
+  "skills": [
+    429,
+    447,
+    445
+  ],
+  "materials": [
+    7
+  ],
+  "version": 3,
+  "shortTokenId": "10030001302200102020040...765",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 7245
+}

@@ -1,0 +1,692 @@
+{
+  "description": "Forged from glittering blue metal, these greaves grant their wearer miraculous speed.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000051120010062006001200401800000000000000000000000000000000000000000872",
+  "image_url": "/images/items/00005.png",
+  "language": "en-US",
+  "tokenId": "1003000051120010062006001200401800000000000000000000000000000000000000000872",
+  "details": {
+    "Type": "Boot",
+    "Subtype": "Astral Greaves",
+    "Rune Word": "Ith Eld Ral Tal",
+    "Distribution": "Crafted",
+    "Date": "May 17, 2021 - Now"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "name": "HarvestYield",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Increased Harvest Yield",
+          "param1": {
+            "spec": "1-10",
+            "min": 1,
+            "max": 10,
+            "value": 6
+          },
+          "value": 6,
+          "min": 1,
+          "max": 10,
+          "variant": 2,
+          "attributeId": 1
+        },
+        {
+          "id": 6,
+          "name": "HarvestBurn",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Debuff",
+          "description": "{parameter1} Harvest Burn",
+          "param1": {
+            "spec": "1-5",
+            "min": 1,
+            "max": 5,
+            "value": 1
+          },
+          "value": 1,
+          "min": 1,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 6
+        },
+        {
+          "id": 4,
+          "name": "SendHarvestHiddenPool",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Chance To Send Harvest To Hidden Pool",
+          "param1": {
+            "spec": "10-20",
+            "min": 10,
+            "max": 20,
+            "value": 18
+          },
+          "value": 18,
+          "min": 10,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 4
+        }
+      ],
+      "perfection": [
+        10,
+        1,
+        20
+      ],
+      "presets": {
+        "2": [
+          10,
+          1,
+          20
+        ],
+        "3": [
+          10,
+          1,
+          20
+        ],
+        "4": [
+          9,
+          1,
+          19
+        ],
+        "5": [
+          7,
+          2,
+          17
+        ],
+        "6": [
+          2,
+          4,
+          12
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1030,
+          "name": "MovementSpeedIncrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/movementspeedincrease",
+          "paramType1": "percent",
+          "paramValue1": "0-10",
+          "nature": "Buff",
+          "influences": "Movement",
+          "description": "{parameter1} faster movement.",
+          "param1": {
+            "spec": [
+              "1-10"
+            ],
+            "min": 1,
+            "max": 1,
+            "value": 1
+          }
+        },
+        {
+          "id": 1222,
+          "name": "IncreaseMovementSpeedOnKill",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasemovementspeedonkill",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Movement",
+          "description": "{parameter1} movement speed on kill",
+          "param1": {
+            "spec": "1-5",
+            "min": 1,
+            "max": 5,
+            "value": 1
+          },
+          "value": null
+        },
+        {
+          "id": 1223,
+          "name": "EvolveMovementBurst",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/evolvemovementburst",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Mechanic",
+          "influences": "Movement",
+          "description": "{parameter1} temporary increase to movement speed on evolve",
+          "param1": {
+            "spec": "5-15",
+            "min": 5,
+            "max": 15,
+            "value": 14
+          }
+        },
+        {
+          "id": 1060,
+          "name": "DamageResist",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} damage resist",
+          "param1": {
+            "spec": "2-2",
+            "min": 2,
+            "max": 2,
+            "value": 2
+          }
+        },
+        {
+          "id": 1103,
+          "name": "CriticalPointsChanceIncrease",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/criticalpointschanceincrease",
+          "paramType1": "percent",
+          "paramValue1": "0-25",
+          "nature": "Mechanic",
+          "influences": "Game",
+          "description": "{parameter1} chance to receive critical bonus points.",
+          "param1": {
+            "spec": "2-2",
+            "min": 2,
+            "max": 2,
+            "value": 2
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        5,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          null,
+          5
+        ],
+        "3": [
+          null,
+          5
+        ],
+        "4": [
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null
+        ]
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2600,
+          "name": "IncreaseStat",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "paramType1": "percent",
+          "paramType2": "stat",
+          "paramType3": "statparams",
+          "paramValue1": "0-200",
+          "nature": "Buff",
+          "influences": "General",
+          "description": "{parameter1} {parameter2} {parameter3}",
+          "param1": {
+            "spec": "4-10",
+            "min": 4,
+            "max": 10,
+            "value": 7
+          },
+          "param2": {
+            "spec": "MovementSpeed",
+            "min": 3,
+            "max": 3,
+            "value": 3,
+            "map": {
+              "3": "MovementSpeed"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "2-5",
+            "min": 2,
+            "max": 5,
+            "value": 2
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2304,
+          "name": "IncreaseResist",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Resistance",
+          "param1": {
+            "spec": "0-5",
+            "min": 0,
+            "max": 5,
+            "value": 4
+          },
+          "param2": {
+            "spec": "Lightning",
+            "min": 2,
+            "max": 2,
+            "value": 2,
+            "map": {
+              "2": "Lightning"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3205,
+          "name": "ChanceOnGetHit",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/chanceongethit",
+          "paramType1": "percent",
+          "paramType2": "skill",
+          "paramValue1": "0-100",
+          "paramValue2": "400-1000",
+          "nature": "Buff",
+          "description": "{parameter1} {parameter2} chance when hit",
+          "param1": {
+            "spec": "2-10",
+            "min": 2,
+            "max": 10,
+            "value": 8
+          },
+          "param2": {
+            "spec": "Inspiration",
+            "min": 476,
+            "max": 476,
+            "value": 476,
+            "map": {
+              "476": "Inspiration"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "isImplemented": false,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Flash",
+            "min": 480,
+            "max": 480,
+            "value": 480,
+            "map": {
+              "480": "Flash"
+            }
+          }
+        }
+      ],
+      "perfection": [
+        10,
+        5,
+        5,
+        10,
+        null
+      ],
+      "presets": {
+        "2": [
+          10,
+          5,
+          5,
+          10
+        ],
+        "3": [
+          10,
+          5,
+          5,
+          10
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "6-1-18",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 6
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 4,
+      "value": 18
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 872
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "HarvestYield",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Increased Harvest Yield",
+      "param1": {
+        "spec": "1-10",
+        "min": 1,
+        "max": 10,
+        "value": 6
+      },
+      "value": 6,
+      "min": 1,
+      "max": 10,
+      "variant": 2,
+      "attributeId": 1,
+      "trait_type": "{parameter1} Increased Harvest Yield"
+    },
+    {
+      "id": 6,
+      "name": "HarvestBurn",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Debuff",
+      "description": "{parameter1} Harvest Burn",
+      "param1": {
+        "spec": "1-5",
+        "min": 1,
+        "max": 5,
+        "value": 1
+      },
+      "value": 1,
+      "min": 1,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 6,
+      "trait_type": "{parameter1} Harvest Burn"
+    },
+    {
+      "id": 4,
+      "name": "SendHarvestHiddenPool",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Chance To Send Harvest To Hidden Pool",
+      "param1": {
+        "spec": "10-20",
+        "min": 10,
+        "max": 20,
+        "value": 18
+      },
+      "value": 18,
+      "min": 10,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 4,
+      "trait_type": "{parameter1} Chance To Send Harvest To Hidden Pool"
+    }
+  ],
+  "perfection": 0.78,
+  "slots": [
+    "Feet"
+  ],
+  "meta": {
+    "harvestYield": 6,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 18,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 1,
+    "attributes": {
+      "1": 6,
+      "4": 18,
+      "6": 1,
+      "1030": 1,
+      "1060": 2,
+      "1103": 2,
+      "1222": 1,
+      "1223": 14,
+      "2304": 4,
+      "2316": 2,
+      "2600": 7,
+      "3205": 8,
+      "3801": 480
+    },
+    "probability": {
+      "mythic": null,
+      "epic": null,
+      "rare": null,
+      "magical": null,
+      "roll": null
+    },
+    "version": 0,
+    "created": 1662699803976,
+    "revision": 0
+  },
+  "id": 5,
+  "name": "Flash",
+  "slug": "flash",
+  "icon": "/images/items/00005.png",
+  "image": "https://dl.airtable.com/.attachments/693a7f417b9c82bd8392a542e9180744/90cd77d5/00005.png?ts=1657605333&userId=usrf0GZYc5zCl9Cv7&cs=ddad7fd5c2625480",
+  "type": "Boot",
+  "subType": 12,
+  "specificType": 5,
+  "isPolled": true,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": true,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 550,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 5,
+        "quantity": 1,
+        "symbol": "ITH"
+      },
+      {
+        "id": 1,
+        "quantity": 1,
+        "symbol": "ELD"
+      },
+      {
+        "id": 7,
+        "quantity": 1,
+        "symbol": "RAL"
+      },
+      {
+        "id": 6,
+        "quantity": 1,
+        "symbol": "TAL"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "These gold-accented greaves are made from an otherworldly azure metal, which is incredibly strong yet lighter than a feather.",
+  "skills": [
+    480
+  ],
+  "materials": [
+    18,
+    34
+  ],
+  "version": 3,
+  "shortTokenId": "10030000511200100620060...872",
+  "rarity": {
+    "id": 5,
+    "name": "Rare"
+  },
+  "$loki": 4849
+}

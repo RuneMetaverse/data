@@ -1,0 +1,102 @@
+{
+  "address": "0x77Fc4159826092c2ddf5Ac2f95b6Ca87bF37eB43",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "XiBcGlvmj",
+      "rune": "ral",
+      "value": 1.6360000000000001,
+      "timestamp": 1646051556545
+    },
+    {
+      "id": "XiBcGlvmj",
+      "rune": "tal",
+      "value": 1.6300000000000001,
+      "timestamp": 1646051556545
+    },
+    {
+      "id": "XiBcGlvmj",
+      "rune": "amn",
+      "value": 1.773,
+      "timestamp": 1646051556545
+    },
+    {
+      "id": "XiBcGlvmj",
+      "rune": "zod",
+      "value": 3.886,
+      "timestamp": 1646051556545
+    },
+    {
+      "id": "XiBcGlvmj",
+      "rune": "ort",
+      "value": 1.82,
+      "timestamp": 1646051556545
+    },
+    {
+      "id": "XiBcGlvmj",
+      "rune": "nef",
+      "value": 1.71,
+      "timestamp": 1646051556545
+    },
+    {
+      "id": "XiBcGlvmj",
+      "rune": "ith",
+      "value": 1.933,
+      "timestamp": 1646051556545
+    },
+    {
+      "id": "XiBcGlvmj",
+      "rune": "hel",
+      "value": 1.513,
+      "timestamp": 1646051556545
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "ral": 0,
+      "tal": 0,
+      "amn": 0,
+      "zod": 0.005,
+      "ort": 0,
+      "nef": 0,
+      "ith": 0.006,
+      "hel": 0
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "amn": 1.773,
+      "ith": 1.939,
+      "hel": 1.513,
+      "zod": 3.891,
+      "ral": 1.6360000000000001,
+      "tal": 1.6300000000000001,
+      "ort": 1.82,
+      "nef": 1.71
+    },
+    "items": {}
+  },
+  "craftedItemCount": 0,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "XiBcGlvmj",
+      "timestamp": 1646051556545,
+      "status": "processing"
+    },
+    {
+      "id": "XiBcGlvmj",
+      "requestId": "0x8f5663cb57a333a8d6aacb450524302490bf266b4f958151c3908fc36b779a38",
+      "status": "completed"
+    }
+  ]
+}

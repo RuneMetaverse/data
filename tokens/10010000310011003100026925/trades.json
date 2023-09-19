@@ -1,0 +1,32 @@
+[
+  {
+    "id": 10951,
+    "seller": "0xc00f217Dc088953e98D140DdEDf24E3c933e8FE4",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "10010000310011003100026925",
+    "price": 0.09,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1632952841293,
+    "updatedAt": 1632952841293,
+    "blockNumber": 11347601,
+    "item": {
+      "id": 3
+    }
+  },
+  {
+    "id": 10951,
+    "seller": "0xc00f217Dc088953e98D140DdEDf24E3c933e8FE4",
+    "buyer": "0x4757210CB2261b96FF18e6e1ddaB03F4CDA65270",
+    "tokenId": "10010000310011003100026925",
+    "price": 0.09,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1632952841293,
+    "updatedAt": 1632953273535,
+    "blockNumber": 11347754,
+    "item": {
+      "id": 3
+    }
+  }
+]

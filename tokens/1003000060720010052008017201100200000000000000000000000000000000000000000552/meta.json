@@ -1,0 +1,663 @@
+{
+  "description": "Crafted from astra-infused ingots, this armor absorbs blows that would obliterate any normal warrior.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/1003000060720010052008017201100200000000000000000000000000000000000000000552",
+  "image_url": "/images/items/00006.png",
+  "language": "en-US",
+  "tokenId": "1003000060720010052008017201100200000000000000000000000000000000000000000552",
+  "details": {
+    "Type": "Body Armor",
+    "Subtype": "Templar Forge",
+    "Rune Word": "Tal Ort Thul Eld Nef",
+    "Distribution": "Crafted",
+    "Date": "May 24, 2021 - Now"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "name": "HarvestYield",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Increased Harvest Yield",
+          "param1": {
+            "spec": "2-5",
+            "min": 2,
+            "max": 5,
+            "value": 5
+          },
+          "value": 5,
+          "min": 2,
+          "max": 5,
+          "variant": 2,
+          "attributeId": 1
+        },
+        {
+          "id": 8,
+          "name": "RemoveFees",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Buff",
+          "description": "{parameter1} Reduced Harvest Fees",
+          "param1": {
+            "spec": "10-20",
+            "min": 10,
+            "max": 20,
+            "value": 17
+          },
+          "value": 17,
+          "min": 10,
+          "max": 20,
+          "variant": 2,
+          "attributeId": 8
+        },
+        {
+          "id": 11,
+          "name": "RandomRuneExchange",
+          "isEnabled": true,
+          "game": "Raid",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "paramType1": "percent",
+          "paramValue1": "0-100",
+          "nature": "Mechanic",
+          "description": "{parameter1} Random Rune Exchange",
+          "param1": {
+            "spec": "1-2",
+            "min": 1,
+            "max": 2,
+            "value": 2
+          },
+          "value": 2,
+          "min": 1,
+          "max": 2,
+          "variant": 2,
+          "attributeId": 11
+        }
+      ],
+      "perfection": [
+        5,
+        20,
+        2
+      ],
+      "presets": {
+        "2": [
+          5,
+          20,
+          2
+        ],
+        "3": [
+          5,
+          20,
+          2
+        ],
+        "4": [
+          4,
+          19,
+          1
+        ],
+        "5": [
+          4,
+          17,
+          1
+        ],
+        "6": [
+          2,
+          12,
+          1
+        ]
+      }
+    },
+    "2": {
+      "attributes": [
+        {
+          "id": 1060,
+          "name": "DamageResist",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "paramType1": "percent",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} damage resist",
+          "param1": {
+            "spec": [
+              "5-15"
+            ],
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        },
+        {
+          "id": 1219,
+          "name": "IncreaseHealthOnKill",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasehealthonkill",
+          "paramType1": "value",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} health on kill.",
+          "param1": {
+            "spec": "10-20",
+            "min": 10,
+            "max": 20,
+            "value": 17
+          },
+          "value": null
+        },
+        {
+          "id": 1303,
+          "name": "RandomizedItemAttribute",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/randomizeditemattribute",
+          "paramType1": "randomattributeid",
+          "nature": "Mechanic",
+          "influences": "All",
+          "description": "{RandomAttributeID}.id.description",
+          "param1": {
+            "spec": "1-2",
+            "min": 1,
+            "max": 2,
+            "value": 2
+          }
+        },
+        {
+          "id": 1150,
+          "name": "WinRewardsIncrease",
+          "isEnabled": true,
+          "nexusLink": "https://nexus.rune.game/item-attribute/winrewardsincrease",
+          "paramType1": "percent",
+          "paramValue1": "0-20",
+          "nature": "Buff",
+          "influences": "Reward",
+          "description": "{parameter1} win bonus",
+          "param1": {
+            "spec": "3-3",
+            "min": 3,
+            "max": 3,
+            "value": 3
+          }
+        },
+        {
+          "id": 1104,
+          "name": "CriticalPointsMultiplierIncrease",
+          "isEnabled": true,
+          "game": "Evolution",
+          "nexusLink": "https://nexus.rune.game/item-attribute/criticalpointsmultiplierincrease",
+          "paramType1": "percent",
+          "paramValue1": "0-35",
+          "nature": "Buff",
+          "influences": "Game",
+          "description": "{parameter1} increase to critical bonus.",
+          "param1": {
+            "spec": "5-5",
+            "min": 5,
+            "max": 5,
+            "value": 5
+          }
+        }
+      ],
+      "perfection": [
+        null,
+        20,
+        null,
+        null,
+        null
+      ],
+      "presets": {
+        "2": [
+          null,
+          20
+        ],
+        "3": [
+          null,
+          20
+        ],
+        "4": [
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null
+        ]
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 2300,
+          "name": "IncreaseHealth",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increasehealth",
+          "paramType1": "percent",
+          "paramValue1": "0-999",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} Maximum Health",
+          "param1": {
+            "spec": "5-8",
+            "min": 5,
+            "max": 8,
+            "value": 8
+          },
+          "param2": {
+            "spec": "All",
+            "min": null,
+            "max": null
+          },
+          "value": null
+        },
+        {
+          "id": 2316,
+          "name": "DamageReduce",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Damage Reduction",
+          "param1": {
+            "spec": "10-20",
+            "min": 10,
+            "max": 20,
+            "value": 17
+          },
+          "param2": {
+            "spec": "All",
+            "min": 109,
+            "max": 109,
+            "value": 109,
+            "map": {
+              "109": "All"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 2304,
+          "name": "IncreaseResist",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "paramType1": "percent",
+          "paramType2": "type",
+          "paramValue1": "0-100",
+          "paramValue2": "0-120",
+          "nature": "Buff",
+          "influences": "Defense",
+          "description": "{parameter1} {parameter2} Resistance",
+          "param1": {
+            "spec": "5-10",
+            "min": 5,
+            "max": 10,
+            "value": 10
+          },
+          "param2": {
+            "spec": "Physical",
+            "min": 9,
+            "max": 9,
+            "value": 9,
+            "map": {
+              "9": "Physical"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3205,
+          "name": "ChanceOnGetHit",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/chanceongethit",
+          "paramType1": "percent",
+          "paramType2": "skill",
+          "paramValue1": "0-100",
+          "paramValue2": "400-1000",
+          "nature": "Buff",
+          "description": "{parameter1} {parameter2} chance when hit",
+          "param1": {
+            "spec": "3-4",
+            "min": 3,
+            "max": 4
+          },
+          "param2": {
+            "spec": "Defend",
+            "min": 496,
+            "max": 496,
+            "value": 496,
+            "map": {
+              "496": "Defend"
+            }
+          },
+          "value": null
+        },
+        {
+          "id": 3801,
+          "name": "UnlockSkills",
+          "isEnabled": true,
+          "game": "Infinite",
+          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "paramType1": "skills",
+          "nature": "Mechanic",
+          "influences": "Skill",
+          "description": "Unlocked: {parameter1}",
+          "param1": {
+            "spec": "Howl",
+            "map": {}
+          }
+        }
+      ],
+      "perfection": [
+        8,
+        20,
+        10,
+        4,
+        null
+      ],
+      "presets": {
+        "2": [
+          8,
+          20,
+          10,
+          4
+        ],
+        "3": [
+          8,
+          20,
+          10,
+          4
+        ],
+        "4": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "5": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "6": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "4": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "perfection": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "5-17-2",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 5
+    },
+    {
+      "variant": 2,
+      "attributeId": 8,
+      "value": 17
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 2
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 552
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "HarvestYield",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Increased Harvest Yield",
+      "param1": {
+        "spec": "2-5",
+        "min": 2,
+        "max": 5,
+        "value": 5
+      },
+      "value": 5,
+      "min": 2,
+      "max": 5,
+      "variant": 2,
+      "attributeId": 1,
+      "trait_type": "{parameter1} Increased Harvest Yield"
+    },
+    {
+      "id": 8,
+      "name": "RemoveFees",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Buff",
+      "description": "{parameter1} Reduced Harvest Fees",
+      "param1": {
+        "spec": "10-20",
+        "min": 10,
+        "max": 20,
+        "value": 17
+      },
+      "value": 17,
+      "min": 10,
+      "max": 20,
+      "variant": 2,
+      "attributeId": 8,
+      "trait_type": "{parameter1} Reduced Harvest Fees"
+    },
+    {
+      "id": 11,
+      "name": "RandomRuneExchange",
+      "isEnabled": true,
+      "game": "Raid",
+      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "paramType1": "percent",
+      "paramValue1": "0-100",
+      "nature": "Mechanic",
+      "description": "{parameter1} Random Rune Exchange",
+      "param1": {
+        "spec": "1-2",
+        "min": 1,
+        "max": 2,
+        "value": 2
+      },
+      "value": 2,
+      "min": 1,
+      "max": 2,
+      "variant": 2,
+      "attributeId": 11,
+      "trait_type": "{parameter1} Random Rune Exchange"
+    }
+  ],
+  "perfection": 0.9,
+  "slots": [
+    "Chest"
+  ],
+  "meta": {
+    "harvestYield": 5,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 0,
+    "attributes": {
+      "1": 5,
+      "8": 17,
+      "11": 2,
+      "1060": 5,
+      "1219": 17,
+      "1303": 2,
+      "2300": 8,
+      "2304": 10,
+      "2316": 17
+    },
+    "feeReduction": null,
+    "randomRuneExchange": null,
+    "odds": 88,
+    "version": 0,
+    "created": 1662170270314,
+    "revision": 0
+  },
+  "id": 6,
+  "name": "Titan",
+  "slug": "titan",
+  "icon": "/images/items/00006.png",
+  "image": "https://dl.airtable.com/.attachments/1d8fc14204bd0d3ea642017b9162d988/7501f4c1/00006.png?ts=1657605340&userId=usrf0GZYc5zCl9Cv7&cs=9398b46055a7be3d",
+  "type": "Body Armor",
+  "subType": 13,
+  "specificType": 6,
+  "isPolled": true,
+  "isNew": false,
+  "isSecret": false,
+  "isUltraSecret": false,
+  "isPaused": false,
+  "isRetired": true,
+  "isDisabled": false,
+  "isCraftable": false,
+  "isEnabled": true,
+  "isEquipable": true,
+  "isUnequipable": true,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isPublishable": true,
+  "isRuneword": true,
+  "numPerfectionRolls": 44,
+  "recipe": {
+    "requirement": [
+      {
+        "id": 6,
+        "quantity": 1,
+        "symbol": "TAL"
+      },
+      {
+        "id": 8,
+        "quantity": 1,
+        "symbol": "ORT"
+      },
+      {
+        "id": 9,
+        "quantity": 1,
+        "symbol": "THUL"
+      },
+      {
+        "id": 1,
+        "quantity": 1,
+        "symbol": "ELD"
+      },
+      {
+        "id": 3,
+        "quantity": 1,
+        "symbol": "NEF"
+      }
+    ]
+  },
+  "shortDescription": "",
+  "visualDescription": "Forged from lightweight material and imbued with potent astra energy, this breastplate gleams with a pale radiance.",
+  "skills": [
+    465
+  ],
+  "materials": [],
+  "version": 3,
+  "shortTokenId": "10030000607200100520080...552",
+  "rarity": {
+    "id": 4,
+    "name": "Epic"
+  },
+  "$loki": 1741
+}

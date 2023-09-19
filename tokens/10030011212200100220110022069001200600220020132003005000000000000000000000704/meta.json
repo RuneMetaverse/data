@@ -1,0 +1,463 @@
+{
+  "description": [
+    "A blackened, abrasive circle of metal said to be the product of an ancient barbarian blacksmith. In addition to being brutal to look upon, its wearer becomes imbued with boundless aggression in battle, becoming heedless of danger or pain."
+  ],
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10030011212200100220110022069001200600220020132003005000000000000000000000704",
+  "image_url": "https://rune.game/images/items/00112.png",
+  "language": "en-US",
+  "tokenId": "10030011212200100220110022069001200600220020132003005000000000000000000000704",
+  "details": {
+    "Type": "Ring",
+    "Subtype": "Overwrought Iron Ring",
+    "Distribution": "Crafted",
+    "Date": "Jan 16, 2022 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "attributes": [
+        {
+          "id": 1,
+          "min": 0,
+          "max": 4,
+          "description": "{value}% Increased Harvest Yield",
+          "variant": 2,
+          "attributeId": 1,
+          "value": 2
+        },
+        {
+          "id": 11,
+          "min": 0,
+          "max": 2,
+          "description": "{value}% Random Rune Exchange",
+          "variant": 2,
+          "attributeId": 11,
+          "value": 2
+        },
+        {
+          "id": 69,
+          "min": 0,
+          "max": 2,
+          "description": "{value}% Bonus Yield Given as a Random Rune (Not Implemented)",
+          "variant": 2,
+          "attributeId": 69,
+          "value": 1
+        },
+        {
+          "id": 6,
+          "min": 0,
+          "max": 4,
+          "description": "{value}% Harvest Burn",
+          "variant": 2,
+          "attributeId": 6,
+          "value": 2
+        },
+        {
+          "id": 2,
+          "min": 10,
+          "max": 20,
+          "description": "{value}% Harvest Fee",
+          "variant": 2,
+          "attributeId": 2,
+          "value": 13
+        },
+        {
+          "id": 3,
+          "min": 3,
+          "max": 5,
+          "description": "Harvest Fee Token: {value}",
+          "map": {
+            "0": "EL",
+            "1": "ELD",
+            "2": "TIR",
+            "3": "NEF",
+            "4": "ETH",
+            "5": "ITH",
+            "6": "TAL",
+            "7": "RAL",
+            "8": "ORT",
+            "9": "THUL",
+            "10": "AMN",
+            "11": "SOL",
+            "12": "SHAEL",
+            "13": "DOL",
+            "14": "HEL",
+            "15": "IO",
+            "16": "LUM",
+            "17": "KO",
+            "18": "FAL",
+            "19": "LEM",
+            "20": "PUL",
+            "21": "UM",
+            "22": "MAL",
+            "23": "IST",
+            "24": "GUL",
+            "25": "VEX",
+            "26": "OHM",
+            "27": "LO",
+            "28": "SUR",
+            "29": "BER",
+            "30": "JAH",
+            "31": "CHAM",
+            "32": "ZOD"
+          },
+          "variant": 2,
+          "attributeId": 3,
+          "value": 5
+        }
+      ],
+      "perfection": [
+        4,
+        2,
+        2,
+        0,
+        10,
+        null
+      ],
+      "presets": {
+        "2": [
+          4,
+          2,
+          2,
+          0,
+          10
+        ],
+        "3": [
+          4,
+          2,
+          2,
+          0,
+          10
+        ],
+        "4": [
+          3,
+          1,
+          1,
+          0,
+          10
+        ],
+        "5": [
+          2,
+          1,
+          1,
+          1,
+          13
+        ],
+        "6": [
+          0,
+          0,
+          0,
+          3,
+          18
+        ]
+      }
+    },
+    "2": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "3": {
+      "attributes": [
+        {
+          "id": 3801,
+          "min": 0,
+          "max": 4,
+          "description": "{Value}% Increased Physical Damage",
+          "value": 2
+        },
+        {
+          "id": 3801,
+          "min": 1,
+          "max": 5,
+          "description": "{Value}% Energy Regeneration",
+          "value": 5
+        },
+        {
+          "id": 3801,
+          "min": 1,
+          "max": 5,
+          "description": "{Value}% Attack Speed",
+          "value": 3
+        },
+        {
+          "id": 3801,
+          "min": 1,
+          "max": 5,
+          "description": "{Value}% Increase To Rank Reward Bonuses",
+          "value": 3
+        },
+        {
+          "id": 3801,
+          "min": 0,
+          "max": 5,
+          "description": "{Value}% Additional Damage Taken (While Idle)",
+          "value": 3
+        },
+        {
+          "id": 3801,
+          "min": 0,
+          "max": 4,
+          "description": "Unlock Skill: Berserker Soul",
+          "value": 0
+        }
+      ],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      },
+      "perfection": [
+        0.5,
+        1,
+        0.5,
+        0.5952380952380952,
+        0.7,
+        0
+      ]
+    },
+    "4": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    "5": {
+      "attributes": [],
+      "presets": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  },
+  "shorthand": "2-2-1-2-13",
+  "mods": [
+    {
+      "variant": 2,
+      "attributeId": 1,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 11,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 69,
+      "value": 1
+    },
+    {
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2
+    },
+    {
+      "variant": 2,
+      "attributeId": 2,
+      "value": 13
+    },
+    {
+      "variant": 2,
+      "attributeId": 3,
+      "value": 5
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 0
+    },
+    {
+      "variant": 0,
+      "value": 704
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 0,
+      "max": 4,
+      "description": "{value}% Increased Harvest Yield",
+      "variant": 2,
+      "attributeId": 1,
+      "value": 2,
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 11,
+      "min": 0,
+      "max": 2,
+      "description": "{value}% Random Rune Exchange",
+      "variant": 2,
+      "attributeId": 11,
+      "value": 2,
+      "trait_type": "Random Rune Exchange"
+    },
+    {
+      "id": 69,
+      "min": 0,
+      "max": 2,
+      "description": "{value}% Bonus Yield Given as a Random Rune (Not Implemented)",
+      "variant": 2,
+      "attributeId": 69,
+      "value": 1,
+      "trait_type": "Bonus Yield Given as a Random Rune (Not Implemented)"
+    },
+    {
+      "id": 6,
+      "min": 0,
+      "max": 4,
+      "description": "{value}% Harvest Burn",
+      "variant": 2,
+      "attributeId": 6,
+      "value": 2,
+      "trait_type": "Harvest Burn"
+    },
+    {
+      "id": 2,
+      "min": 10,
+      "max": 20,
+      "description": "{value}% Harvest Fee",
+      "variant": 2,
+      "attributeId": 2,
+      "value": 13,
+      "trait_type": "Harvest Fee"
+    },
+    {
+      "id": 3,
+      "min": 3,
+      "max": 5,
+      "description": "Harvest Fee Token: {value}",
+      "map": {
+        "0": "EL",
+        "1": "ELD",
+        "2": "TIR",
+        "3": "NEF",
+        "4": "ETH",
+        "5": "ITH",
+        "6": "TAL",
+        "7": "RAL",
+        "8": "ORT",
+        "9": "THUL",
+        "10": "AMN",
+        "11": "SOL",
+        "12": "SHAEL",
+        "13": "DOL",
+        "14": "HEL",
+        "15": "IO",
+        "16": "LUM",
+        "17": "KO",
+        "18": "FAL",
+        "19": "LEM",
+        "20": "PUL",
+        "21": "UM",
+        "22": "MAL",
+        "23": "IST",
+        "24": "GUL",
+        "25": "VEX",
+        "26": "OHM",
+        "27": "LO",
+        "28": "SUR",
+        "29": "BER",
+        "30": "JAH",
+        "31": "CHAM",
+        "32": "ZOD"
+      },
+      "variant": 2,
+      "attributeId": 3,
+      "value": 5,
+      "trait_type": "Harvest Fee Token"
+    }
+  ],
+  "perfection": 0.64,
+  "slots": [
+    "Finger 1",
+    "Finger 2"
+  ],
+  "meta": {
+    "harvestYield": 2,
+    "harvestFeeToken": "ITH",
+    "harvestFeePercent": 13,
+    "harvestFees": {
+      "ITH": 13
+    },
+    "chanceToSendHarvestToHiddenPool": 0,
+    "chanceToLoseHarvest": 0,
+    "harvestBurn": 2,
+    "randomRuneExchange": 2,
+    "odds": 2475,
+    "version": 0,
+    "created": 1649916564451,
+    "revision": 0
+  },
+  "id": 112,
+  "name": "Animus",
+  "icon": "https://rune.game/images/items/00112.png",
+  "isSecret": false,
+  "type": "Ring",
+  "isNew": true,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": true,
+  "isDisabled": true,
+  "isRuneword": true,
+  "recipe": {
+    "requirement": [
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 3,
+  "shortTokenId": "10030011212200100220110...704",
+  "rarity": {
+    "id": 6,
+    "name": "Magical"
+  },
+  "$loki": 38651
+}

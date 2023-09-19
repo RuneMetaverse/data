@@ -1,0 +1,68 @@
+{
+  "trades": [
+    {
+      "id": 801,
+      "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+      "buyer": "0x2DB21218F651bCd1512c27CDd157F31B84C1879D",
+      "tokenId": "100300024242008003201100020130032071003207200100000000000000000000000000000442",
+      "price": 888,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650366445568,
+      "updatedAt": 1657585420390,
+      "blockNumber": 19471357,
+      "item": {
+        "id": 24,
+        "name": "Zeal"
+      }
+    },
+    {
+      "id": 657,
+      "seller": "0xEB16739C0286115A0Bf00a4a22E3721a0764F04e",
+      "buyer": "0x2DB21218F651bCd1512c27CDd157F31B84C1879D",
+      "tokenId": "100300002010003002400390000000000000000000000000000000000000000000000000309",
+      "price": 555,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650343672065,
+      "updatedAt": 1657586077893,
+      "blockNumber": 19471590,
+      "item": {
+        "id": 2,
+        "name": "Fury"
+      }
+    },
+    {
+      "id": 968,
+      "seller": "0xD1af0d50c17cb042D2f9056297ca63bF89498508",
+      "buyer": "0x2DB21218F651bCd1512c27CDd157F31B84C1879D",
+      "tokenId": "100300016012001004200702020130022011004200200320030122039011202100700000533",
+      "price": 50.555,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1657585389670,
+      "updatedAt": 1657586242832,
+      "blockNumber": 19471642,
+      "item": {
+        "id": 16,
+        "name": "Elder"
+      }
+    },
+    {
+      "id": 765,
+      "seller": "0xFB4c2E2d5D622f32B9Df7e720E6D48192f85e0E7",
+      "buyer": "0x2DB21218F651bCd1512c27CDd157F31B84C1879D",
+      "tokenId": "1003000060720010042008011201100100000000000000000000000000000000000000000463",
+      "price": 555,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1650365093131,
+      "updatedAt": 1657586527857,
+      "blockNumber": 19471739,
+      "item": {
+        "id": 6,
+        "name": "Titan"
+      }
+    }
+  ]
+}

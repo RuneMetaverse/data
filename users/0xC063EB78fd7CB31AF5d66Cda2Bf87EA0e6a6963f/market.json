@@ -1,0 +1,231 @@
+{
+  "trades": [
+    {
+      "id": 5445,
+      "seller": "0x8DE3c3891268502F77DB7E876d727257DEc0F852",
+      "buyer": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "tokenId": "10010000310021001100012523",
+      "price": 0.344,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1630190682545,
+      "updatedAt": 1630203228283,
+      "blockNumber": 10438227,
+      "item": {
+        "id": 3
+      }
+    },
+    {
+      "id": 19050,
+      "seller": "0x88D0A16fd9BB240401C9a9c486b45c8794e15732",
+      "buyer": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "tokenId": "1003000070920010052008058200910000000000000000000000000000000000000000000656",
+      "price": 0.45,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1649861511640,
+      "updatedAt": 1649911367516,
+      "blockNumber": 10438259,
+      "item": {
+        "id": 7
+      }
+    },
+    {
+      "id": 19549,
+      "seller": "0xEFBD1940dc13e1Fd986Cbea279E956e1e23369e6",
+      "buyer": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "tokenId": "10030002008200800920070092013004201100420340012006000000000000000000000000068",
+      "price": 0.7,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1649862200422,
+      "updatedAt": 1649928793834,
+      "blockNumber": 10821243,
+      "item": {
+        "id": 20
+      }
+    },
+    {
+      "id": 7788,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300025012008003200400020060002074020207501100000000000000000000000000000169",
+      "price": 0.2,
+      "status": "delisted",
+      "hotness": 0,
+      "createdAt": 1631369481148,
+      "updatedAt": 1631391018297,
+      "blockNumber": 10829864,
+      "item": {}
+    },
+    {
+      "id": 7791,
+      "seller": "0x150F24A67d5541ee1F8aBce2b69046e25d64619c",
+      "buyer": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "tokenId": "1003000060720010052008018201100200000000000000000000000000000000000000000174",
+      "price": 0.8,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1631370627792,
+      "updatedAt": 1631373571565,
+      "blockNumber": 10824107,
+      "item": {
+        "id": 6
+      }
+    },
+    {
+      "id": 19674,
+      "seller": "0x444a9aB2506f6C4752A249093B0c1e5db7DAD50b",
+      "buyer": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "tokenId": "1003000291320400052001003200803020130162007010000000000000000000000255",
+      "price": 0.55,
+      "status": "sold",
+      "hotness": 0,
+      "createdAt": 1649862297654,
+      "updatedAt": 1649928803083,
+      "blockNumber": 10853854,
+      "item": {
+        "id": 29
+      }
+    },
+    {
+      "id": 950,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300003050003000100330000000000000000000000000000000000000000000000000255",
+      "price": 65000,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1655133040464,
+      "updatedAt": 1655133040464,
+      "blockNumber": 18655792,
+      "item": {
+        "id": 3,
+        "name": "Lorekeeper"
+      }
+    },
+    {
+      "id": 23536,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0xB1B1C99B365D39040334641a008E61e6e43968d3",
+      "tokenId": "100300019052007013200600120110042008005000000000000000000000000000000000250",
+      "price": 0.423,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1649981944450,
+      "updatedAt": 1649981944450,
+      "blockNumber": 15456267,
+      "item": {
+        "id": 19
+      }
+    },
+    {
+      "id": 913,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300014012001006201900220130112011004200200220030132039008202100600000156",
+      "price": 18000,
+      "status": "delisted",
+      "hotness": 0,
+      "createdAt": 1652979349453,
+      "updatedAt": 1655133385723,
+      "blockNumber": 18655889,
+      "item": {
+        "id": 14,
+        "name": "Wrath"
+      }
+    },
+    {
+      "id": 22359,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300021022001060201300720120082007039200500020060122002057200301100000978",
+      "price": 0.6,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1649976945038,
+      "updatedAt": 1649976945038,
+      "blockNumber": 11222398,
+      "item": {
+        "id": 21
+      }
+    },
+    {
+      "id": 12607,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "1003000321420400052034001207300220130160000000000000000000000000000137",
+      "price": 0.2,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1636622696136,
+      "updatedAt": 1636622696136,
+      "blockNumber": 12554578,
+      "item": {
+        "id": 32
+      }
+    },
+    {
+      "id": 13383,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "10030002008200801020070092013004201100420340012006001000000000000000000000028",
+      "price": 0.284,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1637662784214,
+      "updatedAt": 1637662784214,
+      "blockNumber": 12880208,
+      "item": {
+        "id": 20
+      }
+    },
+    {
+      "id": 13066,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300028132001002200800320130032007004200600100000000000000000000000000000700",
+      "price": 0.2,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1637642037580,
+      "updatedAt": 1637642037580,
+      "blockNumber": 12880716,
+      "item": {
+        "id": 28
+      }
+    },
+    {
+      "id": 914,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300025012008003200400320060002074020207501100000000000000000000000000000169",
+      "price": 60000,
+      "status": "delisted",
+      "hotness": 0,
+      "createdAt": 1652979625016,
+      "updatedAt": 1655133565553,
+      "blockNumber": 18655970,
+      "item": {
+        "id": 25,
+        "name": "Balance"
+      }
+    },
+    {
+      "id": 953,
+      "seller": "0xC063EB78fd7CB31AF5d66Cda2Bf87EA0e6a6963f",
+      "buyer": "0x0000000000000000000000000000000000000000",
+      "tokenId": "100300021022001058201305220120062007033200500020060072002030200301100000978",
+      "price": 70000,
+      "status": "available",
+      "hotness": 0,
+      "createdAt": 1655134165585,
+      "updatedAt": 1655134165585,
+      "blockNumber": 18656168,
+      "item": {
+        "id": 21,
+        "name": "Guiding Light"
+      }
+    }
+  ]
+}

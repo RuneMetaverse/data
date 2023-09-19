@@ -1,0 +1,104 @@
+[
+  {
+    "owner": "0x0e884b7BB90C7cf9Bf257e0603Cd9835A82BBD2C",
+    "from": "0x0000000000000000000000000000000000000000",
+    "status": "created",
+    "tokenId": "10010000410001000152816761",
+    "createdAt": 1649768847401,
+    "details": {
+      "Type": "Ingredient",
+      "Subtype": "Relic",
+      "Distribution": "Claimable",
+      "Date": "May 3, 2021 - Now",
+      "Max Supply": "Unknown"
+    },
+    "branches": {
+      "1": {
+        "description": [
+          "A relic from a broken time."
+        ],
+        "attributes": [
+          {
+            "id": 33,
+            "min": 0,
+            "max": 0,
+            "description": "100% Chance To Transmute Item",
+            "value": 100
+          }
+        ],
+        "perfection": [
+          100
+        ]
+      },
+      "2": {
+        "description": "A relic from a broken time.",
+        "attributes": [
+          {
+            "id": 1,
+            "value": 0,
+            "description": "Used to transmute items."
+          }
+        ]
+      }
+    },
+    "shorthand": "100",
+    "mods": [
+      {
+        "variant": 1,
+        "value": 100,
+        "attributeId": 7
+      },
+      {
+        "variant": 1,
+        "value": 0
+      },
+      {
+        "variant": 1,
+        "value": 528
+      },
+      {
+        "variant": 1,
+        "value": 676
+      }
+    ],
+    "attributes": [
+      {
+        "id": 33,
+        "min": 0,
+        "max": 0,
+        "description": "100% Chance To Transmute Item",
+        "value": 100,
+        "variant": 1,
+        "attributeId": 7
+      }
+    ],
+    "perfection": 1,
+    "category": "accessory",
+    "meta": {
+      "harvestYield": 0,
+      "harvestFees": {},
+      "chanceToSendHarvestToHiddenPool": 0,
+      "chanceToLoseHarvest": 0,
+      "harvestBurn": 0,
+      "worldstoneShardChance": 100
+    },
+    "id": 4,
+    "name": "Worldstone Shard",
+    "icon": "undefinedimages/items/00004.png",
+    "value": "0",
+    "isNew": false,
+    "isEquipable": false,
+    "isTradeable": false,
+    "isTransferable": false,
+    "isCraftable": false,
+    "isDisabled": false,
+    "createdDate": 12111,
+    "hotnessScore": 1,
+    "version": 1,
+    "type": 0,
+    "shortTokenId": "10010000410001000152816...761",
+    "rarity": "Mythic",
+    "slots": [],
+    "hotness": 1
+  }
+]

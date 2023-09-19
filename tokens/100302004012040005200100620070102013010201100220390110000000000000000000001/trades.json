@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1230,
+    "seller": "0x191727d22f2693100acef8e48F8FeaEaa06d30b1",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100302004012040005200100620070102013010201100220390110000000000000000000001",
+    "price": 200000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1660505991341,
+    "updatedAt": 1660505991341,
+    "blockNumber": 20442662,
+    "releaseAt": 1660505400,
+    "item": {
+      "id": 2004,
+      "name": "The Oculus"
+    }
+  },
+  {
+    "id": 1230,
+    "seller": "0x191727d22f2693100acef8e48F8FeaEaa06d30b1",
+    "buyer": "0x6B16c7BD6da2Aa1b8fA05C2A35613c5B240772f9",
+    "tokenId": "100302004012040005200100620070102013010201100220390110000000000000000000001",
+    "price": 200000,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1660505991341,
+    "updatedAt": 1660506171775,
+    "blockNumber": 20442726,
+    "item": {
+      "id": 2004,
+      "name": "The Oculus"
+    }
+  }
+]

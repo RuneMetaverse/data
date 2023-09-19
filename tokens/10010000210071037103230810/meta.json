@@ -1,0 +1,198 @@
+{
+  "description": "Not much is known about this sword, other than the creator had gone mad.",
+  "home_url": "https://rune.game",
+  "external_url": "https://rune.game/token/10010000210071037103230810",
+  "catalog_url": "https://rune.game/catalog/2",
+  "image": "https://rune.game/images/items/00002.png",
+  "language": "en-US",
+  "tokenId": "10010000210071037103230810",
+  "details": {
+    "Type": "One-Handed Sword",
+    "Subtype": "War Sword",
+    "Rune Word": "Nef Eld Tir El",
+    "Distribution": "Crafted",
+    "Date": "April 25, 2021 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": [
+        "Not much is known about this sword, other than the creator had gone mad."
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "min": 3,
+          "max": 7,
+          "description": "{value}% Increased Harvest Yield"
+        },
+        {
+          "id": 4,
+          "min": 20,
+          "max": 40,
+          "description": "{value}% Chance To Send Harvest To Hidden Pool"
+        },
+        {
+          "id": 5,
+          "min": 20,
+          "max": 40,
+          "description": "{value}% Chance To Lose Entire Harvest"
+        }
+      ],
+      "perfection": [
+        7,
+        40,
+        20
+      ]
+    },
+    "2": {
+      "description": [
+        "To be announced."
+      ],
+      "attributes": []
+    },
+    "3": {
+      "description": [
+        "To be announced."
+      ],
+      "attributes": []
+    },
+    "4": {
+      "description": "Not much is known about this sword, other than the creator had gone mad.",
+      "attributes": [
+        {
+          "id": 1,
+          "min": 16,
+          "max": 20,
+          "description": "{value}% Increased Lightning Spell Damage"
+        },
+        {
+          "id": 3,
+          "min": 6,
+          "max": 8,
+          "description": "{value}% Decreased Enemy Lightning Resistance"
+        },
+        {
+          "id": 4,
+          "min": 81,
+          "max": 100,
+          "description": "{value} Mana on Attack"
+        },
+        {
+          "id": 5,
+          "min": 3,
+          "max": 5,
+          "description": "{value} To Forked Lightning"
+        },
+        {
+          "id": 6,
+          "description": "Half Freeze Duration"
+        }
+      ]
+    }
+  },
+  "shorthand": "7-37-32",
+  "mods": [
+    {
+      "variant": 1,
+      "value": 7,
+      "attributeId": 1
+    },
+    {
+      "variant": 1,
+      "value": 37,
+      "attributeId": 4
+    },
+    {
+      "variant": 1,
+      "value": 32,
+      "attributeId": 5
+    },
+    {
+      "variant": 3,
+      "value": 81
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "min": 3,
+      "max": 7,
+      "description": "{value}% Increased Harvest Yield",
+      "variant": 1,
+      "value": 7,
+      "attributeId": 1,
+      "trait_type": "Increased Harvest Yield"
+    },
+    {
+      "id": 4,
+      "min": 20,
+      "max": 40,
+      "description": "{value}% Chance To Send Harvest To Hidden Pool",
+      "variant": 1,
+      "value": 37,
+      "attributeId": 4,
+      "trait_type": "Chance To Send Harvest To Hidden Pool"
+    },
+    {
+      "id": 5,
+      "min": 20,
+      "max": 40,
+      "description": "{value}% Chance To Lose Entire Harvest",
+      "variant": 1,
+      "value": 32,
+      "attributeId": 5,
+      "trait_type": "Chance To Lose Entire Harvest"
+    }
+  ],
+  "perfection": 0.75,
+  "slots": [
+    "Right Hand",
+    "Left Hand"
+  ],
+  "meta": {
+    "harvestYield": 7,
+    "harvestFeeToken": "",
+    "harvestFeePercent": 0,
+    "harvestFees": {},
+    "chanceToSendHarvestToHiddenPool": 37,
+    "chanceToLoseHarvest": 32,
+    "harvestBurn": 0
+  },
+  "id": 2,
+  "name": "Fury",
+  "icon": "https://rune.game/images/items/00002.png",
+  "type": "None",
+  "isNew": false,
+  "isEquipable": true,
+  "isUnequipable": false,
+  "isTradeable": true,
+  "isTransferable": true,
+  "isUpgradable": true,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": true,
+  "isRetired": true,
+  "recipe": {
+    "requirement": [
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      },
+      {
+        "quantity": 1
+      }
+    ]
+  },
+  "version": 1,
+  "shortTokenId": "10010000210071037103230...810",
+  "rarity": {
+    "id": 5,
+    "name": "Rare"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "address": "0x879A815739E15ecA29a206F888929Ad85D979f0a",
+  "lastGamePlayed": 0,
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 1,
+  "holdings": {},
+  "points": 1,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "bLIg8bcMA",
+      "rune": "shael",
+      "value": 0.008,
+      "timestamp": 1644561674093
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "shael": 0,
+      "zod": 0,
+      "ort": 0.005,
+      "ith": 0.001,
+      "tir": 0.003,
+      "ral": 0.002
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "shael": 0.008,
+      "zod": 0,
+      "ort": 0.005,
+      "ith": 0.001,
+      "tir": 0.003,
+      "ral": 0.002
+    },
+    "items": {}
+  },
+  "craftedItemCount": 2,
+  "transferredInCount": 0,
+  "claimRequests": [
+    {
+      "id": "bLIg8bcMA",
+      "timestamp": 1644561674094,
+      "status": "processing"
+    }
+  ]
+}

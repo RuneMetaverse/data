@@ -1,0 +1,98 @@
+[
+  {
+    "id": 988,
+    "seller": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100302001122040005200100320130052061003201900120350200000000000000000000001",
+    "price": 200000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1658815217975,
+    "updatedAt": 1658815217975,
+    "blockNumber": 19880073,
+    "item": {
+      "id": 2001,
+      "name": "Stone of Jordan"
+    }
+  },
+  {
+    "id": 989,
+    "seller": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100302001122040004200100420130052061004201900120350200000000000000000000001",
+    "price": 500000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1658815232839,
+    "updatedAt": 1658815232839,
+    "blockNumber": 19880077,
+    "item": {
+      "id": 2001,
+      "name": "Stone of Jordan"
+    }
+  },
+  {
+    "id": 990,
+    "seller": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "buyer": "0x0000000000000000000000000000000000000000",
+    "tokenId": "100302001122040003200100520130052061005201900120350200000000000000000000001",
+    "price": 1000000,
+    "status": "available",
+    "hotness": 0,
+    "createdAt": 1658815247808,
+    "updatedAt": 1658815247808,
+    "blockNumber": 19880081,
+    "item": {
+      "id": 2001,
+      "name": "Stone of Jordan"
+    }
+  },
+  {
+    "id": 990,
+    "seller": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "buyer": "0x5d3a24a2094805617b1A6ea75D09C0da52d3803F",
+    "tokenId": "100302001122040003200100520130052061005201900120350200000000000000000000001",
+    "price": 1000000,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1658815247808,
+    "updatedAt": 1658815668000,
+    "blockNumber": 19880225,
+    "item": {
+      "id": 2001,
+      "name": "Stone of Jordan"
+    }
+  },
+  {
+    "id": 989,
+    "seller": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "buyer": "0x5d3a24a2094805617b1A6ea75D09C0da52d3803F",
+    "tokenId": "100302001122040004200100420130052061004201900120350200000000000000000000001",
+    "price": 500000,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1658815232839,
+    "updatedAt": 1658815682955,
+    "blockNumber": 19880229,
+    "item": {
+      "id": 2001,
+      "name": "Stone of Jordan"
+    }
+  },
+  {
+    "id": 988,
+    "seller": "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B",
+    "buyer": "0x5d3a24a2094805617b1A6ea75D09C0da52d3803F",
+    "tokenId": "100302001122040005200100320130052061003201900120350200000000000000000000001",
+    "price": 200000,
+    "status": "sold",
+    "hotness": 0,
+    "createdAt": 1658815217975,
+    "updatedAt": 1658815697947,
+    "blockNumber": 19880234,
+    "item": {
+      "id": 2001,
+      "name": "Stone of Jordan"
+    }
+  }
+]

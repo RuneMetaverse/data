@@ -1,0 +1,111 @@
+{
+  "address": "0x7e8D0152515D24220AD08Cfb8E2151321BD614F5",
+  "inventoryItemCount": 0,
+  "equippedItemCount": 0,
+  "marketTradeListedCount": 0,
+  "marketTradeSoldCount": 0,
+  "transferredOutCount": 0,
+  "holdings": {},
+  "points": 0,
+  "isGuildMembershipActive": false,
+  "guildMembershipTokenId": null,
+  "rewardHistory": [
+    {
+      "id": "Tp9nbX4ow",
+      "rune": "hel",
+      "value": 4.363,
+      "timestamp": 1644753343233
+    },
+    {
+      "id": "Tp9nbX4ow",
+      "rune": "tal",
+      "value": 4.317,
+      "timestamp": 1644753343233
+    },
+    {
+      "id": "Tp9nbX4ow",
+      "rune": "nef",
+      "value": 4.539,
+      "timestamp": 1644753343233
+    },
+    {
+      "id": "Tp9nbX4ow",
+      "rune": "zod",
+      "value": 2.3329999999999997,
+      "timestamp": 1644753343233
+    },
+    {
+      "id": "Tp9nbX4ow",
+      "rune": "ral",
+      "value": 4.279999999999999,
+      "timestamp": 1644753343233
+    },
+    {
+      "id": "Tp9nbX4ow",
+      "rune": "amn",
+      "value": 4.518,
+      "timestamp": 1644753343233
+    },
+    {
+      "id": "Tp9nbX4ow",
+      "rune": "ort",
+      "value": 4.285,
+      "timestamp": 1644753343233
+    },
+    {
+      "id": "Tp9nbX4ow",
+      "rune": "ith",
+      "value": 4.195,
+      "timestamp": 1644753343233
+    }
+  ],
+  "rewards": {
+    "runes": {
+      "hel": null,
+      "tal": 0.013000000000000001,
+      "nef": 0.027999999999999997,
+      "zod": 0.012000000000000002,
+      "ral": 0.013000000000000001,
+      "amn": 0.011,
+      "ort": 0.026000000000000002,
+      "ith": 0.023,
+      "shael": 0.032,
+      "thul": 0.004,
+      "tir": 0.018000000000000002,
+      "sol": 0.021,
+      "dol": 0.011
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "zod": 0.012000000000000002,
+      "shael": 0.032,
+      "thul": 0.004,
+      "ral": 0.013000000000000001,
+      "ith": 0.023,
+      "tir": 0.018000000000000002,
+      "sol": 0.021,
+      "nef": 0.027999999999999997,
+      "ort": 0.026000000000000002,
+      "amn": 0.011,
+      "dol": 0.011,
+      "tal": 0.013000000000000001
+    },
+    "items": {}
+  },
+  "claimRequests": [
+    {
+      "id": "Tp9nbX4ow",
+      "timestamp": 1644753343233,
+      "status": "processing"
+    },
+    {
+      "id": "Tp9nbX4ow",
+      "requestId": "0x56646d8aff95867c2353335b01c2c9034b076b724c281d0917d7e485f6ec6091",
+      "status": "completed"
+    }
+  ],
+  "craftedItemCount": 0,
+  "transferredInCount": 0
+}
