@@ -2,10 +2,10 @@
   "description": [
     "Wearers of this masterfully-crafted ring display a preternatural ability to find fortune and avoid harm."
   ],
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/10030002712200100120080022004003201200320620052006001000000000000000000000644",
-  "catalog_url": "https://rune.game/catalog/27",
-  "image": "https://rune.game/images/items/00027.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/10030002712200100120080022004003201200320620052006001000000000000000000000644",
+  "catalog_url": "https://arken.gg/catalog/27",
+  "image": "https://arken.gg/images/items/00027.png",
   "language": "en-US",
   "tokenId": "10030002712200100120080022004003201200320620052006001000000000000000000000644",
   "details": {
@@ -74,55 +74,13 @@
           "value": 1
         }
       ],
-      "perfection": [
-        3,
-        3,
-        3,
-        4,
-        5,
-        0
-      ],
+      "perfection": [3, 3, 3, 4, 5, 0],
       "presents": {
-        "2": [
-          3,
-          3,
-          3,
-          4,
-          5,
-          0
-        ],
-        "3": [
-          3,
-          3,
-          3,
-          4,
-          5,
-          0
-        ],
-        "4": [
-          2,
-          2,
-          2,
-          3,
-          4,
-          0
-        ],
-        "5": [
-          2,
-          2,
-          2,
-          3,
-          4,
-          0
-        ],
-        "6": [
-          1,
-          1,
-          0,
-          1,
-          3,
-          2
-        ]
+        "2": [3, 3, 3, 4, 5, 0],
+        "3": [3, 3, 3, 4, 5, 0],
+        "4": [2, 2, 2, 3, 4, 0],
+        "5": [2, 2, 2, 3, 4, 0],
+        "6": [1, 1, 0, 1, 3, 2]
       }
     },
     "2": {
@@ -286,10 +244,7 @@
     }
   ],
   "perfection": 0.63,
-  "slots": [
-    "Finger 1",
-    "Finger 2"
-  ],
+  "slots": ["Finger 1", "Finger 2"],
   "meta": {
     "harvestYield": 1,
     "harvestFeeToken": "",
@@ -303,7 +258,7 @@
   },
   "id": 27,
   "name": "Instinct",
-  "icon": "https://rune.game/images/items/00027.png",
+  "icon": "https://arken.gg/images/items/00027.png",
   "type": "Ring",
   "isNew": false,
   "isEquipable": true,

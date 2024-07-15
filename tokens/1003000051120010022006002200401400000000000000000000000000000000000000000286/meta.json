@@ -1,9 +1,9 @@
 {
   "description": "Although common in another world, these Sourcer boots are considered high quality.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1003000051120010022006002200401400000000000000000000000000000000000000000286",
-  "catalog_url": "https://rune.game/catalog/5",
-  "image": "https://rune.game/images/items/00005.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1003000051120010022006002200401400000000000000000000000000000000000000000286",
+  "catalog_url": "https://arken.gg/catalog/5",
+  "image": "https://arken.gg/images/items/00005.png",
   "language": "en-US",
   "tokenId": "1003000051120010022006002200401400000000000000000000000000000000000000000286",
   "details": {
@@ -48,37 +48,13 @@
           "value": 14
         }
       ],
-      "perfection": [
-        10,
-        1,
-        20
-      ],
+      "perfection": [10, 1, 20],
       "presents": {
-        "2": [
-          10,
-          1,
-          20
-        ],
-        "3": [
-          10,
-          1,
-          20
-        ],
-        "4": [
-          9,
-          1,
-          19
-        ],
-        "5": [
-          7,
-          2,
-          17
-        ],
-        "6": [
-          2,
-          4,
-          12
-        ]
+        "2": [10, 1, 20],
+        "3": [10, 1, 20],
+        "4": [9, 1, 19],
+        "5": [7, 2, 17],
+        "6": [2, 4, 12]
       }
     },
     "2": {
@@ -217,9 +193,7 @@
     }
   ],
   "perfection": 0.42,
-  "slots": [
-    "Feet"
-  ],
+  "slots": ["Feet"],
   "meta": {
     "harvestYield": 2,
     "harvestFeeToken": "",
@@ -232,7 +206,7 @@
   },
   "id": 5,
   "name": "Flash",
-  "icon": "https://rune.game/images/items/00005.png",
+  "icon": "https://arken.gg/images/items/00005.png",
   "type": "Boot",
   "isNew": false,
   "isEquipable": true,

@@ -1,8 +1,8 @@
 {
   "description": "Crafted with the finest Druid material, this Sage Bow is imbued to seek out what is hidden.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300011022001040200402520070102006015200201520030092039007202100300000878",
-  "image_url": "https://rune.game/images/items/00011.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300011022001040200402520070102006015200201520030092039007202100300000878",
+  "image_url": "https://arken.gg/images/items/00011.png",
   "language": "en-US",
   "tokenId": "100300011022001040200402520070102006015200201520030092039007202100300000878",
   "details": {
@@ -1138,49 +1138,13 @@
           "attributeId": 21
         }
       ],
-      "perfection": [
-        40,
-        null,
-        null,
-        10,
-        5
-      ],
+      "perfection": [40, null, null, 10, 5],
       "presets": {
-        "2": [
-          40,
-          null,
-          null,
-          10,
-          5
-        ],
-        "3": [
-          40,
-          null,
-          null,
-          10,
-          5
-        ],
-        "4": [
-          38,
-          null,
-          null,
-          10,
-          5
-        ],
-        "5": [
-          31,
-          null,
-          null,
-          11,
-          8
-        ],
-        "6": [
-          16,
-          null,
-          null,
-          14,
-          13
-        ]
+        "2": [40, null, null, 10, 5],
+        "3": [40, null, null, 10, 5],
+        "4": [38, null, null, 10, 5],
+        "5": [31, null, null, 11, 8],
+        "6": [16, null, null, 14, 13]
       }
     },
     "2": {
@@ -2406,9 +2370,7 @@
     }
   ],
   "perfection": 0.33,
-  "slots": [
-    "Left Hand"
-  ],
+  "slots": ["Left Hand"],
   "meta": {
     "harvestYield": 40,
     "harvestFeeToken": "THUL",
@@ -2428,7 +2390,7 @@
   },
   "id": 11,
   "name": "Grace",
-  "icon": "https://rune.game/images/items/00011.png",
+  "icon": "https://arken.gg/images/items/00011.png",
   "isSecret": false,
   "type": "Two Handed Weapon",
   "isNew": false,

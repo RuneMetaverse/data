@@ -1,7 +1,7 @@
 {
   "description": "Silken footwraps of deep crimson, this footwear allows its bearer to streak across the battlefield like a blazing firebolt.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300046112006020210600321080102008005201301000000000000000000000000000000281",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300046112006020210600321080102008005201301000000000000000000000000000000281",
   "image_url": "/images/items/00046.png",
   "language": "en-US",
   "tokenId": "100300046112006020210600321080102008005201301000000000000000000000000000000281",
@@ -18,7 +18,7 @@
           "name": "HarvestBurn",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -39,7 +39,7 @@
           "id": 106,
           "name": "HarvestSpeed",
           "isEnabled": false,
-          "nexusLink": "https://nexus.rune.game/item-attribute/raidpending5",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/raidpending5",
           "description": "{parameter1} Reduction To Harvest Cooldown (Not Implemented)",
           "paramType1": "percent",
           "param1": {
@@ -58,7 +58,7 @@
           "id": 108,
           "name": "StunRecovery",
           "isEnabled": false,
-          "nexusLink": "https://nexus.rune.game/item-attribute/raidpending3",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/raidpending3",
           "description": "{parameter1} Faster Recovery From Stun Effects (Not Implemented)",
           "paramType1": "percent",
           "param1": {
@@ -78,7 +78,7 @@
           "name": "RemoveFees",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -100,7 +100,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -118,39 +118,13 @@
           "attributeId": 13
         }
       ],
-      "perfection": [
-        0,
-        5,
-        10,
-        null,
-        null
-      ],
+      "perfection": [0, 5, 10, null, null],
       "presets": {
-        "2": [
-          0,
-          5,
-          10
-        ],
-        "3": [
-          0,
-          5,
-          10
-        ],
-        "4": [
-          1,
-          4,
-          9
-        ],
-        "5": [
-          6,
-          3,
-          7
-        ],
-        "6": [
-          16,
-          1,
-          2
-        ]
+        "2": [0, 5, 10],
+        "3": [0, 5, 10],
+        "4": [1, 4, 9],
+        "5": [6, 3, 7],
+        "6": [16, 1, 2]
       }
     },
     "2": {
@@ -171,7 +145,7 @@
           "name": "DamageReduce",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damagereduce",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -201,7 +175,7 @@
           "name": "IncreaseStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -231,7 +205,7 @@
           "name": "UnlockSkills",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -251,7 +225,7 @@
           "name": "IncreaseResist",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaseresist",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -281,7 +255,7 @@
           "name": "WinRewardsIncrease",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/winrewardsincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/winrewardsincrease",
           "paramType1": "percent",
           "paramType2": "rewardtype",
           "paramValue1": "0-20",
@@ -302,49 +276,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        5,
-        10,
-        null,
-        5,
-        5
-      ],
+      "perfection": [5, 10, null, 5, 5],
       "presets": {
-        "2": [
-          5,
-          10,
-          null,
-          5,
-          5
-        ],
-        "3": [
-          5,
-          10,
-          null,
-          5,
-          5
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [5, 10, null, 5, 5],
+        "3": [5, 10, null, 5, 5],
+        "4": [null, null, null, null, null],
+        "5": [null, null, null, null, null],
+        "6": [null, null, null, null, null]
       }
     },
     "4": {
@@ -436,7 +374,7 @@
       "name": "HarvestBurn",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -458,7 +396,7 @@
       "id": 106,
       "name": "HarvestSpeed",
       "isEnabled": false,
-      "nexusLink": "https://nexus.rune.game/item-attribute/raidpending5",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/raidpending5",
       "description": "{parameter1} Reduction To Harvest Cooldown (Not Implemented)",
       "paramType1": "percent",
       "param1": {
@@ -478,7 +416,7 @@
       "id": 108,
       "name": "StunRecovery",
       "isEnabled": false,
-      "nexusLink": "https://nexus.rune.game/item-attribute/raidpending3",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/raidpending3",
       "description": "{parameter1} Faster Recovery From Stun Effects (Not Implemented)",
       "paramType1": "percent",
       "param1": {
@@ -499,7 +437,7 @@
       "name": "RemoveFees",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -522,7 +460,7 @@
       "name": "MagicFind",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
       "paramType1": "percent",
       "paramValue1": "0-999",
       "nature": "Buff",
@@ -542,9 +480,7 @@
     }
   ],
   "perfection": 0.53,
-  "slots": [
-    "Feet"
-  ],
+  "slots": ["Feet"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",
@@ -596,12 +532,8 @@
   "isPublishable": true,
   "isRuneword": true,
   "isExclusive": true,
-  "exclusiveConditions": [
-    "stream"
-  ],
-  "exclusiveActions": [
-    "recipe"
-  ],
+  "exclusiveConditions": ["stream"],
+  "exclusiveActions": ["recipe"],
   "numPerfectionRolls": 1331,
   "recipe": {
     "requirement": [
@@ -630,9 +562,7 @@
   "shortDescription": "",
   "visualDescription": "These silken footwraps are favored by the League of Sol, as they are well-suited to a desert environment. Saturated red dye and an infusion of kona mark these as belonging to a disciple of Relia.",
   "skills": [],
-  "materials": [
-    20
-  ],
+  "materials": [20],
   "version": 3,
   "shortTokenId": "10030004611200602021060...281",
   "rarity": {

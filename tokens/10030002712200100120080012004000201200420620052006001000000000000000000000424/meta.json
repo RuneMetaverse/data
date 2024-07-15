@@ -1,8 +1,8 @@
 {
   "description": "Wearers of this crude ring display a preternatural ability to find fortune and avoid harm.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/10030002712200100120080012004000201200420620052006001000000000000000000000424",
-  "catalog_url": "https://rune.game/catalog/27",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/10030002712200100120080012004000201200420620052006001000000000000000000000424",
+  "catalog_url": "https://arken.gg/catalog/27",
   "image": "https://dl.airtable.com/.attachments/42584fe4a7c8b4441b4739bf93d9c3d7/9f3ab1e9/00027.png?ts=1657605398&userId=usrf0GZYc5zCl9Cv7&cs=5c5fe23f8439d48f",
   "language": "en-US",
   "tokenId": "10030002712200100120080012004000201200420620052006001000000000000000000000424",
@@ -21,7 +21,7 @@
           "name": "HarvestYield",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "nexusLink": "https://arken.gg/item-attribute/harvestyield",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -43,7 +43,7 @@
           "name": "RemoveFees",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "nexusLink": "https://arken.gg/item-attribute/removefees",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -65,7 +65,7 @@
           "name": "SendHarvestHiddenPool",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+          "nexusLink": "https://arken.gg/item-attribute/sendharvesthiddenpool",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -87,7 +87,7 @@
           "name": "FindGuildToken",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/findguildtoken",
+          "nexusLink": "https://arken.gg/item-attribute/findguildtoken",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -109,7 +109,7 @@
           "name": "HarvestCritMultiplier",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestcritmultiplier",
+          "nexusLink": "https://arken.gg/item-attribute/harvestcritmultiplier",
           "paramType1": "percent",
           "paramValue1": "0-10",
           "nature": "Buff",
@@ -131,7 +131,7 @@
           "name": "HarvestBurn",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "nexusLink": "https://arken.gg/item-attribute/harvestburn",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -149,55 +149,13 @@
           "attributeId": 6
         }
       ],
-      "perfection": [
-        3,
-        3,
-        3,
-        4,
-        5,
-        0
-      ],
+      "perfection": [3, 3, 3, 4, 5, 0],
       "presets": {
-        "2": [
-          3,
-          3,
-          3,
-          4,
-          5,
-          0
-        ],
-        "3": [
-          3,
-          3,
-          3,
-          4,
-          5,
-          0
-        ],
-        "4": [
-          2,
-          2,
-          2,
-          3,
-          4,
-          0
-        ],
-        "5": [
-          2,
-          2,
-          2,
-          3,
-          4,
-          0
-        ],
-        "6": [
-          1,
-          1,
-          0,
-          1,
-          3,
-          2
-        ]
+        "2": [3, 3, 3, 4, 5, 0],
+        "3": [3, 3, 3, 4, 5, 0],
+        "4": [2, 2, 2, 3, 4, 0],
+        "5": [2, 2, 2, 3, 4, 0],
+        "6": [1, 1, 0, 1, 3, 2]
       }
     },
     "2": {
@@ -207,15 +165,13 @@
           "name": "IncreaseMovementSpeedOnKill",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasemovementspeedonkill",
+          "nexusLink": "https://arken.gg/item-attribute/increasemovementspeedonkill",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Movement",
           "description": "{parameter1} movement speed on kill",
           "param1": {
-            "spec": [
-              "3-5"
-            ],
+            "spec": ["3-5"],
             "min": 3,
             "max": 3,
             "value": 3
@@ -227,7 +183,7 @@
           "name": "DeathPenaltyDecrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltydecrease",
+          "nexusLink": "https://arken.gg/item-attribute/deathpenaltydecrease",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Buff",
@@ -245,7 +201,7 @@
           "name": "PhysicalDamage",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/physicaldamage",
+          "nexusLink": "https://arken.gg/item-attribute/physicaldamage",
           "paramType1": "value",
           "paramValue1": "0-35",
           "nature": "Buff",
@@ -263,7 +219,7 @@
           "name": "PassiveRegenOnKill",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/passiveregenonkill",
+          "nexusLink": "https://arken.gg/item-attribute/passiveregenonkill",
           "paramType1": "value",
           "nature": "Buff",
           "influences": "Game",
@@ -280,7 +236,7 @@
           "name": "CriticalHitMultiplier",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalhitmultiplier",
+          "nexusLink": "https://arken.gg/item-attribute/criticalhitmultiplier",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Offense",
@@ -297,7 +253,7 @@
           "name": "AilmentResist",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/ailmentresist",
+          "nexusLink": "https://arken.gg/item-attribute/ailmentresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
@@ -310,55 +266,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        null,
-        3,
-        3,
-        4,
-        5,
-        5
-      ],
+      "perfection": [null, 3, 3, 4, 5, 5],
       "presets": {
-        "2": [
-          null,
-          3,
-          3,
-          4,
-          5,
-          5
-        ],
-        "3": [
-          null,
-          3,
-          3,
-          4,
-          5,
-          5
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [null, 3, 3, 4, 5, 5],
+        "3": [null, 3, 3, 4, 5, 5],
+        "4": [null, null, null, null, null, null],
+        "5": [null, null, null, null, null, null],
+        "6": [null, null, null, null, null, null]
       }
     },
     "3": {
@@ -368,7 +282,7 @@
           "name": "IncreaseStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -397,7 +311,7 @@
           "name": "IncreaseHealth",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasehealth",
+          "nexusLink": "https://arken.gg/item-attribute/increasehealth",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -415,7 +329,7 @@
           "name": "IncreaseDamage",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamage",
+          "nexusLink": "https://arken.gg/item-attribute/increasedamage",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-200",
@@ -444,7 +358,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -461,7 +375,7 @@
           "name": "CriticalHitMultiplier",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalhitmultiplier",
+          "nexusLink": "https://arken.gg/item-attribute/criticalhitmultiplier",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Offense",
@@ -478,7 +392,7 @@
           "name": "UnlockSkills",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -495,50 +409,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        5,
-        4,
-        3,
-        4,
-        5,
-        null
-      ],
+      "perfection": [5, 4, 3, 4, 5, null],
       "presets": {
-        "2": [
-          5,
-          4,
-          3,
-          4,
-          5
-        ],
-        "3": [
-          5,
-          4,
-          3,
-          4,
-          5
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [5, 4, 3, 4, 5],
+        "3": [5, 4, 3, 4, 5],
+        "4": [null, null, null, null, null],
+        "5": [null, null, null, null, null],
+        "6": [null, null, null, null, null]
       }
     },
     "4": {
@@ -627,7 +504,7 @@
       "name": "HarvestYield",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "nexusLink": "https://arken.gg/item-attribute/harvestyield",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -650,7 +527,7 @@
       "name": "RemoveFees",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "nexusLink": "https://arken.gg/item-attribute/removefees",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -673,7 +550,7 @@
       "name": "SendHarvestHiddenPool",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+      "nexusLink": "https://arken.gg/item-attribute/sendharvesthiddenpool",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -696,7 +573,7 @@
       "name": "FindGuildToken",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/findguildtoken",
+      "nexusLink": "https://arken.gg/item-attribute/findguildtoken",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -719,7 +596,7 @@
       "name": "HarvestCritMultiplier",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestcritmultiplier",
+      "nexusLink": "https://arken.gg/item-attribute/harvestcritmultiplier",
       "paramType1": "percent",
       "paramValue1": "0-10",
       "nature": "Buff",
@@ -742,7 +619,7 @@
       "name": "HarvestBurn",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "nexusLink": "https://arken.gg/item-attribute/harvestburn",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -762,11 +639,7 @@
     }
   ],
   "perfection": 0.44,
-  "slots": [
-    "Finger 1",
-    "Trinket 2",
-    "Finger 2"
-  ],
+  "slots": ["Finger 1", "Trinket 2", "Finger 2"],
   "meta": {
     "harvestYield": 1,
     "harvestFeeToken": "",
@@ -826,13 +699,8 @@
   },
   "shortDescription": "",
   "visualDescription": "Instinct is a crudely crafted bronze ring, etched with strange, otherworldly symbols.",
-  "skills": [
-    476
-  ],
-  "materials": [
-    9,
-    34
-  ],
+  "skills": [476],
+  "materials": [9, 34],
   "version": 3,
   "shortTokenId": "10030002712200100120080...424",
   "rarity": {

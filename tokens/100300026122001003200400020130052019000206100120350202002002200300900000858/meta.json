@@ -2,10 +2,10 @@
   "description": [
     "The method and materials used to create this object of transcendant beauty and power have long been lost to the world."
   ],
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300026122001003200400020130052019000206100120350202002002200300900000858",
-  "catalog_url": "https://rune.game/catalog/26",
-  "image": "https://rune.game/images/items/00026.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300026122001003200400020130052019000206100120350202002002200300900000858",
+  "catalog_url": "https://arken.gg/catalog/26",
+  "image": "https://arken.gg/images/items/00026.png",
   "language": "en-US",
   "tokenId": "100300026122001003200400020130052019000206100120350202002002200300900000858",
   "details": {
@@ -126,62 +126,13 @@
           "value": 9
         }
       ],
-      "perfection": [
-        4,
-        3,
-        null,
-        1,
-        5,
-        null,
-        0,
-        null
-      ],
+      "perfection": [4, 3, null, 1, 5, null, 0, null],
       "presents": {
-        "2": [
-          4,
-          3,
-          null,
-          1,
-          5,
-          null,
-          0
-        ],
-        "3": [
-          4,
-          3,
-          null,
-          1,
-          5,
-          null,
-          0
-        ],
-        "4": [
-          3,
-          2,
-          null,
-          0,
-          4,
-          null,
-          0
-        ],
-        "5": [
-          3,
-          2,
-          null,
-          0,
-          3,
-          null,
-          3
-        ],
-        "6": [
-          2,
-          0,
-          null,
-          0,
-          1,
-          null,
-          8
-        ]
+        "2": [4, 3, null, 1, 5, null, 0],
+        "3": [4, 3, null, 1, 5, null, 0],
+        "4": [3, 2, null, 0, 4, null, 0],
+        "5": [3, 2, null, 0, 3, null, 3],
+        "6": [2, 0, null, 0, 1, null, 8]
       }
     },
     "2": {
@@ -394,10 +345,7 @@
     }
   ],
   "perfection": 0.26,
-  "slots": [
-    "Finger 1",
-    "Finger 2"
-  ],
+  "slots": ["Finger 1", "Finger 2"],
   "meta": {
     "harvestYield": 3,
     "harvestFeeToken": "THUL",
@@ -412,7 +360,7 @@
   },
   "id": 26,
   "name": "Eternity",
-  "icon": "https://rune.game/images/items/00026.png",
+  "icon": "https://arken.gg/images/items/00026.png",
   "type": "Ring",
   "isNew": true,
   "isEquipable": false,

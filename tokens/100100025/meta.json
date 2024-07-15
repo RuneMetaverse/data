@@ -1,9 +1,9 @@
 {
   "description": "Soft yet resilient Wyrmhide skillfully shaped into a belt after Sage fashion.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100100025",
-  "catalog_url": "https://rune.game/catalog/25",
-  "image": "https://rune.game/images/items/00025.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100100025",
+  "catalog_url": "https://arken.gg/catalog/25",
+  "image": "https://arken.gg/images/items/00025.png",
   "language": "en-US",
   "tokenId": "100100025",
   "details": {
@@ -85,29 +85,18 @@
           }
         }
       ],
-      "perfection": [
-        3,
-        5,
-        0,
-        20
-      ]
+      "perfection": [3, 5, 0, 20]
     },
     "2": {
-      "description": [
-        "To be announced."
-      ],
+      "description": ["To be announced."],
       "attributes": []
     },
     "3": {
-      "description": [
-        "To be announced."
-      ],
+      "description": ["To be announced."],
       "attributes": []
     },
     "4": {
-      "description": [
-        "To be announced."
-      ],
+      "description": ["To be announced."],
       "attributes": []
     }
   },
@@ -186,9 +175,7 @@
     }
   ],
   "perfection": null,
-  "slots": [
-    "Waist"
-  ],
+  "slots": ["Waist"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",
@@ -200,7 +187,7 @@
   },
   "id": 25,
   "name": "Balance",
-  "icon": "https://rune.game/images/items/00025.png",
+  "icon": "https://arken.gg/images/items/00025.png",
   "type": "None",
   "isNew": true,
   "isEquipable": true,

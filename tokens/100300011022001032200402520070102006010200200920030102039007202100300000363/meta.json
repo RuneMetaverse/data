@@ -1,9 +1,9 @@
 {
   "description": "Crafted with the finest Druid material, this Sage Bow is imbued to seek out what is hidden.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300011022001032200402520070102006010200200920030102039007202100300000363",
-  "catalog_url": "https://rune.game/catalog/11",
-  "image": "https://rune.game/images/items/00011.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300011022001032200402520070102006010200200920030102039007202100300000363",
+  "catalog_url": "https://arken.gg/catalog/11",
+  "image": "https://arken.gg/images/items/00011.png",
   "language": "en-US",
   "tokenId": "100300011022001032200402520070102006010200200920030102039007202100300000363",
   "details": {
@@ -1139,49 +1139,13 @@
           "attributeId": 21
         }
       ],
-      "perfection": [
-        40,
-        null,
-        null,
-        10,
-        5
-      ],
+      "perfection": [40, null, null, 10, 5],
       "presents": {
-        "2": [
-          40,
-          null,
-          null,
-          10,
-          5
-        ],
-        "3": [
-          40,
-          null,
-          null,
-          10,
-          5
-        ],
-        "4": [
-          38,
-          null,
-          null,
-          10,
-          5
-        ],
-        "5": [
-          31,
-          null,
-          null,
-          11,
-          8
-        ],
-        "6": [
-          16,
-          null,
-          null,
-          14,
-          13
-        ]
+        "2": [40, null, null, 10, 5],
+        "3": [40, null, null, 10, 5],
+        "4": [38, null, null, 10, 5],
+        "5": [31, null, null, 11, 8],
+        "6": [16, null, null, 14, 13]
       }
     },
     "2": {
@@ -2407,9 +2371,7 @@
     }
   ],
   "perfection": 0.77,
-  "slots": [
-    "Left Hand"
-  ],
+  "slots": ["Left Hand"],
   "meta": {
     "harvestYield": 32,
     "harvestFeeToken": "AMN",
@@ -2426,7 +2388,7 @@
   },
   "id": 11,
   "name": "Grace",
-  "icon": "https://rune.game/images/items/00011.png",
+  "icon": "https://arken.gg/images/items/00011.png",
   "type": "Two Handed Weapon",
   "isNew": false,
   "isEquipable": true,

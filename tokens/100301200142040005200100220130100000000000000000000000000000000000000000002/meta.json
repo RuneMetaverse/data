@@ -1,11 +1,9 @@
 {
-  "description": [
-    "Rewarded to Rune Scholars for their noble service."
-  ],
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100301200142040005200100220130100000000000000000000000000000000000000000002",
-  "catalog_url": "https://rune.game/catalog/1200",
-  "image": "https://rune.game/images/items/01200.png",
+  "description": ["Rewarded to Rune Scholars for their noble service."],
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100301200142040005200100220130100000000000000000000000000000000000000000002",
+  "catalog_url": "https://arken.gg/catalog/1200",
+  "image": "https://arken.gg/images/items/01200.png",
   "language": "en-US",
   "tokenId": "100301200142040005200100220130100000000000000000000000000000000000000000002",
   "details": {
@@ -205,11 +203,7 @@
     }
   ],
   "perfection": 1,
-  "slots": [
-    "Trinket 1",
-    "Trinket 2",
-    "Trinket 3"
-  ],
+  "slots": ["Trinket 1", "Trinket 2", "Trinket 3"],
   "meta": {
     "harvestYield": 2,
     "harvestFeeToken": "",
@@ -222,7 +216,7 @@
   },
   "id": 1200,
   "name": "Scholar's Codex",
-  "icon": "https://rune.game/images/items/01200.png",
+  "icon": "https://arken.gg/images/items/01200.png",
   "type": "Trinket",
   "isNew": false,
   "isEquipable": true,

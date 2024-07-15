@@ -1,9 +1,9 @@
 {
   "description": "An ancient helm forged by the Archons to seek out powerful shards in the battle between Heaven and Hell.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/10010000310011002100024689",
-  "catalog_url": "https://rune.game/catalog/3",
-  "image": "https://rune.game/images/items/00003.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/10010000310011002100024689",
+  "catalog_url": "https://arken.gg/catalog/3",
+  "image": "https://arken.gg/images/items/00003.png",
   "language": "en-US",
   "tokenId": "10010000310011002100024689",
   "details": {
@@ -48,31 +48,13 @@
           "attributeId": 7
         }
       ],
-      "perfection": [
-        3,
-        1
-      ],
+      "perfection": [3, 1],
       "presents": {
-        "2": [
-          3,
-          1
-        ],
-        "3": [
-          3,
-          1
-        ],
-        "4": [
-          2,
-          1
-        ],
-        "5": [
-          2,
-          1
-        ],
-        "6": [
-          1,
-          2
-        ]
+        "2": [3, 1],
+        "3": [3, 1],
+        "4": [2, 1],
+        "5": [2, 1],
+        "6": [1, 2]
       }
     },
     "2": {
@@ -133,11 +115,7 @@
         "5": [],
         "6": []
       },
-      "perfection": [
-        null,
-        null,
-        0
-      ]
+      "perfection": [null, null, 0]
     }
   },
   "shorthand": "1-2",
@@ -192,9 +170,7 @@
     }
   ],
   "perfection": 0.25,
-  "slots": [
-    "Head"
-  ],
+  "slots": ["Head"],
   "meta": {
     "harvestYield": 1,
     "harvestFeeToken": "",
@@ -208,7 +184,7 @@
   },
   "id": 3,
   "name": "Lorekeeper",
-  "icon": "https://rune.game/images/items/00003.png",
+  "icon": "https://arken.gg/images/items/00003.png",
   "type": "None",
   "isNew": false,
   "isEquipable": true,

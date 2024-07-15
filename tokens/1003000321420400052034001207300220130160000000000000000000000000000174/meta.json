@@ -1,7 +1,7 @@
 {
   "description": "Delicate and vibrant with color, these glowfly wings bestow the holder with periodic bursts of speed and agility.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1003000321420400052034001207300220130160000000000000000000000000000174",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1003000321420400052034001207300220130160000000000000000000000000000174",
   "image_url": "/images/items/00032.png",
   "language": "en-US",
   "tokenId": "1003000321420400052034001207300220130160000000000000000000000000000174",
@@ -20,7 +20,7 @@
           "name": "Rarity",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/rarity",
           "paramType1": "value",
           "paramValue1": "0-999",
           "nature": "Neutral",
@@ -54,7 +54,7 @@
           "name": "AvoidBurn",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/avoidburn",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/avoidburn",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -76,7 +76,7 @@
           "name": "HarvestTheftDefense",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvesttheftdefense",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvesttheftdefense",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Mechanic",
@@ -98,7 +98,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -116,43 +116,13 @@
           "attributeId": 13
         }
       ],
-      "perfection": [
-        null,
-        2,
-        null,
-        20
-      ],
+      "perfection": [null, 2, null, 20],
       "presets": {
-        "2": [
-          null,
-          2,
-          null,
-          20
-        ],
-        "3": [
-          null,
-          2,
-          null,
-          20
-        ],
-        "4": [
-          null,
-          1,
-          null,
-          19
-        ],
-        "5": [
-          null,
-          1,
-          null,
-          18
-        ],
-        "6": [
-          null,
-          0,
-          null,
-          15
-        ]
+        "2": [null, 2, null, 20],
+        "3": [null, 2, null, 20],
+        "4": [null, 1, null, 19],
+        "5": [null, 1, null, 18],
+        "6": [null, 0, null, 15]
       }
     },
     "2": {
@@ -162,15 +132,13 @@
           "name": "Rarity",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/rarity",
           "paramType1": "value",
           "paramValue1": "0-999",
           "nature": "Neutral",
           "description": "{parameter1}",
           "param1": {
-            "spec": [
-              "3-6"
-            ],
+            "spec": ["3-6"],
             "min": 3,
             "max": 3,
             "value": 3,
@@ -184,7 +152,7 @@
           "name": "MovementSpeedIncrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/movementspeedincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/movementspeedincrease",
           "paramType1": "percent",
           "paramValue1": "0-10",
           "nature": "Buff",
@@ -203,7 +171,7 @@
           "name": "DeathPenaltyAvoid",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltyavoid",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/deathpenaltyavoid",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Buff",
@@ -222,7 +190,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -236,43 +204,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        null,
-        2,
-        3,
-        20
-      ],
+      "perfection": [null, 2, 3, 20],
       "presets": {
-        "2": [
-          null,
-          2,
-          3,
-          20
-        ],
-        "3": [
-          null,
-          2,
-          3,
-          20
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [null, 2, 3, 20],
+        "3": [null, 2, 3, 20],
+        "4": [null, null, null, null],
+        "5": [null, null, null, null],
+        "6": [null, null, null, null]
       }
     },
     "3": {
@@ -282,7 +220,7 @@
           "name": "Rarity",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/rarity",
           "paramType1": "rarity",
           "nature": "Mechanic",
           "param1": {
@@ -297,7 +235,7 @@
           "name": "IncreaseStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -322,7 +260,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -336,37 +274,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        null,
-        2,
-        20
-      ],
+      "perfection": [null, 2, 20],
       "presets": {
-        "2": [
-          null,
-          2,
-          20
-        ],
-        "3": [
-          null,
-          2,
-          20
-        ],
-        "4": [
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null
-        ]
+        "2": [null, 2, 20],
+        "3": [null, 2, 20],
+        "4": [null, null, null],
+        "5": [null, null, null],
+        "6": [null, null, null]
       }
     },
     "4": {
@@ -453,7 +367,7 @@
       "name": "Rarity",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/rarity",
       "paramType1": "value",
       "paramValue1": "0-999",
       "nature": "Neutral",
@@ -488,7 +402,7 @@
       "name": "AvoidBurn",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/avoidburn",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/avoidburn",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -511,7 +425,7 @@
       "name": "HarvestTheftDefense",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvesttheftdefense",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvesttheftdefense",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Mechanic",
@@ -534,7 +448,7 @@
       "name": "MagicFind",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
       "paramType1": "percent",
       "paramValue1": "0-999",
       "nature": "Buff",
@@ -554,11 +468,7 @@
     }
   ],
   "perfection": 0.41,
-  "slots": [
-    "Trinket 1",
-    "Trinket 2",
-    "Trinket 3"
-  ],
+  "slots": ["Trinket 1", "Trinket 2", "Trinket 3"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",

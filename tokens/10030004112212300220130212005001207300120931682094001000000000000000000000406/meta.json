@@ -1,16 +1,14 @@
 {
   "description": "Commissioned by a legendary Elysium Mage adventurer, this ring is designed to turn devastating blunders into minor errors.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/10030004112212300220130212005001207300120931682094001000000000000000000000406",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/10030004112212300220130212005001207300120931682094001000000000000000000000406",
   "image_url": "https://dl.airtable.com/.attachments/c63d3d7e5a6bce34882c7e17e6ed9287/70fd8c23/image19.png",
   "language": "en-US",
   "tokenId": "10030004112212300220130212005001207300120931682094001000000000000000000000406",
   "details": {
     "Type": "Ring",
     "Subtype": "Prism Band",
-    "Distribution": [
-      "Crafted"
-    ]
+    "Distribution": ["Crafted"]
   },
   "branches": {
     "1": {
@@ -22,11 +20,9 @@
           "displayName": "Avoid Harvest Loss Without Bonus",
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/avoidharvestlosswithoutbonus",
+          "link": "https://arken.gg/item-attribute/avoidharvestlosswithoutbonus",
           "isImplemented": false,
-          "paramTypes": [
-            "value"
-          ],
+          "paramTypes": ["value"],
           "nature": "Buff",
           "description": "{parameter1} chance to avoid harvest loss effects, receiving harvest without bonuses",
           "explanation": "",
@@ -51,14 +47,10 @@
           "listOrder": 300.51,
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/magicfind",
+          "link": "https://arken.gg/item-attribute/magicfind",
           "isImplemented": false,
-          "paramTypes": [
-            "value"
-          ],
-          "paramValues": [
-            "0-999%"
-          ],
+          "paramTypes": ["value"],
+          "paramValues": ["0-999%"],
           "nature": "Buff",
           "description": "{parameter1} Magic Find",
           "explanation": "",
@@ -84,14 +76,10 @@
           "listOrder": 500.51,
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/burnentireharvest",
+          "link": "https://arken.gg/item-attribute/burnentireharvest",
           "isImplemented": true,
-          "paramTypes": [
-            "value"
-          ],
-          "paramValues": [
-            "0-100%"
-          ],
+          "paramTypes": ["value"],
+          "paramValues": ["0-100%"],
           "nature": "Debuff",
           "description": "{parameter1} Chance To Lose Entire Harvest",
           "explanation": "",
@@ -117,14 +105,10 @@
           "listOrder": 700.5,
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/harvesttheftdefense",
+          "link": "https://arken.gg/item-attribute/harvesttheftdefense",
           "isImplemented": false,
-          "paramTypes": [
-            "value"
-          ],
-          "paramValues": [
-            "0-100%"
-          ],
+          "paramTypes": ["value"],
+          "paramValues": ["0-100%"],
           "nature": "Mechanic",
           "description": "{parameter1} Theft Counter Chance",
           "explanation": "",
@@ -149,12 +133,9 @@
           "displayName": "Attribute Unlock On Consecutive Equip Time",
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/attributeunlockonconsecutiveequiptime",
+          "link": "https://arken.gg/item-attribute/attributeunlockonconsecutiveequiptime",
           "isImplemented": false,
-          "paramTypes": [
-            "hours",
-            "(attribute, (paramValues[]))[]"
-          ],
+          "paramTypes": ["hours", "(attribute, (paramValues[]))[]"],
           "nature": "Requirement",
           "description": "Must equip for {parameter1} consecutive hours to receive benefit of {parameter2}",
           "explanation": "",
@@ -177,14 +158,10 @@
           "displayName": "Target Attribute To Unlock",
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/targetattributetounlock",
+          "link": "https://arken.gg/item-attribute/targetattributetounlock",
           "isImplemented": false,
-          "paramTypes": [
-            "attributeSlot"
-          ],
-          "paramValues": [
-            "0-7"
-          ],
+          "paramTypes": ["attributeSlot"],
+          "paramValues": ["0-7"],
           "nature": "Neutral",
           "description": "{parameter1} To Unlock",
           "explanation": "",
@@ -201,40 +178,13 @@
           "attributeId": 94
         }
       ],
-      "perfection": [
-        8,
-        30,
-        0,
-        null,
-        null,
-        null
-      ],
+      "perfection": [8, 30, 0, null, null, null],
       "presets": {
-        "2": [
-          8,
-          30,
-          0
-        ],
-        "3": [
-          8,
-          30,
-          0
-        ],
-        "4": [
-          7,
-          29,
-          0
-        ],
-        "5": [
-          5,
-          25,
-          0
-        ],
-        "6": [
-          1,
-          18,
-          1
-        ]
+        "2": [8, 30, 0],
+        "3": [8, 30, 0],
+        "4": [7, 29, 0],
+        "5": [5, 25, 0],
+        "6": [1, 18, 1]
       }
     },
     "2": {
@@ -247,14 +197,10 @@
           "listOrder": 100.5,
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/harvestyield",
+          "link": "https://arken.gg/item-attribute/harvestyield",
           "isImplemented": true,
-          "paramTypes": [
-            "value"
-          ],
-          "paramValues": [
-            "0-100%"
-          ],
+          "paramTypes": ["value"],
+          "paramValues": ["0-100%"],
           "nature": "Buff",
           "description": "{parameter1} Increased Harvest Yield",
           "explanation": ""
@@ -266,23 +212,16 @@
           "displayName": "Harvest Locked Lp",
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/harvestlockedlp",
+          "link": "https://arken.gg/item-attribute/harvestlockedlp",
           "isImplemented": false,
-          "paramTypes": [
-            "value"
-          ],
-          "paramValues": [
-            "0-100%"
-          ],
+          "paramTypes": ["value"],
+          "paramValues": ["0-100%"],
           "nature": "Neutral",
           "description": "{parameter1} Harvest Buy & Lock LP",
           "explanation": ""
         }
       ],
-      "perfection": [
-        null,
-        null
-      ],
+      "perfection": [null, null],
       "presets": {
         "2": [],
         "3": [],
@@ -300,22 +239,16 @@
           "displayName": "Harvest Locked Lp",
           "isEnabled": true,
           "game": 1,
-          "link": "https://rune.game/item-attribute/harvestlockedlp",
+          "link": "https://arken.gg/item-attribute/harvestlockedlp",
           "isImplemented": false,
-          "paramTypes": [
-            "value"
-          ],
-          "paramValues": [
-            "0-100%"
-          ],
+          "paramTypes": ["value"],
+          "paramValues": ["0-100%"],
           "nature": "Neutral",
           "description": "{parameter1} Harvest Buy & Lock LP",
           "explanation": ""
         }
       ],
-      "perfection": [
-        null
-      ],
+      "perfection": [null],
       "presets": {
         "2": [],
         "3": [],
@@ -412,11 +345,9 @@
       "displayName": "Avoid Harvest Loss Without Bonus",
       "isEnabled": true,
       "game": 1,
-      "link": "https://rune.game/item-attribute/avoidharvestlosswithoutbonus",
+      "link": "https://arken.gg/item-attribute/avoidharvestlosswithoutbonus",
       "isImplemented": false,
-      "paramTypes": [
-        "value"
-      ],
+      "paramTypes": ["value"],
       "nature": "Buff",
       "description": "{parameter1} chance to avoid harvest loss effects, receiving harvest without bonuses",
       "explanation": "",
@@ -442,14 +373,10 @@
       "listOrder": 300.51,
       "isEnabled": true,
       "game": 1,
-      "link": "https://rune.game/item-attribute/magicfind",
+      "link": "https://arken.gg/item-attribute/magicfind",
       "isImplemented": false,
-      "paramTypes": [
-        "value"
-      ],
-      "paramValues": [
-        "0-999%"
-      ],
+      "paramTypes": ["value"],
+      "paramValues": ["0-999%"],
       "nature": "Buff",
       "description": "{parameter1} Magic Find",
       "explanation": "",
@@ -476,14 +403,10 @@
       "listOrder": 500.51,
       "isEnabled": true,
       "game": 1,
-      "link": "https://rune.game/item-attribute/burnentireharvest",
+      "link": "https://arken.gg/item-attribute/burnentireharvest",
       "isImplemented": true,
-      "paramTypes": [
-        "value"
-      ],
-      "paramValues": [
-        "0-100%"
-      ],
+      "paramTypes": ["value"],
+      "paramValues": ["0-100%"],
       "nature": "Debuff",
       "description": "{parameter1} Chance To Lose Entire Harvest",
       "explanation": "",
@@ -510,14 +433,10 @@
       "listOrder": 700.5,
       "isEnabled": true,
       "game": 1,
-      "link": "https://rune.game/item-attribute/harvesttheftdefense",
+      "link": "https://arken.gg/item-attribute/harvesttheftdefense",
       "isImplemented": false,
-      "paramTypes": [
-        "value"
-      ],
-      "paramValues": [
-        "0-100%"
-      ],
+      "paramTypes": ["value"],
+      "paramValues": ["0-100%"],
       "nature": "Mechanic",
       "description": "{parameter1} Theft Counter Chance",
       "explanation": "",
@@ -543,12 +462,9 @@
       "displayName": "Attribute Unlock On Consecutive Equip Time",
       "isEnabled": true,
       "game": 1,
-      "link": "https://rune.game/item-attribute/attributeunlockonconsecutiveequiptime",
+      "link": "https://arken.gg/item-attribute/attributeunlockonconsecutiveequiptime",
       "isImplemented": false,
-      "paramTypes": [
-        "hours",
-        "(attribute, (paramValues[]))[]"
-      ],
+      "paramTypes": ["hours", "(attribute, (paramValues[]))[]"],
       "nature": "Requirement",
       "description": "Must equip for {parameter1} consecutive hours to receive benefit of {parameter2}",
       "explanation": "",
@@ -572,14 +488,10 @@
       "displayName": "Target Attribute To Unlock",
       "isEnabled": true,
       "game": 1,
-      "link": "https://rune.game/item-attribute/targetattributetounlock",
+      "link": "https://arken.gg/item-attribute/targetattributetounlock",
       "isImplemented": false,
-      "paramTypes": [
-        "attributeSlot"
-      ],
-      "paramValues": [
-        "0-7"
-      ],
+      "paramTypes": ["attributeSlot"],
+      "paramValues": ["0-7"],
       "nature": "Neutral",
       "description": "{parameter1} To Unlock",
       "explanation": "",
@@ -598,11 +510,7 @@
     }
   ],
   "perfection": 0.38,
-  "slots": [
-    "Finger 1",
-    "Finger 2",
-    "Trinket 2"
-  ],
+  "slots": ["Finger 1", "Finger 2", "Trinket 2"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",

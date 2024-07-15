@@ -2,9 +2,9 @@
   "description": [
     "Captured during the last breath of a dragon, this brilliant stone is imbued with energy that protects the owner, and is said to bring great furtune."
   ],
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1003000291320400052001003200803020130162007010000000000000000000000344",
-  "image_url": "https://rune.game/images/items/00029.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1003000291320400052001003200803020130162007010000000000000000000000344",
+  "image_url": "https://arken.gg/images/items/00029.png",
   "language": "en-US",
   "tokenId": "1003000291320400052001003200803020130162007010000000000000000000000344",
   "details": {
@@ -75,44 +75,13 @@
           "attributeId": 7
         }
       ],
-      "perfection": [
-        null,
-        5,
-        50,
-        20,
-        null
-      ],
+      "perfection": [null, 5, 50, 20, null],
       "presets": {
-        "2": [
-          null,
-          5,
-          50,
-          20
-        ],
-        "3": [
-          null,
-          5,
-          50,
-          20
-        ],
-        "4": [
-          null,
-          4,
-          48,
-          19
-        ],
-        "5": [
-          null,
-          4,
-          41,
-          18
-        ],
-        "6": [
-          null,
-          2,
-          26,
-          15
-        ]
+        "2": [null, 5, 50, 20],
+        "3": [null, 5, 50, 20],
+        "4": [null, 4, 48, 19],
+        "5": [null, 4, 41, 18],
+        "6": [null, 2, 26, 15]
       }
     },
     "2": {
@@ -273,9 +242,7 @@
     }
   ],
   "perfection": 0.33,
-  "slots": [
-    "Neck"
-  ],
+  "slots": ["Neck"],
   "meta": {
     "harvestYield": 3,
     "harvestFeeToken": "",
@@ -293,7 +260,7 @@
   },
   "id": 29,
   "name": "Dragonlight",
-  "icon": "https://rune.game/images/items/00029.png",
+  "icon": "https://arken.gg/images/items/00029.png",
   "isSecret": false,
   "type": "Amulet",
   "isNew": true,

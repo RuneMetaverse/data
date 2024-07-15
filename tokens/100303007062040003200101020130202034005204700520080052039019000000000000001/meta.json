@@ -1,9 +1,9 @@
 {
   "description": "",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100303007062040003200101020130202034005204700520080052039019000000000000001",
-  "catalog_url": "https://rune.game/catalog/3007",
-  "image": "https://rune.game/images/items/03007.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100303007062040003200101020130202034005204700520080052039019000000000000001",
+  "catalog_url": "https://arken.gg/catalog/3007",
+  "image": "https://arken.gg/images/items/03007.png",
   "language": "en-US",
   "tokenId": "100303007062040003200101020130202034005204700520080052039019000000000000001",
   "details": {
@@ -15,9 +15,7 @@
   },
   "branches": {
     "1": {
-      "description": [
-        ""
-      ],
+      "description": [""],
       "attributes": [
         {
           "id": 40,
@@ -4389,9 +4387,7 @@
     }
   ],
   "perfection": 1,
-  "slots": [
-    "Pet"
-  ],
+  "slots": ["Pet"],
   "meta": {
     "harvestYield": 10,
     "harvestFeeToken": "",
@@ -4408,7 +4404,7 @@
   },
   "id": 3007,
   "name": "Forest Turtle",
-  "icon": "https://rune.game/images/items/03007.png",
+  "icon": "https://arken.gg/images/items/03007.png",
   "video": "undefinedvideos/items/03007.mp4",
   "isPublishable": true,
   "isSecret": false,

@@ -1,7 +1,7 @@
 {
   "description": "A shield designed for Vira royalty, it has been blessed with a protective aura.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1003000150320080102012004201300920110042047003203900320210050000000000000113",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1003000150320080102012004201300920110042047003203900320210050000000000000113",
   "image_url": "/images/items/00015.png",
   "language": "en-US",
   "tokenId": "1003000150320080102012004201300920110042047003203900320210050000000000000113",
@@ -19,7 +19,7 @@
           "name": "RemoveFees",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "nexusLink": "https://arken.gg/item-attribute/removefees",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -41,7 +41,7 @@
           "name": "FindGuildToken",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/findguildtoken",
+          "nexusLink": "https://arken.gg/item-attribute/findguildtoken",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -63,7 +63,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -85,7 +85,7 @@
           "name": "RandomRuneExchange",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "nexusLink": "https://arken.gg/item-attribute/randomruneexchange",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Mechanic",
@@ -107,7 +107,7 @@
           "name": "ReduceBurn",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/reduceburn",
+          "nexusLink": "https://arken.gg/item-attribute/reduceburn",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -129,7 +129,7 @@
           "name": "AddSkill",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+          "nexusLink": "https://arken.gg/item-attribute/addskill",
           "paramType1": "skill",
           "paramValue1": "0-999",
           "nature": "Requirement",
@@ -157,7 +157,7 @@
           "name": "SpecificClass",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/specificclass",
+          "nexusLink": "https://arken.gg/item-attribute/specificclass",
           "paramType1": "classId",
           "paramValue1": "0-999",
           "nature": "Requirement",
@@ -181,51 +181,13 @@
           }
         }
       ],
-      "perfection": [
-        10,
-        4,
-        10,
-        null,
-        10,
-        null,
-        null
-      ],
+      "perfection": [10, 4, 10, null, 10, null, null],
       "presets": {
-        "2": [
-          10,
-          4,
-          10,
-          null,
-          10
-        ],
-        "3": [
-          10,
-          4,
-          10,
-          null,
-          10
-        ],
-        "4": [
-          9,
-          3,
-          9,
-          null,
-          9
-        ],
-        "5": [
-          7,
-          3,
-          8,
-          null,
-          7
-        ],
-        "6": [
-          3,
-          1,
-          6,
-          null,
-          3
-        ]
+        "2": [10, 4, 10, null, 10],
+        "3": [10, 4, 10, null, 10],
+        "4": [9, 3, 9, null, 9],
+        "5": [7, 3, 8, null, 7],
+        "6": [3, 1, 6, null, 3]
       }
     },
     "2": {
@@ -235,15 +197,13 @@
           "name": "DamageResist",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "nexusLink": "https://arken.gg/item-attribute/damageresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
           "description": "{parameter1} damage resist",
           "param1": {
-            "spec": [
-              "0-8"
-            ],
+            "spec": ["0-8"],
             "min": 0,
             "max": 0,
             "value": 0
@@ -254,7 +214,7 @@
           "name": "MovementSpeedIncrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/movementspeedincrease",
+          "nexusLink": "https://arken.gg/item-attribute/movementspeedincrease",
           "paramType1": "percent",
           "paramValue1": "0-10",
           "nature": "Buff",
@@ -273,7 +233,7 @@
           "name": "DeathPenaltyDecrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltydecrease",
+          "nexusLink": "https://arken.gg/item-attribute/deathpenaltydecrease",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Buff",
@@ -292,7 +252,7 @@
           "name": "SkillMod",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/skillmod",
+          "nexusLink": "https://arken.gg/item-attribute/skillmod",
           "paramType1": "value",
           "paramValue1": "0-5",
           "nature": "Buff",
@@ -310,7 +270,7 @@
           "name": "AilmentResist",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/ailmentresist",
+          "nexusLink": "https://arken.gg/item-attribute/ailmentresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
@@ -328,7 +288,7 @@
           "name": "SkillUnlock",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/skillunlock",
+          "nexusLink": "https://arken.gg/item-attribute/skillunlock",
           "paramType1": "skill",
           "nature": "Mechanic",
           "description": "Unlocked: {parameter1}",
@@ -347,7 +307,7 @@
           "name": "ClassRequirement",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/classrequirement",
+          "nexusLink": "https://arken.gg/item-attribute/classrequirement",
           "paramType1": "class",
           "nature": "Requirement",
           "description": "{parameter1} Required",
@@ -366,7 +326,7 @@
           "name": "WinRewardsDecrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/winrewardsdecrease",
+          "nexusLink": "https://arken.gg/item-attribute/winrewardsdecrease",
           "paramType1": "percent",
           "nature": "Debuff",
           "influences": "Reward",
@@ -379,52 +339,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        5,
-        10,
-        4,
-        10,
-        null,
-        null,
-        null
-      ],
+      "perfection": [null, 5, 10, 4, 10, null, null, null],
       "presets": {
-        "2": [
-          null,
-          5,
-          10,
-          4,
-          10
-        ],
-        "3": [
-          null,
-          5,
-          10,
-          4,
-          10
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [null, 5, 10, 4, 10],
+        "3": [null, 5, 10, 4, 10],
+        "4": [null, null, null, null, null],
+        "5": [null, null, null, null, null],
+        "6": [null, null, null, null, null]
       }
     },
     "3": {
@@ -434,7 +355,7 @@
           "name": "DamageReduce",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "nexusLink": "https://arken.gg/item-attribute/damagereduce",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -464,7 +385,7 @@
           "name": "IncreaseHealth",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasehealth",
+          "nexusLink": "https://arken.gg/item-attribute/increasehealth",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -483,7 +404,7 @@
           "name": "ChanceOnGetHit",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/chanceongethit",
+          "nexusLink": "https://arken.gg/item-attribute/chanceongethit",
           "paramType1": "percent",
           "paramType2": "skill",
           "paramValue1": "0-100",
@@ -512,7 +433,7 @@
           "name": "SelfEffectOnCondition",
           "isEnabled": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/selfeffectoncondition",
+          "nexusLink": "https://arken.gg/item-attribute/selfeffectoncondition",
           "paramType1": "conditions",
           "paramType2": "conditionparams",
           "paramType3": "effect",
@@ -531,7 +452,7 @@
           "name": "IncreaseResist",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "nexusLink": "https://arken.gg/item-attribute/increaseresist",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -561,7 +482,7 @@
           "name": "UnlockSkills",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -581,7 +502,7 @@
           "name": "ClassRequirement",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/classrequirement",
+          "nexusLink": "https://arken.gg/item-attribute/classrequirement",
           "paramType1": "class",
           "nature": "Requirement",
           "description": "{parameter1} Required",
@@ -596,51 +517,13 @@
           }
         }
       ],
-      "perfection": [
-        19,
-        8,
-        10,
-        null,
-        10,
-        null,
-        null
-      ],
+      "perfection": [19, 8, 10, null, 10, null, null],
       "presets": {
-        "2": [
-          19,
-          8,
-          10,
-          null,
-          10
-        ],
-        "3": [
-          19,
-          8,
-          10,
-          null,
-          10
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [19, 8, 10, null, 10],
+        "3": [19, 8, 10, null, 10],
+        "4": [null, null, null, null, null],
+        "5": [null, null, null, null, null],
+        "6": [null, null, null, null, null]
       }
     },
     "4": {
@@ -726,7 +609,7 @@
       "name": "RemoveFees",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "nexusLink": "https://arken.gg/item-attribute/removefees",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -749,7 +632,7 @@
       "name": "FindGuildToken",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/findguildtoken",
+      "nexusLink": "https://arken.gg/item-attribute/findguildtoken",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -772,7 +655,7 @@
       "name": "MagicFind",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "nexusLink": "https://arken.gg/item-attribute/magicfind",
       "paramType1": "percent",
       "paramValue1": "0-999",
       "nature": "Buff",
@@ -795,7 +678,7 @@
       "name": "RandomRuneExchange",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "nexusLink": "https://arken.gg/item-attribute/randomruneexchange",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Mechanic",
@@ -818,7 +701,7 @@
       "name": "ReduceBurn",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/reduceburn",
+      "nexusLink": "https://arken.gg/item-attribute/reduceburn",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -841,7 +724,7 @@
       "name": "AddSkill",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/addskill",
+      "nexusLink": "https://arken.gg/item-attribute/addskill",
       "paramType1": "skill",
       "paramValue1": "0-999",
       "nature": "Requirement",
@@ -870,7 +753,7 @@
       "name": "SpecificClass",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/specificclass",
+      "nexusLink": "https://arken.gg/item-attribute/specificclass",
       "paramType1": "classId",
       "paramValue1": "0-999",
       "nature": "Requirement",
@@ -896,9 +779,7 @@
     }
   ],
   "perfection": 0.73,
-  "slots": [
-    "Right Hand"
-  ],
+  "slots": ["Right Hand"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",
@@ -993,13 +874,8 @@
   },
   "shortDescription": "",
   "visualDescription": "This unique, winged shield is gilded with gold and green accents, although the material appears to be some form of nearly impenetrable dragon bone.",
-  "skills": [
-    471,
-    414
-  ],
-  "materials": [
-    3
-  ],
+  "skills": [471, 414],
+  "materials": [3],
   "version": 3,
   "shortTokenId": "10030001503200801020120...113",
   "rarity": {

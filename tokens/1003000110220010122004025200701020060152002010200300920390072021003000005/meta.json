@@ -1,9 +1,9 @@
 {
   "description": "Crafted with the finest Druid material, this Sage Bow is imbued to seek out what is hidden.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1003000110220010122004025200701020060152002010200300920390072021003000005",
-  "catalog_url": "https://rune.game/catalog/11",
-  "image": "https://rune.game/images/items/00011.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1003000110220010122004025200701020060152002010200300920390072021003000005",
+  "catalog_url": "https://arken.gg/catalog/11",
+  "image": "https://arken.gg/images/items/00011.png",
   "language": "en-US",
   "tokenId": "1003000110220010122004025200701020060152002010200300920390072021003000005",
   "details": {
@@ -135,30 +135,18 @@
           }
         }
       ],
-      "perfection": [
-        40,
-        null,
-        null,
-        10,
-        5
-      ]
+      "perfection": [40, null, null, 10, 5]
     },
     "2": {
-      "description": [
-        "To be announced."
-      ],
+      "description": ["To be announced."],
       "attributes": []
     },
     "3": {
-      "description": [
-        "To be announced."
-      ],
+      "description": ["To be announced."],
       "attributes": []
     },
     "4": {
-      "description": [
-        "To be announced."
-      ],
+      "description": ["To be announced."],
       "attributes": []
     }
   },
@@ -364,9 +352,7 @@
     }
   ],
   "perfection": 0.18,
-  "slots": [
-    "Left Hand"
-  ],
+  "slots": ["Left Hand"],
   "meta": {
     "harvestYield": 12,
     "harvestFeeToken": "THUL",
@@ -382,7 +368,7 @@
   },
   "id": 11,
   "name": "Grace",
-  "icon": "https://rune.game/images/items/00011.png",
+  "icon": "https://arken.gg/images/items/00011.png",
   "type": "Two Handed Weapon",
   "isNew": true,
   "isEquipable": true,

@@ -1,9 +1,9 @@
 {
   "description": "A mysterious staff that appears to be of Archon origin and imbued with the power of time.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300013022001038200401520070152006015200201220030092039005202100200000654",
-  "catalog_url": "https://rune.game/catalog/13",
-  "image": "https://rune.game/images/items/00013.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300013022001038200401520070152006015200201220030092039005202100200000654",
+  "catalog_url": "https://arken.gg/catalog/13",
+  "image": "https://arken.gg/images/items/00013.png",
   "language": "en-US",
   "tokenId": "100300013022001038200401520070152006015200201220030092039005202100200000654",
   "details": {
@@ -1141,49 +1141,13 @@
           "attributeId": 21
         }
       ],
-      "perfection": [
-        40,
-        null,
-        null,
-        10,
-        5
-      ],
+      "perfection": [40, null, null, 10, 5],
       "presents": {
-        "2": [
-          40,
-          null,
-          null,
-          10,
-          5
-        ],
-        "3": [
-          40,
-          null,
-          null,
-          10,
-          5
-        ],
-        "4": [
-          38,
-          null,
-          null,
-          10,
-          5
-        ],
-        "5": [
-          31,
-          null,
-          null,
-          11,
-          8
-        ],
-        "6": [
-          16,
-          null,
-          null,
-          14,
-          13
-        ]
+        "2": [40, null, null, 10, 5],
+        "3": [40, null, null, 10, 5],
+        "4": [38, null, null, 10, 5],
+        "5": [31, null, null, 11, 8],
+        "6": [16, null, null, 14, 13]
       }
     },
     "2": {
@@ -2409,9 +2373,7 @@
     }
   ],
   "perfection": 0.41,
-  "slots": [
-    "Left Hand"
-  ],
+  "slots": ["Left Hand"],
   "meta": {
     "harvestYield": 38,
     "harvestFeeToken": "THUL",
@@ -2428,7 +2390,7 @@
   },
   "id": 13,
   "name": "Destiny",
-  "icon": "https://rune.game/images/items/00013.png",
+  "icon": "https://arken.gg/images/items/00013.png",
   "type": "Two Handed Weapon",
   "isNew": false,
   "isEquipable": true,

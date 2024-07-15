@@ -1,8 +1,8 @@
 {
   "description": "A once unbreakable helm belonging to Lord Irondell, its best days have passed.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300019052007012200600320110042008004000000000000000000000000000000000449",
-  "image_url": "https://rune.game/images/items/00019.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300019052007012200600320110042008004000000000000000000000000000000000449",
+  "image_url": "https://arken.gg/images/items/00019.png",
   "language": "en-US",
   "tokenId": "100300019052007012200600320110042008004000000000000000000000000000000000449",
   "details": {
@@ -20,7 +20,7 @@
           "name": "FindShard",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/findshard",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -42,7 +42,7 @@
           "name": "HarvestBurn",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -64,7 +64,7 @@
           "name": "RandomRuneExchange",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneexchange",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Mechanic",
@@ -86,7 +86,7 @@
           "name": "RemoveFees",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -104,43 +104,13 @@
           "attributeId": 8
         }
       ],
-      "perfection": [
-        15,
-        1,
-        null,
-        5
-      ],
+      "perfection": [15, 1, null, 5],
       "presets": {
-        "2": [
-          15,
-          1,
-          null,
-          5
-        ],
-        "3": [
-          15,
-          1,
-          null,
-          5
-        ],
-        "4": [
-          14,
-          1,
-          null,
-          4
-        ],
-        "5": [
-          10,
-          1,
-          null,
-          3
-        ],
-        "6": [
-          3,
-          2,
-          null,
-          1
-        ]
+        "2": [15, 1, null, 5],
+        "3": [15, 1, null, 5],
+        "4": [14, 1, null, 4],
+        "5": [10, 1, null, 3],
+        "6": [3, 2, null, 1]
       }
     },
     "2": {
@@ -150,15 +120,13 @@
           "name": "DamageResist",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damageresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
           "description": "{parameter1} damage resist",
           "param1": {
-            "spec": [
-              "0-6"
-            ],
+            "spec": ["0-6"],
             "min": 0,
             "max": 0,
             "value": 0
@@ -169,7 +137,7 @@
           "id": 1150,
           "name": "WinRewardsIncrease",
           "isEnabled": true,
-          "nexusLink": "https://nexus.rune.game/item-attribute/winrewardsincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/winrewardsincrease",
           "paramType1": "percent",
           "paramValue1": "0-20",
           "nature": "Buff",
@@ -187,7 +155,7 @@
           "name": "RandomizedItemAttribute",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomizeditemattribute",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomizeditemattribute",
           "paramType1": "randomattributeid",
           "nature": "Mechanic",
           "influences": "All",
@@ -204,7 +172,7 @@
           "name": "DamageResist",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damageresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
@@ -221,7 +189,7 @@
           "name": "LeaderDeathPenaltyIncrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/leaderdeathpenaltyincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/leaderdeathpenaltyincrease",
           "paramType1": "percent",
           "nature": "Debuff",
           "influences": "Game",
@@ -234,44 +202,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        3,
-        null,
-        5,
-        null
-      ],
+      "perfection": [null, 3, null, 5, null],
       "presets": {
-        "2": [
-          null,
-          3,
-          null,
-          5
-        ],
-        "3": [
-          null,
-          3,
-          null,
-          5
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [null, 3, null, 5],
+        "3": [null, 3, null, 5],
+        "4": [null, null, null, null],
+        "5": [null, null, null, null],
+        "6": [null, null, null, null]
       }
     },
     "3": {
@@ -281,7 +218,7 @@
           "name": "DamageReduce",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damagereduce",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -310,7 +247,7 @@
           "name": "IncreaseCriticalHitChance",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasecriticalhitchance",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasecriticalhitchance",
           "paramType1": "percent",
           "paramValue1": "0-200",
           "nature": "Buff",
@@ -328,7 +265,7 @@
           "name": "IncreaseRandomStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaserandomstat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaserandomstat",
           "paramType1": "stats",
           "paramType2": "percent",
           "param1": {
@@ -348,7 +285,7 @@
           "name": "IncreaseStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -377,7 +314,7 @@
           "name": "UnlockSkills",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -393,44 +330,13 @@
           }
         }
       ],
-      "perfection": [
-        6,
-        3,
-        null,
-        10,
-        null
-      ],
+      "perfection": [6, 3, null, 10, null],
       "presets": {
-        "2": [
-          6,
-          3,
-          null,
-          10
-        ],
-        "3": [
-          6,
-          3,
-          null,
-          10
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [6, 3, null, 10],
+        "3": [6, 3, null, 10],
+        "4": [null, null, null, null],
+        "5": [null, null, null, null],
+        "6": [null, null, null, null]
       }
     },
     "4": {
@@ -521,7 +427,7 @@
       "name": "FindShard",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/findshard",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -544,7 +450,7 @@
       "name": "HarvestBurn",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -567,7 +473,7 @@
       "name": "RandomRuneExchange",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneexchange",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Mechanic",
@@ -590,7 +496,7 @@
       "name": "RemoveFees",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -610,9 +516,7 @@
     }
   ],
   "perfection": 0.51,
-  "slots": [
-    "Head"
-  ],
+  "slots": ["Head"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",
@@ -631,7 +535,7 @@
   },
   "id": 19,
   "name": "Pledge",
-  "icon": "https://rune.game/images/items/00019.png",
+  "icon": "https://arken.gg/images/items/00019.png",
   "image": "https://dl.airtable.com/.attachments/57a97c8952b5f5eb313ca3c294e8da1c/fe208e96/00019.png?ts=1657605376&userId=usrf0GZYc5zCl9Cv7&cs=7596073d98aec055",
   "type": "Helm",
   "subType": 10,
@@ -671,9 +575,7 @@
   },
   "shortDescription": "",
   "visualDescription": "A silver helm of elven make, this symbol of unity is enchanted with potent protective magic.",
-  "skills": [
-    460
-  ],
+  "skills": [460],
   "materials": [],
   "version": 3,
   "shortTokenId": "10030001905200701220060...449",

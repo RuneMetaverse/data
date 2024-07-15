@@ -2,10 +2,10 @@
   "description": [
     "The light emitted from this brilliant stone highlights the latent arcane potential of objects in the environment."
   ],
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300028132001002200800220130032007001200600300000000000000000000000000000694",
-  "catalog_url": "https://rune.game/catalog/28",
-  "image": "https://rune.game/images/items/00028.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300028132001002200800220130032007001200600300000000000000000000000000000694",
+  "catalog_url": "https://arken.gg/catalog/28",
+  "image": "https://arken.gg/images/items/00028.png",
   "language": "en-US",
   "tokenId": "100300028132001002200800220130032007001200600300000000000000000000000000000694",
   "details": {
@@ -65,49 +65,13 @@
           "value": 3
         }
       ],
-      "perfection": [
-        3,
-        3,
-        3,
-        4,
-        0
-      ],
+      "perfection": [3, 3, 3, 4, 0],
       "presents": {
-        "2": [
-          3,
-          3,
-          3,
-          4,
-          0
-        ],
-        "3": [
-          3,
-          3,
-          3,
-          4,
-          0
-        ],
-        "4": [
-          2,
-          2,
-          2,
-          3,
-          0
-        ],
-        "5": [
-          2,
-          2,
-          2,
-          3,
-          1
-        ],
-        "6": [
-          1,
-          1,
-          1,
-          1,
-          4
-        ]
+        "2": [3, 3, 3, 4, 0],
+        "3": [3, 3, 3, 4, 0],
+        "4": [2, 2, 2, 3, 0],
+        "5": [2, 2, 2, 3, 1],
+        "6": [1, 1, 1, 1, 4]
       }
     },
     "2": {
@@ -264,9 +228,7 @@
     }
   ],
   "perfection": 0.48,
-  "slots": [
-    "Neck"
-  ],
+  "slots": ["Neck"],
   "meta": {
     "harvestYield": 2,
     "harvestFeeToken": "",
@@ -281,7 +243,7 @@
   },
   "id": 28,
   "name": "Beacon",
-  "icon": "https://rune.game/images/items/00028.png",
+  "icon": "https://arken.gg/images/items/00028.png",
   "type": "Amulet",
   "isNew": true,
   "isEquipable": true,

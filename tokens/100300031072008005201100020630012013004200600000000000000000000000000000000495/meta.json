@@ -2,10 +2,10 @@
   "description": [
     "Produced on one of the rare occasions that dragons lended their energies to crafting, this armor is always hot to the touch."
   ],
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300031072008005201100020630012013004200600000000000000000000000000000000495",
-  "catalog_url": "https://rune.game/catalog/31",
-  "image": "https://rune.game/images/items/00031.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300031072008005201100020630012013004200600000000000000000000000000000000495",
+  "catalog_url": "https://arken.gg/catalog/31",
+  "image": "https://arken.gg/images/items/00031.png",
   "language": "en-US",
   "tokenId": "100300031072008005201100020630012013004200600000000000000000000000000000000495",
   "details": {
@@ -65,49 +65,13 @@
           "value": 0
         }
       ],
-      "perfection": [
-        10,
-        2,
-        3,
-        4,
-        0
-      ],
+      "perfection": [10, 2, 3, 4, 0],
       "presents": {
-        "2": [
-          10,
-          2,
-          3,
-          4,
-          0
-        ],
-        "3": [
-          10,
-          2,
-          3,
-          4,
-          0
-        ],
-        "4": [
-          9,
-          1,
-          2,
-          3,
-          0
-        ],
-        "5": [
-          8,
-          1,
-          2,
-          2,
-          0
-        ],
-        "6": [
-          6,
-          0,
-          0,
-          0,
-          2
-        ]
+        "2": [10, 2, 3, 4, 0],
+        "3": [10, 2, 3, 4, 0],
+        "4": [9, 1, 2, 3, 0],
+        "5": [8, 1, 2, 2, 0],
+        "6": [6, 0, 0, 0, 2]
       }
     },
     "2": {
@@ -171,12 +135,7 @@
         "5": [],
         "6": []
       },
-      "perfection": [
-        0,
-        0,
-        0.3333333333333333,
-        1
-      ]
+      "perfection": [0, 0, 0.3333333333333333, 1]
     },
     "4": {
       "attributes": [],
@@ -312,9 +271,7 @@
     }
   ],
   "perfection": 0.46,
-  "slots": [
-    "Chest"
-  ],
+  "slots": ["Chest"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",
@@ -328,7 +285,7 @@
   },
   "id": 31,
   "name": "Hellfire",
-  "icon": "https://rune.game/images/items/00031.png",
+  "icon": "https://arken.gg/images/items/00031.png",
   "type": "Body Armor",
   "isNew": true,
   "isEquipable": true,

@@ -1,8 +1,8 @@
 {
   "description": "\"It appears you've been through Hell and back\" - Cain (in honor of Diablo 2)",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100302001122040003200100520130052061005201900120350200000000000000000000001",
-  "image_url": "https://rune.game/images/items/02001.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100302001122040003200100520130052061005201900120350200000000000000000000001",
+  "image_url": "https://arken.gg/images/items/02001.png",
   "language": "en-US",
   "tokenId": "100302001122040003200100520130052061005201900120350200000000000000000000001",
   "details": {
@@ -128,53 +128,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        5,
-        null,
-        5
-      ],
+      "perfection": [null, 5, null, 5],
       "presets": {
-        "2": [
-          3,
-          5,
-          5,
-          5,
-          1,
-          20
-        ],
-        "3": [
-          3,
-          5,
-          5,
-          5,
-          1,
-          20
-        ],
-        "4": [
-          4,
-          4,
-          5,
-          4,
-          1,
-          20
-        ],
-        "5": [
-          5,
-          3,
-          5,
-          3,
-          1,
-          20
-        ],
-        "6": [
-          6,
-          2,
-          5,
-          2,
-          1,
-          20
-        ]
+        "2": [3, 5, 5, 5, 1, 20],
+        "3": [3, 5, 5, 5, 1, 20],
+        "4": [4, 4, 5, 4, 1, 20],
+        "5": [5, 3, 5, 3, 1, 20],
+        "6": [6, 2, 5, 2, 1, 20]
       }
     },
     "2": {
@@ -267,72 +227,13 @@
           "value": 1
         }
       ],
-      "perfection": [
-        null,
-        5,
-        25,
-        null,
-        null,
-        5,
-        null,
-        10
-      ],
+      "perfection": [null, 5, 25, null, null, 5, null, 10],
       "presets": {
-        "2": [
-          3,
-          5,
-          25,
-          5,
-          1,
-          5,
-          10,
-          10,
-          1
-        ],
-        "3": [
-          3,
-          5,
-          25,
-          5,
-          1,
-          5,
-          10,
-          10,
-          1
-        ],
-        "4": [
-          4,
-          4,
-          20,
-          5,
-          1,
-          4,
-          10,
-          7,
-          1
-        ],
-        "5": [
-          5,
-          3,
-          15,
-          5,
-          0,
-          3,
-          10,
-          4,
-          1
-        ],
-        "6": [
-          6,
-          3,
-          10,
-          5,
-          0,
-          2,
-          10,
-          1,
-          1
-        ]
+        "2": [3, 5, 25, 5, 1, 5, 10, 10, 1],
+        "3": [3, 5, 25, 5, 1, 5, 10, 10, 1],
+        "4": [4, 4, 20, 5, 1, 4, 10, 7, 1],
+        "5": [5, 3, 15, 5, 0, 3, 10, 4, 1],
+        "6": [6, 3, 10, 5, 0, 2, 10, 1, 1]
       }
     },
     "4": {
@@ -534,10 +435,7 @@
     }
   ],
   "perfection": 1,
-  "slots": [
-    "Finger 1",
-    "Finger 2"
-  ],
+  "slots": ["Finger 1", "Finger 2"],
   "meta": {
     "harvestYield": 5,
     "harvestFeeToken": "",
@@ -567,7 +465,7 @@
   },
   "id": 2001,
   "name": "Stone of Jordan",
-  "icon": "https://rune.game/images/items/02001.png",
+  "icon": "https://arken.gg/images/items/02001.png",
   "isPublishable": true,
   "type": "Ring",
   "isNew": true,

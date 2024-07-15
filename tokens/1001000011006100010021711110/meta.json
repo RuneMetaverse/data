@@ -1,9 +1,9 @@
 {
   "description": "Made by Men, this blade is common but has minimal downsides.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1001000011006100010021711110",
-  "catalog_url": "https://rune.game/catalog/1",
-  "image": "https://rune.game/images/items/00001.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1001000011006100010021711110",
+  "catalog_url": "https://arken.gg/catalog/1",
+  "image": "https://arken.gg/images/items/00001.png",
   "language": "en-US",
   "tokenId": "1001000011006100010021711110",
   "details": {
@@ -83,31 +83,13 @@
           "attributeId": 3
         }
       ],
-      "perfection": [
-        15,
-        0
-      ],
+      "perfection": [15, 0],
       "presents": {
-        "2": [
-          15,
-          0
-        ],
-        "3": [
-          15,
-          0
-        ],
-        "4": [
-          14,
-          0
-        ],
-        "5": [
-          12,
-          1
-        ],
-        "6": [
-          7,
-          4
-        ]
+        "2": [15, 0],
+        "3": [15, 0],
+        "4": [14, 0],
+        "5": [12, 1],
+        "6": [7, 4]
       }
     },
     "2": {
@@ -179,11 +161,7 @@
         "5": [],
         "6": []
       },
-      "perfection": [
-        0.1,
-        1.1235955056179776,
-        0
-      ]
+      "perfection": [0.1, 1.1235955056179776, 0]
     }
   },
   "shorthand": "6-0",
@@ -280,10 +258,7 @@
     }
   ],
   "perfection": 0.55,
-  "slots": [
-    "Left Hand",
-    "Right Hand"
-  ],
+  "slots": ["Left Hand", "Right Hand"],
   "meta": {
     "harvestYield": 6,
     "harvestFeeToken": "TIR",
@@ -298,7 +273,7 @@
   },
   "id": 1,
   "name": "Steel",
-  "icon": "https://rune.game/images/items/00001.png",
+  "icon": "https://arken.gg/images/items/00001.png",
   "type": "None",
   "isNew": false,
   "isEquipable": true,

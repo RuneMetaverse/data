@@ -1,9 +1,9 @@
 {
   "description": "Not much is known about this sword, other than the creator had gone mad.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1002000020100060020003648521",
-  "catalog_url": "https://rune.game/catalog/2",
-  "image": "https://rune.game/images/items/00002.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1002000020100060020003648521",
+  "catalog_url": "https://arken.gg/catalog/2",
+  "image": "https://arken.gg/images/items/00002.png",
   "language": "en-US",
   "tokenId": "1002000020100060020003648521",
   "details": {
@@ -48,37 +48,13 @@
           "attributeId": 5
         }
       ],
-      "perfection": [
-        7,
-        40,
-        20
-      ],
+      "perfection": [7, 40, 20],
       "presents": {
-        "2": [
-          7,
-          40,
-          20
-        ],
-        "3": [
-          7,
-          40,
-          20
-        ],
-        "4": [
-          6,
-          39,
-          21
-        ],
-        "5": [
-          5,
-          34,
-          26
-        ],
-        "6": [
-          3,
-          24,
-          36
-        ]
+        "2": [7, 40, 20],
+        "3": [7, 40, 20],
+        "4": [6, 39, 21],
+        "5": [5, 34, 26],
+        "6": [3, 24, 36]
       }
     },
     "2": {
@@ -143,11 +119,7 @@
         "5": [],
         "6": []
       },
-      "perfection": [
-        0.75,
-        0,
-        0.19999999999999996
-      ]
+      "perfection": [0.75, 0, 0.19999999999999996]
     }
   },
   "shorthand": "6-20-36",
@@ -205,10 +177,7 @@
     }
   ],
   "perfection": 0.31,
-  "slots": [
-    "Right Hand",
-    "Left Hand"
-  ],
+  "slots": ["Right Hand", "Left Hand"],
   "meta": {
     "harvestYield": 6,
     "harvestFeeToken": "",
@@ -221,7 +190,7 @@
   },
   "id": 2,
   "name": "Fury",
-  "icon": "https://rune.game/images/items/00002.png",
+  "icon": "https://arken.gg/images/items/00002.png",
   "type": "One Handed Weapon",
   "isNew": false,
   "isEquipable": true,

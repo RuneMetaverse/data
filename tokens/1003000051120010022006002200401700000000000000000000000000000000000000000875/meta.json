@@ -1,7 +1,7 @@
 {
   "description": "Forged from glittering blue metal, these greaves grant their wearer miraculous speed.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1003000051120010022006002200401700000000000000000000000000000000000000000875",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1003000051120010022006002200401700000000000000000000000000000000000000000875",
   "image_url": "/images/items/00005.png",
   "language": "en-US",
   "tokenId": "1003000051120010022006002200401700000000000000000000000000000000000000000875",
@@ -20,7 +20,7 @@
           "name": "HarvestYield",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -42,7 +42,7 @@
           "name": "HarvestBurn",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -64,7 +64,7 @@
           "name": "SendHarvestHiddenPool",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/sendharvesthiddenpool",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -82,37 +82,13 @@
           "attributeId": 4
         }
       ],
-      "perfection": [
-        10,
-        1,
-        20
-      ],
+      "perfection": [10, 1, 20],
       "presets": {
-        "2": [
-          10,
-          1,
-          20
-        ],
-        "3": [
-          10,
-          1,
-          20
-        ],
-        "4": [
-          9,
-          1,
-          19
-        ],
-        "5": [
-          7,
-          2,
-          17
-        ],
-        "6": [
-          2,
-          4,
-          12
-        ]
+        "2": [10, 1, 20],
+        "3": [10, 1, 20],
+        "4": [9, 1, 19],
+        "5": [7, 2, 17],
+        "6": [2, 4, 12]
       }
     },
     "2": {
@@ -122,16 +98,14 @@
           "name": "MovementSpeedIncrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/movementspeedincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/movementspeedincrease",
           "paramType1": "percent",
           "paramValue1": "0-10",
           "nature": "Buff",
           "influences": "Movement",
           "description": "{parameter1} faster movement.",
           "param1": {
-            "spec": [
-              "1-10"
-            ],
+            "spec": ["1-10"],
             "min": 1,
             "max": 1,
             "value": 1
@@ -143,7 +117,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasemovementspeedonkill",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasemovementspeedonkill",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Movement",
@@ -162,7 +136,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/evolvemovementburst",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/evolvemovementburst",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Mechanic",
@@ -181,7 +155,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damageresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
@@ -199,7 +173,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalpointschanceincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/criticalpointschanceincrease",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Mechanic",
@@ -213,34 +187,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        5,
-        null,
-        null,
-        null
-      ],
+      "perfection": [null, 5, null, null, null],
       "presets": {
-        "2": [
-          null,
-          5
-        ],
-        "3": [
-          null,
-          5
-        ],
-        "4": [
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null
-        ]
+        "2": [null, 5],
+        "3": [null, 5],
+        "4": [null, null],
+        "5": [null, null],
+        "6": [null, null]
       }
     },
     "3": {
@@ -251,7 +204,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -282,7 +235,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damagereduce",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -313,7 +266,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseresist",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaseresist",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -344,7 +297,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/chanceongethit",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/chanceongethit",
           "paramType1": "percent",
           "paramType2": "skill",
           "paramValue1": "0-100",
@@ -374,7 +327,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -390,44 +343,13 @@
           }
         }
       ],
-      "perfection": [
-        10,
-        5,
-        5,
-        10,
-        null
-      ],
+      "perfection": [10, 5, 5, 10, null],
       "presets": {
-        "2": [
-          10,
-          5,
-          5,
-          10
-        ],
-        "3": [
-          10,
-          5,
-          5,
-          10
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [10, 5, 5, 10],
+        "3": [10, 5, 5, 10],
+        "4": [null, null, null, null],
+        "5": [null, null, null, null],
+        "6": [null, null, null, null]
       }
     },
     "4": {
@@ -521,7 +443,7 @@
       "name": "HarvestYield",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -544,7 +466,7 @@
       "name": "HarvestBurn",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -567,7 +489,7 @@
       "name": "SendHarvestHiddenPool",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/sendharvesthiddenpool",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -587,9 +509,7 @@
     }
   ],
   "perfection": 0.52,
-  "slots": [
-    "Feet"
-  ],
+  "slots": ["Feet"],
   "meta": {
     "harvestYield": 2,
     "harvestFeeToken": "",
@@ -675,13 +595,8 @@
   },
   "shortDescription": "",
   "visualDescription": "These gold-accented greaves are made from an otherworldly azure metal, which is incredibly strong yet lighter than a feather.",
-  "skills": [
-    480
-  ],
-  "materials": [
-    18,
-    34
-  ],
+  "skills": [480],
+  "materials": [18, 34],
   "version": 3,
   "shortTokenId": "10030000511200100220060...875",
   "rarity": {

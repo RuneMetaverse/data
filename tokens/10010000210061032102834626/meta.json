@@ -1,8 +1,8 @@
 {
   "description": "Not much is known about this sword, other than the creator had gone mad.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/10010000210061032102834626",
-  "catalog_url": "https://rune.game/catalog/2",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/10010000210061032102834626",
+  "catalog_url": "https://arken.gg/catalog/2",
   "image": "https://dl.airtable.com/.attachments/c65b8688be512e02b41c66cda9a14441/b2011e75/00002.png?ts=1657605319&userId=usrf0GZYc5zCl9Cv7&cs=ca8f43d55494262a",
   "language": "en-US",
   "tokenId": "10010000210061032102834626",
@@ -21,7 +21,7 @@
           "name": "HarvestYield",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -43,7 +43,7 @@
           "name": "SendHarvestHiddenPool",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/sendharvesthiddenpool",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -65,7 +65,7 @@
           "name": "BurnEntireHarvest",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/burnentireharvest",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/burnentireharvest",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -83,37 +83,13 @@
           "attributeId": 5
         }
       ],
-      "perfection": [
-        7,
-        40,
-        20
-      ],
+      "perfection": [7, 40, 20],
       "presets": {
-        "2": [
-          7,
-          40,
-          20
-        ],
-        "3": [
-          7,
-          40,
-          20
-        ],
-        "4": [
-          6,
-          39,
-          21
-        ],
-        "5": [
-          5,
-          34,
-          26
-        ],
-        "6": [
-          3,
-          24,
-          36
-        ]
+        "2": [7, 40, 20],
+        "3": [7, 40, 20],
+        "4": [6, 39, 21],
+        "5": [5, 34, 26],
+        "6": [3, 24, 36]
       }
     },
     "2": {
@@ -123,16 +99,14 @@
           "name": "LightningDamage",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/lightningdamage",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/lightningdamage",
           "paramType1": "value",
           "paramValue1": "0-10",
           "nature": "Buff",
           "influences": "Offense",
           "description": "{parameter1} lightning damage",
           "param1": {
-            "spec": [
-              "8-12"
-            ],
+            "spec": ["8-12"],
             "min": 8,
             "max": 8,
             "value": 8
@@ -144,7 +118,7 @@
           "name": "IncreaseMovementSpeedOnKill",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasemovementspeedonkill",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasemovementspeedonkill",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Movement",
@@ -161,7 +135,7 @@
           "name": "LeaderDeathPenaltyIncrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/leaderdeathpenaltyincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/leaderdeathpenaltyincrease",
           "paramType1": "percent",
           "nature": "Debuff",
           "influences": "Game",
@@ -178,7 +152,7 @@
           "name": "IncreaseDamageOnKill",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamageonkill",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasedamageonkill",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Offense",
@@ -195,7 +169,7 @@
           "name": "LeaderMaxHealthDecrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/leadermaxhealthdecrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/leadermaxhealthdecrease",
           "paramType1": "percent",
           "nature": "Debuff",
           "influences": "Defense",
@@ -211,7 +185,7 @@
           "id": 1100,
           "name": "KilledPlayerPenaltyIncrease",
           "isEnabled": true,
-          "nexusLink": "https://nexus.rune.game/item-attribute/killedplayerpenaltyincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/killedplayerpenaltyincrease",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Buff",
@@ -229,7 +203,7 @@
           "name": "CriticalHitChance",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalhitchance",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/criticalhitchance",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Offense",
@@ -246,7 +220,7 @@
           "name": "BecomeBloodDrunk",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/becomeblooddrunk",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/becomeblooddrunk",
           "paramType1": "percent",
           "paramValue1": "0-1",
           "nature": "Debuff",
@@ -260,42 +234,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        30,
-        10,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "perfection": [null, 30, 10, null, null, null, null, null],
       "presets": {
-        "2": [
-          null,
-          30,
-          10
-        ],
-        "3": [
-          null,
-          30,
-          10
-        ],
-        "4": [
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null
-        ]
+        "2": [null, 30, 10],
+        "3": [null, 30, 10],
+        "4": [null, null, null],
+        "5": [null, null, null],
+        "6": [null, null, null]
       }
     },
     "3": {
@@ -305,7 +250,7 @@
           "name": "IncreaseDamage",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamage",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasedamage",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-200",
@@ -334,7 +279,7 @@
           "name": "IncreaseRankRewardBonus",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaserankrewardbonus",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaserankrewardbonus",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -351,7 +296,7 @@
           "name": "IncreaseEnergy",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseenergy",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaseenergy",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -369,7 +314,7 @@
           "name": "IncreaseOnHit",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseonhit",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaseonhit",
           "paramType1": "percent",
           "paramType2": "percent",
           "paramType3": "stat",
@@ -394,7 +339,7 @@
           "name": "UnlockSkills",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -414,7 +359,7 @@
           "name": "SelfEffectOnCondition",
           "isEnabled": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/selfeffectoncondition",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/selfeffectoncondition",
           "paramType1": "conditions",
           "paramType2": "conditionparams",
           "paramType3": "effect",
@@ -424,40 +369,13 @@
           }
         }
       ],
-      "perfection": [
-        18,
-        20,
-        25,
-        null,
-        null,
-        null
-      ],
+      "perfection": [18, 20, 25, null, null, null],
       "presets": {
-        "2": [
-          18,
-          20,
-          25
-        ],
-        "3": [
-          18,
-          20,
-          25
-        ],
-        "4": [
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null
-        ]
+        "2": [18, 20, 25],
+        "3": [18, 20, 25],
+        "4": [null, null, null],
+        "5": [null, null, null],
+        "6": [null, null, null]
       }
     },
     "4": {
@@ -511,7 +429,7 @@
       "name": "HarvestYield",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -534,7 +452,7 @@
       "name": "SendHarvestHiddenPool",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/sendharvesthiddenpool",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -557,7 +475,7 @@
       "name": "BurnEntireHarvest",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/burnentireharvest",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/burnentireharvest",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -577,10 +495,7 @@
     }
   ],
   "perfection": 0.65,
-  "slots": [
-    "Left Hand",
-    "Right Hand"
-  ],
+  "slots": ["Left Hand", "Right Hand"],
   "meta": {
     "harvestYield": 6,
     "harvestFeeToken": "",
@@ -640,9 +555,7 @@
   },
   "shortDescription": "",
   "visualDescription": "Both beautiful and frightening, this handle of this ornate long sword is wrapped with crimson cloth. The blade itself glows with faint traces of drifting red light.",
-  "skills": [
-    412
-  ],
+  "skills": [412],
   "materials": [],
   "version": 1,
   "shortTokenId": "10010000210061032102834...626",

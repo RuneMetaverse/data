@@ -2,10 +2,10 @@
   "description": [
     "Lightweight Templar materials fashioned into bracers. These provide excellent arm protection."
   ],
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300024242008006201100220130052071001207200100000000000000000000000000000508",
-  "catalog_url": "https://rune.game/catalog/24",
-  "image": "https://rune.game/images/items/00024.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300024242008006201100220130052071001207200100000000000000000000000000000508",
+  "catalog_url": "https://arken.gg/catalog/24",
+  "image": "https://arken.gg/images/items/00024.png",
   "language": "en-US",
   "tokenId": "100300024242008006201100220130052071001207200100000000000000000000000000000508",
   "details": {
@@ -93,43 +93,13 @@
           "attributeId": 72
         }
       ],
-      "perfection": [
-        10,
-        3,
-        15,
-        3
-      ],
+      "perfection": [10, 3, 15, 3],
       "presents": {
-        "2": [
-          10,
-          3,
-          15,
-          3
-        ],
-        "3": [
-          10,
-          3,
-          15,
-          3
-        ],
-        "4": [
-          9,
-          2,
-          14,
-          2
-        ],
-        "5": [
-          7,
-          2,
-          10,
-          2
-        ],
-        "6": [
-          2,
-          0,
-          3,
-          1
-        ]
+        "2": [10, 3, 15, 3],
+        "3": [10, 3, 15, 3],
+        "4": [9, 2, 14, 2],
+        "5": [7, 2, 10, 2],
+        "6": [2, 0, 3, 1]
       }
     },
     "2": {
@@ -314,9 +284,7 @@
     }
   ],
   "perfection": 0.38,
-  "slots": [
-    "Wrists"
-  ],
+  "slots": ["Wrists"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",
@@ -331,7 +299,7 @@
   },
   "id": 24,
   "name": "Zeal",
-  "icon": "https://rune.game/images/items/00024.png",
+  "icon": "https://arken.gg/images/items/00024.png",
   "type": "Wrist Armor",
   "isNew": true,
   "isEquipable": false,

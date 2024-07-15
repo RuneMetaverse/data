@@ -4,22 +4,20 @@
     "id": 1,
     "name": "Act 1",
     "isEnabled": true,
-    "link": "https://rune.game/act/act-1",
+    "link": "https://arken.gg/act/act-1",
     "shortDescription": "Though stalking a savage predator through chaospawn-infested lands has its own dangers, stumbling upon a strange artifact will prove far worse.",
     "description": "Brekil explains he managed to land a shot on one of the strange creatures plaguing his farm last night as it devoured one of his chickens. The creature quickly fled, leaving behind the remains of the chicken, which rapidly decayed after being covered in the strange acidic saliva for only a few minutes.\n",
     "lore1": "\n",
     "lore2": "\n",
     "lore3": "\n",
-    "townNpcs": [
-      27
-    ]
+    "townNpcs": [27]
   },
   {
     "uuid": "recBDlXD8BfuSGjyQ",
     "id": 2,
     "name": "Act 2",
     "isEnabled": true,
-    "link": "https://rune.game/act/act-2",
+    "link": "https://arken.gg/act/act-2",
     "shortDescription": "Your hunt for the cube pieces begins, taking you from the floating city of Toralir to the aberrant Myst Reef: where whales soar with the storms and prehistoric birds stalk the murky waters.",
     "description": "\n",
     "lore1": "## Starving Tourists (Apl. 3)\n\n<div align=\"center\">\n\n> Reports have reached me of a group of creatures - ghouls, perhaps - that have been heard ransacking the food stores east of the Braybill Crossing. Adventurers willing to investigate this matter further, locate the creature's nest, and eliminate them shall be justly rewarded. For more information, contact Farmer Brekil, near the Braybill Crossing, as soon as possible, and return to me with proof for your reward.\"\n> -Captain Elliot Rem\n\n</div>\n\n**Recommended Character Level:** 3\n**Party Size:** 4 - 6\n**Difficulty:** Deadly (4 players), Medium (6 players)\n**Hunt Creature:** Starved\n**Author:** Vall Syrene\n## Summary\nA pack of starved have slipped through a gateway from the Feydark and have made their residence in an underwater cavern, half a mile east of a local farming community. The creature's insatiable hunger has driven them to consume the food stores of Farmer Brekil, and it falls to the adventurers to track down and eliminate the starved pack before the townsfolk become their next meal.\n",
@@ -48,80 +46,48 @@
     "id": 3,
     "name": "Act 3",
     "isEnabled": true,
-    "link": "https://rune.game/act/act-3",
+    "link": "https://arken.gg/act/act-3",
     "shortDescription": "A setback in your quest demands a detour through the searing deserts; to the orderly vira city of Qiddir. The next leg of your journey takes you into the depths of Fayhelm, to a place of nature that even druids dare not enter.",
     "description": "\n",
     "lore3": "\n",
-    "townNpcs": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      21,
-      22,
-      23,
-      24,
-      28
-    ]
+    "townNpcs": [null, null, null, null, null, null, null, 21, 22, 23, 24, 28]
   },
   {
     "uuid": "recXWKfcDzadyykZw",
     "id": 4,
     "name": "Act 4",
     "isEnabled": true,
-    "link": "https://rune.game/act/act-4",
+    "link": "https://arken.gg/act/act-4",
     "shortDescription": "Suffering from a major loss, you must traverse the continent to reach the final cube piece before the Betrayer. Despite winning a major victory in Hexwood, the cube piece falls into the hands of the enemy. The fate of Haerra is in your palm: you must stop the enemy before it's too late.",
     "description": "\n",
     "lore3": "\n",
-    "townNpcs": [
-      8,
-      12,
-      13,
-      23,
-      24,
-      28,
-      29
-    ]
+    "townNpcs": [8, 12, 13, 23, 24, 28, 29]
   },
   {
     "uuid": "recR9A2jqdKpzQYMk",
     "id": 5,
     "name": "Act 5",
     "isEnabled": true,
-    "link": "https://rune.game/act/act-5",
+    "link": "https://arken.gg/act/act-5",
     "shortDescription": "You stand alone against the chaotic onslaught that now ravages Haerra, and your options dwindle. In the face of complete ruin, you must search for a legend that vanished long ago.",
     "description": "\n",
-    "townNpcs": [
-      28,
-      29,
-      30,
-      31
-    ]
+    "townNpcs": [28, 29, 30, 31]
   },
   {
     "uuid": "recpAaMZS2yoxciMF",
     "id": 6,
     "name": "Act 6",
     "isEnabled": true,
-    "link": "https://rune.game/act/act-6",
+    "link": "https://arken.gg/act/act-6",
     "shortDescription": "In a race against time, you must infiltrate the timeline itself to ensure a future for Haerra.",
     "description": "\n",
-    "townNpcs": [
-      2,
-      9,
-      11,
-      10,
-      28
-    ]
+    "townNpcs": [2, 9, 11, 10, 28]
   },
   {
     "uuid": "recHghLGkU9FYTCNB",
     "name": "Act 7",
     "isEnabled": true,
-    "link": "https://rune.game/act/act-7",
+    "link": "https://arken.gg/act/act-7",
     "shortDescription": "As the pieces of a greater puzzle click into place, you must learn the divine words as you grapple with your fate.",
     "description": "",
     "townNpcs": []
@@ -131,11 +97,9 @@
     "id": 7,
     "name": "Act 8",
     "isEnabled": true,
-    "link": "https://rune.game/act/act-8",
+    "link": "https://arken.gg/act/act-8",
     "shortDescription": "You possess all the tools necessary to save Haerra. But when the time comes, will you be strong enough to use them?",
     "description": "\n",
-    "townNpcs": [
-      28
-    ]
+    "townNpcs": [28]
   }
 ]

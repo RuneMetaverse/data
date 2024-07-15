@@ -1,7 +1,7 @@
 {
   "description": "Forged by an ancient barbarian shaman, this  abrasive metal ring imbues its wearer with boundless aggression in battle, making them heedless of danger or pain.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/10030011212200100220110002069000200600420020192003005000000000000000000000489",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/10030011212200100220110002069000200600420020192003005000000000000000000000489",
   "image_url": "/images/items/00112.png",
   "language": "en-US",
   "tokenId": "10030011212200100220110002069000200600420020192003005000000000000000000000489",
@@ -18,7 +18,7 @@
           "name": "HarvestYield",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -40,7 +40,7 @@
           "name": "RandomRuneExchange",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneexchange",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Mechanic",
@@ -62,7 +62,7 @@
           "name": "RandomRuneBonus",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomrunebonus",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomrunebonus",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -84,7 +84,7 @@
           "name": "HarvestBurn",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -106,7 +106,7 @@
           "name": "HarvestFee",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestfee",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -128,7 +128,7 @@
           "name": "HarvestFeeToken",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestfeetoken",
           "paramType1": "tokenId",
           "paramValue1": "0-999",
           "nature": "Mechanic",
@@ -156,50 +156,13 @@
           }
         }
       ],
-      "perfection": [
-        4,
-        2,
-        2,
-        0,
-        10,
-        null
-      ],
+      "perfection": [4, 2, 2, 0, 10, null],
       "presets": {
-        "2": [
-          4,
-          2,
-          2,
-          0,
-          10
-        ],
-        "3": [
-          4,
-          2,
-          2,
-          0,
-          10
-        ],
-        "4": [
-          3,
-          1,
-          1,
-          0,
-          10
-        ],
-        "5": [
-          2,
-          1,
-          1,
-          1,
-          13
-        ],
-        "6": [
-          0,
-          0,
-          0,
-          3,
-          18
-        ]
+        "2": [4, 2, 2, 0, 10],
+        "3": [4, 2, 2, 0, 10],
+        "4": [3, 1, 1, 0, 10],
+        "5": [2, 1, 1, 1, 13],
+        "6": [0, 0, 0, 3, 18]
       }
     },
     "2": {
@@ -221,7 +184,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamage",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasedamage",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-200",
@@ -252,7 +215,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -283,7 +246,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -314,7 +277,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -335,7 +298,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaserankrewardbonus",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaserankrewardbonus",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -354,7 +317,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamagetaken",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasedamagetaken",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -380,55 +343,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        4,
-        5,
-        5,
-        null,
-        5,
-        5
-      ],
+      "perfection": [4, 5, 5, null, 5, 5],
       "presets": {
-        "2": [
-          4,
-          5,
-          5,
-          null,
-          5,
-          5
-        ],
-        "3": [
-          4,
-          5,
-          5,
-          null,
-          5,
-          5
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [4, 5, 5, null, 5, 5],
+        "3": [4, 5, 5, null, 5, 5],
+        "4": [null, null, null, null, null, null],
+        "5": [null, null, null, null, null, null],
+        "6": [null, null, null, null, null, null]
       }
     },
     "4": {
@@ -517,7 +438,7 @@
       "name": "HarvestYield",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -540,7 +461,7 @@
       "name": "RandomRuneExchange",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneexchange",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Mechanic",
@@ -563,7 +484,7 @@
       "name": "RandomRuneBonus",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/randomrunebonus",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/randomrunebonus",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -586,7 +507,7 @@
       "name": "HarvestBurn",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -609,7 +530,7 @@
       "name": "HarvestFee",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestfee",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -632,7 +553,7 @@
       "name": "HarvestFeeToken",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestfeetoken",
       "paramType1": "tokenId",
       "paramValue1": "0-999",
       "nature": "Mechanic",
@@ -662,11 +583,7 @@
     }
   ],
   "perfection": 0.12,
-  "slots": [
-    "Finger 1",
-    "Trinket 2",
-    "Finger 2"
-  ],
+  "slots": ["Finger 1", "Trinket 2", "Finger 2"],
   "meta": {
     "harvestYield": 2,
     "harvestFeeToken": "ITH",
@@ -758,9 +675,7 @@
   },
   "shortDescription": "",
   "visualDescription": "",
-  "skills": [
-    511
-  ],
+  "skills": [511],
   "materials": [],
   "version": 3,
   "shortTokenId": "10030011212200100220110...489",

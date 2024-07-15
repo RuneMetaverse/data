@@ -1,7 +1,7 @@
 {
   "description": "The method and materials used to create this object of transcendant beauty and power have long been lost to the world.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300026122001004200400320130052019000206100420350202002000200301000000117",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300026122001004200400320130052019000206100420350202002000200301000000117",
   "image_url": "/images/items/00026.png",
   "language": "en-US",
   "tokenId": "100300026122001004200400320130052019000206100420350202002000200301000000117",
@@ -19,7 +19,7 @@
           "name": "HarvestYield",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -41,7 +41,7 @@
           "name": "SendHarvestHiddenPool",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/sendharvesthiddenpool",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -63,7 +63,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -85,7 +85,7 @@
           "name": "CreateRandomRuneword",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/createrandomruneword",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/createrandomruneword",
           "paramType1": "chance",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -107,7 +107,7 @@
           "name": "HarvestCritChance",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestcritchance",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestcritchance",
           "paramType1": "percent",
           "paramValue1": "0-10",
           "nature": "Buff",
@@ -129,7 +129,7 @@
           "name": "EarlyAccess",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/earlyaccess",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/earlyaccess",
           "paramType1": "minutes",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -151,7 +151,7 @@
           "name": "HarvestFee",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestfee",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -173,7 +173,7 @@
           "name": "HarvestFeeToken",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestfeetoken",
           "paramType1": "tokenId",
           "paramValue1": "0-999",
           "nature": "Mechanic",
@@ -201,62 +201,13 @@
           }
         }
       ],
-      "perfection": [
-        4,
-        3,
-        null,
-        1,
-        5,
-        null,
-        0,
-        null
-      ],
+      "perfection": [4, 3, null, 1, 5, null, 0, null],
       "presets": {
-        "2": [
-          4,
-          3,
-          null,
-          1,
-          5,
-          null,
-          0
-        ],
-        "3": [
-          4,
-          3,
-          null,
-          1,
-          5,
-          null,
-          0
-        ],
-        "4": [
-          3,
-          2,
-          null,
-          0,
-          4,
-          null,
-          0
-        ],
-        "5": [
-          3,
-          2,
-          null,
-          0,
-          3,
-          null,
-          3
-        ],
-        "6": [
-          2,
-          0,
-          null,
-          0,
-          1,
-          null,
-          8
-        ]
+        "2": [4, 3, null, 1, 5, null, 0],
+        "3": [4, 3, null, 1, 5, null, 0],
+        "4": [3, 2, null, 0, 4, null, 0],
+        "5": [3, 2, null, 0, 3, null, 3],
+        "6": [2, 0, null, 0, 1, null, 8]
       }
     },
     "2": {
@@ -266,16 +217,14 @@
           "name": "MovementSpeedIncrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/movementspeedincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/movementspeedincrease",
           "paramType1": "percent",
           "paramValue1": "0-10",
           "nature": "Buff",
           "influences": "Movement",
           "description": "{parameter1} faster movement.",
           "param1": {
-            "spec": [
-              "2-4"
-            ],
+            "spec": ["2-4"],
             "min": 2,
             "max": 2,
             "value": 2
@@ -285,7 +234,7 @@
           "id": 4111,
           "name": "WinStreakRewardChanceIncrease",
           "isEnabled": false,
-          "nexusLink": "https://nexus.rune.game/item-attribute/winstreakrewardchanceincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/winstreakrewardchanceincrease",
           "param1": {
             "spec": "3-5",
             "min": 3,
@@ -299,7 +248,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasemovementspeedonkill",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasemovementspeedonkill",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Movement",
@@ -317,7 +266,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/runewordfindwin",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/runewordfindwin",
           "paramType1": "percent",
           "nature": "Mechanic",
           "influences": "Reward",
@@ -335,7 +284,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalhitchance",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/criticalhitchance",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Offense",
@@ -352,7 +301,7 @@
           "id": 4119,
           "name": "EggExperienceBonus",
           "isEnabled": false,
-          "nexusLink": "https://nexus.rune.game/item-attribute/eggexperiencebonus",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/eggexperiencebonus",
           "param1": {
             "spec": "10-10",
             "min": 10,
@@ -366,7 +315,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/norewardsunlessfirst",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/norewardsunlessfirst",
           "paramType1": "percent",
           "paramValue1": "0-50",
           "nature": "Debuff",
@@ -386,7 +335,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/earlyitemrevealchance",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/earlyitemrevealchance",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Mechanic",
@@ -405,7 +354,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/skillunlock",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/skillunlock",
           "paramType1": "skill",
           "nature": "Mechanic",
           "description": "Unlocked: {parameter1}",
@@ -420,63 +369,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        null,
-        null,
-        null,
-        5,
-        null,
-        0,
-        null,
-        null
-      ],
+      "perfection": [null, null, null, null, 5, null, 0, null, null],
       "presets": {
-        "2": [
-          null,
-          null,
-          null,
-          null,
-          5,
-          null,
-          0
-        ],
-        "3": [
-          null,
-          null,
-          null,
-          null,
-          5,
-          null,
-          0
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [null, null, null, null, 5, null, 0],
+        "3": [null, null, null, null, 5, null, 0],
+        "4": [null, null, null, null, null, null, null],
+        "5": [null, null, null, null, null, null, null],
+        "6": [null, null, null, null, null, null, null]
       }
     },
     "3": {
@@ -487,7 +386,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -518,7 +417,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseenergy",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaseenergy",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -538,7 +437,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/energyregen",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/energyregen",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "paramValue2": "0-60",
@@ -558,7 +457,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/doublepickupchance",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/doublepickupchance",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -577,7 +476,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalhitchance",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/criticalhitchance",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Offense",
@@ -596,7 +495,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseailmentduration",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaseailmentduration",
           "paramType1": "percent",
           "paramType2": "ailment",
           "paramValue1": "0-200",
@@ -616,7 +515,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaserankrewardbonus",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaserankrewardbonus",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -635,7 +534,7 @@
           "isEnabled": true,
           "isImplemented": false,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -651,62 +550,13 @@
           }
         }
       ],
-      "perfection": [
-        5,
-        9,
-        null,
-        1,
-        5,
-        null,
-        10,
-        null
-      ],
+      "perfection": [5, 9, null, 1, 5, null, 10, null],
       "presets": {
-        "2": [
-          5,
-          9,
-          null,
-          1,
-          5,
-          null,
-          10
-        ],
-        "3": [
-          5,
-          9,
-          null,
-          1,
-          5,
-          null,
-          10
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [5, 9, null, 1, 5, null, 10],
+        "3": [5, 9, null, 1, 5, null, 10],
+        "4": [null, null, null, null, null, null, null],
+        "5": [null, null, null, null, null, null, null],
+        "6": [null, null, null, null, null, null, null]
       }
     },
     "4": {
@@ -789,7 +639,7 @@
       "name": "HarvestYield",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -812,7 +662,7 @@
       "name": "SendHarvestHiddenPool",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/sendharvesthiddenpool",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/sendharvesthiddenpool",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -835,7 +685,7 @@
       "name": "MagicFind",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
       "paramType1": "percent",
       "paramValue1": "0-999",
       "nature": "Buff",
@@ -858,7 +708,7 @@
       "name": "CreateRandomRuneword",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/createrandomruneword",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/createrandomruneword",
       "paramType1": "chance",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -881,7 +731,7 @@
       "name": "HarvestCritChance",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestcritchance",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestcritchance",
       "paramType1": "percent",
       "paramValue1": "0-10",
       "nature": "Buff",
@@ -904,7 +754,7 @@
       "name": "EarlyAccess",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/earlyaccess",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/earlyaccess",
       "paramType1": "minutes",
       "paramValue1": "0-999",
       "nature": "Buff",
@@ -927,7 +777,7 @@
       "name": "HarvestFee",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfee",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestfee",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -950,7 +800,7 @@
       "name": "HarvestFeeToken",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestfeetoken",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestfeetoken",
       "paramType1": "tokenId",
       "paramValue1": "0-999",
       "nature": "Mechanic",
@@ -980,11 +830,7 @@
     }
   ],
   "perfection": 0.75,
-  "slots": [
-    "Finger 1",
-    "Trinket 2",
-    "Finger 2"
-  ],
+  "slots": ["Finger 1", "Trinket 2", "Finger 2"],
   "meta": {
     "harvestYield": 4,
     "harvestFeeToken": "AMN",
@@ -1088,9 +934,7 @@
   },
   "shortDescription": "",
   "visualDescription": "A beautifully crafted silver ring, inscribed with an ancient dialect lost to time. The ring is partitioned in two, allowing the inscribed part of the ring to magically spin at all times.",
-  "skills": [
-    454
-  ],
+  "skills": [454],
   "materials": [],
   "version": 3,
   "shortTokenId": "10030002612200100420040...117",

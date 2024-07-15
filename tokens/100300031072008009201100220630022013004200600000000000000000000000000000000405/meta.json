@@ -1,8 +1,8 @@
 {
   "description": "Produced on one of the rare occasions that dragons lent their energies to crafting, this armor is always hot to the touch.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300031072008009201100220630022013004200600000000000000000000000000000000405",
-  "image_url": "https://rune.game/images/items/00031.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300031072008009201100220630022013004200600000000000000000000000000000000405",
+  "image_url": "https://arken.gg/images/items/00031.png",
   "language": "en-US",
   "tokenId": "100300031072008009201100220630022013004200600000000000000000000000000000000405",
   "details": {
@@ -18,7 +18,7 @@
           "name": "RemoveFees",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -40,7 +40,7 @@
           "name": "RandomRuneExchange",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneexchange",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Mechanic",
@@ -62,7 +62,7 @@
           "name": "HarvestOverTime",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestovertime",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestovertime",
           "paramType1": "percent",
           "paramValue1": "0-10",
           "nature": "Buff",
@@ -84,7 +84,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -106,7 +106,7 @@
           "name": "HarvestBurn",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Debuff",
@@ -124,49 +124,13 @@
           "attributeId": 6
         }
       ],
-      "perfection": [
-        10,
-        null,
-        3,
-        4,
-        0
-      ],
+      "perfection": [10, null, 3, 4, 0],
       "presets": {
-        "2": [
-          10,
-          null,
-          3,
-          4,
-          0
-        ],
-        "3": [
-          10,
-          null,
-          3,
-          4,
-          0
-        ],
-        "4": [
-          9,
-          null,
-          2,
-          3,
-          0
-        ],
-        "5": [
-          8,
-          null,
-          2,
-          2,
-          0
-        ],
-        "6": [
-          6,
-          null,
-          0,
-          0,
-          2
-        ]
+        "2": [10, null, 3, 4, 0],
+        "3": [10, null, 3, 4, 0],
+        "4": [9, null, 2, 3, 0],
+        "5": [8, null, 2, 2, 0],
+        "6": [6, null, 0, 0, 2]
       }
     },
     "2": {
@@ -176,15 +140,13 @@
           "name": "DamageResist",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damageresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
           "description": "{parameter1} damage resist",
           "param1": {
-            "spec": [
-              "5-15"
-            ],
+            "spec": ["5-15"],
             "min": 5,
             "max": 5,
             "value": 5
@@ -196,7 +158,7 @@
           "name": "IncreaseHealthOnKill",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasehealthonkill",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasehealthonkill",
           "paramType1": "value",
           "nature": "Buff",
           "influences": "Defense",
@@ -213,7 +175,7 @@
           "name": "RandomizedItemAttribute",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomizeditemattribute",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomizeditemattribute",
           "paramType1": "randomattributeid",
           "nature": "Mechanic",
           "influences": "All",
@@ -229,7 +191,7 @@
           "id": 1150,
           "name": "WinRewardsIncrease",
           "isEnabled": true,
-          "nexusLink": "https://nexus.rune.game/item-attribute/winrewardsincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/winrewardsincrease",
           "paramType1": "percent",
           "paramValue1": "0-20",
           "nature": "Buff",
@@ -247,7 +209,7 @@
           "name": "CriticalPointsMultiplierIncrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalpointsmultiplierincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/criticalpointsmultiplierincrease",
           "paramType1": "percent",
           "paramValue1": "0-35",
           "nature": "Buff",
@@ -265,7 +227,7 @@
           "name": "AttributeDebuffToBuffOnEquipTime",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/attributedebufftobuffonequiptime",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/attributedebufftobuffonequiptime",
           "paramType1": "hours",
           "paramValue1": "0-999",
           "nature": "Requirement",
@@ -282,7 +244,7 @@
           "name": "DebuffAttributeToChange",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/debuffattributetochange",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/debuffattributetochange",
           "paramType1": "attributeid",
           "nature": "Neutral",
           "param1": {
@@ -296,7 +258,7 @@
           "name": "BuffAttributeToChange",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/buffattributetochange",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/buffattributetochange",
           "paramType1": "attributeid",
           "nature": "Neutral",
           "param1": {
@@ -306,52 +268,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        15,
-        null,
-        3,
-        5,
-        null,
-        null,
-        null
-      ],
+      "perfection": [null, 15, null, 3, 5, null, null, null],
       "presets": {
-        "2": [
-          null,
-          15,
-          null,
-          3,
-          5
-        ],
-        "3": [
-          null,
-          15,
-          null,
-          3,
-          5
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [null, 15, null, 3, 5],
+        "3": [null, 15, null, 3, 5],
+        "4": [null, null, null, null, null],
+        "5": [null, null, null, null, null],
+        "6": [null, null, null, null, null]
       }
     },
     "3": {
@@ -361,7 +284,7 @@
           "name": "DamageReduce",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damagereduce",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -390,7 +313,7 @@
           "name": "IncreaseAbsorb",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseabsorb",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaseabsorb",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -419,7 +342,7 @@
           "name": "IncreaseRandomStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaserandomstat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaserandomstat",
           "paramType1": "stats",
           "paramType2": "percent",
           "param1": {
@@ -439,7 +362,7 @@
           "name": "IncreaseAilmentChance",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaseailmentchance",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaseailmentchance",
           "paramType1": "percent",
           "paramType2": "ailment",
           "paramValue1": "0-200",
@@ -463,7 +386,7 @@
           "name": "DamageReduce",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damagereduce",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -492,7 +415,7 @@
           "name": "UnlockSkills",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -507,7 +430,7 @@
           "name": "IncreaseDamage",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasedamage",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasedamage",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-200",
@@ -526,7 +449,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -539,52 +462,13 @@
           }
         }
       ],
-      "perfection": [
-        20,
-        10,
-        null,
-        8,
-        15,
-        null,
-        null,
-        null
-      ],
+      "perfection": [20, 10, null, 8, 15, null, null, null],
       "presets": {
-        "2": [
-          20,
-          10,
-          null,
-          8,
-          15
-        ],
-        "3": [
-          20,
-          10,
-          null,
-          8,
-          15
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [20, 10, null, 8, 15],
+        "3": [20, 10, null, 8, 15],
+        "4": [null, null, null, null, null],
+        "5": [null, null, null, null, null],
+        "6": [null, null, null, null, null]
       }
     },
     "4": {
@@ -676,7 +560,7 @@
       "name": "RemoveFees",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -699,7 +583,7 @@
       "name": "RandomRuneExchange",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneexchange",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Mechanic",
@@ -722,7 +606,7 @@
       "name": "HarvestOverTime",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestovertime",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestovertime",
       "paramType1": "percent",
       "paramValue1": "0-10",
       "nature": "Buff",
@@ -745,7 +629,7 @@
       "name": "MagicFind",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
       "paramType1": "percent",
       "paramValue1": "0-999",
       "nature": "Buff",
@@ -768,7 +652,7 @@
       "name": "HarvestBurn",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestburn",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/harvestburn",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Debuff",
@@ -788,9 +672,7 @@
     }
   ],
   "perfection": 0.86,
-  "slots": [
-    "Body"
-  ],
+  "slots": ["Body"],
   "meta": {
     "harvestYield": 0,
     "harvestFeeToken": "",
@@ -808,7 +690,7 @@
   },
   "id": 31,
   "name": "Hellfire",
-  "icon": "https://rune.game/images/items/00031.png",
+  "icon": "https://arken.gg/images/items/00031.png",
   "image": "https://dl.airtable.com/.attachments/ef9ec698aa2ca75c4b23e1686274e7dd/6cd51a59/00031.png?ts=1657605407&userId=usrf0GZYc5zCl9Cv7&cs=bdebd91036b62805",
   "type": "Body Armor",
   "subType": 13,
@@ -851,13 +733,8 @@
   },
   "shortDescription": "",
   "visualDescription": "Glimmering with a silver-blue hue, one might incorrectly assume this armor to be cool to the touch. However, this intricately carved breastplate radiates heat, searing all but the wearer.",
-  "skills": [
-    451,
-    516
-  ],
-  "materials": [
-    21
-  ],
+  "skills": [451, 516],
+  "materials": [21],
   "version": 3,
   "shortTokenId": "10030003107200800920110...405",
   "rarity": {

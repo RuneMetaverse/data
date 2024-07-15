@@ -1,7 +1,7 @@
 {
   "description": "These handwraps have an unknown origin and emit a dark aura.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1003000070920010042008070200910000000000000000000000000000000000000000000175",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1003000070920010042008070200910000000000000000000000000000000000000000000175",
   "image_url": "/images/items/00007.png",
   "language": "en-US",
   "tokenId": "1003000070920010042008070200910000000000000000000000000000000000000000000175",
@@ -20,7 +20,7 @@
           "name": "HarvestYield",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/harvestyield",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -42,7 +42,7 @@
           "name": "RemoveFees",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -64,7 +64,7 @@
           "name": "UnstakeLocked",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unstakelocked",
+          "nexusLink": "https://arken.gg/item-attribute/unstakelocked",
           "paramType1": "percent",
           "paramValue1": "100-100",
           "nature": "Debuff",
@@ -82,32 +82,13 @@
           "attributeId": 9
         }
       ],
-      "perfection": [
-        5,
-        100,
-        null
-      ],
+      "perfection": [5, 100, null],
       "presets": {
-        "2": [
-          5,
-          100
-        ],
-        "3": [
-          5,
-          100
-        ],
-        "4": [
-          4,
-          96
-        ],
-        "5": [
-          3,
-          77
-        ],
-        "6": [
-          1,
-          40
-        ]
+        "2": [5, 100],
+        "3": [5, 100],
+        "4": [4, 96],
+        "5": [3, 77],
+        "6": [1, 40]
       }
     },
     "2": {
@@ -117,15 +98,13 @@
           "name": "DamageResist",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "nexusLink": "https://arken.gg/item-attribute/damageresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
           "description": "{parameter1} damage resist",
           "param1": {
-            "spec": [
-              "1-5"
-            ],
+            "spec": ["1-5"],
             "min": 1,
             "max": 1,
             "value": 1
@@ -136,7 +115,7 @@
           "name": "DeathPenaltyAvoid",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/deathpenaltyavoid",
+          "nexusLink": "https://arken.gg/item-attribute/deathpenaltyavoid",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Buff",
@@ -155,7 +134,7 @@
           "name": "RunewordFindWin",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/runewordfindwin",
+          "nexusLink": "https://arken.gg/item-attribute/runewordfindwin",
           "paramType1": "percent",
           "nature": "Mechanic",
           "influences": "Reward",
@@ -172,7 +151,7 @@
           "name": "StealVictimRewardsChance",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/stealvictimrewardschance",
+          "nexusLink": "https://arken.gg/item-attribute/stealvictimrewardschance",
           "paramType1": "percent",
           "paramValue1": "0-10",
           "nature": "Mechanic",
@@ -190,7 +169,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -203,34 +182,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        25,
-        null,
-        null,
-        null
-      ],
+      "perfection": [null, 25, null, null, null],
       "presets": {
-        "2": [
-          null,
-          25
-        ],
-        "3": [
-          null,
-          25
-        ],
-        "4": [
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null
-        ]
+        "2": [null, 25],
+        "3": [null, 25],
+        "4": [null, null],
+        "5": [null, null],
+        "6": [null, null]
       }
     },
     "3": {
@@ -240,7 +198,7 @@
           "name": "DamageReduce",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "nexusLink": "https://arken.gg/item-attribute/damagereduce",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -270,7 +228,7 @@
           "name": "IncreaseRankRewardBonus",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaserankrewardbonus",
+          "nexusLink": "https://arken.gg/item-attribute/increaserankrewardbonus",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -288,7 +246,7 @@
           "name": "UnlockSkills",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -308,7 +266,7 @@
           "name": "ExtraProjectiles",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/extraprojectiles",
+          "nexusLink": "https://arken.gg/item-attribute/extraprojectiles",
           "paramType1": "percent",
           "paramType2": "value",
           "paramValue1": "0-100",
@@ -333,7 +291,7 @@
           "name": "ReduceCost",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/reducecost",
+          "nexusLink": "https://arken.gg/item-attribute/reducecost",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -347,49 +305,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        10,
-        25,
-        null,
-        null,
-        8
-      ],
+      "perfection": [10, 25, null, null, 8],
       "presets": {
-        "2": [
-          10,
-          25,
-          null,
-          null,
-          8
-        ],
-        "3": [
-          10,
-          25,
-          null,
-          null,
-          8
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [10, 25, null, null, 8],
+        "3": [10, 25, null, null, 8],
+        "4": [null, null, null, null, null],
+        "5": [null, null, null, null, null],
+        "6": [null, null, null, null, null]
       }
     },
     "4": {
@@ -483,7 +405,7 @@
       "name": "HarvestYield",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "nexusLink": "https://arken.gg/item-attribute/harvestyield",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -506,7 +428,7 @@
       "name": "RemoveFees",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "nexusLink": "https://arken.gg/item-attribute/removefees",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -529,7 +451,7 @@
       "name": "UnstakeLocked",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/unstakelocked",
+      "nexusLink": "https://arken.gg/item-attribute/unstakelocked",
       "paramType1": "percent",
       "paramValue1": "100-100",
       "nature": "Debuff",
@@ -549,9 +471,7 @@
     }
   ],
   "perfection": 0.67,
-  "slots": [
-    "Hands"
-  ],
+  "slots": ["Hands"],
   "meta": {
     "harvestYield": 4,
     "harvestFeeToken": "",
@@ -629,12 +549,8 @@
   },
   "shortDescription": "",
   "visualDescription": "Though these handwraps appear simple at first glance, a closer look would reveal faint black smoke snaking up from the cloth.",
-  "skills": [
-    475
-  ],
-  "materials": [
-    32
-  ],
+  "skills": [475],
+  "materials": [32],
   "version": 3,
   "shortTokenId": "10030000709200100420080...175",
   "rarity": {

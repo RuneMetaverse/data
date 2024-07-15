@@ -1,8 +1,8 @@
 {
   "description": "Infused with the breath of an ice dragon, this ancient amulet radiates a pale blue light and is searing cold to the touch.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/1003000291320400042001004200804020130182007010000000000000000000000051",
-  "image_url": "https://rune.game/images/items/00029.png",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/1003000291320400042001004200804020130182007010000000000000000000000051",
+  "image_url": "https://arken.gg/images/items/00029.png",
   "language": "en-US",
   "tokenId": "1003000291320400042001004200804020130182007010000000000000000000000051",
   "details": {
@@ -18,7 +18,7 @@
           "name": "Rarity",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "nexusLink": "https://arken.gg/item-attribute/rarity",
           "paramType1": "value",
           "paramValue1": "0-999",
           "nature": "Neutral",
@@ -52,7 +52,7 @@
           "name": "HarvestYield",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+          "nexusLink": "https://arken.gg/item-attribute/harvestyield",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -74,7 +74,7 @@
           "name": "RemoveFees",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "nexusLink": "https://arken.gg/item-attribute/removefees",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -96,7 +96,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -118,7 +118,7 @@
           "name": "FindShard",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+          "nexusLink": "https://arken.gg/item-attribute/findshard",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -136,44 +136,13 @@
           "attributeId": 7
         }
       ],
-      "perfection": [
-        null,
-        5,
-        50,
-        20,
-        null
-      ],
+      "perfection": [null, 5, 50, 20, null],
       "presets": {
-        "2": [
-          null,
-          5,
-          50,
-          20
-        ],
-        "3": [
-          null,
-          5,
-          50,
-          20
-        ],
-        "4": [
-          null,
-          4,
-          48,
-          19
-        ],
-        "5": [
-          null,
-          4,
-          41,
-          18
-        ],
-        "6": [
-          null,
-          2,
-          26,
-          15
-        ]
+        "2": [null, 5, 50, 20],
+        "3": [null, 5, 50, 20],
+        "4": [null, 4, 48, 19],
+        "5": [null, 4, 41, 18],
+        "6": [null, 2, 26, 15]
       }
     },
     "2": {
@@ -183,15 +152,13 @@
           "name": "Rarity",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "nexusLink": "https://arken.gg/item-attribute/rarity",
           "paramType1": "value",
           "paramValue1": "0-999",
           "nature": "Neutral",
           "description": "{parameter1}",
           "param1": {
-            "spec": [
-              "3-6"
-            ],
+            "spec": ["3-6"],
             "min": 3,
             "max": 3,
             "value": 3,
@@ -202,9 +169,7 @@
           "value": null
         }
       ],
-      "perfection": [
-        null
-      ],
+      "perfection": [null],
       "presets": {
         "2": [],
         "3": [],
@@ -220,7 +185,7 @@
           "name": "Rarity",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+          "nexusLink": "https://arken.gg/item-attribute/rarity",
           "paramType1": "value",
           "paramValue1": "0-999",
           "nature": "Neutral",
@@ -243,7 +208,7 @@
           "name": "ItemRewardsIncrease",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/itemrewardsincrease",
+          "nexusLink": "https://arken.gg/item-attribute/itemrewardsincrease",
           "paramType1": "percent",
           "paramType2": "rewardtype",
           "paramValue1": "0-20",
@@ -262,7 +227,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -279,7 +244,7 @@
           "name": "EnergyRegen",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/energyregen",
+          "nexusLink": "https://arken.gg/item-attribute/energyregen",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "paramValue2": "0-60",
@@ -294,43 +259,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        null,
-        10,
-        10,
-        5
-      ],
+      "perfection": [null, 10, 10, 5],
       "presets": {
-        "2": [
-          null,
-          10,
-          10,
-          5
-        ],
-        "3": [
-          null,
-          10,
-          10,
-          5
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [null, 10, 10, 5],
+        "3": [null, 10, 10, 5],
+        "4": [null, null, null, null],
+        "5": [null, null, null, null],
+        "6": [null, null, null, null]
       }
     },
     "4": {
@@ -414,7 +349,7 @@
       "name": "Rarity",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/rarity",
+      "nexusLink": "https://arken.gg/item-attribute/rarity",
       "paramType1": "value",
       "paramValue1": "0-999",
       "nature": "Neutral",
@@ -449,7 +384,7 @@
       "name": "HarvestYield",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/harvestyield",
+      "nexusLink": "https://arken.gg/item-attribute/harvestyield",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -472,7 +407,7 @@
       "name": "RemoveFees",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "nexusLink": "https://arken.gg/item-attribute/removefees",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -495,7 +430,7 @@
       "name": "MagicFind",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "nexusLink": "https://arken.gg/item-attribute/magicfind",
       "paramType1": "percent",
       "paramValue1": "0-999",
       "nature": "Buff",
@@ -518,7 +453,7 @@
       "name": "FindShard",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/findshard",
+      "nexusLink": "https://arken.gg/item-attribute/findshard",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -538,9 +473,7 @@
     }
   ],
   "perfection": 0.66,
-  "slots": [
-    "Neck"
-  ],
+  "slots": ["Neck"],
   "meta": {
     "harvestYield": 4,
     "harvestFeeToken": "",
@@ -558,7 +491,7 @@
   },
   "id": 29,
   "name": "Dragonlight",
-  "icon": "https://rune.game/images/items/00029.png",
+  "icon": "https://arken.gg/images/items/00029.png",
   "image": "https://dl.airtable.com/.attachments/d235f466e1e662558a3801db5be596c5/29e18b3b/00029.png?ts=1657605403&userId=usrf0GZYc5zCl9Cv7&cs=7d7233f4acc14184",
   "type": "Amulet",
   "subType": 17,

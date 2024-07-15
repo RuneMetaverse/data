@@ -1,7 +1,7 @@
 {
   "description": "While elegant on the exterior, these bracers drive the wearer to a barbarian-like frenzy when first entering battle.",
-  "home_url": "https://rune.game",
-  "external_url": "https://rune.game/token/100300024242008010201100320130042071001207200100000000000000000000000000000079",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/token/100300024242008010201100320130042071001207200100000000000000000000000000000079",
   "image_url": "/images/items/00024.png",
   "language": "en-US",
   "tokenId": "100300024242008010201100320130042071001207200100000000000000000000000000000079",
@@ -19,7 +19,7 @@
           "name": "RemoveFees",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -41,7 +41,7 @@
           "name": "RandomRuneExchange",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneexchange",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Mechanic",
@@ -63,7 +63,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -85,7 +85,7 @@
           "name": "RandomRuneSpecificWeapon",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomrunespecificweapon",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomrunespecificweapon",
           "paramType1": "percent",
           "paramValue1": "0-100",
           "nature": "Buff",
@@ -107,7 +107,7 @@
           "name": "SpecificWeaponType",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/specificweapontype",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/specificweapontype",
           "paramType1": "itemtype",
           "nature": "Mechanic",
           "description": "Specific Weapon: {parameter1}",
@@ -130,44 +130,13 @@
           }
         }
       ],
-      "perfection": [
-        10,
-        3,
-        15,
-        3,
-        null
-      ],
+      "perfection": [10, 3, 15, 3, null],
       "presets": {
-        "2": [
-          10,
-          3,
-          15,
-          3
-        ],
-        "3": [
-          10,
-          3,
-          15,
-          3
-        ],
-        "4": [
-          9,
-          2,
-          14,
-          2
-        ],
-        "5": [
-          7,
-          2,
-          10,
-          2
-        ],
-        "6": [
-          2,
-          0,
-          3,
-          1
-        ]
+        "2": [10, 3, 15, 3],
+        "3": [10, 3, 15, 3],
+        "4": [9, 2, 14, 2],
+        "5": [7, 2, 10, 2],
+        "6": [2, 0, 3, 1]
       }
     },
     "2": {
@@ -177,15 +146,13 @@
           "name": "DamageResist",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damageresist",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damageresist",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Defense",
           "description": "{parameter1} damage resist",
           "param1": {
-            "spec": [
-              "1-10"
-            ],
+            "spec": ["1-10"],
             "min": 1,
             "max": 1,
             "value": 1
@@ -197,7 +164,7 @@
           "name": "RandomizedItemAttribute",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomizeditemattribute",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomizeditemattribute",
           "paramType1": "randomattributeid",
           "nature": "Mechanic",
           "influences": "All",
@@ -214,7 +181,7 @@
           "name": "CriticalHitMultiplier",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalhitmultiplier",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/criticalhitmultiplier",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Offense",
@@ -231,7 +198,7 @@
           "name": "RandomRuneOnWin",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/randomruneonwin",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneonwin",
           "paramType1": "percent",
           "nature": "Buff",
           "influences": "Reward",
@@ -248,7 +215,7 @@
           "name": "CriticalPointsChanceIncrease",
           "isEnabled": true,
           "game": "Evolution",
-          "nexusLink": "https://nexus.rune.game/item-attribute/criticalpointschanceincrease",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/criticalpointschanceincrease",
           "paramType1": "percent",
           "paramValue1": "0-25",
           "nature": "Mechanic",
@@ -267,7 +234,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -280,45 +247,13 @@
           }
         }
       ],
-      "perfection": [
-        null,
-        null,
-        15,
-        3,
-        null,
-        null
-      ],
+      "perfection": [null, null, 15, 3, null, null],
       "presets": {
-        "2": [
-          null,
-          null,
-          15,
-          3
-        ],
-        "3": [
-          null,
-          null,
-          15,
-          3
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [null, null, 15, 3],
+        "3": [null, null, 15, 3],
+        "4": [null, null, null, null],
+        "5": [null, null, null, null],
+        "6": [null, null, null, null]
       }
     },
     "3": {
@@ -328,7 +263,7 @@
           "name": "DamageReduce",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/damagereduce",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/damagereduce",
           "paramType1": "percent",
           "paramType2": "type",
           "paramValue1": "0-100",
@@ -357,7 +292,7 @@
           "name": "IncreaseRandomStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increaserandomstat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increaserandomstat",
           "paramType1": "stats",
           "paramType2": "percent",
           "param1": {
@@ -376,7 +311,7 @@
           "name": "IncreaseStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -405,7 +340,7 @@
           "name": "IncreaseStat",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/increasestat",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/increasestat",
           "paramType1": "percent",
           "paramType2": "stat",
           "paramType3": "statparams",
@@ -429,7 +364,7 @@
           "name": "UnlockSkills",
           "isEnabled": true,
           "game": "Infinite",
-          "nexusLink": "https://nexus.rune.game/item-attribute/unlockskills",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/unlockskills",
           "paramType1": "skills",
           "nature": "Mechanic",
           "influences": "Skill",
@@ -450,7 +385,7 @@
           "name": "MagicFind",
           "isEnabled": true,
           "game": "Raid",
-          "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+          "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
           "paramType1": "percent",
           "paramValue1": "0-999",
           "nature": "Buff",
@@ -463,55 +398,13 @@
           "value": null
         }
       ],
-      "perfection": [
-        10,
-        null,
-        15,
-        3,
-        null,
-        8
-      ],
+      "perfection": [10, null, 15, 3, null, 8],
       "presets": {
-        "2": [
-          10,
-          null,
-          15,
-          3,
-          null,
-          8
-        ],
-        "3": [
-          10,
-          null,
-          15,
-          3,
-          null,
-          8
-        ],
-        "4": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "5": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "6": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "2": [10, null, 15, 3, null, 8],
+        "3": [10, null, 15, 3, null, 8],
+        "4": [null, null, null, null, null, null],
+        "5": [null, null, null, null, null, null],
+        "6": [null, null, null, null, null, null]
       }
     },
     "4": {
@@ -603,7 +496,7 @@
       "name": "RemoveFees",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/removefees",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/removefees",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -626,7 +519,7 @@
       "name": "RandomRuneExchange",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/randomruneexchange",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/randomruneexchange",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Mechanic",
@@ -649,7 +542,7 @@
       "name": "MagicFind",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/magicfind",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/magicfind",
       "paramType1": "percent",
       "paramValue1": "0-999",
       "nature": "Buff",
@@ -672,7 +565,7 @@
       "name": "RandomRuneSpecificWeapon",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/randomrunespecificweapon",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/randomrunespecificweapon",
       "paramType1": "percent",
       "paramValue1": "0-100",
       "nature": "Buff",
@@ -695,7 +588,7 @@
       "name": "SpecificWeaponType",
       "isEnabled": true,
       "game": "Raid",
-      "nexusLink": "https://nexus.rune.game/item-attribute/specificweapontype",
+      "nexusLink": "https://nexus.arken.gg/item-attribute/specificweapontype",
       "paramType1": "itemtype",
       "nature": "Mechanic",
       "description": "Specific Weapon: {parameter1}",

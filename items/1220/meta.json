@@ -1,1 +1,46 @@
-{"description":"Used for entry to the Riccardo Raffle.","home_url":"https://rune.game","external_url":"https://rune.game/catalog/1220","image_url":"https://rune.game/images/items/01220.png","language":"en-US","id":1220,"name":"Riccardo Raffle Coin","icon":"https://rune.game/images/items/01220.png","isPublishable":true,"isSecret":false,"rarity":{"id":7,"name":"Normal"},"type":"Misc","slots":[],"isNew":false,"isEquipable":false,"isUnequipable":false,"isTradeable":false,"isTransferable":false,"isUpgradable":false,"isCraftable":false,"isDisabled":false,"isRuneword":false,"isTransmutable":false,"attributes":[],"details":{"Type":"Coin","Subtype":"","Distribution":"Rewarded","Date":"August 9, 2022 - Now","Max Supply":"Unknown"},"branches":{"1":{"description":["Used for entry to the Riccardo Raffle."],"attributes":[{"min":0,"max":999,"description":""},{"min":0,"max":999,"description":""}]},"2":{"attributes":[]},"3":{"attributes":[]},"4":{"attributes":[]},"5":{"attributes":[]}}}
+{
+  "description": "Used for entry to the Riccardo Raffle.",
+  "home_url": "https://arken.gg",
+  "external_url": "https://arken.gg/catalog/1220",
+  "image_url": "https://arken.gg/images/items/01220.png",
+  "language": "en-US",
+  "id": 1220,
+  "name": "Riccardo Raffle Coin",
+  "icon": "https://arken.gg/images/items/01220.png",
+  "isPublishable": true,
+  "isSecret": false,
+  "rarity": { "id": 7, "name": "Normal" },
+  "type": "Misc",
+  "slots": [],
+  "isNew": false,
+  "isEquipable": false,
+  "isUnequipable": false,
+  "isTradeable": false,
+  "isTransferable": false,
+  "isUpgradable": false,
+  "isCraftable": false,
+  "isDisabled": false,
+  "isRuneword": false,
+  "isTransmutable": false,
+  "attributes": [],
+  "details": {
+    "Type": "Coin",
+    "Subtype": "",
+    "Distribution": "Rewarded",
+    "Date": "August 9, 2022 - Now",
+    "Max Supply": "Unknown"
+  },
+  "branches": {
+    "1": {
+      "description": ["Used for entry to the Riccardo Raffle."],
+      "attributes": [
+        { "min": 0, "max": 999, "description": "" },
+        { "min": 0, "max": 999, "description": "" }
+      ]
+    },
+    "2": { "attributes": [] },
+    "3": { "attributes": [] },
+    "4": { "attributes": [] },
+    "5": { "attributes": [] }
+  }
+}
