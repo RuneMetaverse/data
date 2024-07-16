@@ -1,16 +1,35 @@
 {
-  "address": "0xb0c8a8503c114e101248d2fdf401a36423116cb2",
+  "address": "0xb0c8A8503C114E101248d2fdF401a36423116CB2",
+  "lastGamePlayed": 0,
   "inventoryItemCount": 0,
   "equippedItemCount": 0,
   "marketTradeListedCount": 0,
   "marketTradeSoldCount": 0,
   "transferredOutCount": 0,
   "holdings": {},
-  "points": 0,
+  "points": 55,
+  "username": "BRYAN01",
   "guildId": 4,
-  "joinedGuildAt": 1632053824634,
-  "isGuildMembershipActive": false,
-  "guildMembershipTokenId": null,
+  "joinedGuildAt": 1628655469238,
+  "isGuildMembershipActive": true,
+  "guildMembershipTokenId": 3826,
+  "rewardHistory": [],
+  "rewards": {
+    "runes": {
+      "sol": 85.74,
+      "shael": 19.32,
+      "zod": 6.774
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "sol": 85.74,
+      "shael": 19.32,
+      "zod": 6.774
+    },
+    "items": {}
+  },
   "craftedItemCount": 0,
   "transferredInCount": 0
 }

@@ -1,16 +1,35 @@
 {
-  "address": "0x11f36b4166815bacc110c3af3f910e3c03ec8bf5",
+  "address": "0x11f36B4166815bAcc110c3AF3f910e3C03EC8bF5",
+  "lastGamePlayed": 0,
   "inventoryItemCount": 0,
   "equippedItemCount": 0,
   "marketTradeListedCount": 0,
   "marketTradeSoldCount": 0,
   "transferredOutCount": 0,
   "holdings": {},
-  "points": 0,
+  "points": 55,
+  "username": "BELEK",
   "guildId": 4,
-  "joinedGuildAt": 1632053827936,
-  "isGuildMembershipActive": false,
-  "guildMembershipTokenId": null,
+  "joinedGuildAt": 1628655476055,
+  "isGuildMembershipActive": true,
+  "guildMembershipTokenId": 3827,
+  "rewardHistory": [],
+  "rewards": {
+    "runes": {
+      "sol": 90.99000000000001,
+      "shael": 22.03,
+      "zod": 9.685
+    },
+    "items": {}
+  },
+  "lifetimeRewards": {
+    "runes": {
+      "sol": 90.99000000000001,
+      "shael": 22.03,
+      "zod": 9.685
+    },
+    "items": {}
+  },
   "craftedItemCount": 0,
   "transferredInCount": 0
 }
